@@ -4,7 +4,7 @@ r_packages:
   - tidyr
   - dplyr
 before_install:
-  - Rscript --version
+  - echo '!!! Rscript --version'
 script:
   - echo "Cloning hopkins repos..."
   - mkdir -p input
