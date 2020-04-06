@@ -1,8 +1,5 @@
 os: linux
 language: r # this image includes also node 6
-r_packages:
-  - tidyr
-  - dplyr
 script:
   - echo "Cloning hopkins repos..."
   - mkdir -p input
@@ -15,6 +12,12 @@ script:
   - Rscript.exe ./R/transform-hopkins-data.R
 after_success:
   - echo "Sending files to gh-pages branch..."
+  - cd output
+  - git config user.name runner
+  - git config user.email "notexist@insysbio.com"
+  - git add --all
+  - git commit --allow-empty -m "created based on commit ..."
 branches:
   only:
   - master
+  
