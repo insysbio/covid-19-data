@@ -3,8 +3,6 @@ language: r # this image includes also node 6
 r_packages:
   - tidyr
   - dplyr
-before_install:
-  - echo '!!! Rscript --version'
 script:
   - echo "Cloning hopkins repos..."
   - mkdir -p input
@@ -17,3 +15,6 @@ script:
   - Rscript.exe ./R/transform-hopkins-data.R
 after_success:
   - echo "Sending files to gh-pages branch..."
+branches:
+  only:
+  - master
