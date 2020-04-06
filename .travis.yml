@@ -1,5 +1,9 @@
 os: linux
 language: r # this image includes also node 6
+r_packages:
+  - tidyr
+  - dplyr
+  - jsonlite
 before_install:
   - Rscript --version
 install:
@@ -17,7 +21,7 @@ script:
 after_success:
   - echo "Sending files to gh-pages branch..."
   - cd output
-  - git config user.name runner
+  - git config user.name travis_runner
   - git config user.email "notexist@insysbio.com"
   - git add --all
   - git commit --allow-empty -m "created based on commit $TRAVIS_BUILD_NUMBER"
