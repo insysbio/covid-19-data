@@ -1,9 +1,12 @@
 os: linux
 language: r # this image includes also node 6
-script:
+before_install:
+  Rscript --version
+install:
   - echo "Cloning hopkins repos..."
   - mkdir -p input
   - git clone https://github.com/CSSEGISandData/COVID-19.git input/hopkins
+script:
   - echo "Cloning gh-pages branch..."
   - git clone -b gh-pages --single-branch https://github.com/insysbio/covid-19-data output
   - cp -f README.md output/README.md
@@ -20,4 +23,5 @@ after_success:
 branches:
   only:
   - master
-  
+cache:
+  R: true
