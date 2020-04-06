@@ -1,18 +1,19 @@
 os: linux
 language: r # this image includes also node 6
 before_install:
-  Rscript --version
+  - Rscript --version
 install:
   - echo "Cloning hopkins repos..."
   - mkdir -p input
   - git clone https://github.com/CSSEGISandData/COVID-19.git input/hopkins
+  - ls input/hopkins
 script:
   - echo "Cloning gh-pages branch..."
   - git clone -b gh-pages --single-branch https://github.com/insysbio/covid-19-data output
   - cp -f README.md output/README.md
   - echo "Starting hopkins data transformation..."
   - mkdir -p r_libs
-  - Rscript.exe ./R/transform-hopkins-data.R
+  - Rscript ./R/start.R
 after_success:
   - echo "Sending files to gh-pages branch..."
   - cd output
@@ -23,5 +24,6 @@ after_success:
 branches:
   only:
   - master
+  - dev
 cache:
   R: true
