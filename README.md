@@ -1,3 +1,5 @@
+[![Travis](https://travis-ci.org/insysbio/covid-19-data.svg?branch=master)](https://travis-ci.org/insysbio/covid-19-data)
+
 # COVID-19 data
 
 The goal of the project is to provide a simple and unified interface to COVID-19 latest datasets.

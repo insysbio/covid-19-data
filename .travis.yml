@@ -1,7 +1,8 @@
 os: linux
 language: r # this image includes also node 6
 r_packages:
-  - lattice
+  - tidyr
+  - dplyr
 before_install:
   - Rscript --version
 script:
