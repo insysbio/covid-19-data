@@ -8,24 +8,21 @@ The homepage is located here: <https://insysbio.github.io/covid-19-data/>
 
 ## Table of contents
 
-- Usage
-    - Save as file
-    - R
-    - Julia
-    - Git
-- J.Hopkins' datasets
-    - JSON formatted
-    - CSV formatted
-    - Untransformed files
-- Contributing
-- Authors
-- License
+- [Usage](#Usage)
+- [J.Hopkins' datasets](#J.Hopkins'-datasets)
+- [Contributing](#Contributing)
+- [Authors](#Authors)
+- [License](#License)
 
 ## Usage
 
-### Save as files
+### Shell
 
-Download combined CSV data as local file using bash shell
+Download all data in CSV format as local file using bash shell
+
+```sh
+curl 'https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json' --compressed > _combined.json
+```
 
 ```sh
 curl 'https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv' --compressed > _combined.csv
@@ -33,7 +30,27 @@ curl 'https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv' --comp
 
 ### R
 
+```r
+# downloading JSON
+# install.packages('httr')
+
+response <- httr::GET('https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json')
+
+response_json <- httr::content(response, as = 'parsed', content = 'application/json')
+```
+
+```r
+# downloading CSV
+# install.packages('httr')
+
+response <- httr::GET('https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv')
+
+response_json <- httr::content(response, as = 'parsed', type = 'text/csv')
+```
+
 ### Julia
+
+*Under development...*
 
 ### Git
 
@@ -52,7 +69,7 @@ git pull
 
 ## J.Hopkins' datasets
 
-The most popular COVID-19 dataset from J Hopkins team. The sources are located in [GitHub repository](https://github.com/CSSEGISandData/COVID-19) updated daily.
+The most popular COVID-19 dataset from J.Hopkins team. The sources are located in [GitHub repository](https://github.com/CSSEGISandData/COVID-19) and updated daily.
 
 The current interface performs some transformation and shares data from: 
 
@@ -63,8 +80,8 @@ The current interface performs some transformation and shares data from:
 Files are combined and transformed to the following formats:
 
 ### CSV formatted
-- https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv
-- https://insysbio.github.io/covid-19-data/hopkins/csv/location-code.csv
+- <https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv>
+- https://insysbio.github.io/covid-19-data/hopkins/csv/territory-code.csv
 
 Available fields:
 
@@ -83,10 +100,11 @@ Available fields:
 **hasErrors** | If true there are missing data or inconsistency between yesterday and today
 
 ### JSON formatted
-- https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json
-- **https://insysbio.github.io/covid-19-data**/hopkins/json/location-code.json
+- <https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json>
+- https://insysbio.github.io/covid-19-data/hopkins/json/territory-code.json
 
 Available fields:
+
 |||
 --|--
 **Province.State** | Territory name from the original dataset
@@ -96,6 +114,7 @@ Available fields:
 **timeseries** | Array of time series data, see below
 
 Time series fields:
+
 |||
 --|--
 **date** | Date in format YYYY-mm-dd
@@ -145,13 +164,16 @@ Time series fields:
 ```
 
 ### Untransformed files
+
 - https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_confirmed_global.csv
 - https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_recovered_global.csv
-- https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_deaths_global.csv*
+- https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_deaths_global.csv
+- https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_confirmed_US.csv
+- https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_deaths_US.csv
 
 ## Contributing
 
-Use [issues](https://github.com/insysbio/covid-19-data) page to write about your ideas and found bugs.
+Use [issues](https://github.com/insysbio/covid-19-data/issues) page to write about your ideas and found bugs.
 
 
 ## Authors
@@ -161,6 +183,6 @@ Use [issues](https://github.com/insysbio/covid-19-data) page to write about your
 
 ## License
 
-This repository is distributed under [MIT license](LICENSE.md).
+This repository is distributed under [MIT license](LICENSE).
 
 &copy; InSysBio LLC, 2020

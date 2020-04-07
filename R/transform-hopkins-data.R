@@ -75,7 +75,7 @@ dir.create(file.path(output.path, 'hopkins', 'csv'), showWarnings = FALSE)
 dir.create(file.path(output.path, 'hopkins', 'json'), showWarnings = FALSE)
 
 # CSV all
-write.csv(combined_data, file.path(output.path, 'hopkins', 'csv', '_combined.csv') )
+write.csv(combined_data, file.path(output.path, 'hopkins', 'csv', '_combined.csv'), col.names = FALSE )
 # JSON all
 jsonlite::write_json(splitted_data, file.path(output.path, 'hopkins', 'json', '_combined.json'), pretty = TRUE, auto_unbox = TRUE)
 
@@ -84,7 +84,7 @@ combined_data$filename <- gsub('\\*', '_', combined_data$area)
 res_csv <- combined_data %>%
   group_by(filename) %>%
   group_walk(
-    ~ write.csv( .x, file.path(output.path, 'hopkins', 'csv', paste0(.y$filename,'.csv')) )
+    ~ write.csv( .x, file.path(output.path, 'hopkins', 'csv', paste0(.y$filename,'.csv')), col.names = FALSE )
   )
 # JSON country
 res_json <- splitted_data %>%
