@@ -30,27 +30,41 @@ curl 'https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv' --comp
 
 ### R
 
+downloading JSON
 ```r
-# downloading JSON
 # install.packages('httr')
 
 response <- httr::GET('https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json')
-
-response_json <- httr::content(response, as = 'parsed', content = 'application/json')
+response_json <- httr::content(response, as = 'parsed', type = 'application/json')
 ```
 
+downloading CSV
 ```r
-# downloading CSV
 # install.packages('httr')
 
 response <- httr::GET('https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv')
-
-response_json <- httr::content(response, as = 'parsed', type = 'text/csv')
+response_csv <- httr::content(response, as = 'parsed', type = 'text/csv')
 ```
 
 ### Julia
 
-*Under development...*
+downloading JSON
+```julia
+# ] add HTTP JSON
+using HTTP, JSON
+
+response = HTTP.get("https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json")
+response_json = JSON.parse(String(response.body))
+```
+
+downloading CSV
+```julia
+# ] add HTTP CSV
+using HTTP, CSV
+
+response = HTTP.get("https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv")
+response_csv = CSV.read(response.body)
+```
 
 ### Git
 
@@ -127,7 +141,7 @@ Time series fields:
 **hasErrors** | If true there are missig data or inconsistency between yesterday and today
 
 **Example**
-```json
+```JSON
 {
   "Afghanistan_": {
     "hasErrors": false,
