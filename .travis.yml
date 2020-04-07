@@ -18,6 +18,8 @@ script:
   - echo "Starting hopkins data transformation..."
   - mkdir -p r_libs
   - Rscript ./R/start.R
+  - mkdir -p 'output/hopkins/source'
+  - cp -f input/hopkins/csse_covid_19_data/csse_covid_19_time_series/*.csv 'output/hopkins/source/'
 after_success:
   - echo "Sending files to gh-pages branch..."
   - cd output
