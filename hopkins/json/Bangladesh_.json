@@ -755,6 +755,16 @@
       "recovered_new": 3,
       "deaths_new": 1,
       "hasErrors": false
+    },
+    {
+      "date": "2020-04-06",
+      "confirmed": 123,
+      "recovered": 33,
+      "deaths": 12,
+      "confirmed_new": 35,
+      "recovered_new": 0,
+      "deaths_new": 3,
+      "hasErrors": false
     }
   ]
 }
