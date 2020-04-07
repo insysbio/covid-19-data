@@ -15,6 +15,7 @@ script:
   - echo "Cloning gh-pages branch..."
   - git clone -b gh-pages --single-branch https://github.com/insysbio/covid-19-data output
   - cp -f README.md output/README.md
+  - cp -f LICENSE output/LICENSE.md
   - echo "Starting hopkins data transformation..."
   - mkdir -p r_libs
   - Rscript ./R/start.R
