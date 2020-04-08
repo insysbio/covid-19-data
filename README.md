@@ -4,8 +4,6 @@
 
 The goal of the project is to provide a simple and unified interface to COVID-19 latest datasets.
 
-The homepage is located here: <https://insysbio.github.io/covid-19-data/>
-
 ## Table of contents
 
 - [Usage](#Usage)
@@ -20,11 +18,11 @@ The homepage is located here: <https://insysbio.github.io/covid-19-data/>
 
 Download all data in CSV format as local file using bash shell
 
-```sh
+```bash
 curl 'https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json' --compressed > _combined.json
 ```
 
-```sh
+```bash
 curl 'https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv' --compressed > _combined.csv
 ```
 
@@ -70,12 +68,12 @@ response_csv = CSV.read(response.body)
 
 To clone the latest datasets to the directory *covid-19*
 
-```sh
+```bash
 git clone -b docs --single-branch https://github.com/insysbio/covid-19-data.git covid-19
 ```
 
 To update the previously cloned repository
-```sh
+```bash
 cd covid-19
 git fetch
 git pull
@@ -141,7 +139,7 @@ Time series fields:
 **hasErrors** | If true there are missig data or inconsistency between yesterday and today
 
 **Example**
-```JSON
+```json
 {
   "Afghanistan_": {
     "hasErrors": false,
@@ -194,6 +192,7 @@ Use [issues](https://github.com/insysbio/covid-19-data/issues) page to write abo
 
 - [Evgeny Metelkin](https://github.com/metelkin) 
 - [Aleksandr Stepanov](https://github.com/step-by-step)
+- [Ivan Borisov](https://github.com/ivborissov) 
 
 ## License
 
