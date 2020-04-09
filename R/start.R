@@ -22,6 +22,7 @@ if(!require(knitr, warn.conflicts = FALSE)){
     install.packages("knitr", repos = 'https://cran.rstudio.com/', lib = 'r_libs')
     library(knitr, warn.conflicts = FALSE, lib.loc = 'r_libs')
 }
+library(highr)
 
 res <- try({
   source('./R/transform-hopkins-data.R')

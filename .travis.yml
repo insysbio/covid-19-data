@@ -6,6 +6,7 @@ r_packages:
   - jsonlite
   - ISOcodes
   - knitr
+  - highr
 before_install:
   - Rscript --version
 install:
