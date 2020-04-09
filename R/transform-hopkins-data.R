@@ -147,7 +147,7 @@ report_table_csv <- combined_data %>%
       Country.Region = .x[1, 'Country.Region'],
       ref = paste0(pages_url, 'csv/', .y$group, '.csv'),
       country_code = .x$country_code[1],
-      territory_code = .x$territory_code[1]
+      territory_code = ifelse(!is.na(.x$territory_code[1]), .x$territory_code[1], '')
     )
   })
 report <- c(report, knitr::kable(report_table_csv))
