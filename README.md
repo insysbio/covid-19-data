@@ -100,7 +100,9 @@ Files are combined and transformed to the following formats:
 
 ### CSV formatted
 - <https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv>
-- https://insysbio.github.io/covid-19-data/hopkins/csv/`territory-code.csv`
+- `https://insysbio.github.io/covid-19-data/hopkins/csv/<territory-code>.csv`
+
+*See also [full dataset](./hopkins/dataset) description* 
 
 Available fields:
 
@@ -124,7 +126,9 @@ Available fields:
 
 ### JSON formatted
 - <https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json>
-- https://insysbio.github.io/covid-19-data/hopkins/json/`territory-code.json`
+- `https://insysbio.github.io/covid-19-data/hopkins/json/<territory-code>.json`
+
+*See also [full dataset](./hopkins/dataset) description* 
 
 Available fields:
 
