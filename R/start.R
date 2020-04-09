@@ -14,6 +14,10 @@ if(!require(jsonlite, warn.conflicts = FALSE)){
     install.packages("jsonlite", repos = 'https://cran.rstudio.com/', lib = 'r_libs')
     library(jsonlite, warn.conflicts = FALSE, lib.loc = 'r_libs')
 }
+if(!require(ISOcodes, warn.conflicts = FALSE)){
+    install.packages("ISOcodes", repos = 'https://cran.rstudio.com/', lib = 'r_libs')
+    library(ISOcodes, warn.conflicts = FALSE, lib.loc = 'r_libs')
+}
 
 res <- try({
   source('./R/transform-hopkins-data.R')

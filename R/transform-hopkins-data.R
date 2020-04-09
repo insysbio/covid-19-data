@@ -4,11 +4,18 @@
 # library('tidyr')
 # library('dplyr')
 # library('jsonlite')
+# library('ISOcodes')
 
-data.repos <- './input/hopkins'
+# file location
 # setwd('..')
-
+data.repos <- './input/hopkins'
 output.path <- file.path(getwd(),'./output')
+
+# country/territory
+countries <- ISO_3166_1
+country_vocabulary <- read.csv('./R/country_vocabulary.csv', stringsAsFactors = FALSE)
+territories <- ISO_3166_2
+territory_vocabulary <- read.csv('./R/territory_vocabulary.csv', stringsAsFactors = FALSE)
 
 # confirmed cases
 filename_confirmed <- file.path(data.repos, 'csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv')
@@ -40,32 +47,78 @@ if (any(diff_confirmed_deaths)) {
 
 # combining data
 
+country_comparator <- function(country){
+  byName <- countries$Alpha_2[match(country, countries$Name)]
+  byOfficialName <- countries$Alpha_2[match(country, countries$Official_name)]
+  byCommonName <- countries$Alpha_2[match(country, countries$Common_name)]
+  byVocabulary <- country_vocabulary$Alpha_2[match(country, country_vocabulary$Name)]
+  
+  step1 <- ifelse(!is.na(byName), byName, byOfficialName)
+  step2 <- ifelse(!is.na(step1), step1, byCommonName)
+  step3 <- ifelse(!is.na(step2), step2, byVocabulary)
+  
+  err <- is.na(step3)
+  if (any(err)) {
+    uniqCountry <- paste0(unique(country[err]), collapse = ', ')
+    warning(paste0('No id for: ', uniqCountry))
+  }
+  
+  return(step3)
+}
+
+territory_comparator <- function(territory){
+  
+  byName <- territories$Code[match(territory, territories$Name)]
+  byVocabulary <- territory_vocabulary$Code[match(territory, territory_vocabulary$Name)]
+  
+  step1 <- ifelse(!is.na(byName), byName, byVocabulary)
+  
+  err <- is.na(step1)
+  if (any(err)) {
+    uniqTerritory <- paste0(unique(territory[err]), collapse = ', ')
+    warning(paste0('No id for: ', uniqTerritory))
+  }
+  
+  return(step1)
+}
+
 combined_data <- bind_rows(data_confirmed0, data_recovered0, data_deaths0) %>% 
   pivot_longer(date_confirmed_columns) %>%
   pivot_wider(names_from = 'data_type', values_from = value) %>%
   mutate(date = as.Date(name, "X%m.%d.%y")) %>%
-  mutate(area = paste(Country.Region, Province.State, sep = '_')) %>%
-  group_by(area) %>%
+  group_by(Country.Region, Province.State) %>%
   arrange(date, .by_group = TRUE) %>%
   mutate(confirmed_new = confirmed - lag(confirmed, default = 0)) %>%
   mutate(recovered_new = recovered - lag(recovered, default = 0)) %>%
   mutate(deaths_new = deaths - lag(deaths, default = 0)) %>%
   mutate(hasErrors = is.na(confirmed_new) || (confirmed_new < 0) || is.na(recovered_new) || (recovered_new < 0) || is.na(deaths_new) || (deaths_new < 0)) %>% #  || 
+  mutate(isTerritory = Province.State != '') %>%
   select(-name) %>%
   ungroup()
 
+combined_data$country_code <- country_comparator(combined_data$Country.Region)
+combined_data$territory_code <- territory_comparator(combined_data$Province.State)
+combined_data$group = ifelse(combined_data$isTerritory, combined_data$territory_code, combined_data$country_code)
+
+# xxx <- combined_data[combined_data$isTerritory,]
+
 splitted_data <- combined_data %>%
-  split(f = combined_data$area) %>%
+  split(f = combined_data$group) %>%
   lapply(function(l){
-    list(
+    output = list(
       hasErrors = any(l$hasErrors),
       Province.State = l$Province.State[1],
       Country.Region = l$Country.Region[1],
       Lat = l$Lat[1],
       Long = l$Long[1],
-      area = l$area[1],
+      isTerritory = l$isTerritory[1],
+      country_code = l$country_code[1],
+      group = l$group[1],
       timeseries = l %>% select(date, confirmed, recovered, deaths, confirmed_new, recovered_new, deaths_new, hasErrors)
     )
+    if (!is.na(l$territory_code[1])) { output$territory_code = l$territory_code[1] }
+    
+    output
   })
 
 ### SAVE ALL TO FILE
@@ -75,22 +128,20 @@ dir.create(file.path(output.path, 'hopkins', 'csv'), showWarnings = FALSE)
 dir.create(file.path(output.path, 'hopkins', 'json'), showWarnings = FALSE)
 
 # CSV all
-write.csv(combined_data, file.path(output.path, 'hopkins', 'csv', '_combined.csv'), row.names = FALSE)
+write.csv(combined_data, file.path(output.path, 'hopkins', 'csv', '_combined.csv'), row.names = FALSE, na="")
 # JSON all
 jsonlite::write_json(splitted_data, file.path(output.path, 'hopkins', 'json', '_combined.json'), pretty = TRUE, auto_unbox = TRUE)
 
 # CSV country
-combined_data$filename <- gsub('\\*', '_', combined_data$area)
 res_csv <- combined_data %>%
-  group_by(filename) %>%
+  group_by(group) %>%
   group_walk(
-    ~ write.csv( .x, file.path(output.path, 'hopkins', 'csv', paste0(.y$filename,'.csv')), row.names = FALSE )
+    ~ write.csv( .x, file.path(output.path, 'hopkins', 'csv', paste0(.y$group,'.csv')), row.names = FALSE, na="" )
   )
 # JSON country
 res_json <- splitted_data %>%
   lapply(function (l) {
-    filename <- gsub('\\*', '_', l$area)
-    jsonlite::write_json(l, file.path(output.path, 'hopkins', 'json', paste0(filename,'.json')), pretty = TRUE, auto_unbox = TRUE)
+    jsonlite::write_json(l, file.path(output.path, 'hopkins', 'json', paste0(l$group,'.json')), pretty = TRUE, auto_unbox = TRUE)
   })
 
 ### PLOT

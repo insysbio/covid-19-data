@@ -2,29 +2,24 @@
 
 # COVID-19 data
 
-The goal of the project is to provide a simple and unified interface to COVID-19 latest datasets.
+The goal of the project is to provide a simple and unified HTTP interface to COVID-19 latest datasets. The shared dataset updates daily to have fresh data.
+
+Currenty the project includes only the data from J.Hopkins but may be extended in future. How this works: (1) download data from repos, (2) combine data tables and tidy them, (3) save in different formats on github pages.
 
 ## Table of contents
 
+- [Motivation](#Motivation)
 - [Usage](#Usage)
 - [J.Hopkins' datasets](#J.Hopkins'-datasets)
 - [Contributing](#Contributing)
 - [Authors](#Authors)
 - [License](#License)
 
+## Motivation
+
+COVID-19 data analysis and visualization has a great impact in 2020 all over the world. We developed this repository to support data data analysis, model development and online tools by simplifying the access to the data.
+
 ## Usage
-
-### Shell
-
-Download all data in CSV format as local file using bash shell
-
-```bash
-curl 'https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json' --compressed > _combined.json
-```
-
-```bash
-curl 'https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv' --compressed > _combined.csv
-```
 
 ### R
 
@@ -64,6 +59,18 @@ response = HTTP.get("https://insysbio.github.io/covid-19-data/hopkins/csv/_combi
 response_csv = CSV.read(response.body)
 ```
 
+### Shell
+
+Download all data in CSV format as local file using bash shell
+
+```bash
+curl 'https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json' --compressed > _combined.json
+```
+
+```bash
+curl 'https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv' --compressed > _combined.csv
+```
+
 ### Git
 
 To clone the latest datasets to the directory *covid-19*
@@ -81,7 +88,7 @@ git pull
 
 ## J.Hopkins' datasets
 
-The most popular COVID-19 dataset from J.Hopkins team. The sources are located in [GitHub repository](https://github.com/CSSEGISandData/COVID-19) and updated daily.
+This is the most popular COVID-19 dataset supported the Johns Hopkins University Applied Physics Lab (JHU APL). The sources are located in [GitHub repository](https://github.com/CSSEGISandData/COVID-19) and updated daily.
 
 The current interface performs some transformation and shares data from: 
 
@@ -93,7 +100,7 @@ Files are combined and transformed to the following formats:
 
 ### CSV formatted
 - <https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv>
-- https://insysbio.github.io/covid-19-data/hopkins/csv/territory-code.csv
+- https://insysbio.github.io/covid-19-data/hopkins/csv/`territory-code.csv`
 
 Available fields:
 
@@ -110,10 +117,14 @@ Available fields:
 **recovered_new** | Recovered cases for the date
 **deaths_new** | Deaths cases for the date
 **hasErrors** | If true there are missing data or inconsistency between yesterday and today
+**country_code** | Two digit country code based on ISO:3166 standard
+**territory_code** | Territory code based on ISO:3166 standard
+**isTerritory** | If TRUE the data are groupped by region, not country
+**group** | unique id of group
 
 ### JSON formatted
 - <https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json>
-- https://insysbio.github.io/covid-19-data/hopkins/json/territory-code.json
+- https://insysbio.github.io/covid-19-data/hopkins/json/`territory-code.json`
 
 Available fields:
 
@@ -123,6 +134,10 @@ Available fields:
 **Country.Region** | Country name from the original dataset
 **Lat, Long** | Latitude and longitude from the original dataset
 **hasErrors** | If true there are errors in one of series data point
+**country_code** | Two digit country code based on ISO:3166 standard
+**territory_code** | Territory code based on ISO:3166 standard
+**isTerritory** | If TRUE the data are groupped by region, not country
+**group** | unique id of group
 **timeseries** | Array of time series data, see below
 
 Time series fields:
@@ -141,12 +156,15 @@ Time series fields:
 **Example**
 ```json
 {
-  "Afghanistan_": {
+  "AD": {
     "hasErrors": false,
     "Province.State": "",
-    "Country.Region": "Afghanistan",
-    "Lat": 33,
-    "Long": 65,
+    "Country.Region": "Andorra",
+    "Lat": 42.5063,
+    "Long": 1.5218,
+    "isTerritory": false,
+    "country_code": "AD",
+    "group": "AD",
     "timeseries": [
       {
         "date": "2020-01-22",
