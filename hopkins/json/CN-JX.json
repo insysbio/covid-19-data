@@ -1,0 +1,793 @@
+{
+  "hasErrors": false,
+  "Province.State": "Jiangxi",
+  "Country.Region": "China",
+  "Lat": 27.614,
+  "Long": 115.7221,
+  "isTerritory": true,
+  "country_code": "CN",
+  "group": "CN-JX",
+  "timeseries": [
+    {
+      "date": "2020-01-22",
+      "confirmed": 2,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 2,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-01-23",
+      "confirmed": 7,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 5,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-01-24",
+      "confirmed": 18,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 11,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-01-25",
+      "confirmed": 18,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-01-26",
+      "confirmed": 36,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 18,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-01-27",
+      "confirmed": 72,
+      "recovered": 2,
+      "deaths": 0,
+      "confirmed_new": 36,
+      "recovered_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-01-28",
+      "confirmed": 109,
+      "recovered": 3,
+      "deaths": 0,
+      "confirmed_new": 37,
+      "recovered_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-01-29",
+      "confirmed": 109,
+      "recovered": 3,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-01-30",
+      "confirmed": 162,
+      "recovered": 5,
+      "deaths": 0,
+      "confirmed_new": 53,
+      "recovered_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-01-31",
+      "confirmed": 240,
+      "recovered": 7,
+      "deaths": 0,
+      "confirmed_new": 78,
+      "recovered_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-01",
+      "confirmed": 286,
+      "recovered": 9,
+      "deaths": 0,
+      "confirmed_new": 46,
+      "recovered_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-02",
+      "confirmed": 333,
+      "recovered": 12,
+      "deaths": 0,
+      "confirmed_new": 47,
+      "recovered_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-03",
+      "confirmed": 391,
+      "recovered": 18,
+      "deaths": 0,
+      "confirmed_new": 58,
+      "recovered_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-04",
+      "confirmed": 476,
+      "recovered": 20,
+      "deaths": 0,
+      "confirmed_new": 85,
+      "recovered_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-05",
+      "confirmed": 548,
+      "recovered": 27,
+      "deaths": 0,
+      "confirmed_new": 72,
+      "recovered_new": 7,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-06",
+      "confirmed": 600,
+      "recovered": 37,
+      "deaths": 0,
+      "confirmed_new": 52,
+      "recovered_new": 10,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-07",
+      "confirmed": 661,
+      "recovered": 45,
+      "deaths": 0,
+      "confirmed_new": 61,
+      "recovered_new": 8,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-08",
+      "confirmed": 698,
+      "recovered": 55,
+      "deaths": 0,
+      "confirmed_new": 37,
+      "recovered_new": 10,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-09",
+      "confirmed": 740,
+      "recovered": 73,
+      "deaths": 0,
+      "confirmed_new": 42,
+      "recovered_new": 18,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-10",
+      "confirmed": 771,
+      "recovered": 105,
+      "deaths": 1,
+      "confirmed_new": 31,
+      "recovered_new": 32,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-11",
+      "confirmed": 804,
+      "recovered": 128,
+      "deaths": 1,
+      "confirmed_new": 33,
+      "recovered_new": 23,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-12",
+      "confirmed": 844,
+      "recovered": 152,
+      "deaths": 1,
+      "confirmed_new": 40,
+      "recovered_new": 24,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-13",
+      "confirmed": 872,
+      "recovered": 170,
+      "deaths": 1,
+      "confirmed_new": 28,
+      "recovered_new": 18,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-14",
+      "confirmed": 900,
+      "recovered": 187,
+      "deaths": 1,
+      "confirmed_new": 28,
+      "recovered_new": 17,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-15",
+      "confirmed": 913,
+      "recovered": 210,
+      "deaths": 1,
+      "confirmed_new": 13,
+      "recovered_new": 23,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-16",
+      "confirmed": 925,
+      "recovered": 240,
+      "deaths": 1,
+      "confirmed_new": 12,
+      "recovered_new": 30,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-17",
+      "confirmed": 930,
+      "recovered": 275,
+      "deaths": 1,
+      "confirmed_new": 5,
+      "recovered_new": 35,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-18",
+      "confirmed": 933,
+      "recovered": 310,
+      "deaths": 1,
+      "confirmed_new": 3,
+      "recovered_new": 35,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-19",
+      "confirmed": 934,
+      "recovered": 362,
+      "deaths": 1,
+      "confirmed_new": 1,
+      "recovered_new": 52,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-20",
+      "confirmed": 934,
+      "recovered": 433,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 71,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-21",
+      "confirmed": 934,
+      "recovered": 489,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 56,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-22",
+      "confirmed": 934,
+      "recovered": 555,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 66,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-23",
+      "confirmed": 934,
+      "recovered": 613,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 58,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-24",
+      "confirmed": 934,
+      "recovered": 645,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 32,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-25",
+      "confirmed": 934,
+      "recovered": 683,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 38,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-26",
+      "confirmed": 934,
+      "recovered": 719,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 36,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-27",
+      "confirmed": 934,
+      "recovered": 754,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 35,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-28",
+      "confirmed": 935,
+      "recovered": 790,
+      "deaths": 1,
+      "confirmed_new": 1,
+      "recovered_new": 36,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-02-29",
+      "confirmed": 935,
+      "recovered": 811,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 21,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-01",
+      "confirmed": 935,
+      "recovered": 831,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 20,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-02",
+      "confirmed": 935,
+      "recovered": 850,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 19,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-03",
+      "confirmed": 935,
+      "recovered": 870,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 20,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-04",
+      "confirmed": 935,
+      "recovered": 884,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 14,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-05",
+      "confirmed": 935,
+      "recovered": 901,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 17,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-06",
+      "confirmed": 935,
+      "recovered": 909,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 8,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-07",
+      "confirmed": 935,
+      "recovered": 916,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 7,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-08",
+      "confirmed": 935,
+      "recovered": 919,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-09",
+      "confirmed": 935,
+      "recovered": 923,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-10",
+      "confirmed": 935,
+      "recovered": 927,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-11",
+      "confirmed": 935,
+      "recovered": 932,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 5,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-12",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-13",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-14",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-15",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-16",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-17",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-18",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-19",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-20",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-21",
+      "confirmed": 935,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-22",
+      "confirmed": 936,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-23",
+      "confirmed": 936,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-24",
+      "confirmed": 936,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-25",
+      "confirmed": 936,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-26",
+      "confirmed": 936,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-27",
+      "confirmed": 936,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-28",
+      "confirmed": 936,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-29",
+      "confirmed": 937,
+      "recovered": 934,
+      "deaths": 1,
+      "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-30",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-03-31",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-01",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-02",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-03",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-04",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-05",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-06",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-07",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-08",
+      "confirmed": 937,
+      "recovered": 935,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    }
+  ],
+  "territory_code": "CN-JX"
+}
