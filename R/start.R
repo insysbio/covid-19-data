@@ -18,6 +18,10 @@ if(!require(ISOcodes, warn.conflicts = FALSE)){
     install.packages("ISOcodes", repos = 'https://cran.rstudio.com/', lib = 'r_libs')
     library(ISOcodes, warn.conflicts = FALSE, lib.loc = 'r_libs')
 }
+if(!require(knitr, warn.conflicts = FALSE)){
+    install.packages("knitr", repos = 'https://cran.rstudio.com/', lib = 'r_libs')
+    library(knitr, warn.conflicts = FALSE, lib.loc = 'r_libs')
+}
 
 res <- try({
   source('./R/transform-hopkins-data.R')
