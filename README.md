@@ -4,13 +4,13 @@
 
 The goal of the project is to provide a simple and unified HTTP interface to COVID-19 latest datasets. The shared dataset updates daily to have fresh data.
 
-Currenty the project includes only the data from J.Hopkins but may be extended in future. How this works: (1) download data from repos, (2) combine data tables and tidy them, (3) save in different formats on github pages.
+Currenty the project includes only the data from J.Hopkins but may be extended in future. How this works: (1) download data from repos, (2) combine data tables and tidy them, (3) save in [different formats](./hopkins/dataset) on github pages.
 
 ## Table of contents
 
 - [Motivation](#Motivation)
 - [Usage](#Usage)
-- [J.Hopkins' datasets](#J.Hopkins'-datasets)
+- [J.Hopkins' datasets](#jhopkins39-datasets)
 - [Contributing](#Contributing)
 - [Authors](#Authors)
 - [License](#License)
