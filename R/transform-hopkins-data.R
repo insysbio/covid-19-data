@@ -5,11 +5,16 @@
 # library('dplyr')
 # library('jsonlite')
 # library('ISOcodes')
+# library('knitr')
 
 # file location
 # setwd('..')
 data.repos <- './input/hopkins'
 output.path <- file.path(getwd(),'./output')
+
+report_file <- file.path(getwd(),'output', 'hopkins', 'dataset.md')
+pages_url <- 'https://insysbio.github.io/covid-19-data/hopkins/'
+report = '# J.Hopkins full dataset'
 
 # country/territory
 countries <- ISO_3166_1
@@ -100,8 +105,6 @@ combined_data$country_code <- country_comparator(combined_data$Country.Region)
 combined_data$territory_code <- territory_comparator(combined_data$Province.State)
 combined_data$group = ifelse(combined_data$isTerritory, combined_data$territory_code, combined_data$country_code)
 
-# xxx <- combined_data[combined_data$isTerritory,]
-
 splitted_data <- combined_data %>%
   split(f = combined_data$group) %>%
   lapply(function(l){
@@ -128,21 +131,40 @@ dir.create(file.path(output.path, 'hopkins', 'csv'), showWarnings = FALSE)
 dir.create(file.path(output.path, 'hopkins', 'json'), showWarnings = FALSE)
 
 # CSV all
+report <- c(report, '\n## CSV full data\n')
+report <- c(report, paste0(pages_url, 'csv/_combined.csv'))
 write.csv(combined_data, file.path(output.path, 'hopkins', 'csv', '_combined.csv'), row.names = FALSE, na="")
-# JSON all
-jsonlite::write_json(splitted_data, file.path(output.path, 'hopkins', 'json', '_combined.json'), pretty = TRUE, auto_unbox = TRUE)
-
 # CSV country
-res_csv <- combined_data %>%
+report <- c(report, '\n## CSV territory data\n')
+report_table_csv <- combined_data %>%
   group_by(group) %>%
-  group_walk(
-    ~ write.csv( .x, file.path(output.path, 'hopkins', 'csv', paste0(.y$group,'.csv')), row.names = FALSE, na="" )
-  )
+  group_modify(function(.x,.y){
+    fp <- file.path(output.path, 'hopkins', 'csv', paste0(.y$group,'.csv'))
+    write.csv( .x, fp, row.names = FALSE, na="" )
+    
+    data.frame( # return
+      Province.State = .x[1, 'Province.State'],
+      Country.Region = .x[1, 'Country.Region'],
+      ref = paste0(pages_url, 'csv/', .y$group, '.csv'),
+      country_code = .x$country_code[1],
+      territory_code = .x$territory_code[1]
+    )
+  })
+report <- c(report, knitr::kable(report_table_csv))
+
+# JSON all
+report <- c(report, '\n## JSON full data\n')
+report <- c(report, paste0(pages_url, 'json/_combined.json'))
+jsonlite::write_json(splitted_data, file.path(output.path, 'hopkins', 'json', '_combined.json'), pretty = TRUE, auto_unbox = TRUE)
 # JSON country
+report <- c(report, '\n## JSON territory data\n')
 res_json <- splitted_data %>%
   lapply(function (l) {
     jsonlite::write_json(l, file.path(output.path, 'hopkins', 'json', paste0(l$group,'.json')), pretty = TRUE, auto_unbox = TRUE)
   })
+
+# save report to file
+writeLines(report, report_file)
 
 ### PLOT
 
