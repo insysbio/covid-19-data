@@ -1,4 +1,5 @@
 [![Travis](https://travis-ci.org/insysbio/covid-19-data.svg?branch=master)](https://travis-ci.org/insysbio/covid-19-data)
+[![GitHub license](https://img.shields.io/github/license/insysbio/covid-19-data.svg)](https://github.com/insysbio/covid-19-data/blob/master/LICENSE)
 
 # COVID-19 data
 
@@ -119,10 +120,13 @@ Available fields:
 **recovered_new** | Recovered cases for the date
 **deaths_new** | Deaths cases for the date
 **hasErrors** | If true there are missing data or inconsistency between yesterday and today
-**country_code** | Two digit country code based on ISO:3166 standard
-**territory_code** | Territory code based on ISO:3166 standard
-**isTerritory** | If TRUE the data are groupped by region, not country
-**group** | unique id of group
+**country_code** | Two-letter country code based on ISO:3166 standard*
+**country_code3** | Three-letter country code based on ISO:3166 standard*
+**territory_code** | Territory code or two-leter country code based on ISO:3166 standard*
+**hasParent** | If TRUE the data refer to the region of some "parent" country
+**group** | unique id of group: if hasParent==TRUE, it is "territory_code", and "country_code" otherwise
+
+(*) *to read more about country code standard: <https://www.iso.org/iso-3166-country-codes.html>*
 
 ### JSON formatted
 - <https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json>
@@ -138,11 +142,14 @@ Available fields:
 **Country.Region** | Country name from the original dataset
 **Lat, Long** | Latitude and longitude from the original dataset
 **hasErrors** | If true there are errors in one of series data point
-**country_code** | Two digit country code based on ISO:3166 standard
-**territory_code** | Territory code based on ISO:3166 standard
-**isTerritory** | If TRUE the data are groupped by region, not country
-**group** | unique id of group
+**country_code** | Two-letter country code based on ISO:3166 standard*
+**country_code3** | Three-letter country code based on ISO:3166 standard*
+**territory_code** | Territory code or two-leter country code based on ISO:3166 standard*
+**hasParent** | If TRUE the data refer to the region of some "parent" country
+**group** | unique id of group: if hasParent==TRUE, it is "territory_code", and "country_code" otherwise
 **timeseries** | Array of time series data, see below
+
+(*) *to read more about country code standard: <https://www.iso.org/iso-3166-country-codes.html>*
 
 Time series fields:
 
