@@ -9,6 +9,7 @@ r_packages:
   - highr
 before_install:
   - Rscript --version
+  - d=`date +%Y-%m-%d`
 install:
   - echo "Cloning hopkins repos..."
   - mkdir -p input
@@ -21,7 +22,7 @@ script:
   - cp -f LICENSE output/LICENSE.md
   - echo "Starting hopkins data transformation..."
   - mkdir -p r_libs
-  - Rscript ./R/start.R
+  - Rscript ./R/start.R ${d}
   - mkdir -p 'output/hopkins/source'
   - cp -f input/hopkins/csse_covid_19_data/csse_covid_19_time_series/*.csv 'output/hopkins/source/'
 after_success:
