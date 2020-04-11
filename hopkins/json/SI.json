@@ -4,8 +4,9 @@
   "Country.Region": "Slovenia",
   "Lat": 46.1512,
   "Long": 14.9955,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SI",
+  "country_code3": "SVN",
   "group": "SI",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 33,
       "recovered_new": 8,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1160,
+      "recovered": 137,
+      "deaths": 45,
+      "confirmed_new": 36,
+      "recovered_new": 9,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ]

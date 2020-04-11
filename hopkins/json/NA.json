@@ -4,8 +4,9 @@
   "Country.Region": "Namibia",
   "Lat": -22.9576,
   "Long": 18.4904,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "NA",
+  "country_code3": "NAM",
   "group": "NA",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 16,
+      "recovered": 3,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 16,
       "recovered": 3,
       "deaths": 0,

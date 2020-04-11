@@ -4,8 +4,9 @@
   "Country.Region": "Sudan",
   "Lat": 12.8628,
   "Long": 30.2176,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SD",
+  "country_code3": "SDN",
   "group": "SD",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 2,
       "deaths": 2,
       "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 17,
+      "recovered": 2,
+      "deaths": 2,
+      "confirmed_new": 2,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

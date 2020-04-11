@@ -4,8 +4,9 @@
   "Country.Region": "Belarus",
   "Lat": 53.7098,
   "Long": 27.9534,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BY",
+  "country_code3": "BLR",
   "group": "BY",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 16,
       "confirmed_new": 420,
       "recovered_new": 62,
+      "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1981,
+      "recovered": 169,
+      "deaths": 19,
+      "confirmed_new": 495,
+      "recovered_new": 30,
       "deaths_new": 3,
       "hasErrors": false
     }

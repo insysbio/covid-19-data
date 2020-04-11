@@ -4,8 +4,9 @@
   "Country.Region": "Algeria",
   "Lat": 28.0339,
   "Long": 1.6596,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "DZ",
+  "country_code3": "DZA",
   "group": "DZ",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 94,
       "recovered_new": 110,
       "deaths_new": 30,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1761,
+      "recovered": 405,
+      "deaths": 256,
+      "confirmed_new": 95,
+      "recovered_new": 58,
+      "deaths_new": 21,
       "hasErrors": false
     }
   ]

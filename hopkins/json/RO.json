@@ -4,8 +4,9 @@
   "Country.Region": "Romania",
   "Lat": 45.9432,
   "Long": 24.9668,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "RO",
+  "country_code3": "ROU",
   "group": "RO",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 441,
       "recovered_new": 119,
       "deaths_new": 28,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 5467,
+      "recovered": 729,
+      "deaths": 270,
+      "confirmed_new": 265,
+      "recovered_new": 82,
+      "deaths_new": 22,
       "hasErrors": false
     }
   ]

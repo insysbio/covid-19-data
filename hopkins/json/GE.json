@@ -4,8 +4,9 @@
   "Country.Region": "Georgia",
   "Lat": 42.3154,
   "Long": 43.3569,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "GE",
+  "country_code3": "GEO",
   "group": "GE",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 3,
       "confirmed_new": 7,
       "recovered_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 234,
+      "recovered": 54,
+      "deaths": 3,
+      "confirmed_new": 16,
+      "recovered_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     }

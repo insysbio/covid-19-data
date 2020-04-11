@@ -4,8 +4,9 @@
   "Country.Region": "Mauritania",
   "Lat": 21.0079,
   "Long": 10.9408,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MR",
+  "country_code3": "MRT",
   "group": "MR",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 2,
       "deaths": 1,
       "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 7,
+      "recovered": 2,
+      "deaths": 1,
+      "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

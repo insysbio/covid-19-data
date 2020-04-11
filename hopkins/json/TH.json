@@ -4,8 +4,9 @@
   "Country.Region": "Thailand",
   "Lat": 15,
   "Long": 101,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "TH",
+  "country_code3": "THA",
   "group": "TH",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 54,
       "recovered_new": 52,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 2473,
+      "recovered": 1013,
+      "deaths": 33,
+      "confirmed_new": 50,
+      "recovered_new": 73,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

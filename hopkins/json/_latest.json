@@ -1,0 +1,5919 @@
+{
+  "AD": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Andorra",
+    "Lat": 42.5063,
+    "Long": 1.5218,
+    "hasParent": false,
+    "country_code": "AD",
+    "country_code3": "AND",
+    "group": "AD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 601,
+        "recovered": 71,
+        "deaths": 26,
+        "confirmed_new": 18,
+        "recovered_new": 13,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "AE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "United Arab Emirates",
+    "Lat": 24,
+    "Long": 54,
+    "hasParent": false,
+    "country_code": "AE",
+    "country_code3": "ARE",
+    "group": "AE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 3360,
+        "recovered": 418,
+        "deaths": 16,
+        "confirmed_new": 370,
+        "recovered_new": 150,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "AF": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Afghanistan",
+    "Lat": 33,
+    "Long": 65,
+    "hasParent": false,
+    "country_code": "AF",
+    "country_code3": "AFG",
+    "group": "AF",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 521,
+        "recovered": 32,
+        "deaths": 15,
+        "confirmed_new": 37,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "AG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Antigua and Barbuda",
+    "Lat": 17.0608,
+    "Long": -61.7964,
+    "hasParent": false,
+    "country_code": "AG",
+    "country_code3": "ATG",
+    "group": "AG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 19,
+        "recovered": 0,
+        "deaths": 2,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "AI": {
+    "hasErrors": false,
+    "Province.State": "Anguilla",
+    "Country.Region": "United Kingdom",
+    "Lat": 18.2206,
+    "Long": -63.0686,
+    "hasParent": true,
+    "country_code": "GB",
+    "country_code3": "GBR",
+    "group": "AI",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 3,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "AI"
+  },
+  "AL": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Albania",
+    "Lat": 41.1533,
+    "Long": 20.1683,
+    "hasParent": false,
+    "country_code": "AL",
+    "country_code3": "ALB",
+    "group": "AL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 416,
+        "recovered": 182,
+        "deaths": 23,
+        "confirmed_new": 7,
+        "recovered_new": 17,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "AM": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Armenia",
+    "Lat": 40.0691,
+    "Long": 45.0382,
+    "hasParent": false,
+    "country_code": "AM",
+    "country_code3": "ARM",
+    "group": "AM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 937,
+        "recovered": 149,
+        "deaths": 12,
+        "confirmed_new": 16,
+        "recovered_new": 11,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "AO": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Angola",
+    "Lat": -11.2027,
+    "Long": 17.8739,
+    "hasParent": false,
+    "country_code": "AO",
+    "country_code3": "AGO",
+    "group": "AO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 19,
+        "recovered": 2,
+        "deaths": 2,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "AR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Argentina",
+    "Lat": -38.4161,
+    "Long": -63.6167,
+    "hasParent": false,
+    "country_code": "AR",
+    "country_code3": "ARG",
+    "group": "AR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1975,
+        "recovered": 375,
+        "deaths": 82,
+        "confirmed_new": 180,
+        "recovered_new": 10,
+        "deaths_new": 10,
+        "hasErrors": false
+      }
+    ]
+  },
+  "AT": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Austria",
+    "Lat": 47.5162,
+    "Long": 14.5501,
+    "hasParent": false,
+    "country_code": "AT",
+    "country_code3": "AUT",
+    "group": "AT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 13555,
+        "recovered": 6064,
+        "deaths": 319,
+        "confirmed_new": 311,
+        "recovered_new": 824,
+        "deaths_new": 24,
+        "hasErrors": false
+      }
+    ]
+  },
+  "AU-ACT": {
+    "hasErrors": false,
+    "Province.State": "Australian Capital Territory",
+    "Country.Region": "Australia",
+    "Lat": -35.4735,
+    "Long": 149.0124,
+    "hasParent": true,
+    "country_code": "AU",
+    "country_code3": "AUS",
+    "group": "AU-ACT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 103,
+        "recovered": 59,
+        "deaths": 2,
+        "confirmed_new": 3,
+        "recovered_new": 12,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "AU-ACT"
+  },
+  "AU-NSW": {
+    "hasErrors": false,
+    "Province.State": "New South Wales",
+    "Country.Region": "Australia",
+    "Lat": -33.8688,
+    "Long": 151.2093,
+    "hasParent": true,
+    "country_code": "AU",
+    "country_code3": "AUS",
+    "group": "AU-NSW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2822,
+        "recovered": 4,
+        "deaths": 22,
+        "confirmed_new": 49,
+        "recovered_new": 0,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "AU-NSW"
+  },
+  "AU-NT": {
+    "hasErrors": false,
+    "Province.State": "Northern Territory",
+    "Country.Region": "Australia",
+    "Lat": -12.4634,
+    "Long": 130.8456,
+    "hasParent": true,
+    "country_code": "AU",
+    "country_code3": "AUS",
+    "group": "AU-NT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 28,
+        "recovered": 2,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "AU-NT"
+  },
+  "AU-QLD": {
+    "hasErrors": false,
+    "Province.State": "Queensland",
+    "Country.Region": "Australia",
+    "Lat": -28.0167,
+    "Long": 153.4,
+    "hasParent": true,
+    "country_code": "AU",
+    "country_code3": "AUS",
+    "group": "AU-QLD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 965,
+        "recovered": 372,
+        "deaths": 4,
+        "confirmed_new": 12,
+        "recovered_new": 27,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "AU-QLD"
+  },
+  "AU-SA": {
+    "hasErrors": false,
+    "Province.State": "South Australia",
+    "Country.Region": "Australia",
+    "Lat": -34.9285,
+    "Long": 138.6007,
+    "hasParent": true,
+    "country_code": "AU",
+    "country_code3": "AUS",
+    "group": "AU-SA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 428,
+        "recovered": 179,
+        "deaths": 3,
+        "confirmed_new": 8,
+        "recovered_new": 59,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "AU-SA"
+  },
+  "AU-TAS": {
+    "hasErrors": false,
+    "Province.State": "Tasmania",
+    "Country.Region": "Australia",
+    "Lat": -41.4545,
+    "Long": 145.9707,
+    "hasParent": true,
+    "country_code": "AU",
+    "country_code3": "AUS",
+    "group": "AU-TAS",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 122,
+        "recovered": 48,
+        "deaths": 4,
+        "confirmed_new": 11,
+        "recovered_new": 0,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "AU-TAS"
+  },
+  "AU-VIC": {
+    "hasErrors": false,
+    "Province.State": "Victoria",
+    "Country.Region": "Australia",
+    "Lat": -37.8136,
+    "Long": 144.9631,
+    "hasParent": true,
+    "country_code": "AU",
+    "country_code3": "AUS",
+    "group": "AU-VIC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1241,
+        "recovered": 926,
+        "deaths": 13,
+        "confirmed_new": 13,
+        "recovered_new": 190,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "AU-VIC"
+  },
+  "AU-WA": {
+    "hasErrors": false,
+    "Province.State": "Western Australia",
+    "Country.Region": "Australia",
+    "Lat": -31.9505,
+    "Long": 115.8605,
+    "hasParent": true,
+    "country_code": "AU",
+    "country_code3": "AUS",
+    "group": "AU-WA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 506,
+        "recovered": 203,
+        "deaths": 6,
+        "confirmed_new": 11,
+        "recovered_new": 33,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "AU-WA"
+  },
+  "AZ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Azerbaijan",
+    "Lat": 40.1431,
+    "Long": 47.5769,
+    "hasParent": false,
+    "country_code": "AZ",
+    "country_code3": "AZE",
+    "group": "AZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 991,
+        "recovered": 159,
+        "deaths": 10,
+        "confirmed_new": 65,
+        "recovered_new": 58,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Bosnia and Herzegovina",
+    "Lat": 43.9159,
+    "Long": 17.6791,
+    "hasParent": false,
+    "country_code": "BA",
+    "country_code3": "BIH",
+    "group": "BA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 901,
+        "recovered": 129,
+        "deaths": 36,
+        "confirmed_new": 43,
+        "recovered_new": 28,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BB": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Barbados",
+    "Lat": 13.1939,
+    "Long": -59.5432,
+    "hasParent": false,
+    "country_code": "BB",
+    "country_code3": "BRB",
+    "group": "BB",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 67,
+        "recovered": 11,
+        "deaths": 4,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BD": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Bangladesh",
+    "Lat": 23.685,
+    "Long": 90.3563,
+    "hasParent": false,
+    "country_code": "BD",
+    "country_code3": "BGD",
+    "group": "BD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 424,
+        "recovered": 33,
+        "deaths": 27,
+        "confirmed_new": 94,
+        "recovered_new": 0,
+        "deaths_new": 6,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Belgium",
+    "Lat": 50.8333,
+    "Long": 4,
+    "hasParent": false,
+    "country_code": "BE",
+    "country_code3": "BEL",
+    "group": "BE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 26667,
+        "recovered": 5568,
+        "deaths": 3019,
+        "confirmed_new": 1684,
+        "recovered_new": 404,
+        "deaths_new": 496,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BF": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Burkina Faso",
+    "Lat": 12.2383,
+    "Long": -1.5616,
+    "hasParent": false,
+    "country_code": "BF",
+    "country_code3": "BFA",
+    "group": "BF",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 443,
+        "recovered": 146,
+        "deaths": 24,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Bulgaria",
+    "Lat": 42.7339,
+    "Long": 25.4858,
+    "hasParent": false,
+    "country_code": "BG",
+    "country_code3": "BGR",
+    "group": "BG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 635,
+        "recovered": 54,
+        "deaths": 25,
+        "confirmed_new": 17,
+        "recovered_new": 6,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BH": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Bahrain",
+    "Lat": 26.0275,
+    "Long": 50.55,
+    "hasParent": false,
+    "country_code": "BH",
+    "country_code3": "BHR",
+    "group": "BH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 925,
+        "recovered": 539,
+        "deaths": 6,
+        "confirmed_new": 38,
+        "recovered_new": 20,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BI": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Burundi",
+    "Lat": -3.3731,
+    "Long": 29.9189,
+    "hasParent": false,
+    "country_code": "BI",
+    "country_code3": "BDI",
+    "group": "BI",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 3,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BJ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Benin",
+    "Lat": 9.3077,
+    "Long": 2.3158,
+    "hasParent": false,
+    "country_code": "BJ",
+    "country_code3": "BEN",
+    "group": "BJ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 35,
+        "recovered": 5,
+        "deaths": 1,
+        "confirmed_new": 9,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BL": {
+    "hasErrors": false,
+    "Province.State": "Saint Barthelemy",
+    "Country.Region": "France",
+    "Lat": 17.9,
+    "Long": -62.8333,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "BL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 6,
+        "recovered": 1,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "BL"
+  },
+  "BM": {
+    "hasErrors": false,
+    "Province.State": "Bermuda",
+    "Country.Region": "United Kingdom",
+    "Lat": 32.3078,
+    "Long": -64.7505,
+    "hasParent": true,
+    "country_code": "GB",
+    "country_code3": "GBR",
+    "group": "BM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 48,
+        "recovered": 25,
+        "deaths": 4,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "BM"
+  },
+  "BN": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Brunei",
+    "Lat": 4.5353,
+    "Long": 114.7277,
+    "hasParent": false,
+    "country_code": "BN",
+    "country_code3": "BRN",
+    "group": "BN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 136,
+        "recovered": 99,
+        "deaths": 1,
+        "confirmed_new": 1,
+        "recovered_new": 7,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BO": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Bolivia",
+    "Lat": -16.2902,
+    "Long": -63.5887,
+    "hasParent": false,
+    "country_code": "BO",
+    "country_code3": "BOL",
+    "group": "BO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 268,
+        "recovered": 2,
+        "deaths": 19,
+        "confirmed_new": 4,
+        "recovered_new": 0,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BQ": {
+    "hasErrors": false,
+    "Province.State": "Bonaire, Sint Eustatius and Saba",
+    "Country.Region": "Netherlands",
+    "Lat": 12.1784,
+    "Long": -68.2385,
+    "hasParent": true,
+    "country_code": "NL",
+    "country_code3": "NLD",
+    "group": "BQ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "BQ"
+  },
+  "BR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Brazil",
+    "Lat": -14.235,
+    "Long": -51.9253,
+    "hasParent": false,
+    "country_code": "BR",
+    "country_code3": "BRA",
+    "group": "BR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 19638,
+        "recovered": 173,
+        "deaths": 1057,
+        "confirmed_new": 1546,
+        "recovered_new": 0,
+        "deaths_new": 107,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BS": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Bahamas",
+    "Lat": 25.0343,
+    "Long": -77.3963,
+    "hasParent": false,
+    "country_code": "BS",
+    "country_code3": "BHS",
+    "group": "BS",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 42,
+        "recovered": 5,
+        "deaths": 8,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BT": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Bhutan",
+    "Lat": 27.5142,
+    "Long": 90.4336,
+    "hasParent": false,
+    "country_code": "BT",
+    "country_code3": "BTN",
+    "group": "BT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 5,
+        "recovered": 2,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BU": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Burma",
+    "Lat": 21.9162,
+    "Long": 95.956,
+    "hasParent": false,
+    "country_code": "BU",
+    "country_code3": null,
+    "group": "BU",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 27,
+        "recovered": 2,
+        "deaths": 3,
+        "confirmed_new": 4,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BW": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Botswana",
+    "Lat": -22.3285,
+    "Long": 24.6849,
+    "hasParent": false,
+    "country_code": "BW",
+    "country_code3": "BWA",
+    "group": "BW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 13,
+        "recovered": 0,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BY": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Belarus",
+    "Lat": 53.7098,
+    "Long": 27.9534,
+    "hasParent": false,
+    "country_code": "BY",
+    "country_code3": "BLR",
+    "group": "BY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1981,
+        "recovered": 169,
+        "deaths": 19,
+        "confirmed_new": 495,
+        "recovered_new": 30,
+        "deaths_new": 3,
+        "hasErrors": false
+      }
+    ]
+  },
+  "BZ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Belize",
+    "Lat": 13.1939,
+    "Long": -59.5432,
+    "hasParent": false,
+    "country_code": "BZ",
+    "country_code3": "BLZ",
+    "group": "BZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 10,
+        "recovered": 0,
+        "deaths": 2,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CA": {
+    "hasErrors": true,
+    "Province.State": "",
+    "Country.Region": "Canada",
+    "Lat": 56.1304,
+    "Long": -106.3468,
+    "hasParent": false,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "recovered": 5855,
+        "recovered_new": 693,
+        "hasErrors": true
+      }
+    ]
+  },
+  "CA-AB": {
+    "hasErrors": true,
+    "Province.State": "Alberta",
+    "Country.Region": "Canada",
+    "Lat": 53.9333,
+    "Long": -116.5765,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-AB",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1451,
+        "deaths": 32,
+        "confirmed_new": 28,
+        "deaths_new": 3,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-AB"
+  },
+  "CA-BC": {
+    "hasErrors": true,
+    "Province.State": "British Columbia",
+    "Country.Region": "Canada",
+    "Lat": 49.2827,
+    "Long": -123.1207,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-BC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1370,
+        "deaths": 50,
+        "confirmed_new": 34,
+        "deaths_new": 2,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-BC"
+  },
+  "CA-MB": {
+    "hasErrors": true,
+    "Province.State": "Manitoba",
+    "Country.Region": "Canada",
+    "Lat": 53.7609,
+    "Long": -98.8139,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-MB",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 230,
+        "deaths": 3,
+        "confirmed_new": 9,
+        "deaths_new": 0,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-MB"
+  },
+  "CA-NB": {
+    "hasErrors": true,
+    "Province.State": "New Brunswick",
+    "Country.Region": "Canada",
+    "Lat": 46.5653,
+    "Long": -66.4619,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-NB",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 112,
+        "deaths": 0,
+        "confirmed_new": 4,
+        "deaths_new": 0,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-NB"
+  },
+  "CA-NL": {
+    "hasErrors": true,
+    "Province.State": "Newfoundland and Labrador",
+    "Country.Region": "Canada",
+    "Lat": 53.1355,
+    "Long": -57.6604,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-NL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 239,
+        "deaths": 3,
+        "confirmed_new": 7,
+        "deaths_new": 1,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-NL"
+  },
+  "CA-NS": {
+    "hasErrors": true,
+    "Province.State": "Nova Scotia",
+    "Country.Region": "Canada",
+    "Lat": 44.682,
+    "Long": -63.7443,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-NS",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 407,
+        "deaths": 2,
+        "confirmed_new": 65,
+        "deaths_new": 1,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-NS"
+  },
+  "CA-NT": {
+    "hasErrors": true,
+    "Province.State": "Northwest Territories",
+    "Country.Region": "Canada",
+    "Lat": 64.8255,
+    "Long": -124.8457,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-NT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 5,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "deaths_new": 0,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-NT"
+  },
+  "CA-ON": {
+    "hasErrors": true,
+    "Province.State": "Ontario",
+    "Country.Region": "Canada",
+    "Lat": 51.2538,
+    "Long": -85.3232,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-ON",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 6237,
+        "deaths": 222,
+        "confirmed_new": 478,
+        "deaths_new": 22,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-ON"
+  },
+  "CA-PE": {
+    "hasErrors": true,
+    "Province.State": "Prince Edward Island",
+    "Country.Region": "Canada",
+    "Lat": 46.5107,
+    "Long": -63.4168,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-PE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 25,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "deaths_new": 0,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-PE"
+  },
+  "CA-QC": {
+    "hasErrors": true,
+    "Province.State": "Quebec",
+    "Country.Region": "Canada",
+    "Lat": 52.9399,
+    "Long": -73.5491,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-QC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 11677,
+        "deaths": 241,
+        "confirmed_new": 765,
+        "deaths_new": 25,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-QC"
+  },
+  "CA-SK": {
+    "hasErrors": true,
+    "Province.State": "Saskatchewan",
+    "Country.Region": "Canada",
+    "Lat": 52.9399,
+    "Long": -106.4509,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-SK",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 285,
+        "deaths": 3,
+        "confirmed_new": 14,
+        "deaths_new": 0,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-SK"
+  },
+  "CA-YT": {
+    "hasErrors": true,
+    "Province.State": "Yukon",
+    "Country.Region": "Canada",
+    "Lat": 64.2823,
+    "Long": -135,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "CA-YT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 8,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "deaths_new": 0,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "CA-YT"
+  },
+  "CD": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Congo (Kinshasa)",
+    "Lat": -4.0383,
+    "Long": 21.7587,
+    "hasParent": false,
+    "country_code": "CD",
+    "country_code3": "COD",
+    "group": "CD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 215,
+        "recovered": 13,
+        "deaths": 20,
+        "confirmed_new": 35,
+        "recovered_new": 4,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CF": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Central African Republic",
+    "Lat": 6.6111,
+    "Long": 20.9394,
+    "hasParent": false,
+    "country_code": "CF",
+    "country_code3": "CAF",
+    "group": "CF",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 8,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Congo (Brazzaville)",
+    "Lat": -4.0383,
+    "Long": 21.7587,
+    "hasParent": false,
+    "country_code": "CG",
+    "country_code3": "COG",
+    "group": "CG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 60,
+        "recovered": 5,
+        "deaths": 5,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CH": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Switzerland",
+    "Lat": 46.8182,
+    "Long": 8.2275,
+    "hasParent": false,
+    "country_code": "CH",
+    "country_code3": "CHE",
+    "group": "CH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 24551,
+        "recovered": 11100,
+        "deaths": 1002,
+        "confirmed_new": 500,
+        "recovered_new": 500,
+        "deaths_new": 54,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CI": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Cote d'Ivoire",
+    "Lat": 7.54,
+    "Long": -5.5471,
+    "hasParent": false,
+    "country_code": "CI",
+    "country_code3": "CIV",
+    "group": "CI",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 444,
+        "recovered": 52,
+        "deaths": 3,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CL": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Chile",
+    "Lat": -35.6751,
+    "Long": -71.543,
+    "hasParent": false,
+    "country_code": "CL",
+    "country_code3": "CHL",
+    "group": "CL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 6501,
+        "recovered": 1571,
+        "deaths": 65,
+        "confirmed_new": 529,
+        "recovered_new": 297,
+        "deaths_new": 8,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CM": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Cameroon",
+    "Lat": 3.848,
+    "Long": 11.5021,
+    "hasParent": false,
+    "country_code": "CM",
+    "country_code3": "CMR",
+    "group": "CM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 820,
+        "recovered": 98,
+        "deaths": 12,
+        "confirmed_new": 90,
+        "recovered_new": 38,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CN-AH": {
+    "hasErrors": false,
+    "Province.State": "Anhui",
+    "Country.Region": "China",
+    "Lat": 31.8257,
+    "Long": 117.2264,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-AH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 991,
+        "recovered": 984,
+        "deaths": 6,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-AH"
+  },
+  "CN-BJ": {
+    "hasErrors": false,
+    "Province.State": "Beijing",
+    "Country.Region": "China",
+    "Lat": 40.1824,
+    "Long": 116.4142,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-BJ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 588,
+        "recovered": 469,
+        "deaths": 8,
+        "confirmed_new": 0,
+        "recovered_new": 5,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-BJ"
+  },
+  "CN-CQ": {
+    "hasErrors": false,
+    "Province.State": "Chongqing",
+    "Country.Region": "China",
+    "Lat": 30.0572,
+    "Long": 107.874,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-CQ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 579,
+        "recovered": 570,
+        "deaths": 6,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-CQ"
+  },
+  "CN-FJ": {
+    "hasErrors": false,
+    "Province.State": "Fujian",
+    "Country.Region": "China",
+    "Lat": 26.0789,
+    "Long": 117.9874,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-FJ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 351,
+        "recovered": 311,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 3,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-FJ"
+  },
+  "CN-GD": {
+    "hasErrors": false,
+    "Province.State": "Guangdong",
+    "Country.Region": "China",
+    "Lat": 23.3417,
+    "Long": 113.4244,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-GD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1544,
+        "recovered": 1434,
+        "deaths": 8,
+        "confirmed_new": 5,
+        "recovered_new": 11,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-GD"
+  },
+  "CN-GS": {
+    "hasErrors": false,
+    "Province.State": "Gansu",
+    "Country.Region": "China",
+    "Lat": 37.8099,
+    "Long": 101.0583,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-GS",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 139,
+        "recovered": 135,
+        "deaths": 2,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-GS"
+  },
+  "CN-GX": {
+    "hasErrors": false,
+    "Province.State": "Guangxi",
+    "Country.Region": "China",
+    "Lat": 23.8298,
+    "Long": 108.7881,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-GX",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 254,
+        "recovered": 252,
+        "deaths": 2,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-GX"
+  },
+  "CN-GZ": {
+    "hasErrors": false,
+    "Province.State": "Guizhou",
+    "Country.Region": "China",
+    "Lat": 26.8154,
+    "Long": 106.8748,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-GZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 146,
+        "recovered": 144,
+        "deaths": 2,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-GZ"
+  },
+  "CN-HA": {
+    "hasErrors": false,
+    "Province.State": "Henan",
+    "Country.Region": "China",
+    "Lat": 33.882,
+    "Long": 113.614,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-HA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1276,
+        "recovered": 1252,
+        "deaths": 22,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-HA"
+  },
+  "CN-HB": {
+    "hasErrors": false,
+    "Province.State": "Hubei",
+    "Country.Region": "China",
+    "Lat": 30.9756,
+    "Long": 112.2707,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-HB",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 67803,
+        "recovered": 64236,
+        "deaths": 3216,
+        "confirmed_new": 0,
+        "recovered_new": 49,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-HB"
+  },
+  "CN-HE": {
+    "hasErrors": false,
+    "Province.State": "Hebei",
+    "Country.Region": "China",
+    "Lat": 39.549,
+    "Long": 116.1306,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-HE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 327,
+        "recovered": 313,
+        "deaths": 6,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-HE"
+  },
+  "CN-HI": {
+    "hasErrors": false,
+    "Province.State": "Hainan",
+    "Country.Region": "China",
+    "Lat": 19.1959,
+    "Long": 109.7453,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-HI",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 168,
+        "recovered": 162,
+        "deaths": 6,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-HI"
+  },
+  "CN-HK": {
+    "hasErrors": false,
+    "Province.State": "Hong Kong",
+    "Country.Region": "China",
+    "Lat": 22.3,
+    "Long": 114.2,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-HK",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 989,
+        "recovered": 309,
+        "deaths": 4,
+        "confirmed_new": 16,
+        "recovered_new": 16,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-HK"
+  },
+  "CN-HL": {
+    "hasErrors": false,
+    "Province.State": "Heilongjiang",
+    "Country.Region": "China",
+    "Lat": 47.862,
+    "Long": 127.7615,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-HL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 638,
+        "recovered": 470,
+        "deaths": 13,
+        "confirmed_new": 29,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-HL"
+  },
+  "CN-HN": {
+    "hasErrors": false,
+    "Province.State": "Hunan",
+    "Country.Region": "China",
+    "Lat": 27.6104,
+    "Long": 111.7088,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-HN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1019,
+        "recovered": 1014,
+        "deaths": 4,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-HN"
+  },
+  "CN-JL": {
+    "hasErrors": false,
+    "Province.State": "Jilin",
+    "Country.Region": "China",
+    "Lat": 43.6661,
+    "Long": 126.1923,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-JL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 98,
+        "recovered": 95,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 2,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-JL"
+  },
+  "CN-JS": {
+    "hasErrors": false,
+    "Province.State": "Jiangsu",
+    "Country.Region": "China",
+    "Lat": 32.9711,
+    "Long": 119.455,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-JS",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 651,
+        "recovered": 634,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-JS"
+  },
+  "CN-JX": {
+    "hasErrors": false,
+    "Province.State": "Jiangxi",
+    "Country.Region": "China",
+    "Lat": 27.614,
+    "Long": 115.7221,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-JX",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 937,
+        "recovered": 936,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-JX"
+  },
+  "CN-LN": {
+    "hasErrors": false,
+    "Province.State": "Liaoning",
+    "Country.Region": "China",
+    "Lat": 41.2956,
+    "Long": 122.6085,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-LN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 144,
+        "recovered": 132,
+        "deaths": 2,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-LN"
+  },
+  "CN-MO": {
+    "hasErrors": false,
+    "Province.State": "Macau",
+    "Country.Region": "China",
+    "Lat": 22.1667,
+    "Long": 113.55,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-MO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 45,
+        "recovered": 10,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-MO"
+  },
+  "CN-NM": {
+    "hasErrors": false,
+    "Province.State": "Inner Mongolia",
+    "Country.Region": "China",
+    "Lat": 44.0935,
+    "Long": 113.9448,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-NM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 128,
+        "recovered": 79,
+        "deaths": 1,
+        "confirmed_new": 2,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-NM"
+  },
+  "CN-NX": {
+    "hasErrors": false,
+    "Province.State": "Ningxia",
+    "Country.Region": "China",
+    "Lat": 37.2692,
+    "Long": 106.1655,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-NX",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 75,
+        "recovered": 75,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-NX"
+  },
+  "CN-QH": {
+    "hasErrors": false,
+    "Province.State": "Qinghai",
+    "Country.Region": "China",
+    "Lat": 35.7452,
+    "Long": 95.9956,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-QH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 18,
+        "recovered": 18,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-QH"
+  },
+  "CN-SC": {
+    "hasErrors": false,
+    "Province.State": "Sichuan",
+    "Country.Region": "China",
+    "Lat": 30.6171,
+    "Long": 102.7103,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-SC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 560,
+        "recovered": 546,
+        "deaths": 3,
+        "confirmed_new": 0,
+        "recovered_new": 5,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-SC"
+  },
+  "CN-SD": {
+    "hasErrors": false,
+    "Province.State": "Shandong",
+    "Country.Region": "China",
+    "Lat": 36.3427,
+    "Long": 118.1498,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-SD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 783,
+        "recovered": 756,
+        "deaths": 7,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-SD"
+  },
+  "CN-SH": {
+    "hasErrors": false,
+    "Province.State": "Shanghai",
+    "Country.Region": "China",
+    "Lat": 31.202,
+    "Long": 121.4491,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-SH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 555,
+        "recovered": 435,
+        "deaths": 7,
+        "confirmed_new": 3,
+        "recovered_new": 13,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-SH"
+  },
+  "CN-SN": {
+    "hasErrors": false,
+    "Province.State": "Shaanxi",
+    "Country.Region": "China",
+    "Lat": 35.1917,
+    "Long": 108.8701,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-SN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 256,
+        "recovered": 246,
+        "deaths": 3,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-SN"
+  },
+  "CN-SX": {
+    "hasErrors": false,
+    "Province.State": "Shanxi",
+    "Country.Region": "China",
+    "Lat": 37.5777,
+    "Long": 112.2922,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-SX",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 168,
+        "recovered": 134,
+        "deaths": 0,
+        "confirmed_new": 2,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-SX"
+  },
+  "CN-TJ": {
+    "hasErrors": false,
+    "Province.State": "Tianjin",
+    "Country.Region": "China",
+    "Lat": 39.3054,
+    "Long": 117.323,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-TJ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 183,
+        "recovered": 158,
+        "deaths": 3,
+        "confirmed_new": 1,
+        "recovered_new": 6,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-TJ"
+  },
+  "CN-XJ": {
+    "hasErrors": false,
+    "Province.State": "Xinjiang",
+    "Country.Region": "China",
+    "Lat": 41.1129,
+    "Long": 85.2401,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-XJ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 76,
+        "recovered": 73,
+        "deaths": 3,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-XJ"
+  },
+  "CN-YN": {
+    "hasErrors": false,
+    "Province.State": "Yunnan",
+    "Country.Region": "China",
+    "Lat": 24.974,
+    "Long": 101.487,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-YN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 184,
+        "recovered": 173,
+        "deaths": 2,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-YN"
+  },
+  "CN-ZJ": {
+    "hasErrors": false,
+    "Province.State": "Zhejiang",
+    "Country.Region": "China",
+    "Lat": 29.1832,
+    "Long": 120.0934,
+    "hasParent": true,
+    "country_code": "CN",
+    "country_code3": "CHN",
+    "group": "CN-ZJ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1267,
+        "recovered": 1235,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CN-ZJ"
+  },
+  "CO": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Colombia",
+    "Lat": 4.5709,
+    "Long": -74.2973,
+    "hasParent": false,
+    "country_code": "CO",
+    "country_code3": "COL",
+    "group": "CO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2473,
+        "recovered": 197,
+        "deaths": 80,
+        "confirmed_new": 250,
+        "recovered_new": 23,
+        "deaths_new": 11,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Costa Rica",
+    "Lat": 9.7489,
+    "Long": -83.7534,
+    "hasParent": false,
+    "country_code": "CR",
+    "country_code3": "CRI",
+    "group": "CR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 558,
+        "recovered": 42,
+        "deaths": 3,
+        "confirmed_new": 19,
+        "recovered_new": 12,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CU": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Cuba",
+    "Lat": 22,
+    "Long": -80,
+    "hasParent": false,
+    "country_code": "CU",
+    "country_code3": "CUB",
+    "group": "CU",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 564,
+        "recovered": 51,
+        "deaths": 15,
+        "confirmed_new": 49,
+        "recovered_new": 23,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CV": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Cabo Verde",
+    "Lat": 16.5388,
+    "Long": -23.0418,
+    "hasParent": false,
+    "country_code": "CV",
+    "country_code3": "CPV",
+    "group": "CV",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 7,
+        "recovered": 1,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CW": {
+    "hasErrors": false,
+    "Province.State": "Curacao",
+    "Country.Region": "Netherlands",
+    "Lat": 12.1696,
+    "Long": -68.99,
+    "hasParent": true,
+    "country_code": "NL",
+    "country_code3": "NLD",
+    "group": "CW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 14,
+        "recovered": 7,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "CW"
+  },
+  "CY": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Cyprus",
+    "Lat": 35.1264,
+    "Long": 33.4299,
+    "hasParent": false,
+    "country_code": "CY",
+    "country_code3": "CYP",
+    "group": "CY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 595,
+        "recovered": 58,
+        "deaths": 10,
+        "confirmed_new": 31,
+        "recovered_new": 5,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "CZ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Czechia",
+    "Lat": 49.8175,
+    "Long": 15.473,
+    "hasParent": false,
+    "country_code": "CZ",
+    "country_code3": "CZE",
+    "group": "CZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 5732,
+        "recovered": 346,
+        "deaths": 119,
+        "confirmed_new": 163,
+        "recovered_new": 45,
+        "deaths_new": 7,
+        "hasErrors": false
+      }
+    ]
+  },
+  "DE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Germany",
+    "Lat": 51,
+    "Long": 9,
+    "hasParent": false,
+    "country_code": "DE",
+    "country_code3": "DEU",
+    "group": "DE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 122171,
+        "recovered": 53913,
+        "deaths": 2767,
+        "confirmed_new": 3990,
+        "recovered_new": 1506,
+        "deaths_new": 160,
+        "hasErrors": false
+      }
+    ]
+  },
+  "DJ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Djibouti",
+    "Lat": 11.8251,
+    "Long": 42.5903,
+    "hasParent": false,
+    "country_code": "DJ",
+    "country_code3": "DJI",
+    "group": "DJ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 150,
+        "recovered": 36,
+        "deaths": 1,
+        "confirmed_new": 15,
+        "recovered_new": 11,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "DK": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Denmark",
+    "Lat": 56.2639,
+    "Long": 9.5018,
+    "hasParent": false,
+    "country_code": "DK",
+    "country_code3": "DNK",
+    "group": "DK",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 5819,
+        "recovered": 1773,
+        "deaths": 247,
+        "confirmed_new": 184,
+        "recovered_new": 37,
+        "deaths_new": 10,
+        "hasErrors": false
+      }
+    ]
+  },
+  "DM": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Dominica",
+    "Lat": 15.415,
+    "Long": -61.371,
+    "hasParent": false,
+    "country_code": "DM",
+    "country_code3": "DMA",
+    "group": "DM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 16,
+        "recovered": 5,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "recovered_new": 4,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "DO": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Dominican Republic",
+    "Lat": 18.7357,
+    "Long": -70.1627,
+    "hasParent": false,
+    "country_code": "DO",
+    "country_code3": "DOM",
+    "group": "DO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2620,
+        "recovered": 98,
+        "deaths": 126,
+        "confirmed_new": 271,
+        "recovered_new": 18,
+        "deaths_new": 8,
+        "hasErrors": false
+      }
+    ]
+  },
+  "DZ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Algeria",
+    "Lat": 28.0339,
+    "Long": 1.6596,
+    "hasParent": false,
+    "country_code": "DZ",
+    "country_code3": "DZA",
+    "group": "DZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1761,
+        "recovered": 405,
+        "deaths": 256,
+        "confirmed_new": 95,
+        "recovered_new": 58,
+        "deaths_new": 21,
+        "hasErrors": false
+      }
+    ]
+  },
+  "EC": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Ecuador",
+    "Lat": -1.8312,
+    "Long": -78.1834,
+    "hasParent": false,
+    "country_code": "EC",
+    "country_code3": "ECU",
+    "group": "EC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 7161,
+        "recovered": 368,
+        "deaths": 297,
+        "confirmed_new": 2196,
+        "recovered_new": 29,
+        "deaths_new": 25,
+        "hasErrors": false
+      }
+    ]
+  },
+  "EE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Estonia",
+    "Lat": 58.5953,
+    "Long": 25.0136,
+    "hasParent": false,
+    "country_code": "EE",
+    "country_code3": "EST",
+    "group": "EE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1258,
+        "recovered": 93,
+        "deaths": 24,
+        "confirmed_new": 51,
+        "recovered_new": 10,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "EG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Egypt",
+    "Lat": 26,
+    "Long": 30,
+    "hasParent": false,
+    "country_code": "EG",
+    "country_code3": "EGY",
+    "group": "EG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1794,
+        "recovered": 384,
+        "deaths": 135,
+        "confirmed_new": 95,
+        "recovered_new": 36,
+        "deaths_new": 17,
+        "hasErrors": false
+      }
+    ]
+  },
+  "EH": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Western Sahara",
+    "Lat": 24.2155,
+    "Long": -12.8858,
+    "hasParent": false,
+    "country_code": "EH",
+    "country_code3": "ESH",
+    "group": "EH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 4,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ER": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Eritrea",
+    "Lat": 15.1794,
+    "Long": 39.7823,
+    "hasParent": false,
+    "country_code": "ER",
+    "country_code3": "ERI",
+    "group": "ER",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 34,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ES": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Spain",
+    "Lat": 40,
+    "Long": -4,
+    "hasParent": false,
+    "country_code": "ES",
+    "country_code3": "ESP",
+    "group": "ES",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 158273,
+        "recovered": 55668,
+        "deaths": 16081,
+        "confirmed_new": 5051,
+        "recovered_new": 3503,
+        "deaths_new": 634,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ET": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Ethiopia",
+    "Lat": 9.145,
+    "Long": 40.4897,
+    "hasParent": false,
+    "country_code": "ET",
+    "country_code3": "ETH",
+    "group": "ET",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 65,
+        "recovered": 4,
+        "deaths": 3,
+        "confirmed_new": 9,
+        "recovered_new": 0,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "FI": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Finland",
+    "Lat": 64,
+    "Long": 26,
+    "hasParent": false,
+    "country_code": "FI",
+    "country_code3": "FIN",
+    "group": "FI",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2769,
+        "recovered": 300,
+        "deaths": 48,
+        "confirmed_new": 164,
+        "recovered_new": 0,
+        "deaths_new": 6,
+        "hasErrors": false
+      }
+    ]
+  },
+  "FJ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Fiji",
+    "Lat": -17.7134,
+    "Long": 178.065,
+    "hasParent": false,
+    "country_code": "FJ",
+    "country_code3": "FJI",
+    "group": "FJ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 16,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "FO": {
+    "hasErrors": false,
+    "Province.State": "Faroe Islands",
+    "Country.Region": "Denmark",
+    "Lat": 61.8926,
+    "Long": -6.9118,
+    "hasParent": true,
+    "country_code": "DK",
+    "country_code3": "DNK",
+    "group": "FO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 184,
+        "recovered": 145,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 9,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "FO"
+  },
+  "FR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "France",
+    "Lat": 46.2276,
+    "Long": 2.2137,
+    "hasParent": false,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "FR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 124869,
+        "recovered": 24932,
+        "deaths": 13197,
+        "confirmed_new": 7120,
+        "recovered_new": 1726,
+        "deaths_new": 987,
+        "hasErrors": false
+      }
+    ]
+  },
+  "FR-GP": {
+    "hasErrors": false,
+    "Province.State": "Guadeloupe",
+    "Country.Region": "France",
+    "Lat": 16.25,
+    "Long": -61.5833,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "FR-GP",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 143,
+        "recovered": 67,
+        "deaths": 8,
+        "confirmed_new": 2,
+        "recovered_new": 24,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "FR-GP"
+  },
+  "FR-MAY": {
+    "hasErrors": false,
+    "Province.State": "Mayotte",
+    "Country.Region": "France",
+    "Lat": -12.8275,
+    "Long": 45.1662,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "FR-MAY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 191,
+        "recovered": 50,
+        "deaths": 2,
+        "confirmed_new": 7,
+        "recovered_new": 28,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "FR-MAY"
+  },
+  "FR-MQ": {
+    "hasErrors": false,
+    "Province.State": "Martinique",
+    "Country.Region": "France",
+    "Lat": 14.6415,
+    "Long": -61.0242,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "FR-MQ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 155,
+        "recovered": 50,
+        "deaths": 6,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "FR-MQ"
+  },
+  "GA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Gabon",
+    "Lat": -0.8037,
+    "Long": 11.6094,
+    "hasParent": false,
+    "country_code": "GA",
+    "country_code3": "GAB",
+    "group": "GA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 44,
+        "recovered": 1,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GB": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "United Kingdom",
+    "Lat": 55.3781,
+    "Long": -3.436,
+    "hasParent": false,
+    "country_code": "GB",
+    "country_code3": "GBR",
+    "group": "GB",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 73758,
+        "recovered": 344,
+        "deaths": 8958,
+        "confirmed_new": 8681,
+        "recovered_new": 209,
+        "deaths_new": 980,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GD": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Grenada",
+    "Lat": 12.1165,
+    "Long": -61.679,
+    "hasParent": false,
+    "country_code": "GD",
+    "country_code3": "GRD",
+    "group": "GD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 14,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 2,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Georgia",
+    "Lat": 42.3154,
+    "Long": 43.3569,
+    "hasParent": false,
+    "country_code": "GE",
+    "country_code3": "GEO",
+    "group": "GE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 234,
+        "recovered": 54,
+        "deaths": 3,
+        "confirmed_new": 16,
+        "recovered_new": 3,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GF": {
+    "hasErrors": false,
+    "Province.State": "French Guiana",
+    "Country.Region": "France",
+    "Lat": 3.9339,
+    "Long": -53.1258,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "GF",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 83,
+        "recovered": 43,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "GF"
+  },
+  "GH": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Ghana",
+    "Lat": 7.9465,
+    "Long": -1.0232,
+    "hasParent": false,
+    "country_code": "GH",
+    "country_code3": "GHA",
+    "group": "GH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 378,
+        "recovered": 4,
+        "deaths": 6,
+        "confirmed_new": 0,
+        "recovered_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GI": {
+    "hasErrors": false,
+    "Province.State": "Gibraltar",
+    "Country.Region": "United Kingdom",
+    "Lat": 36.1408,
+    "Long": -5.3536,
+    "hasParent": true,
+    "country_code": "GB",
+    "country_code3": "GBR",
+    "group": "GI",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 127,
+        "recovered": 69,
+        "deaths": 0,
+        "confirmed_new": 4,
+        "recovered_new": 9,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "GI"
+  },
+  "GL": {
+    "hasErrors": false,
+    "Province.State": "Greenland",
+    "Country.Region": "Denmark",
+    "Lat": 71.7069,
+    "Long": -42.6043,
+    "hasParent": true,
+    "country_code": "DK",
+    "country_code3": "DNK",
+    "group": "GL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 11,
+        "recovered": 11,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "GL"
+  },
+  "GM": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Gambia",
+    "Lat": 13.4432,
+    "Long": -15.3101,
+    "hasParent": false,
+    "country_code": "GM",
+    "country_code3": "GMB",
+    "group": "GM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 4,
+        "recovered": 2,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GN": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Guinea",
+    "Lat": 9.9456,
+    "Long": -9.6966,
+    "hasParent": false,
+    "country_code": "GN",
+    "country_code3": "GIN",
+    "group": "GN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 212,
+        "recovered": 15,
+        "deaths": 0,
+        "confirmed_new": 18,
+        "recovered_new": 4,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GQ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Equatorial Guinea",
+    "Lat": 1.5,
+    "Long": 10,
+    "hasParent": false,
+    "country_code": "GQ",
+    "country_code3": "GNQ",
+    "group": "GQ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 18,
+        "recovered": 3,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Greece",
+    "Lat": 39.0742,
+    "Long": 21.8243,
+    "hasParent": false,
+    "country_code": "GR",
+    "country_code3": "GRC",
+    "group": "GR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2011,
+        "recovered": 269,
+        "deaths": 92,
+        "confirmed_new": 56,
+        "recovered_new": 0,
+        "deaths_new": 5,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GT": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Guatemala",
+    "Lat": 15.7835,
+    "Long": -90.2308,
+    "hasParent": false,
+    "country_code": "GT",
+    "country_code3": "GTM",
+    "group": "GT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 126,
+        "recovered": 17,
+        "deaths": 3,
+        "confirmed_new": 31,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GW": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Guinea-Bissau",
+    "Lat": 11.8037,
+    "Long": -15.1804,
+    "hasParent": false,
+    "country_code": "GW",
+    "country_code3": "GNB",
+    "group": "GW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 36,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "GY": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Guyana",
+    "Lat": 5,
+    "Long": -58.75,
+    "hasParent": false,
+    "country_code": "GY",
+    "country_code3": "GUY",
+    "group": "GY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 37,
+        "recovered": 8,
+        "deaths": 6,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "HN": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Honduras",
+    "Lat": 15.2,
+    "Long": -86.2419,
+    "hasParent": false,
+    "country_code": "HN",
+    "country_code3": "HND",
+    "group": "HN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 382,
+        "recovered": 7,
+        "deaths": 23,
+        "confirmed_new": 39,
+        "recovered_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "HR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Croatia",
+    "Lat": 45.1,
+    "Long": 15.2,
+    "hasParent": false,
+    "country_code": "HR",
+    "country_code3": "HRV",
+    "group": "HR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1495,
+        "recovered": 231,
+        "deaths": 21,
+        "confirmed_new": 88,
+        "recovered_new": 12,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "HT": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Haiti",
+    "Lat": 18.9712,
+    "Long": -72.2852,
+    "hasParent": false,
+    "country_code": "HT",
+    "country_code3": "HTI",
+    "group": "HT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 31,
+        "recovered": 0,
+        "deaths": 2,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "HU": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Hungary",
+    "Lat": 47.1625,
+    "Long": 19.5033,
+    "hasParent": false,
+    "country_code": "HU",
+    "country_code3": "HUN",
+    "group": "HU",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1190,
+        "recovered": 112,
+        "deaths": 77,
+        "confirmed_new": 210,
+        "recovered_new": 16,
+        "deaths_new": 11,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ID": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Indonesia",
+    "Lat": -0.7893,
+    "Long": 113.9213,
+    "hasParent": false,
+    "country_code": "ID",
+    "country_code3": "IDN",
+    "group": "ID",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 3512,
+        "recovered": 282,
+        "deaths": 306,
+        "confirmed_new": 219,
+        "recovered_new": 30,
+        "deaths_new": 26,
+        "hasErrors": false
+      }
+    ]
+  },
+  "IE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Ireland",
+    "Lat": 53.1424,
+    "Long": -7.6921,
+    "hasParent": false,
+    "country_code": "IE",
+    "country_code3": "IRL",
+    "group": "IE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 8089,
+        "recovered": 25,
+        "deaths": 287,
+        "confirmed_new": 1515,
+        "recovered_new": 0,
+        "deaths_new": 24,
+        "hasErrors": false
+      }
+    ]
+  },
+  "IL": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Israel",
+    "Lat": 31,
+    "Long": 35,
+    "hasParent": false,
+    "country_code": "IL",
+    "country_code3": "ISR",
+    "group": "IL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 10408,
+        "recovered": 1183,
+        "deaths": 95,
+        "confirmed_new": 440,
+        "recovered_new": 172,
+        "deaths_new": 9,
+        "hasErrors": false
+      }
+    ]
+  },
+  "IM": {
+    "hasErrors": false,
+    "Province.State": "Isle of Man",
+    "Country.Region": "United Kingdom",
+    "Lat": 54.2361,
+    "Long": -4.5481,
+    "hasParent": true,
+    "country_code": "GB",
+    "country_code3": "GBR",
+    "group": "IM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 201,
+        "recovered": 103,
+        "deaths": 1,
+        "confirmed_new": 11,
+        "recovered_new": 11,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "IM"
+  },
+  "IN": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "India",
+    "Lat": 21,
+    "Long": 78,
+    "hasParent": false,
+    "country_code": "IN",
+    "country_code3": "IND",
+    "group": "IN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 7598,
+        "recovered": 774,
+        "deaths": 246,
+        "confirmed_new": 873,
+        "recovered_new": 154,
+        "deaths_new": 20,
+        "hasErrors": false
+      }
+    ]
+  },
+  "IQ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Iraq",
+    "Lat": 33,
+    "Long": 44,
+    "hasParent": false,
+    "country_code": "IQ",
+    "country_code3": "IRQ",
+    "group": "IQ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1279,
+        "recovered": 550,
+        "deaths": 70,
+        "confirmed_new": 47,
+        "recovered_new": 54,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "IR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Iran",
+    "Lat": 32,
+    "Long": 53,
+    "hasParent": false,
+    "country_code": "IR",
+    "country_code3": "IRN",
+    "group": "IR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 68192,
+        "recovered": 35465,
+        "deaths": 4232,
+        "confirmed_new": 1972,
+        "recovered_new": 3156,
+        "deaths_new": 122,
+        "hasErrors": false
+      }
+    ]
+  },
+  "IS": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Iceland",
+    "Lat": 64.9631,
+    "Long": -19.0208,
+    "hasParent": false,
+    "country_code": "IS",
+    "country_code3": "ISL",
+    "group": "IS",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1675,
+        "recovered": 751,
+        "deaths": 7,
+        "confirmed_new": 27,
+        "recovered_new": 63,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "IT": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Italy",
+    "Lat": 43,
+    "Long": 12,
+    "hasParent": false,
+    "country_code": "IT",
+    "country_code3": "ITA",
+    "group": "IT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 147577,
+        "recovered": 30455,
+        "deaths": 18849,
+        "confirmed_new": 3951,
+        "recovered_new": 1985,
+        "deaths_new": 570,
+        "hasErrors": false
+      }
+    ]
+  },
+  "JM": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Jamaica",
+    "Lat": 18.1096,
+    "Long": -77.2975,
+    "hasParent": false,
+    "country_code": "JM",
+    "country_code3": "JAM",
+    "group": "JM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 63,
+        "recovered": 13,
+        "deaths": 4,
+        "confirmed_new": 0,
+        "recovered_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "JO": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Jordan",
+    "Lat": 31.24,
+    "Long": 36.51,
+    "hasParent": false,
+    "country_code": "JO",
+    "country_code3": "JOR",
+    "group": "JO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 372,
+        "recovered": 170,
+        "deaths": 7,
+        "confirmed_new": 0,
+        "recovered_new": 9,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "JP": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Japan",
+    "Lat": 36,
+    "Long": 138,
+    "hasParent": false,
+    "country_code": "JP",
+    "country_code3": "JPN",
+    "group": "JP",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 5530,
+        "recovered": 685,
+        "deaths": 99,
+        "confirmed_new": 863,
+        "recovered_new": 53,
+        "deaths_new": 5,
+        "hasErrors": false
+      }
+    ]
+  },
+  "KE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Kenya",
+    "Lat": -0.0236,
+    "Long": 37.9062,
+    "hasParent": false,
+    "country_code": "KE",
+    "country_code3": "KEN",
+    "group": "KE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 189,
+        "recovered": 22,
+        "deaths": 7,
+        "confirmed_new": 5,
+        "recovered_new": 10,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "KG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Kyrgyzstan",
+    "Lat": 41.2044,
+    "Long": 74.7661,
+    "hasParent": false,
+    "country_code": "KG",
+    "country_code3": "KGZ",
+    "group": "KG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 298,
+        "recovered": 35,
+        "deaths": 5,
+        "confirmed_new": 18,
+        "recovered_new": 0,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "KH": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Cambodia",
+    "Lat": 11.55,
+    "Long": 104.9167,
+    "hasParent": false,
+    "country_code": "KH",
+    "country_code3": "KHM",
+    "group": "KH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 119,
+        "recovered": 72,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 10,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "KN": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Saint Kitts and Nevis",
+    "Lat": 17.3578,
+    "Long": -62.783,
+    "hasParent": false,
+    "country_code": "KN",
+    "country_code3": "KNA",
+    "group": "KN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 12,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "KR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Korea, South",
+    "Lat": 36,
+    "Long": 128,
+    "hasParent": false,
+    "country_code": "KR",
+    "country_code3": "KOR",
+    "group": "KR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 10450,
+        "recovered": 7117,
+        "deaths": 208,
+        "confirmed_new": 27,
+        "recovered_new": 144,
+        "deaths_new": 4,
+        "hasErrors": false
+      }
+    ]
+  },
+  "KW": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Kuwait",
+    "Lat": 29.5,
+    "Long": 47.75,
+    "hasParent": false,
+    "country_code": "KW",
+    "country_code3": "KWT",
+    "group": "KW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 993,
+        "recovered": 123,
+        "deaths": 1,
+        "confirmed_new": 83,
+        "recovered_new": 12,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "KY": {
+    "hasErrors": false,
+    "Province.State": "Cayman Islands",
+    "Country.Region": "United Kingdom",
+    "Lat": 19.3133,
+    "Long": -81.2546,
+    "hasParent": true,
+    "country_code": "GB",
+    "country_code3": "GBR",
+    "group": "KY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 45,
+        "recovered": 6,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "KY"
+  },
+  "KZ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Kazakhstan",
+    "Lat": 48.0196,
+    "Long": 66.9237,
+    "hasParent": false,
+    "country_code": "KZ",
+    "country_code3": "KAZ",
+    "group": "KZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 812,
+        "recovered": 64,
+        "deaths": 10,
+        "confirmed_new": 31,
+        "recovered_new": 4,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Laos",
+    "Lat": 19.8563,
+    "Long": 102.4955,
+    "hasParent": false,
+    "country_code": "LA",
+    "country_code3": "LAO",
+    "group": "LA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 16,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LB": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Lebanon",
+    "Lat": 33.8547,
+    "Long": 35.8623,
+    "hasParent": false,
+    "country_code": "LB",
+    "country_code3": "LBN",
+    "group": "LB",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 609,
+        "recovered": 76,
+        "deaths": 20,
+        "confirmed_new": 27,
+        "recovered_new": 9,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LC": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Saint Lucia",
+    "Lat": 13.9094,
+    "Long": -60.9789,
+    "hasParent": false,
+    "country_code": "LC",
+    "country_code3": "LCA",
+    "group": "LC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 15,
+        "recovered": 1,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LI": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Liechtenstein",
+    "Lat": 47.14,
+    "Long": 9.55,
+    "hasParent": false,
+    "country_code": "LI",
+    "country_code3": "LIE",
+    "group": "LI",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 79,
+        "recovered": 55,
+        "deaths": 1,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LK": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Sri Lanka",
+    "Lat": 7,
+    "Long": 81,
+    "hasParent": false,
+    "country_code": "LK",
+    "country_code3": "LKA",
+    "group": "LK",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 190,
+        "recovered": 54,
+        "deaths": 7,
+        "confirmed_new": 0,
+        "recovered_new": 5,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Liberia",
+    "Lat": 6.4281,
+    "Long": -9.4295,
+    "hasParent": false,
+    "country_code": "LR",
+    "country_code3": "LBR",
+    "group": "LR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 37,
+        "recovered": 3,
+        "deaths": 5,
+        "confirmed_new": 6,
+        "recovered_new": 0,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LT": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Lithuania",
+    "Lat": 55.1694,
+    "Long": 23.8813,
+    "hasParent": false,
+    "country_code": "LT",
+    "country_code3": "LTU",
+    "group": "LT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 999,
+        "recovered": 54,
+        "deaths": 22,
+        "confirmed_new": 44,
+        "recovered_new": 46,
+        "deaths_new": 6,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LU": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Luxembourg",
+    "Lat": 49.8153,
+    "Long": 6.1296,
+    "hasParent": false,
+    "country_code": "LU",
+    "country_code3": "LUX",
+    "group": "LU",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 3223,
+        "recovered": 500,
+        "deaths": 54,
+        "confirmed_new": 108,
+        "recovered_new": 0,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LV": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Latvia",
+    "Lat": 56.8796,
+    "Long": 24.6032,
+    "hasParent": false,
+    "country_code": "LV",
+    "country_code3": "LVA",
+    "group": "LV",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 612,
+        "recovered": 16,
+        "deaths": 3,
+        "confirmed_new": 23,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "LY": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Libya",
+    "Lat": 26.3351,
+    "Long": 17.2283,
+    "hasParent": false,
+    "country_code": "LY",
+    "country_code3": "LBY",
+    "group": "LY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 24,
+        "recovered": 8,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Morocco",
+    "Lat": 31.7917,
+    "Long": -7.0926,
+    "hasParent": false,
+    "country_code": "MA",
+    "country_code3": "MAR",
+    "group": "MA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1448,
+        "recovered": 122,
+        "deaths": 107,
+        "confirmed_new": 74,
+        "recovered_new": 13,
+        "deaths_new": 10,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MC": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Monaco",
+    "Lat": 43.7333,
+    "Long": 7.4167,
+    "hasParent": false,
+    "country_code": "MC",
+    "country_code3": "MCO",
+    "group": "MC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 90,
+        "recovered": 5,
+        "deaths": 1,
+        "confirmed_new": 6,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MD": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Moldova",
+    "Lat": 47.4116,
+    "Long": 28.3699,
+    "hasParent": false,
+    "country_code": "MD",
+    "country_code3": "MDA",
+    "group": "MD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1438,
+        "recovered": 56,
+        "deaths": 29,
+        "confirmed_new": 149,
+        "recovered_new": 6,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ME": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Montenegro",
+    "Lat": 42.5,
+    "Long": 19.3,
+    "hasParent": false,
+    "country_code": "ME",
+    "country_code3": "MNE",
+    "group": "ME",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 255,
+        "recovered": 4,
+        "deaths": 2,
+        "confirmed_new": 3,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MF": {
+    "hasErrors": false,
+    "Province.State": "St Martin",
+    "Country.Region": "France",
+    "Lat": 18.0708,
+    "Long": -63.0501,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "MF",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 32,
+        "recovered": 11,
+        "deaths": 2,
+        "confirmed_new": 0,
+        "recovered_new": 4,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "MF"
+  },
+  "MG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Madagascar",
+    "Lat": -18.7669,
+    "Long": 46.8691,
+    "hasParent": false,
+    "country_code": "MG",
+    "country_code3": "MDG",
+    "group": "MG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 93,
+        "recovered": 11,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MK": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "North Macedonia",
+    "Lat": 41.6086,
+    "Long": 21.7453,
+    "hasParent": false,
+    "country_code": "MK",
+    "country_code3": "MKD",
+    "group": "MK",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 711,
+        "recovered": 41,
+        "deaths": 32,
+        "confirmed_new": 48,
+        "recovered_new": 4,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ML": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Mali",
+    "Lat": 17.5707,
+    "Long": -3.9962,
+    "hasParent": false,
+    "country_code": "ML",
+    "country_code3": "MLI",
+    "group": "ML",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 87,
+        "recovered": 22,
+        "deaths": 7,
+        "confirmed_new": 13,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MN": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Mongolia",
+    "Lat": 46.8625,
+    "Long": 103.8467,
+    "hasParent": false,
+    "country_code": "MN",
+    "country_code3": "MNG",
+    "group": "MN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 16,
+        "recovered": 4,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Mauritania",
+    "Lat": 21.0079,
+    "Long": 10.9408,
+    "hasParent": false,
+    "country_code": "MR",
+    "country_code3": "MRT",
+    "group": "MR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 7,
+        "recovered": 2,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MS": {
+    "hasErrors": false,
+    "Province.State": "Montserrat",
+    "Country.Region": "United Kingdom",
+    "Lat": 16.7425,
+    "Long": -62.1874,
+    "hasParent": true,
+    "country_code": "GB",
+    "country_code3": "GBR",
+    "group": "MS",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 9,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "MS"
+  },
+  "MT": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Malta",
+    "Lat": 35.9375,
+    "Long": 14.3754,
+    "hasParent": false,
+    "country_code": "MT",
+    "country_code3": "MLT",
+    "group": "MT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 350,
+        "recovered": 16,
+        "deaths": 2,
+        "confirmed_new": 13,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MU": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Mauritius",
+    "Lat": -20.2,
+    "Long": 57.5,
+    "hasParent": false,
+    "country_code": "MU",
+    "country_code3": "MUS",
+    "group": "MU",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 318,
+        "recovered": 23,
+        "deaths": 9,
+        "confirmed_new": 4,
+        "recovered_new": 0,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MV": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Maldives",
+    "Lat": 3.2028,
+    "Long": 73.2207,
+    "hasParent": false,
+    "country_code": "MV",
+    "country_code3": "MDV",
+    "group": "MV",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 19,
+        "recovered": 13,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MW": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Malawi",
+    "Lat": -13.2543,
+    "Long": 34.3015,
+    "hasParent": false,
+    "country_code": "MW",
+    "country_code3": "MWI",
+    "group": "MW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 9,
+        "recovered": 0,
+        "deaths": 1,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MX": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Mexico",
+    "Lat": 23.6345,
+    "Long": -102.5528,
+    "hasParent": false,
+    "country_code": "MX",
+    "country_code3": "MEX",
+    "group": "MX",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 3441,
+        "recovered": 633,
+        "deaths": 194,
+        "confirmed_new": 260,
+        "recovered_new": 0,
+        "deaths_new": 20,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MY": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Malaysia",
+    "Lat": 2.5,
+    "Long": 112.5,
+    "hasParent": false,
+    "country_code": "MY",
+    "country_code3": "MYS",
+    "group": "MY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 4346,
+        "recovered": 1830,
+        "deaths": 70,
+        "confirmed_new": 118,
+        "recovered_new": 222,
+        "deaths_new": 3,
+        "hasErrors": false
+      }
+    ]
+  },
+  "MZ": {
+    "hasErrors": true,
+    "Province.State": "",
+    "Country.Region": "Mozambique",
+    "Lat": -18.6657,
+    "Long": 35.5296,
+    "hasParent": false,
+    "country_code": "MZ",
+    "country_code3": "MOZ",
+    "group": "MZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 20,
+        "deaths": 0,
+        "hasErrors": true
+      },
+      {
+        "date": "2020-04-10",
+        "recovered": 2,
+        "hasErrors": true
+      }
+    ]
+  },
+  "NA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Namibia",
+    "Lat": -22.9576,
+    "Long": 18.4904,
+    "hasParent": false,
+    "country_code": "NA",
+    "country_code3": "NAM",
+    "group": "NA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 16,
+        "recovered": 3,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "NC": {
+    "hasErrors": false,
+    "Province.State": "New Caledonia",
+    "Country.Region": "France",
+    "Lat": -20.9043,
+    "Long": 165.618,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "NC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 18,
+        "recovered": 1,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "NC"
+  },
+  "NE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Niger",
+    "Lat": 17.6078,
+    "Long": 8.0817,
+    "hasParent": false,
+    "country_code": "NE",
+    "country_code3": "NER",
+    "group": "NE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 438,
+        "recovered": 41,
+        "deaths": 11,
+        "confirmed_new": 28,
+        "recovered_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "NG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Nigeria",
+    "Lat": 9.082,
+    "Long": 8.6753,
+    "hasParent": false,
+    "country_code": "NG",
+    "country_code3": "NGA",
+    "group": "NG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 305,
+        "recovered": 58,
+        "deaths": 7,
+        "confirmed_new": 17,
+        "recovered_new": 7,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "NI": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Nicaragua",
+    "Lat": 12.8654,
+    "Long": -85.2072,
+    "hasParent": false,
+    "country_code": "NI",
+    "country_code3": "NIC",
+    "group": "NI",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 7,
+        "recovered": 0,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "NL": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Netherlands",
+    "Lat": 52.1326,
+    "Long": 5.2913,
+    "hasParent": false,
+    "country_code": "NL",
+    "country_code3": "NLD",
+    "group": "NL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 23097,
+        "recovered": 250,
+        "deaths": 2511,
+        "confirmed_new": 1335,
+        "recovered_new": 0,
+        "deaths_new": 115,
+        "hasErrors": false
+      }
+    ]
+  },
+  "NL-AW": {
+    "hasErrors": false,
+    "Province.State": "Aruba",
+    "Country.Region": "Netherlands",
+    "Lat": 12.5186,
+    "Long": -70.0358,
+    "hasParent": true,
+    "country_code": "NL",
+    "country_code3": "NLD",
+    "group": "NL-AW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 86,
+        "recovered": 27,
+        "deaths": 0,
+        "confirmed_new": 4,
+        "recovered_new": 7,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "NL-AW"
+  },
+  "NL-SX": {
+    "hasErrors": false,
+    "Province.State": "Sint Maarten",
+    "Country.Region": "Netherlands",
+    "Lat": 18.0425,
+    "Long": -63.0548,
+    "hasParent": true,
+    "country_code": "NL",
+    "country_code3": "NLD",
+    "group": "NL-SX",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 50,
+        "recovered": 3,
+        "deaths": 8,
+        "confirmed_new": 7,
+        "recovered_new": 2,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "NL-SX"
+  },
+  "NO": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Norway",
+    "Lat": 60.472,
+    "Long": 8.4689,
+    "hasParent": false,
+    "country_code": "NO",
+    "country_code3": "NOR",
+    "group": "NO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 6314,
+        "recovered": 32,
+        "deaths": 113,
+        "confirmed_new": 103,
+        "recovered_new": 0,
+        "deaths_new": 5,
+        "hasErrors": false
+      }
+    ]
+  },
+  "NP": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Nepal",
+    "Lat": 28.1667,
+    "Long": 84.25,
+    "hasParent": false,
+    "country_code": "NP",
+    "country_code3": "NPL",
+    "group": "NP",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 9,
+        "recovered": 1,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "NZ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "New Zealand",
+    "Lat": -40.9006,
+    "Long": 174.886,
+    "hasParent": false,
+    "country_code": "NZ",
+    "country_code3": "NZL",
+    "group": "NZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1283,
+        "recovered": 373,
+        "deaths": 2,
+        "confirmed_new": 44,
+        "recovered_new": 56,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "OM": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Oman",
+    "Lat": 21,
+    "Long": 57,
+    "hasParent": false,
+    "country_code": "OM",
+    "country_code3": "OMN",
+    "group": "OM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 484,
+        "recovered": 109,
+        "deaths": 3,
+        "confirmed_new": 27,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "PA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Panama",
+    "Lat": 8.538,
+    "Long": -80.7821,
+    "hasParent": false,
+    "country_code": "PA",
+    "country_code3": "PAN",
+    "group": "PA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2752,
+        "recovered": 16,
+        "deaths": 66,
+        "confirmed_new": 224,
+        "recovered_new": 0,
+        "deaths_new": 3,
+        "hasErrors": false
+      }
+    ]
+  },
+  "PE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Peru",
+    "Lat": -9.19,
+    "Long": -75.0152,
+    "hasParent": false,
+    "country_code": "PE",
+    "country_code3": "PER",
+    "group": "PE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 5897,
+        "recovered": 1569,
+        "deaths": 169,
+        "confirmed_new": 641,
+        "recovered_new": 131,
+        "deaths_new": 31,
+        "hasErrors": false
+      }
+    ]
+  },
+  "PF": {
+    "hasErrors": false,
+    "Province.State": "French Polynesia",
+    "Country.Region": "France",
+    "Lat": -17.6797,
+    "Long": 149.4068,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "PF",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 51,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "PF"
+  },
+  "PG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Papua New Guinea",
+    "Lat": -6.315,
+    "Long": 143.9555,
+    "hasParent": false,
+    "country_code": "PG",
+    "country_code3": "PNG",
+    "group": "PG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "PH": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Philippines",
+    "Lat": 13,
+    "Long": 122,
+    "hasParent": false,
+    "country_code": "PH",
+    "country_code3": "PHL",
+    "group": "PH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 4195,
+        "recovered": 140,
+        "deaths": 221,
+        "confirmed_new": 119,
+        "recovered_new": 16,
+        "deaths_new": 18,
+        "hasErrors": false
+      }
+    ]
+  },
+  "PK": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Pakistan",
+    "Lat": 30.3753,
+    "Long": 69.3451,
+    "hasParent": false,
+    "country_code": "PK",
+    "country_code3": "PAK",
+    "group": "PK",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 4695,
+        "recovered": 727,
+        "deaths": 66,
+        "confirmed_new": 206,
+        "recovered_new": 155,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "PL": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Poland",
+    "Lat": 51.9194,
+    "Long": 19.1451,
+    "hasParent": false,
+    "country_code": "PL",
+    "country_code3": "POL",
+    "group": "PL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 5955,
+        "recovered": 318,
+        "deaths": 181,
+        "confirmed_new": 380,
+        "recovered_new": 34,
+        "deaths_new": 7,
+        "hasErrors": false
+      }
+    ]
+  },
+  "PM": {
+    "hasErrors": false,
+    "Province.State": "Saint Pierre and Miquelon",
+    "Country.Region": "France",
+    "Lat": 46.8852,
+    "Long": -56.3159,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "PM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "PM"
+  },
+  "PT": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Portugal",
+    "Lat": 39.3999,
+    "Long": -8.2245,
+    "hasParent": false,
+    "country_code": "PT",
+    "country_code3": "PRT",
+    "group": "PT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 15472,
+        "recovered": 233,
+        "deaths": 435,
+        "confirmed_new": 1516,
+        "recovered_new": 28,
+        "deaths_new": 26,
+        "hasErrors": false
+      }
+    ]
+  },
+  "PY": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Paraguay",
+    "Lat": -23.4425,
+    "Long": -58.4438,
+    "hasParent": false,
+    "country_code": "PY",
+    "country_code3": "PRY",
+    "group": "PY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 129,
+        "recovered": 18,
+        "deaths": 6,
+        "confirmed_new": 5,
+        "recovered_new": 0,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "QA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Qatar",
+    "Lat": 25.3548,
+    "Long": 51.1839,
+    "hasParent": false,
+    "country_code": "QA",
+    "country_code3": "QAT",
+    "group": "QA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2512,
+        "recovered": 227,
+        "deaths": 6,
+        "confirmed_new": 136,
+        "recovered_new": 21,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "RE": {
+    "hasErrors": false,
+    "Province.State": "Reunion",
+    "Country.Region": "France",
+    "Lat": -21.1351,
+    "Long": 55.2471,
+    "hasParent": true,
+    "country_code": "FR",
+    "country_code3": "FRA",
+    "group": "RE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 382,
+        "recovered": 40,
+        "deaths": 0,
+        "confirmed_new": 20,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "RE"
+  },
+  "RO": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Romania",
+    "Lat": 45.9432,
+    "Long": 24.9668,
+    "hasParent": false,
+    "country_code": "RO",
+    "country_code3": "ROU",
+    "group": "RO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 5467,
+        "recovered": 729,
+        "deaths": 270,
+        "confirmed_new": 265,
+        "recovered_new": 82,
+        "deaths_new": 22,
+        "hasErrors": false
+      }
+    ]
+  },
+  "RS": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Serbia",
+    "Lat": 44.0165,
+    "Long": 21.0059,
+    "hasParent": false,
+    "country_code": "RS",
+    "country_code3": "SRB",
+    "group": "RS",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 3105,
+        "recovered": 0,
+        "deaths": 71,
+        "confirmed_new": 238,
+        "recovered_new": 0,
+        "deaths_new": 5,
+        "hasErrors": false
+      }
+    ]
+  },
+  "RU": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Russia",
+    "Lat": 60,
+    "Long": 90,
+    "hasParent": false,
+    "country_code": "RU",
+    "country_code3": "RUS",
+    "group": "RU",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 11917,
+        "recovered": 795,
+        "deaths": 94,
+        "confirmed_new": 1786,
+        "recovered_new": 97,
+        "deaths_new": 18,
+        "hasErrors": false
+      }
+    ]
+  },
+  "RW": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Rwanda",
+    "Lat": -1.9403,
+    "Long": 29.8739,
+    "hasParent": false,
+    "country_code": "RW",
+    "country_code3": "RWA",
+    "group": "RW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 118,
+        "recovered": 7,
+        "deaths": 0,
+        "confirmed_new": 8,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Saudi Arabia",
+    "Lat": 24,
+    "Long": 45,
+    "hasParent": false,
+    "country_code": "SA",
+    "country_code3": "SAU",
+    "group": "SA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 3651,
+        "recovered": 685,
+        "deaths": 47,
+        "confirmed_new": 364,
+        "recovered_new": 19,
+        "deaths_new": 3,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SC": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Seychelles",
+    "Lat": -4.6796,
+    "Long": 55.492,
+    "hasParent": false,
+    "country_code": "SC",
+    "country_code3": "SYC",
+    "group": "SC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 11,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SD": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Sudan",
+    "Lat": 12.8628,
+    "Long": 30.2176,
+    "hasParent": false,
+    "country_code": "SD",
+    "country_code3": "SDN",
+    "group": "SD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 17,
+        "recovered": 2,
+        "deaths": 2,
+        "confirmed_new": 2,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Sweden",
+    "Lat": 63,
+    "Long": 16,
+    "hasParent": false,
+    "country_code": "SE",
+    "country_code3": "SWE",
+    "group": "SE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 9685,
+        "recovered": 381,
+        "deaths": 870,
+        "confirmed_new": 544,
+        "recovered_new": 176,
+        "deaths_new": 77,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Singapore",
+    "Lat": 1.2833,
+    "Long": 103.8333,
+    "hasParent": false,
+    "country_code": "SG",
+    "country_code3": "SGP",
+    "group": "SG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2108,
+        "recovered": 492,
+        "deaths": 7,
+        "confirmed_new": 198,
+        "recovered_new": 32,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SI": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Slovenia",
+    "Lat": 46.1512,
+    "Long": 14.9955,
+    "hasParent": false,
+    "country_code": "SI",
+    "country_code3": "SVN",
+    "group": "SI",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1160,
+        "recovered": 137,
+        "deaths": 45,
+        "confirmed_new": 36,
+        "recovered_new": 9,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SK": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Slovakia",
+    "Lat": 48.669,
+    "Long": 19.699,
+    "hasParent": false,
+    "country_code": "SK",
+    "country_code3": "SVK",
+    "group": "SK",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 715,
+        "recovered": 23,
+        "deaths": 2,
+        "confirmed_new": 14,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SL": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Sierra Leone",
+    "Lat": 8.4606,
+    "Long": -11.7799,
+    "hasParent": false,
+    "country_code": "SL",
+    "country_code3": "SLE",
+    "group": "SL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 8,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SM": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "San Marino",
+    "Lat": 43.9424,
+    "Long": 12.4578,
+    "hasParent": false,
+    "country_code": "SM",
+    "country_code3": "SMR",
+    "group": "SM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 344,
+        "recovered": 50,
+        "deaths": 34,
+        "confirmed_new": 11,
+        "recovered_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SN": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Senegal",
+    "Lat": 14.4974,
+    "Long": -14.4524,
+    "hasParent": false,
+    "country_code": "SN",
+    "country_code3": "SEN",
+    "group": "SN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 265,
+        "recovered": 137,
+        "deaths": 2,
+        "confirmed_new": 15,
+        "recovered_new": 14,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SO": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Somalia",
+    "Lat": 5.1521,
+    "Long": 46.1996,
+    "hasParent": false,
+    "country_code": "SO",
+    "country_code3": "SOM",
+    "group": "SO",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 21,
+        "recovered": 1,
+        "deaths": 1,
+        "confirmed_new": 9,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Suriname",
+    "Lat": 3.9193,
+    "Long": -56.0278,
+    "hasParent": false,
+    "country_code": "SR",
+    "country_code3": "SUR",
+    "group": "SR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 10,
+        "recovered": 4,
+        "deaths": 1,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SS": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "South Sudan",
+    "Lat": 6.877,
+    "Long": 31.307,
+    "hasParent": false,
+    "country_code": "SS",
+    "country_code3": "SSD",
+    "group": "SS",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 4,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ST": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Sao Tome and Principe",
+    "Lat": 0.1864,
+    "Long": 6.6131,
+    "hasParent": false,
+    "country_code": "ST",
+    "country_code3": "STP",
+    "group": "ST",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 4,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SV": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "El Salvador",
+    "Lat": 13.7942,
+    "Long": -88.8965,
+    "hasParent": false,
+    "country_code": "SV",
+    "country_code3": "SLV",
+    "group": "SV",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 117,
+        "recovered": 15,
+        "deaths": 6,
+        "confirmed_new": 14,
+        "recovered_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "SY": {
+    "hasErrors": true,
+    "Province.State": "",
+    "Country.Region": "Syria",
+    "Lat": 34.8021,
+    "Long": 38.9968,
+    "hasParent": false,
+    "country_code": "SY",
+    "country_code3": "SYR",
+    "group": "SY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 19,
+        "deaths": 2,
+        "hasErrors": true
+      },
+      {
+        "date": "2020-04-10",
+        "recovered": 4,
+        "hasErrors": true
+      }
+    ]
+  },
+  "SZ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Eswatini",
+    "Lat": -26.5225,
+    "Long": 31.4659,
+    "hasParent": false,
+    "country_code": "SZ",
+    "country_code3": "SWZ",
+    "group": "SZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 12,
+        "recovered": 7,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "TC": {
+    "hasErrors": true,
+    "Province.State": "Turks and Caicos Islands",
+    "Country.Region": "United Kingdom",
+    "Lat": 21.694,
+    "Long": -71.7979,
+    "hasParent": true,
+    "country_code": "GB",
+    "country_code3": "GBR",
+    "group": "TC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 8,
+        "hasErrors": true
+      },
+      {
+        "date": "2020-04-10",
+        "recovered": 0,
+        "deaths": 1,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "TC"
+  },
+  "TD": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Chad",
+    "Lat": 15.4542,
+    "Long": 18.7322,
+    "hasParent": false,
+    "country_code": "TD",
+    "country_code3": "TCD",
+    "group": "TD",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 11,
+        "recovered": 2,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "TG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Togo",
+    "Lat": 8.6195,
+    "Long": 0.8248,
+    "hasParent": false,
+    "country_code": "TG",
+    "country_code3": "TGO",
+    "group": "TG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 76,
+        "recovered": 25,
+        "deaths": 3,
+        "confirmed_new": 3,
+        "recovered_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "TH": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Thailand",
+    "Lat": 15,
+    "Long": 101,
+    "hasParent": false,
+    "country_code": "TH",
+    "country_code3": "THA",
+    "group": "TH",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2473,
+        "recovered": 1013,
+        "deaths": 33,
+        "confirmed_new": 50,
+        "recovered_new": 73,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "TL": {
+    "hasErrors": true,
+    "Province.State": "",
+    "Country.Region": "Timor-Leste",
+    "Lat": -8.8742,
+    "Long": 125.7275,
+    "hasParent": false,
+    "country_code": "TL",
+    "country_code3": "TLS",
+    "group": "TL",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2,
+        "deaths": 0,
+        "hasErrors": true
+      },
+      {
+        "date": "2020-04-10",
+        "recovered": 1,
+        "hasErrors": true
+      }
+    ]
+  },
+  "TN": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Tunisia",
+    "Lat": 34,
+    "Long": 9,
+    "hasParent": false,
+    "country_code": "TN",
+    "country_code3": "TUN",
+    "group": "TN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 671,
+        "recovered": 25,
+        "deaths": 25,
+        "confirmed_new": 28,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "TR": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Turkey",
+    "Lat": 38.9637,
+    "Long": 35.2433,
+    "hasParent": false,
+    "country_code": "TR",
+    "country_code3": "TUR",
+    "group": "TR",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 47029,
+        "recovered": 2423,
+        "deaths": 1006,
+        "confirmed_new": 4747,
+        "recovered_new": 281,
+        "deaths_new": 98,
+        "hasErrors": false
+      }
+    ]
+  },
+  "TT": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Trinidad and Tobago",
+    "Lat": 10.6918,
+    "Long": -61.2225,
+    "hasParent": false,
+    "country_code": "TT",
+    "country_code3": "TTO",
+    "group": "TT",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 109,
+        "recovered": 1,
+        "deaths": 8,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "TW": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Taiwan*",
+    "Lat": 23.7,
+    "Long": 121,
+    "hasParent": false,
+    "country_code": "TW",
+    "country_code3": "TWN",
+    "group": "TW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 382,
+        "recovered": 91,
+        "deaths": 6,
+        "confirmed_new": 2,
+        "recovered_new": 24,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "TZ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Tanzania",
+    "Lat": -6.369,
+    "Long": 34.8888,
+    "hasParent": false,
+    "country_code": "TZ",
+    "country_code3": "TZA",
+    "group": "TZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 32,
+        "recovered": 5,
+        "deaths": 3,
+        "confirmed_new": 7,
+        "recovered_new": 0,
+        "deaths_new": 2,
+        "hasErrors": false
+      }
+    ]
+  },
+  "UA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Ukraine",
+    "Lat": 48.3794,
+    "Long": 31.1656,
+    "hasParent": false,
+    "country_code": "UA",
+    "country_code3": "UKR",
+    "group": "UA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2203,
+        "recovered": 61,
+        "deaths": 69,
+        "confirmed_new": 311,
+        "recovered_new": 16,
+        "deaths_new": 12,
+        "hasErrors": false
+      }
+    ]
+  },
+  "UG": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Uganda",
+    "Lat": 1,
+    "Long": 32,
+    "hasParent": false,
+    "country_code": "UG",
+    "country_code3": "UGA",
+    "group": "UG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 53,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "US": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "US",
+    "Lat": 37.0902,
+    "Long": -95.7129,
+    "hasParent": false,
+    "country_code": "US",
+    "country_code3": "USA",
+    "group": "US",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 496535,
+        "recovered": 28790,
+        "deaths": 18586,
+        "confirmed_new": 35098,
+        "recovered_new": 3380,
+        "deaths_new": 2108,
+        "hasErrors": false
+      }
+    ]
+  },
+  "UY": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Uruguay",
+    "Lat": -32.5228,
+    "Long": -55.7658,
+    "hasParent": false,
+    "country_code": "UY",
+    "country_code3": "URY",
+    "group": "UY",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 473,
+        "recovered": 206,
+        "deaths": 7,
+        "confirmed_new": 17,
+        "recovered_new": 14,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "UZ": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Uzbekistan",
+    "Lat": 41.3775,
+    "Long": 64.5853,
+    "hasParent": false,
+    "country_code": "UZ",
+    "country_code3": "UZB",
+    "group": "UZ",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 624,
+        "recovered": 42,
+        "deaths": 3,
+        "confirmed_new": 42,
+        "recovered_new": 4,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "VA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Holy See",
+    "Lat": 41.9029,
+    "Long": 12.4534,
+    "hasParent": false,
+    "country_code": "VA",
+    "country_code3": "VAT",
+    "group": "VA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 8,
+        "recovered": 2,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "VC": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Saint Vincent and the Grenadines",
+    "Lat": 12.9843,
+    "Long": -61.2872,
+    "hasParent": false,
+    "country_code": "VC",
+    "country_code3": "VCT",
+    "group": "VC",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 12,
+        "recovered": 1,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "VE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Venezuela",
+    "Lat": 6.4238,
+    "Long": -66.5897,
+    "hasParent": false,
+    "country_code": "VE",
+    "country_code3": "VEN",
+    "group": "VE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 171,
+        "recovered": 84,
+        "deaths": 9,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "VG": {
+    "hasErrors": false,
+    "Province.State": "British Virgin Islands",
+    "Country.Region": "United Kingdom",
+    "Lat": 18.4207,
+    "Long": -64.64,
+    "hasParent": true,
+    "country_code": "GB",
+    "country_code3": "GBR",
+    "group": "VG",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 3,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "VG"
+  },
+  "VN": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Vietnam",
+    "Lat": 16,
+    "Long": 108,
+    "hasParent": false,
+    "country_code": "VN",
+    "country_code3": "VNM",
+    "group": "VN",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 257,
+        "recovered": 144,
+        "deaths": 0,
+        "confirmed_new": 2,
+        "recovered_new": 16,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "YE": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Yemen",
+    "Lat": 15.5527,
+    "Long": 48.5164,
+    "hasParent": false,
+    "country_code": "YE",
+    "country_code3": "YEM",
+    "group": "YE",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 1,
+        "recovered": 0,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ZA": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "South Africa",
+    "Lat": -30.5595,
+    "Long": 22.9375,
+    "hasParent": false,
+    "country_code": "ZA",
+    "country_code3": "ZAF",
+    "group": "ZA",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 2003,
+        "recovered": 410,
+        "deaths": 24,
+        "confirmed_new": 69,
+        "recovered_new": 315,
+        "deaths_new": 6,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ZM": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Zambia",
+    "Lat": -15.4167,
+    "Long": 28.2833,
+    "hasParent": false,
+    "country_code": "ZM",
+    "country_code3": "ZMB",
+    "group": "ZM",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 40,
+        "recovered": 25,
+        "deaths": 2,
+        "confirmed_new": 1,
+        "recovered_new": 1,
+        "deaths_new": 1,
+        "hasErrors": false
+      }
+    ]
+  },
+  "ZW": {
+    "hasErrors": false,
+    "Province.State": "",
+    "Country.Region": "Zimbabwe",
+    "Lat": -20,
+    "Long": 30,
+    "hasParent": false,
+    "country_code": "ZW",
+    "country_code3": "ZWE",
+    "group": "ZW",
+    "timeseries": [
+      {
+        "date": "2020-04-10",
+        "confirmed": 13,
+        "recovered": 0,
+        "deaths": 3,
+        "confirmed_new": 2,
+        "recovered_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ]
+  }
+}

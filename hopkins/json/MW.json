@@ -4,8 +4,9 @@
   "Country.Region": "Malawi",
   "Lat": -13.2543,
   "Long": 34.3015,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MW",
+  "country_code3": "MWI",
   "group": "MW",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 0,
       "deaths": 1,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 9,
+      "recovered": 0,
+      "deaths": 1,
+      "confirmed_new": 1,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

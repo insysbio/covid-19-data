@@ -4,8 +4,9 @@
   "Country.Region": "Italy",
   "Lat": 43,
   "Long": 12,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "IT",
+  "country_code3": "ITA",
   "group": "IT",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 4204,
       "recovered_new": 1979,
       "deaths_new": 610,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 147577,
+      "recovered": 30455,
+      "deaths": 18849,
+      "confirmed_new": 3951,
+      "recovered_new": 1985,
+      "deaths_new": 570,
       "hasErrors": false
     }
   ]

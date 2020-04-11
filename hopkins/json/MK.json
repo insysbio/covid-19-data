@@ -4,8 +4,9 @@
   "Country.Region": "North Macedonia",
   "Lat": 41.6086,
   "Long": 21.7453,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MK",
+  "country_code3": "MKD",
   "group": "MK",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 46,
       "recovered_new": 2,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 711,
+      "recovered": 41,
+      "deaths": 32,
+      "confirmed_new": 48,
+      "recovered_new": 4,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ]

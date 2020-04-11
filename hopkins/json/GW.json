@@ -4,8 +4,9 @@
   "Country.Region": "Guinea-Bissau",
   "Lat": 11.8037,
   "Long": -15.1804,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "GW",
+  "country_code3": "GNB",
   "group": "GW",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 0,
       "deaths": 0,
       "confirmed_new": 3,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 36,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

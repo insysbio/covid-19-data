@@ -4,8 +4,9 @@
   "Country.Region": "Ethiopia",
   "Lat": 9.145,
   "Long": 40.4897,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "ET",
+  "country_code3": "ETH",
   "group": "ET",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 1,
       "recovered_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 65,
+      "recovered": 4,
+      "deaths": 3,
+      "confirmed_new": 9,
+      "recovered_new": 0,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

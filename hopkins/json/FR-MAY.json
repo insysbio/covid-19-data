@@ -4,8 +4,9 @@
   "Country.Region": "France",
   "Lat": -12.8275,
   "Long": 45.1662,
-  "isTerritory": true,
+  "hasParent": true,
   "country_code": "FR",
+  "country_code3": "FRA",
   "group": "FR-MAY",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 2,
       "confirmed_new": 13,
       "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 191,
+      "recovered": 50,
+      "deaths": 2,
+      "confirmed_new": 7,
+      "recovered_new": 28,
       "deaths_new": 0,
       "hasErrors": false
     }

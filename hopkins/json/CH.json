@@ -4,8 +4,9 @@
   "Country.Region": "Switzerland",
   "Lat": 46.8182,
   "Long": 8.2275,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "CH",
+  "country_code3": "CHE",
   "group": "CH",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 771,
       "recovered_new": 800,
       "deaths_new": 53,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 24551,
+      "recovered": 11100,
+      "deaths": 1002,
+      "confirmed_new": 500,
+      "recovered_new": 500,
+      "deaths_new": 54,
       "hasErrors": false
     }
   ]

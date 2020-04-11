@@ -4,8 +4,9 @@
   "Country.Region": "Estonia",
   "Lat": 58.5953,
   "Long": 25.0136,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "EE",
+  "country_code3": "EST",
   "group": "EE",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 24,
       "confirmed_new": 22,
       "recovered_new": 11,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1258,
+      "recovered": 93,
+      "deaths": 24,
+      "confirmed_new": 51,
+      "recovered_new": 10,
       "deaths_new": 0,
       "hasErrors": false
     }

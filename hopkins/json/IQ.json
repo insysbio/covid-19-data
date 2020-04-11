@@ -4,8 +4,9 @@
   "Country.Region": "Iraq",
   "Lat": 33,
   "Long": 44,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "IQ",
+  "country_code3": "IRQ",
   "group": "IQ",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 30,
       "recovered_new": 44,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1279,
+      "recovered": 550,
+      "deaths": 70,
+      "confirmed_new": 47,
+      "recovered_new": 54,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

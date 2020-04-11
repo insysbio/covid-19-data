@@ -4,8 +4,9 @@
   "Country.Region": "Bosnia and Herzegovina",
   "Lat": 43.9159,
   "Long": 17.6791,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BA",
+  "country_code3": "BIH",
   "group": "BA",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 35,
       "confirmed_new": 54,
       "recovered_new": 22,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 901,
+      "recovered": 129,
+      "deaths": 36,
+      "confirmed_new": 43,
+      "recovered_new": 28,
       "deaths_new": 1,
       "hasErrors": false
     }

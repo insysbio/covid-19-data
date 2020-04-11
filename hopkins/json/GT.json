@@ -4,8 +4,9 @@
   "Country.Region": "Guatemala",
   "Lat": 15.7835,
   "Long": -90.2308,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "GT",
+  "country_code3": "GTM",
   "group": "GT",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 17,
       "deaths": 3,
       "confirmed_new": 8,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 126,
+      "recovered": 17,
+      "deaths": 3,
+      "confirmed_new": 31,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

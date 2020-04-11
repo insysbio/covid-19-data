@@ -4,8 +4,9 @@
   "Country.Region": "Turkey",
   "Lat": 38.9637,
   "Long": 35.2433,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "TR",
+  "country_code3": "TUR",
   "group": "TR",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 4056,
       "recovered_new": 296,
       "deaths_new": 96,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 47029,
+      "recovered": 2423,
+      "deaths": 1006,
+      "confirmed_new": 4747,
+      "recovered_new": 281,
+      "deaths_new": 98,
       "hasErrors": false
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Spain",
   "Lat": 40,
   "Long": -4,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "ES",
+  "country_code3": "ESP",
   "group": "ES",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 5002,
       "recovered_new": 4144,
       "deaths_new": 655,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 158273,
+      "recovered": 55668,
+      "deaths": 16081,
+      "confirmed_new": 5051,
+      "recovered_new": 3503,
+      "deaths_new": 634,
       "hasErrors": false
     }
   ]

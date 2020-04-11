@@ -4,8 +4,9 @@
   "Country.Region": "Denmark",
   "Lat": 56.2639,
   "Long": 9.5018,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "DK",
+  "country_code3": "DNK",
   "group": "DK",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 233,
       "recovered_new": 115,
       "deaths_new": 19,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 5819,
+      "recovered": 1773,
+      "deaths": 247,
+      "confirmed_new": 184,
+      "recovered_new": 37,
+      "deaths_new": 10,
       "hasErrors": false
     }
   ]

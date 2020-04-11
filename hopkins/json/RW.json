@@ -4,8 +4,9 @@
   "Country.Region": "Rwanda",
   "Lat": -1.9403,
   "Long": 29.8739,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "RW",
+  "country_code3": "RWA",
   "group": "RW",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 7,
       "deaths": 0,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 118,
+      "recovered": 7,
+      "deaths": 0,
+      "confirmed_new": 8,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

@@ -4,8 +4,9 @@
   "Country.Region": "Uruguay",
   "Lat": -32.5228,
   "Long": -55.7658,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "UY",
+  "country_code3": "URY",
   "group": "UY",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 7,
       "confirmed_new": 32,
       "recovered_new": 42,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 473,
+      "recovered": 206,
+      "deaths": 7,
+      "confirmed_new": 17,
+      "recovered_new": 14,
       "deaths_new": 0,
       "hasErrors": false
     }

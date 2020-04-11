@@ -4,8 +4,9 @@
   "Country.Region": "Mozambique",
   "Lat": -18.6657,
   "Long": 35.5296,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MZ",
+  "country_code3": "MOZ",
   "group": "MZ",
   "timeseries": [
     {
@@ -877,6 +878,17 @@
     {
       "date": "2020-04-09",
       "recovered": 1,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 20,
+      "deaths": 0,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-04-10",
+      "recovered": 2,
       "hasErrors": true
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Maldives",
   "Lat": 3.2028,
   "Long": 73.2207,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MV",
+  "country_code3": "MDV",
   "group": "MV",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 19,
+      "recovered": 13,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 19,
       "recovered": 13,
       "deaths": 0,

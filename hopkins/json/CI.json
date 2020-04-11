@@ -4,8 +4,9 @@
   "Country.Region": "Cote d'Ivoire",
   "Lat": 7.54,
   "Long": -5.5471,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "CI",
+  "country_code3": "CIV",
   "group": "CI",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 3,
       "confirmed_new": 60,
       "recovered_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 444,
+      "recovered": 52,
+      "deaths": 3,
+      "confirmed_new": 0,
+      "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

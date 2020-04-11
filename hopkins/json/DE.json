@@ -4,8 +4,9 @@
   "Country.Region": "Germany",
   "Lat": 51,
   "Long": 9,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "DE",
+  "country_code3": "DEU",
   "group": "DE",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 4885,
       "recovered_new": 6107,
       "deaths_new": 258,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 122171,
+      "recovered": 53913,
+      "deaths": 2767,
+      "confirmed_new": 3990,
+      "recovered_new": 1506,
+      "deaths_new": 160,
       "hasErrors": false
     }
   ]

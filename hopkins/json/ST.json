@@ -4,8 +4,9 @@
   "Country.Region": "Sao Tome and Principe",
   "Lat": 0.1864,
   "Long": 6.6131,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "ST",
+  "country_code3": "STP",
   "group": "ST",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 4,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 4,
       "recovered": 0,
       "deaths": 0,

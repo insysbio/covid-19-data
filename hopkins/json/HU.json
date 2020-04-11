@@ -4,8 +4,9 @@
   "Country.Region": "Hungary",
   "Lat": 47.1625,
   "Long": 19.5033,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "HU",
+  "country_code3": "HUN",
   "group": "HU",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 85,
       "recovered_new": 2,
       "deaths_new": 8,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1190,
+      "recovered": 112,
+      "deaths": 77,
+      "confirmed_new": 210,
+      "recovered_new": 16,
+      "deaths_new": 11,
       "hasErrors": false
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Bangladesh",
   "Lat": 23.685,
   "Long": 90.3563,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BD",
+  "country_code3": "BGD",
   "group": "BD",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 112,
       "recovered_new": 0,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 424,
+      "recovered": 33,
+      "deaths": 27,
+      "confirmed_new": 94,
+      "recovered_new": 0,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ]

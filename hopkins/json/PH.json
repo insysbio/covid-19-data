@@ -4,8 +4,9 @@
   "Country.Region": "Philippines",
   "Lat": 13,
   "Long": 122,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "PH",
+  "country_code3": "PHL",
   "group": "PH",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 206,
       "recovered_new": 28,
       "deaths_new": 21,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 4195,
+      "recovered": 140,
+      "deaths": 221,
+      "confirmed_new": 119,
+      "recovered_new": 16,
+      "deaths_new": 18,
       "hasErrors": false
     }
   ]

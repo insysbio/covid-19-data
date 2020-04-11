@@ -4,8 +4,9 @@
   "Country.Region": "Azerbaijan",
   "Lat": 40.1431,
   "Long": 47.5769,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "AZ",
+  "country_code3": "AZE",
   "group": "AZ",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 9,
       "confirmed_new": 104,
       "recovered_new": 38,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 991,
+      "recovered": 159,
+      "deaths": 10,
+      "confirmed_new": 65,
+      "recovered_new": 58,
       "deaths_new": 1,
       "hasErrors": false
     }

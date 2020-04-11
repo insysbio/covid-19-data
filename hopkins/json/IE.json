@@ -4,8 +4,9 @@
   "Country.Region": "Ireland",
   "Lat": 53.1424,
   "Long": -7.6921,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "IE",
+  "country_code3": "IRL",
   "group": "IE",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 500,
       "recovered_new": 0,
       "deaths_new": 28,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 8089,
+      "recovered": 25,
+      "deaths": 287,
+      "confirmed_new": 1515,
+      "recovered_new": 0,
+      "deaths_new": 24,
       "hasErrors": false
     }
   ]

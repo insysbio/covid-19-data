@@ -4,8 +4,9 @@
   "Country.Region": "Barbados",
   "Lat": 13.1939,
   "Long": -59.5432,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BB",
+  "country_code3": "BRB",
   "group": "BB",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 3,
       "recovered_new": 3,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 67,
+      "recovered": 11,
+      "deaths": 4,
+      "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

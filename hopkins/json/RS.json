@@ -4,8 +4,9 @@
   "Country.Region": "Serbia",
   "Lat": 44.0165,
   "Long": 21.0059,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "RS",
+  "country_code3": "SRB",
   "group": "RS",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 201,
       "recovered_new": 0,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 3105,
+      "recovered": 0,
+      "deaths": 71,
+      "confirmed_new": 238,
+      "recovered_new": 0,
+      "deaths_new": 5,
       "hasErrors": false
     }
   ]

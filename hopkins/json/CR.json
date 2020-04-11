@@ -4,8 +4,9 @@
   "Country.Region": "Costa Rica",
   "Lat": 9.7489,
   "Long": -83.7534,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "CR",
+  "country_code3": "CRI",
   "group": "CR",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 3,
       "confirmed_new": 37,
       "recovered_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 558,
+      "recovered": 42,
+      "deaths": 3,
+      "confirmed_new": 19,
+      "recovered_new": 12,
       "deaths_new": 0,
       "hasErrors": false
     }

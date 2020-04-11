@@ -4,8 +4,9 @@
   "Country.Region": "Senegal",
   "Lat": 14.4974,
   "Long": -14.4524,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SN",
+  "country_code3": "SEN",
   "group": "SN",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 2,
       "confirmed_new": 6,
       "recovered_new": 10,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 265,
+      "recovered": 137,
+      "deaths": 2,
+      "confirmed_new": 15,
+      "recovered_new": 14,
       "deaths_new": 0,
       "hasErrors": false
     }

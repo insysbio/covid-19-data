@@ -4,8 +4,9 @@
   "Country.Region": "New Zealand",
   "Lat": -40.9006,
   "Long": 174.886,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "NZ",
+  "country_code3": "NZL",
   "group": "NZ",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 29,
       "recovered_new": 35,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1283,
+      "recovered": 373,
+      "deaths": 2,
+      "confirmed_new": 44,
+      "recovered_new": 56,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Burundi",
   "Lat": -3.3731,
   "Long": 29.9189,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BI",
+  "country_code3": "BDI",
   "group": "BI",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 3,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 3,
       "recovered": 0,
       "deaths": 0,

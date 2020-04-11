@@ -4,8 +4,9 @@
   "Country.Region": "Albania",
   "Lat": 41.1533,
   "Long": 20.1683,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "AL",
+  "country_code3": "ALB",
   "group": "AL",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 9,
       "recovered_new": 11,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 416,
+      "recovered": 182,
+      "deaths": 23,
+      "confirmed_new": 7,
+      "recovered_new": 17,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ]

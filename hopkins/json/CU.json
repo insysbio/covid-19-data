@@ -4,8 +4,9 @@
   "Country.Region": "Cuba",
   "Lat": 22,
   "Long": -80,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "CU",
+  "country_code3": "CUB",
   "group": "CU",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 58,
       "recovered_new": 1,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 564,
+      "recovered": 51,
+      "deaths": 15,
+      "confirmed_new": 49,
+      "recovered_new": 23,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ]

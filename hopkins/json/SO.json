@@ -4,8 +4,9 @@
   "Country.Region": "Somalia",
   "Lat": 5.1521,
   "Long": 46.1996,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SO",
+  "country_code3": "SOM",
   "group": "SO",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 1,
       "deaths": 1,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 21,
+      "recovered": 1,
+      "deaths": 1,
+      "confirmed_new": 9,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

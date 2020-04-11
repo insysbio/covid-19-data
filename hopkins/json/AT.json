@@ -4,8 +4,9 @@
   "Country.Region": "Austria",
   "Lat": 47.5162,
   "Long": 14.5501,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "AT",
+  "country_code3": "AUT",
   "group": "AT",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 302,
       "recovered_new": 728,
       "deaths_new": 22,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 13555,
+      "recovered": 6064,
+      "deaths": 319,
+      "confirmed_new": 311,
+      "recovered_new": 824,
+      "deaths_new": 24,
       "hasErrors": false
     }
   ]

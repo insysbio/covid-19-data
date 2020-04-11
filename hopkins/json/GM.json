@@ -4,8 +4,9 @@
   "Country.Region": "Gambia",
   "Lat": 13.4432,
   "Long": -15.3101,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "GM",
+  "country_code3": "GMB",
   "group": "GM",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 4,
+      "recovered": 2,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 4,
       "recovered": 2,
       "deaths": 1,

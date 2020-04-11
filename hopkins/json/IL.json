@@ -4,8 +4,9 @@
   "Country.Region": "Israel",
   "Lat": 31,
   "Long": 35,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "IL",
+  "country_code3": "ISR",
   "group": "IL",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 564,
       "recovered_new": 210,
       "deaths_new": 13,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 10408,
+      "recovered": 1183,
+      "deaths": 95,
+      "confirmed_new": 440,
+      "recovered_new": 172,
+      "deaths_new": 9,
       "hasErrors": false
     }
   ]

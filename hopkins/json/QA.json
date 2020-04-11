@@ -4,8 +4,9 @@
   "Country.Region": "Qatar",
   "Lat": 25.3548,
   "Long": 51.1839,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "QA",
+  "country_code3": "QAT",
   "group": "QA",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 6,
       "confirmed_new": 166,
       "recovered_new": 28,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 2512,
+      "recovered": 227,
+      "deaths": 6,
+      "confirmed_new": 136,
+      "recovered_new": 21,
       "deaths_new": 0,
       "hasErrors": false
     }

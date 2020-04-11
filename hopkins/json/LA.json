@@ -4,8 +4,9 @@
   "Country.Region": "Laos",
   "Lat": 19.8563,
   "Long": 102.4955,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "LA",
+  "country_code3": "LAO",
   "group": "LA",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 0,
       "deaths": 0,
       "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 16,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

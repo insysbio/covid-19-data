@@ -4,8 +4,9 @@
   "Country.Region": "Norway",
   "Lat": 60.472,
   "Long": 8.4689,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "NO",
+  "country_code3": "NOR",
   "group": "NO",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 125,
       "recovered_new": 0,
       "deaths_new": 7,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 6314,
+      "recovered": 32,
+      "deaths": 113,
+      "confirmed_new": 103,
+      "recovered_new": 0,
+      "deaths_new": 5,
       "hasErrors": false
     }
   ]

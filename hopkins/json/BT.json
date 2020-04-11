@@ -4,8 +4,9 @@
   "Country.Region": "Bhutan",
   "Lat": 27.5142,
   "Long": 90.4336,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BT",
+  "country_code3": "BTN",
   "group": "BT",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 5,
+      "recovered": 2,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 5,
       "recovered": 2,
       "deaths": 0,

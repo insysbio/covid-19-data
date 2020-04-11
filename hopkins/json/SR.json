@@ -4,8 +4,9 @@
   "Country.Region": "Suriname",
   "Lat": 3.9193,
   "Long": -56.0278,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SR",
+  "country_code3": "SUR",
   "group": "SR",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 1,
       "confirmed_new": 0,
       "recovered_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 10,
+      "recovered": 4,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

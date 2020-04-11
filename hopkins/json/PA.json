@@ -4,8 +4,9 @@
   "Country.Region": "Panama",
   "Lat": 8.538,
   "Long": -80.7821,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "PA",
+  "country_code3": "PAN",
   "group": "PA",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 279,
       "recovered_new": 0,
       "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 2752,
+      "recovered": 16,
+      "deaths": 66,
+      "confirmed_new": 224,
+      "recovered_new": 0,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ]

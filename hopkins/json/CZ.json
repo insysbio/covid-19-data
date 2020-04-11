@@ -4,8 +4,9 @@
   "Country.Region": "Czechia",
   "Lat": 49.8175,
   "Long": 15.473,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "CZ",
+  "country_code3": "CZE",
   "group": "CZ",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 257,
       "recovered_new": 68,
       "deaths_new": 13,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 5732,
+      "recovered": 346,
+      "deaths": 119,
+      "confirmed_new": 163,
+      "recovered_new": 45,
+      "deaths_new": 7,
       "hasErrors": false
     }
   ]

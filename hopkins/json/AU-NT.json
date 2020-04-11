@@ -4,8 +4,9 @@
   "Country.Region": "Australia",
   "Lat": -12.4634,
   "Long": 130.8456,
-  "isTerritory": true,
+  "hasParent": true,
   "country_code": "AU",
+  "country_code3": "AUS",
   "group": "AU-NT",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 28,
+      "recovered": 2,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 28,
       "recovered": 2,
       "deaths": 0,

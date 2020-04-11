@@ -4,8 +4,9 @@
   "Country.Region": "Malaysia",
   "Lat": 2.5,
   "Long": 112.5,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MY",
+  "country_code3": "MYS",
   "group": "MY",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 109,
       "recovered_new": 121,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 4346,
+      "recovered": 1830,
+      "deaths": 70,
+      "confirmed_new": 118,
+      "recovered_new": 222,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Madagascar",
   "Lat": -18.7669,
   "Long": 46.8691,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MG",
+  "country_code3": "MDG",
   "group": "MG",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 93,
+      "recovered": 11,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 93,
       "recovered": 11,
       "deaths": 0,

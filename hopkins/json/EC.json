@@ -4,8 +4,9 @@
   "Country.Region": "Ecuador",
   "Lat": -1.8312,
   "Long": -78.1834,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "EC",
+  "country_code3": "ECU",
   "group": "EC",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 515,
       "recovered_new": 199,
       "deaths_new": 30,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 7161,
+      "recovered": 368,
+      "deaths": 297,
+      "confirmed_new": 2196,
+      "recovered_new": 29,
+      "deaths_new": 25,
       "hasErrors": false
     }
   ]

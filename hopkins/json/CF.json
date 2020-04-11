@@ -4,8 +4,9 @@
   "Country.Region": "Central African Republic",
   "Lat": 6.6111,
   "Long": 20.9394,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "CF",
+  "country_code3": "CAF",
   "group": "CF",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 8,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 8,
       "recovered": 0,
       "deaths": 0,

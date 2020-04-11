@@ -4,8 +4,9 @@
   "Country.Region": "San Marino",
   "Lat": 43.9424,
   "Long": 12.4578,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SM",
+  "country_code3": "SMR",
   "group": "SM",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 34,
       "confirmed_new": 54,
       "recovered_new": 9,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 344,
+      "recovered": 50,
+      "deaths": 34,
+      "confirmed_new": 11,
+      "recovered_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -4,8 +4,9 @@
   "Country.Region": "Nepal",
   "Lat": 28.1667,
   "Long": 84.25,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "NP",
+  "country_code3": "NPL",
   "group": "NP",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 9,
+      "recovered": 1,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 9,
       "recovered": 1,
       "deaths": 0,

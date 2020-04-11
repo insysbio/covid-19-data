@@ -4,8 +4,9 @@
   "Country.Region": "Kazakhstan",
   "Lat": 48.0196,
   "Long": 66.9237,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "KZ",
+  "country_code3": "KAZ",
   "group": "KZ",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 54,
       "recovered_new": 6,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 812,
+      "recovered": 64,
+      "deaths": 10,
+      "confirmed_new": 31,
+      "recovered_new": 4,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ]

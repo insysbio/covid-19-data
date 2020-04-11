@@ -4,8 +4,9 @@
   "Country.Region": "Timor-Leste",
   "Lat": -8.8742,
   "Long": 125.7275,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "TL",
+  "country_code3": "TLS",
   "group": "TL",
   "timeseries": [
     {
@@ -877,6 +878,17 @@
     {
       "date": "2020-04-09",
       "recovered": 0,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 2,
+      "deaths": 0,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-04-10",
+      "recovered": 1,
       "hasErrors": true
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Nigeria",
   "Lat": 9.082,
   "Long": 8.6753,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "NG",
+  "country_code3": "NGA",
   "group": "NG",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 12,
       "recovered_new": 7,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 305,
+      "recovered": 58,
+      "deaths": 7,
+      "confirmed_new": 17,
+      "recovered_new": 7,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ]

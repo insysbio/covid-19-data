@@ -4,8 +4,9 @@
   "Country.Region": "Pakistan",
   "Lat": 30.3753,
   "Long": 69.3451,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "PK",
+  "country_code3": "PAK",
   "group": "PK",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 226,
       "recovered_new": 105,
       "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 4695,
+      "recovered": 727,
+      "deaths": 66,
+      "confirmed_new": 206,
+      "recovered_new": 155,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

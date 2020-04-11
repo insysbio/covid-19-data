@@ -4,8 +4,9 @@
   "Country.Region": "Canada",
   "Lat": 52.9399,
   "Long": -106.4509,
-  "isTerritory": true,
+  "hasParent": true,
   "country_code": "CA",
+  "country_code3": "CAN",
   "group": "CA-SK",
   "timeseries": [
     {
@@ -637,6 +638,14 @@
       "confirmed": 271,
       "deaths": 3,
       "confirmed_new": 11,
+      "deaths_new": 0,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 285,
+      "deaths": 3,
+      "confirmed_new": 14,
       "deaths_new": 0,
       "hasErrors": true
     }

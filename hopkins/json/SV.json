@@ -4,8 +4,9 @@
   "Country.Region": "El Salvador",
   "Lat": 13.7942,
   "Long": -88.8965,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SV",
+  "country_code3": "SLV",
   "group": "SV",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 10,
       "recovered_new": 5,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 117,
+      "recovered": 15,
+      "deaths": 6,
+      "confirmed_new": 14,
+      "recovered_new": 1,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ]

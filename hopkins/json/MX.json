@@ -4,8 +4,9 @@
   "Country.Region": "Mexico",
   "Lat": 23.6345,
   "Long": -102.5528,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MX",
+  "country_code3": "MEX",
   "group": "MX",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 396,
       "recovered_new": 0,
       "deaths_new": 33,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 3441,
+      "recovered": 633,
+      "deaths": 194,
+      "confirmed_new": 260,
+      "recovered_new": 0,
+      "deaths_new": 20,
       "hasErrors": false
     }
   ]

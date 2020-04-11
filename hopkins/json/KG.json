@@ -4,8 +4,9 @@
   "Country.Region": "Kyrgyzstan",
   "Lat": 41.2044,
   "Long": 74.7661,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "KG",
+  "country_code3": "KGZ",
   "group": "KG",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 10,
       "recovered_new": 2,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 298,
+      "recovered": 35,
+      "deaths": 5,
+      "confirmed_new": 18,
+      "recovered_new": 0,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

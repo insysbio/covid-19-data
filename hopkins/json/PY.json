@@ -4,8 +4,9 @@
   "Country.Region": "Paraguay",
   "Lat": -23.4425,
   "Long": -58.4438,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "PY",
+  "country_code3": "PRY",
   "group": "PY",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 5,
       "recovered_new": 3,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 129,
+      "recovered": 18,
+      "deaths": 6,
+      "confirmed_new": 5,
+      "recovered_new": 0,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

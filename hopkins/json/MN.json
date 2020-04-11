@@ -4,8 +4,9 @@
   "Country.Region": "Mongolia",
   "Lat": 46.8625,
   "Long": 103.8467,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MN",
+  "country_code3": "MNG",
   "group": "MN",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 16,
+      "recovered": 4,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 16,
       "recovered": 4,
       "deaths": 0,

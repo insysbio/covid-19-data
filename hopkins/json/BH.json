@@ -4,8 +4,9 @@
   "Country.Region": "Bahrain",
   "Lat": 26.0275,
   "Long": 50.55,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BH",
+  "country_code3": "BHR",
   "group": "BH",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 64,
       "recovered_new": 42,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 925,
+      "recovered": 539,
+      "deaths": 6,
+      "confirmed_new": 38,
+      "recovered_new": 20,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

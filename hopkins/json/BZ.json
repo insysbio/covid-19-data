@@ -4,8 +4,9 @@
   "Country.Region": "Belize",
   "Lat": 13.1939,
   "Long": -59.5432,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BZ",
+  "country_code3": "BLZ",
   "group": "BZ",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 1,
       "recovered_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 10,
+      "recovered": 0,
+      "deaths": 2,
+      "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

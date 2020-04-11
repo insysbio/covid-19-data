@@ -4,8 +4,9 @@
   "Country.Region": "Uzbekistan",
   "Lat": 41.3775,
   "Long": 64.5853,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "UZ",
+  "country_code3": "UZB",
   "group": "UZ",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 3,
       "confirmed_new": 37,
       "recovered_new": 8,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 624,
+      "recovered": 42,
+      "deaths": 3,
+      "confirmed_new": 42,
+      "recovered_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

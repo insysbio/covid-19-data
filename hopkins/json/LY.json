@@ -4,8 +4,9 @@
   "Country.Region": "Libya",
   "Lat": 26.3351,
   "Long": 17.2283,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "LY",
+  "country_code3": "LBY",
   "group": "LY",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 8,
       "deaths": 1,
       "confirmed_new": 3,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 24,
+      "recovered": 8,
+      "deaths": 1,
+      "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

@@ -4,8 +4,9 @@
   "Country.Region": "Argentina",
   "Lat": -38.4161,
   "Long": -63.6167,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "AR",
+  "country_code3": "ARG",
   "group": "AR",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 80,
       "recovered_new": 7,
       "deaths_new": 9,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1975,
+      "recovered": 375,
+      "deaths": 82,
+      "confirmed_new": 180,
+      "recovered_new": 10,
+      "deaths_new": 10,
       "hasErrors": false
     }
   ]

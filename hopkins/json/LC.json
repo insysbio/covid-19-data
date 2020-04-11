@@ -4,8 +4,9 @@
   "Country.Region": "Saint Lucia",
   "Lat": 13.9094,
   "Long": -60.9789,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "LC",
+  "country_code3": "LCA",
   "group": "LC",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 1,
       "deaths": 0,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 15,
+      "recovered": 1,
+      "deaths": 0,
+      "confirmed_new": 1,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

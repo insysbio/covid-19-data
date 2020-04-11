@@ -4,8 +4,9 @@
   "Country.Region": "Finland",
   "Lat": 64,
   "Long": 26,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "FI",
+  "country_code3": "FIN",
   "group": "FI",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 118,
       "recovered_new": 0,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 2769,
+      "recovered": 300,
+      "deaths": 48,
+      "confirmed_new": 164,
+      "recovered_new": 0,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Western Sahara",
   "Lat": 24.2155,
   "Long": -12.8858,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "EH",
+  "country_code3": "ESH",
   "group": "EH",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 4,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 4,
       "recovered": 0,
       "deaths": 0,

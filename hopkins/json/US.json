@@ -4,8 +4,9 @@
   "Country.Region": "US",
   "Lat": 37.0902,
   "Long": -95.7129,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "US",
+  "country_code3": "USA",
   "group": "US",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 32385,
       "recovered_new": 1851,
       "deaths_new": 1783,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 496535,
+      "recovered": 28790,
+      "deaths": 18586,
+      "confirmed_new": 35098,
+      "recovered_new": 3380,
+      "deaths_new": 2108,
       "hasErrors": false
     }
   ]

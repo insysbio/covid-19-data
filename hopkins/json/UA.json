@@ -4,8 +4,9 @@
   "Country.Region": "Ukraine",
   "Lat": 48.3794,
   "Long": 31.1656,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "UA",
+  "country_code3": "UKR",
   "group": "UA",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 224,
       "recovered_new": 10,
       "deaths_new": 5,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 2203,
+      "recovered": 61,
+      "deaths": 69,
+      "confirmed_new": 311,
+      "recovered_new": 16,
+      "deaths_new": 12,
       "hasErrors": false
     }
   ]

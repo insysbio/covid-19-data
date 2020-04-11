@@ -4,8 +4,9 @@
   "Country.Region": "Netherlands",
   "Lat": 52.1326,
   "Long": 5.2913,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "NL",
+  "country_code3": "NLD",
   "group": "NL",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 1213,
       "recovered_new": 0,
       "deaths_new": 148,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 23097,
+      "recovered": 250,
+      "deaths": 2511,
+      "confirmed_new": 1335,
+      "recovered_new": 0,
+      "deaths_new": 115,
       "hasErrors": false
     }
   ]

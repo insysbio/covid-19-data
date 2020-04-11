@@ -4,8 +4,9 @@
   "Country.Region": "Nicaragua",
   "Lat": 12.8654,
   "Long": -85.2072,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "NI",
+  "country_code3": "NIC",
   "group": "NI",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 0,
       "deaths": 1,
       "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 7,
+      "recovered": 0,
+      "deaths": 1,
+      "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

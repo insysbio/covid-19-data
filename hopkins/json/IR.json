@@ -4,8 +4,9 @@
   "Country.Region": "Iran",
   "Lat": 32,
   "Long": 53,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "IR",
+  "country_code3": "IRN",
   "group": "IR",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 1634,
       "recovered_new": 2497,
       "deaths_new": 117,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 68192,
+      "recovered": 35465,
+      "deaths": 4232,
+      "confirmed_new": 1972,
+      "recovered_new": 3156,
+      "deaths_new": 122,
       "hasErrors": false
     }
   ]

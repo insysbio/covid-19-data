@@ -4,8 +4,9 @@
   "Country.Region": "Fiji",
   "Lat": -17.7134,
   "Long": 178.065,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "FJ",
+  "country_code3": "FJI",
   "group": "FJ",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 0,
       "deaths": 0,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 16,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 1,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

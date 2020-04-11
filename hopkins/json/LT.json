@@ -4,8 +4,9 @@
   "Country.Region": "Lithuania",
   "Lat": 55.1694,
   "Long": 23.8813,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "LT",
+  "country_code3": "LTU",
   "group": "LT",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 43,
       "recovered_new": 0,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 999,
+      "recovered": 54,
+      "deaths": 22,
+      "confirmed_new": 44,
+      "recovered_new": 46,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ]

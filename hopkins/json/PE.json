@@ -4,8 +4,9 @@
   "Country.Region": "Peru",
   "Lat": -9.19,
   "Long": -75.0152,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "PE",
+  "country_code3": "PER",
   "group": "PE",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 914,
       "recovered_new": 105,
       "deaths_new": 17,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 5897,
+      "recovered": 1569,
+      "deaths": 169,
+      "confirmed_new": 641,
+      "recovered_new": 131,
+      "deaths_new": 31,
       "hasErrors": false
     }
   ]

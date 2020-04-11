@@ -4,8 +4,9 @@
   "Country.Region": "Andorra",
   "Lat": 42.5063,
   "Long": 1.5218,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "AD",
+  "country_code3": "AND",
   "group": "AD",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 19,
       "recovered_new": 6,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 601,
+      "recovered": 71,
+      "deaths": 26,
+      "confirmed_new": 18,
+      "recovered_new": 13,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

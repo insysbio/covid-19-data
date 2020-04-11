@@ -4,8 +4,9 @@
   "Country.Region": "Canada",
   "Lat": 56.1304,
   "Long": -106.3468,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "CA",
+  "country_code3": "CAN",
   "group": "CA",
   "timeseries": [
     {
@@ -480,6 +481,12 @@
       "date": "2020-04-09",
       "recovered": 5162,
       "recovered_new": 1008,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-04-10",
+      "recovered": 5855,
+      "recovered_new": 693,
       "hasErrors": true
     }
   ]

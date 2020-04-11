@@ -4,8 +4,9 @@
   "Country.Region": "Togo",
   "Lat": 8.6195,
   "Long": 0.8248,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "TG",
+  "country_code3": "TGO",
   "group": "TG",
   "timeseries": [
     {
@@ -792,6 +793,16 @@
       "date": "2020-04-09",
       "confirmed": 73,
       "recovered": 24,
+      "deaths": 3,
+      "confirmed_new": 3,
+      "recovered_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 76,
+      "recovered": 25,
       "deaths": 3,
       "confirmed_new": 3,
       "recovered_new": 1,

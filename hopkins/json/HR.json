@@ -4,8 +4,9 @@
   "Country.Region": "Croatia",
   "Lat": 45.1,
   "Long": 15.2,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "HR",
+  "country_code3": "HRV",
   "group": "HR",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 20,
       "confirmed_new": 64,
       "recovered_new": 40,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1495,
+      "recovered": 231,
+      "deaths": 21,
+      "confirmed_new": 88,
+      "recovered_new": 12,
       "deaths_new": 1,
       "hasErrors": false
     }

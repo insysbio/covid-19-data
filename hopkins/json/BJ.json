@@ -4,8 +4,9 @@
   "Country.Region": "Benin",
   "Lat": 9.3077,
   "Long": 2.3158,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BJ",
+  "country_code3": "BEN",
   "group": "BJ",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 5,
       "deaths": 1,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 35,
+      "recovered": 5,
+      "deaths": 1,
+      "confirmed_new": 9,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

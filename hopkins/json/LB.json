@@ -4,8 +4,9 @@
   "Country.Region": "Lebanon",
   "Lat": 33.8547,
   "Long": 35.8623,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "LB",
+  "country_code3": "LBN",
   "group": "LB",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 6,
       "recovered_new": 5,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 609,
+      "recovered": 76,
+      "deaths": 20,
+      "confirmed_new": 27,
+      "recovered_new": 9,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

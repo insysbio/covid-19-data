@@ -4,8 +4,9 @@
   "Country.Region": "Monaco",
   "Lat": 43.7333,
   "Long": 7.4167,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MC",
+  "country_code3": "MCO",
   "group": "MC",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 1,
       "confirmed_new": 3,
       "recovered_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 90,
+      "recovered": 5,
+      "deaths": 1,
+      "confirmed_new": 6,
+      "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

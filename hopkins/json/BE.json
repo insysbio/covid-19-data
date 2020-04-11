@@ -4,8 +4,9 @@
   "Country.Region": "Belgium",
   "Lat": 50.8333,
   "Long": 4,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BE",
+  "country_code3": "BEL",
   "group": "BE",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 1580,
       "recovered_new": 483,
       "deaths_new": 283,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 26667,
+      "recovered": 5568,
+      "deaths": 3019,
+      "confirmed_new": 1684,
+      "recovered_new": 404,
+      "deaths_new": 496,
       "hasErrors": false
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Venezuela",
   "Lat": 6.4238,
   "Long": -66.5897,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "VE",
+  "country_code3": "VEN",
   "group": "VE",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 9,
       "confirmed_new": 4,
       "recovered_new": 19,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 171,
+      "recovered": 84,
+      "deaths": 9,
+      "confirmed_new": 0,
+      "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

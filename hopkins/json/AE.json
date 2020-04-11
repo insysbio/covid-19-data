@@ -4,8 +4,9 @@
   "Country.Region": "United Arab Emirates",
   "Lat": 24,
   "Long": 54,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "AE",
+  "country_code3": "ARE",
   "group": "AE",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 14,
       "confirmed_new": 331,
       "recovered_new": 29,
+      "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 3360,
+      "recovered": 418,
+      "deaths": 16,
+      "confirmed_new": 370,
+      "recovered_new": 150,
       "deaths_new": 2,
       "hasErrors": false
     }

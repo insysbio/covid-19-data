@@ -4,8 +4,9 @@
   "Country.Region": "Sweden",
   "Lat": 63,
   "Long": 16,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SE",
+  "country_code3": "SWE",
   "group": "SE",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 722,
       "recovered_new": 0,
       "deaths_new": 106,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 9685,
+      "recovered": 381,
+      "deaths": 870,
+      "confirmed_new": 544,
+      "recovered_new": 176,
+      "deaths_new": 77,
       "hasErrors": false
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Moldova",
   "Lat": 47.4116,
   "Long": 28.3699,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MD",
+  "country_code3": "MDA",
   "group": "MD",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 115,
       "recovered_new": 10,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1438,
+      "recovered": 56,
+      "deaths": 29,
+      "confirmed_new": 149,
+      "recovered_new": 6,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ]

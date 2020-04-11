@@ -4,8 +4,9 @@
   "Country.Region": "Russia",
   "Lat": 60,
   "Long": 90,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "RU",
+  "country_code3": "RUS",
   "group": "RU",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 1459,
       "recovered_new": 118,
       "deaths_new": 13,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 11917,
+      "recovered": 795,
+      "deaths": 94,
+      "confirmed_new": 1786,
+      "recovered_new": 97,
+      "deaths_new": 18,
       "hasErrors": false
     }
   ]

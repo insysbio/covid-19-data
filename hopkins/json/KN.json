@@ -4,8 +4,9 @@
   "Country.Region": "Saint Kitts and Nevis",
   "Lat": 17.3578,
   "Long": -62.783,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "KN",
+  "country_code3": "KNA",
   "group": "KN",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 0,
       "deaths": 0,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 12,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 1,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

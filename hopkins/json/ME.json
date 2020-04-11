@@ -4,8 +4,9 @@
   "Country.Region": "Montenegro",
   "Lat": 42.5,
   "Long": 19.3,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "ME",
+  "country_code3": "MNE",
   "group": "ME",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 4,
       "deaths": 2,
       "confirmed_new": 4,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 255,
+      "recovered": 4,
+      "deaths": 2,
+      "confirmed_new": 3,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

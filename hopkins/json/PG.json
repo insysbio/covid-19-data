@@ -4,8 +4,9 @@
   "Country.Region": "Papua New Guinea",
   "Lat": -6.315,
   "Long": 143.9555,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "PG",
+  "country_code3": "PNG",
   "group": "PG",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 2,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 2,
       "recovered": 0,
       "deaths": 0,

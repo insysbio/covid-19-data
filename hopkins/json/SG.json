@@ -4,8 +4,9 @@
   "Country.Region": "Singapore",
   "Lat": 1.2833,
   "Long": 103.8333,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SG",
+  "country_code3": "SGP",
   "group": "SG",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 287,
       "recovered_new": 54,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 2108,
+      "recovered": 492,
+      "deaths": 7,
+      "confirmed_new": 198,
+      "recovered_new": 32,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

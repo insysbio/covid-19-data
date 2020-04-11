@@ -4,8 +4,9 @@
   "Country.Region": "United Kingdom",
   "Lat": 36.1408,
   "Long": -5.3536,
-  "isTerritory": true,
+  "hasParent": true,
   "country_code": "GB",
+  "country_code3": "GBR",
   "group": "GI",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 0,
       "confirmed_new": 3,
       "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 127,
+      "recovered": 69,
+      "deaths": 0,
+      "confirmed_new": 4,
+      "recovered_new": 9,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -4,8 +4,9 @@
   "Country.Region": "Antigua and Barbuda",
   "Lat": 17.0608,
   "Long": -61.7964,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "AG",
+  "country_code3": "ATG",
   "group": "AG",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 19,
+      "recovered": 0,
+      "deaths": 2,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 19,
       "recovered": 0,
       "deaths": 2,

@@ -4,8 +4,9 @@
   "Country.Region": "Indonesia",
   "Lat": -0.7893,
   "Long": 113.9213,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "ID",
+  "country_code3": "IDN",
   "group": "ID",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 337,
       "recovered_new": 30,
       "deaths_new": 40,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 3512,
+      "recovered": 282,
+      "deaths": 306,
+      "confirmed_new": 219,
+      "recovered_new": 30,
+      "deaths_new": 26,
       "hasErrors": false
     }
   ]

@@ -4,8 +4,9 @@
   "Country.Region": "Slovakia",
   "Lat": 48.669,
   "Long": 19.699,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "SK",
+  "country_code3": "SVK",
   "group": "SK",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 2,
       "confirmed_new": 19,
       "recovered_new": 7,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 715,
+      "recovered": 23,
+      "deaths": 2,
+      "confirmed_new": 14,
+      "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

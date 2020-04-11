@@ -4,8 +4,9 @@
   "Country.Region": "Grenada",
   "Lat": 12.1165,
   "Long": -61.679,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "GD",
+  "country_code3": "GRD",
   "group": "GD",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 0,
       "deaths": 0,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 14,
+      "recovered": 0,
+      "deaths": 0,
+      "confirmed_new": 2,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

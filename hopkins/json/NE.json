@@ -4,8 +4,9 @@
   "Country.Region": "Niger",
   "Lat": 17.6078,
   "Long": 8.0817,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "NE",
+  "country_code3": "NER",
   "group": "NE",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 11,
       "confirmed_new": 68,
       "recovered_new": 12,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 438,
+      "recovered": 41,
+      "deaths": 11,
+      "confirmed_new": 28,
+      "recovered_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -4,8 +4,9 @@
   "Country.Region": "Holy See",
   "Lat": 41.9029,
   "Long": 12.4534,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "VA",
+  "country_code3": "VAT",
   "group": "VA",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 8,
+      "recovered": 2,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 8,
       "recovered": 2,
       "deaths": 0,

@@ -4,8 +4,9 @@
   "Country.Region": "South Africa",
   "Lat": -30.5595,
   "Long": 22.9375,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "ZA",
+  "country_code3": "ZAF",
   "group": "ZA",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 89,
       "recovered_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 2003,
+      "recovered": 410,
+      "deaths": 24,
+      "confirmed_new": 69,
+      "recovered_new": 315,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ]

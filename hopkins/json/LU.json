@@ -4,8 +4,9 @@
   "Country.Region": "Luxembourg",
   "Lat": 49.8153,
   "Long": 6.1296,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "LU",
+  "country_code3": "LUX",
   "group": "LU",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 81,
       "recovered_new": 0,
       "deaths_new": 6,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 3223,
+      "recovered": 500,
+      "deaths": 54,
+      "confirmed_new": 108,
+      "recovered_new": 0,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ]

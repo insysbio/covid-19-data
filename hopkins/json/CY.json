@@ -4,8 +4,9 @@
   "Country.Region": "Cyprus",
   "Lat": 35.1264,
   "Long": 33.4299,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "CY",
+  "country_code3": "CYP",
   "group": "CY",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 38,
       "recovered_new": 1,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 595,
+      "recovered": 58,
+      "deaths": 10,
+      "confirmed_new": 31,
+      "recovered_new": 5,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ]

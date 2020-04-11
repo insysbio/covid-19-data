@@ -4,8 +4,9 @@
   "Country.Region": "Kuwait",
   "Lat": 29.5,
   "Long": 47.75,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "KW",
+  "country_code3": "KWT",
   "group": "KW",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 1,
       "confirmed_new": 55,
       "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 993,
+      "recovered": 123,
+      "deaths": 1,
+      "confirmed_new": 83,
+      "recovered_new": 12,
       "deaths_new": 0,
       "hasErrors": false
     }

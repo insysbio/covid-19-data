@@ -4,8 +4,9 @@
   "Country.Region": "Brazil",
   "Lat": -14.235,
   "Long": -51.9253,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "BR",
+  "country_code3": "BRA",
   "group": "BR",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 1922,
       "recovered_new": 46,
       "deaths_new": 131,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 19638,
+      "recovered": 173,
+      "deaths": 1057,
+      "confirmed_new": 1546,
+      "recovered_new": 0,
+      "deaths_new": 107,
       "hasErrors": false
     }
   ]

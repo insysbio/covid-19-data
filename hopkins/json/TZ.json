@@ -4,8 +4,9 @@
   "Country.Region": "Tanzania",
   "Lat": -6.369,
   "Long": 34.8888,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "TZ",
+  "country_code3": "TZA",
   "group": "TZ",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 32,
+      "recovered": 5,
+      "deaths": 3,
+      "confirmed_new": 7,
+      "recovered_new": 0,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ]

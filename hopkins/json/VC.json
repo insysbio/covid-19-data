@@ -4,8 +4,9 @@
   "Country.Region": "Saint Vincent and the Grenadines",
   "Lat": 12.9843,
   "Long": -61.2872,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "VC",
+  "country_code3": "VCT",
   "group": "VC",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 1,
       "deaths": 0,
       "confirmed_new": 4,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 12,
+      "recovered": 1,
+      "deaths": 0,
+      "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

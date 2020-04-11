@@ -4,8 +4,9 @@
   "Country.Region": "Vietnam",
   "Lat": 16,
   "Long": 108,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "VN",
+  "country_code3": "VNM",
   "group": "VN",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 0,
       "confirmed_new": 4,
       "recovered_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 257,
+      "recovered": 144,
+      "deaths": 0,
+      "confirmed_new": 2,
+      "recovered_new": 16,
       "deaths_new": 0,
       "hasErrors": false
     }

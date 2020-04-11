@@ -4,8 +4,9 @@
   "Country.Region": "Mauritius",
   "Lat": -20.2,
   "Long": 57.5,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MU",
+  "country_code3": "MUS",
   "group": "MU",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 41,
       "recovered_new": 4,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 318,
+      "recovered": 23,
+      "deaths": 9,
+      "confirmed_new": 4,
+      "recovered_new": 0,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ]

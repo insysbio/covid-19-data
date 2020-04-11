@@ -4,8 +4,9 @@
   "Country.Region": "Iceland",
   "Lat": 64.9631,
   "Long": -19.0208,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "IS",
+  "country_code3": "ISL",
   "group": "IS",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 32,
       "recovered_new": 55,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1675,
+      "recovered": 751,
+      "deaths": 7,
+      "confirmed_new": 27,
+      "recovered_new": 63,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

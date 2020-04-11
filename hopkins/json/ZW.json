@@ -4,8 +4,9 @@
   "Country.Region": "Zimbabwe",
   "Lat": -20,
   "Long": 30,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "ZW",
+  "country_code3": "ZWE",
   "group": "ZW",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 0,
       "deaths": 3,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 13,
+      "recovered": 0,
+      "deaths": 3,
+      "confirmed_new": 2,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

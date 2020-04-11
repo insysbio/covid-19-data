@@ -4,8 +4,9 @@
   "Country.Region": "India",
   "Lat": 21,
   "Long": 78,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "IN",
+  "country_code3": "IND",
   "group": "IN",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 809,
       "recovered_new": 114,
       "deaths_new": 48,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 7598,
+      "recovered": 774,
+      "deaths": 246,
+      "confirmed_new": 873,
+      "recovered_new": 154,
+      "deaths_new": 20,
       "hasErrors": false
     }
   ]

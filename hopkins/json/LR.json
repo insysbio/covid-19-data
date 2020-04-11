@@ -4,8 +4,9 @@
   "Country.Region": "Liberia",
   "Lat": 6.4281,
   "Long": -9.4295,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "LR",
+  "country_code3": "LBR",
   "group": "LR",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 37,
+      "recovered": 3,
+      "deaths": 5,
+      "confirmed_new": 6,
+      "recovered_new": 0,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

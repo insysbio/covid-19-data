@@ -4,8 +4,9 @@
   "Country.Region": "China",
   "Lat": 30.0572,
   "Long": 107.874,
-  "isTerritory": true,
+  "hasParent": true,
   "country_code": "CN",
+  "country_code3": "CHN",
   "group": "CN-CQ",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 579,
+      "recovered": 570,
+      "deaths": 6,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 579,
       "recovered": 570,
       "deaths": 6,

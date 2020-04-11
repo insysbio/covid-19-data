@@ -4,8 +4,9 @@
   "Country.Region": "Morocco",
   "Lat": 31.7917,
   "Long": -7.0926,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "MA",
+  "country_code3": "MAR",
   "group": "MA",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 99,
       "recovered_new": 12,
       "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 1448,
+      "recovered": 122,
+      "deaths": 107,
+      "confirmed_new": 74,
+      "recovered_new": 13,
+      "deaths_new": 10,
       "hasErrors": false
     }
   ]

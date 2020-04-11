@@ -4,8 +4,9 @@
   "Country.Region": "Haiti",
   "Lat": 18.9712,
   "Long": -72.2852,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "HT",
+  "country_code3": "HTI",
   "group": "HT",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 3,
       "recovered_new": 0,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 31,
+      "recovered": 0,
+      "deaths": 2,
+      "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ]

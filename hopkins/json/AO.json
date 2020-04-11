@@ -4,8 +4,9 @@
   "Country.Region": "Angola",
   "Lat": -11.2027,
   "Long": 17.8739,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "AO",
+  "country_code3": "AGO",
   "group": "AO",
   "timeseries": [
     {
@@ -790,6 +791,16 @@
     },
     {
       "date": "2020-04-09",
+      "confirmed": 19,
+      "recovered": 2,
+      "deaths": 2,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
       "confirmed": 19,
       "recovered": 2,
       "deaths": 2,

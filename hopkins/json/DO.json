@@ -4,8 +4,9 @@
   "Country.Region": "Dominican Republic",
   "Lat": 18.7357,
   "Long": -70.1627,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "DO",
+  "country_code3": "DOM",
   "group": "DO",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 238,
       "recovered_new": 30,
       "deaths_new": 10,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 2620,
+      "recovered": 98,
+      "deaths": 126,
+      "confirmed_new": 271,
+      "recovered_new": 18,
+      "deaths_new": 8,
       "hasErrors": false
     }
   ]

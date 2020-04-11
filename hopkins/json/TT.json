@@ -4,8 +4,9 @@
   "Country.Region": "Trinidad and Tobago",
   "Lat": 10.6918,
   "Long": -61.2225,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "TT",
+  "country_code3": "TTO",
   "group": "TT",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 1,
       "deaths": 8,
       "confirmed_new": 2,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 109,
+      "recovered": 1,
+      "deaths": 8,
+      "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

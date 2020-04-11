@@ -4,8 +4,9 @@
   "Country.Region": "Chad",
   "Lat": 15.4542,
   "Long": 18.7322,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "TD",
+  "country_code3": "TCD",
   "group": "TD",
   "timeseries": [
     {
@@ -794,6 +795,16 @@
       "recovered": 2,
       "deaths": 0,
       "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 11,
+      "recovered": 2,
+      "deaths": 0,
+      "confirmed_new": 0,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

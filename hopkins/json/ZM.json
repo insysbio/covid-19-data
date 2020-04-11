@@ -4,8 +4,9 @@
   "Country.Region": "Zambia",
   "Lat": -15.4167,
   "Long": 28.2833,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "ZM",
+  "country_code3": "ZMB",
   "group": "ZM",
   "timeseries": [
     {
@@ -796,6 +797,16 @@
       "confirmed_new": 0,
       "recovered_new": 17,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 40,
+      "recovered": 25,
+      "deaths": 2,
+      "confirmed_new": 1,
+      "recovered_new": 1,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ]

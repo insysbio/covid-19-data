@@ -4,8 +4,9 @@
   "Country.Region": "Korea, South",
   "Lat": 36,
   "Long": 128,
-  "isTerritory": false,
+  "hasParent": false,
   "country_code": "KR",
+  "country_code3": "KOR",
   "group": "KR",
   "timeseries": [
     {
@@ -795,6 +796,16 @@
       "deaths": 204,
       "confirmed_new": 39,
       "recovered_new": 197,
+      "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-10",
+      "confirmed": 10450,
+      "recovered": 7117,
+      "deaths": 208,
+      "confirmed_new": 27,
+      "recovered_new": 144,
       "deaths_new": 4,
       "hasErrors": false
     }
