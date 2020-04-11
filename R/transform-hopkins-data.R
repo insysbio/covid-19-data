@@ -106,8 +106,9 @@ combined_data$territory_code <- territory_comparator(combined_data$Province.Stat
 combined_data$group = ifelse(combined_data$hasParent, combined_data$territory_code, combined_data$country_code)
 
 # set latest data
+report <- c(report, paste0('*The latest build date is: ', build_date, '*'))
 latest_date <- max(combined_data$date)
-report <- c(report, paste0('*The latest date in dataset: ', latest_date, '*'))
+report <- c(report, paste0('*The latest date in dataset is: ', latest_date, '*'))
 
 splitted_data <- combined_data %>%
   split(f = combined_data$group) %>%

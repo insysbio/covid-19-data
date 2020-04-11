@@ -2,6 +2,8 @@
 
 args = commandArgs(trailingOnly = TRUE)
 
+build_date <- args[1]
+
 if(!require(tidyr, warn.conflicts = FALSE)){
     install.packages("tidyr", repos = 'https://cran.rstudio.com/', lib = 'r_libs')
     library(tidyr, warn.conflicts = FALSE, lib.loc = 'r_libs')
