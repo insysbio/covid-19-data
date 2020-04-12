@@ -1,6 +1,6 @@
 # J.Hopkins full dataset
-*The latest build date is: 2020-04-11*
-*The latest date in dataset is: 2020-04-10*
+*The latest build date is: 2020-04-12*
+*The latest date in dataset is: 2020-04-11*
 
 ## Full dataset
 
