@@ -79,19 +79,20 @@ territory_comparator <- function(territory){
 combined_data <- bind_rows(data_confirmed0, data_deaths0) %>% 
   pivot_longer(date_confirmed_columns) %>%
   pivot_wider(names_from = 'data_type', values_from = value) %>%
+  rename(Long = 'Long_', Province.State = 'Province_State', Country.Region = 'Country_Region') %>%
   mutate(date = as.Date(name, "X%m.%d.%y")) %>%
-  group_by(Country_Region, Province_State) %>%
+  group_by(Country.Region, Province.State) %>%
   arrange(date, .by_group = TRUE) %>%
   mutate(confirmed_new = confirmed - lag(confirmed, default = 0)) %>%
   mutate(deaths_new = deaths - lag(deaths, default = 0)) %>%
   mutate(hasErrors = is.na(confirmed_new) || (confirmed_new < 0) || is.na(deaths_new) || (deaths_new < 0)) %>% #  || 
-  mutate(hasParent = Province_State != '') %>%
-  select(-name) %>%
+  mutate(hasParent = Province.State != '') %>%
+  select(-name, -UID, -iso2, -iso3, -code3, -FIPS, -Admin2, -Combined_Key) %>%
   ungroup()
 
-combined_data$country_code <- country_comparator(combined_data$Country_Region)
+combined_data$country_code <- country_comparator(combined_data$Country.Region)
 combined_data$country_code3 <- countries$Alpha_3[match(combined_data$country_code, countries$Alpha_2)]
-combined_data$territory_code <- territory_comparator(combined_data$Province_State)
+combined_data$territory_code <- territory_comparator(combined_data$Province.State)
 combined_data$group = ifelse(combined_data$hasParent, combined_data$territory_code, combined_data$country_code)
 
 # set latest data
@@ -104,8 +105,8 @@ splitted_data <- combined_data %>%
   lapply(function(l){
     output = list(
       hasErrors = any(l$hasErrors),
-      Province.State = l$Province_State[1],
-      Country.Region = l$Country_Region[1],
+      Province.State = l$Province.State[1],
+      Country.Region = l$Country.Region[1],
       Lat = l$Lat[1],
       Long = l$Long[1],
       hasParent = l$hasParent[1],
@@ -137,8 +138,8 @@ report_table_csv <- combined_data %>%
     write.csv( .x, fp, row.names = FALSE, na="" )
     
     data.frame( # return
-      Province.State = .x[1, 'Province_State'],
-      Country.Region = .x[1, 'Country_Region'],
+      Province.State = .x[1, 'Province.State'],
+      Country.Region = .x[1, 'Country.Region'],
       CSV = paste0(pages_url, 'csv/', .y$group, '.csv'),
       JSON = paste0(pages_url, 'json/', .y$group, '.json'),
       country_code = .x$country_code[1],
