@@ -11,7 +11,9 @@ Currenty the project includes only the data from J.Hopkins but may be extended i
 
 - [Motivation](#Motivation)
 - [Usage](#Usage)
+- [Data structure](#data-structure)
 - [J.Hopkins' datasets](#jhopkins39-datasets)
+- [Russian datasets](#russian-datasets)
 - [Contributing](#Contributing)
 - [Authors](#Authors)
 - [License](#License)
@@ -87,23 +89,15 @@ git fetch
 git pull
 ```
 
-## J.Hopkins' datasets
+## Data structure
 
-This is the most popular COVID-19 dataset supported the Johns Hopkins University Applied Physics Lab (JHU APL). The sources are located in [GitHub repository](https://github.com/CSSEGISandData/COVID-19) and updated daily.
-
-The current interface performs some transformation and shares data from: 
-
-- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv*
-- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv*
-- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv*
-
-Files are combined and transformed to the following formats:
+All daily data follow the same structure which is similar to J.Hopkins' tables with minor modifications. Currently files are stored in two formats: **CSV** and **JSON**.
 
 ### CSV formatted
 - <https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv>
-- `https://insysbio.github.io/covid-19-data/hopkins/csv/<territory-code>.csv`
+- `https://insysbio.github.io/covid-19-data/<dataset>/csv/<territory-code>.csv`
 
-*See also [full dataset](./hopkins/dataset) description* 
+*See also [World dataset](./hopkins/dataset), [Russian dataset](./russian/dataset) description* 
 
 Available fields:
 
@@ -130,9 +124,9 @@ Available fields:
 
 ### JSON formatted
 - <https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json>
-- `https://insysbio.github.io/covid-19-data/hopkins/json/<territory-code>.json`
+- `https://insysbio.github.io/covid-19-data/<dataset>/json/<territory-code>.json`
 
-*See also [full dataset](./hopkins/dataset) description* 
+*See also [World dataset](./hopkins/dataset), [Russian dataset](./russian/dataset) description* 
 
 Available fields:
 
@@ -204,13 +198,56 @@ Time series fields:
 }
 ```
 
+## J.Hopkins' datasets
+
+This is the most popular COVID-19 dataset supported the Johns Hopkins University Applied Physics Lab (JHU APL). The sources are located in [GitHub repository](https://github.com/CSSEGISandData/COVID-19) and updated daily.
+
+The current interface performs some transformation and shares data from files: 
+
+- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv*
+- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv*
+- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv*
+
+The original dataset includes the following data:
+
+- Confirmed
+- Recovered
+- Death
+
+Full list of exported files can be found here: [World dataset](./hopkins/dataset).
+
 ### Untransformed files
+
+The original files can be downloaded from this repository:
 
 - https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_confirmed_global.csv
 - https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_recovered_global.csv
 - https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_deaths_global.csv
 - https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_confirmed_US.csv
 - https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_deaths_US.csv
+
+## Russian datasets
+
+The data was taken from the repository of **COVID-19_plus_Russia** where the data of J.Hopkins is competed by data from **Yandex COVID map**. The sources are located in [GitHub repository](https://github.com/grwlf/COVID-19_plus_Russia) and updated daily.
+
+The current interface performs some transformation and shares data from files: 
+
+- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_RU.csv*
+- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_RU.csv*
+
+The original dataset includes the following data:
+
+- Confirmed
+- Death
+
+Full list of exported files can be found here: [Russian dataset](./russian/dataset).
+
+### Untransformed files
+
+The original files can be downloaded from this repository:
+
+- https://insysbio.github.io/covid-19-data/russian/source/time_series_covid19_confirmed_RU.csv
+- https://insysbio.github.io/covid-19-data/russian/source/time_series_covid19_deaths_RU.csv
 
 ## Contributing
 
