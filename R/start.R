@@ -32,6 +32,10 @@ if(!require(highr, warn.conflicts = FALSE)){
 res <- try({
   source('./R/transform-hopkins-data.R')
 })
-if(inherits(res, "try-error")) q(status=1) else message("All done.")
+if(inherits(res, "try-error")) q(status=1) else message("Hopkins done.")
+res <- try({
+  source('./R/transform-russian-data.R')
+})
+if(inherits(res, "try-error")) q(status=1) else message("Russian done.")
 
 quit(save = 'no')

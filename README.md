@@ -126,7 +126,7 @@ Available fields:
 **hasParent** | If TRUE the data refer to the region of some "parent" country
 **group** | unique id of group: if hasParent==TRUE, it is "territory_code", and "country_code" otherwise
 
-(*) *to read more about country code standard: <https://www.iso.org/iso-3166-country-codes.html>*
+\* *to read more about country code standard: <https://www.iso.org/iso-3166-country-codes.html>*
 
 ### JSON formatted
 - <https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json>
@@ -149,7 +149,7 @@ Available fields:
 **group** | unique id of group: if hasParent==TRUE, it is "territory_code", and "country_code" otherwise
 **timeseries** | Array of time series data, see below
 
-(*) *to read more about country code standard: <https://www.iso.org/iso-3166-country-codes.html>*
+\* *to read more about country code standard: <https://www.iso.org/iso-3166-country-codes.html>*
 
 Time series fields:
 
@@ -214,8 +214,8 @@ Time series fields:
 
 ## Contributing
 
-Use [issues](https://github.com/insysbio/covid-19-data/issues) page to write about your ideas and found bugs.
-
+- Use [issues](https://github.com/insysbio/covid-19-data/issues) page to write about your ideas and found bugs.
+- Let us know if you use the data for your study or application
 
 ## Authors
 
