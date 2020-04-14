@@ -14,13 +14,13 @@ output.path <- file.path(getwd(), 'output', 'us')
 
 report_file <- file.path(output.path, 'dataset.md')
 pages_url <- 'https://insysbio.github.io/covid-19-data/us/'
-report = '# United states dataset'
+report = '# US dataset'
 
 # country/territory
 territories <- ISO_3166_2
 territory_vocabulary <- read.csv('./R/territory_vocabulary.csv', stringsAsFactors = FALSE)
 
-# KEY
+# UNIQUE KEY
 key <- 'Combined_Key'
 
 # confirmed cases
@@ -84,7 +84,8 @@ combined_data <- bind_rows(data_confirmed0, data_deaths0) %>%
 combined_data$country_code <- 'US'
 combined_data$country_code3 <- 'USA'
 combined_data$territory_code <- territory_comparator(combined_data$Province.State)
-combined_data$group = paste(combined_data$territory_code, combined_data$Admin2, sep = '-')
+no_blank_Admin2 <- gsub(' ', '_', combined_data$Admin2)
+combined_data$group = paste(combined_data$territory_code, no_blank_Admin2, sep = '-')
 
 # set latest data
 report <- c(report, paste0('*The build date: ', build_date, '.*'))
@@ -133,8 +134,8 @@ report_table_csv <- combined_data %>%
       Admin2 = .x[1, 'Admin2'],
       Province.State = .x[1, 'Province.State'],
       Country.Region = .x[1, 'Country.Region'],
-      CSV = paste0('<', pages_url, 'csv/', .y$group, '.csv>'),
-      JSON = paste0('<', pages_url, 'json/', .y$group, '.json>'),
+      CSV = paste0(pages_url, 'csv/', .y$group, '.csv'),
+      JSON = paste0(pages_url, 'json/', .y$group, '.json'),
       country_code = .x$country_code[1],
       country_code3 = .x$country_code3[1],
       territory_code = ifelse(!is.na(.x$territory_code[1]), .x$territory_code[1], '')

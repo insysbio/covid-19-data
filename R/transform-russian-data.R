@@ -14,7 +14,7 @@ output.path <- file.path(getwd(), 'output', 'russian')
 
 report_file <- file.path(output.path, 'dataset.md')
 pages_url <- 'https://insysbio.github.io/covid-19-data/russian/'
-report = '# Russian full dataset'
+report = '# Russian dataset'
 
 # country/territory
 countries <- ISO_3166_1

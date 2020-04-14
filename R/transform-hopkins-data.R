@@ -14,7 +14,7 @@ output.path <- file.path(getwd(), 'output', 'hopkins')
 
 report_file <- file.path(output.path, 'dataset.md')
 pages_url <- 'https://insysbio.github.io/covid-19-data/hopkins/'
-report = '# J.Hopkins full dataset'
+report = '# World dataset'
 
 # country/territory
 countries <- ISO_3166_1
