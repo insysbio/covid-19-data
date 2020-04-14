@@ -37,5 +37,9 @@ res <- try({
   source('./R/transform-russian-data.R')
 })
 if(inherits(res, "try-error")) q(status=1) else message("Russian done.")
+res <- try({
+  source('./R/transform-us-data.R')
+})
+if(inherits(res, "try-error")) q(status=1) else message("US done.")
 
 quit(save = 'no')

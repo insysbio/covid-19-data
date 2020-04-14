@@ -12,8 +12,8 @@ Currenty the project includes only the data from J.Hopkins but may be extended i
 - [Motivation](#Motivation)
 - [Usage](#Usage)
 - [Data structure](#data-structure)
-- [J.Hopkins' datasets](#jhopkins39-datasets)
-- [Russian datasets](#russian-datasets)
+- [J.Hopkins' dataset](#jhopkins39-dataset)
+- [Russian dataset](#russian-dataset)
 - [Contributing](#Contributing)
 - [Authors](#Authors)
 - [License](#License)
@@ -198,7 +198,7 @@ Time series fields:
 }
 ```
 
-## J.Hopkins' datasets
+## J.Hopkins' dataset
 
 This is the most popular COVID-19 dataset supported the Johns Hopkins University Applied Physics Lab (JHU APL). The sources are located in [GitHub repository](https://github.com/CSSEGISandData/COVID-19) and updated daily.
 
@@ -226,7 +226,7 @@ The original files can be downloaded from this repository:
 - https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_confirmed_US.csv
 - https://insysbio.github.io/covid-19-data/hopkins/source/time_series_covid19_deaths_US.csv
 
-## Russian datasets
+## Russian dataset
 
 The data was taken from the repository of **COVID-19_plus_Russia** where the data of J.Hopkins is competed by data from **Yandex COVID map**. The sources are located in [GitHub repository](https://github.com/grwlf/COVID-19_plus_Russia) and updated daily.
 
