@@ -5823,6 +5823,50 @@
       }
     ]
   },
+  "XX-DP": {
+    "hasErrors": true,
+    "Province.State": "Diamond Princess",
+    "Country.Region": "Canada",
+    "Lat": 0,
+    "Long": 0,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "XX-DP",
+    "timeseries": [
+      {
+        "date": "2020-04-13",
+        "confirmed": -1,
+        "deaths": -1,
+        "confirmed_new": 0,
+        "deaths_new": -2,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "XX-DP"
+  },
+  "XX-GP": {
+    "hasErrors": true,
+    "Province.State": "Grand Princess",
+    "Country.Region": "Canada",
+    "Lat": 37.6489,
+    "Long": -122.6655,
+    "hasParent": true,
+    "country_code": "CA",
+    "country_code3": "CAN",
+    "group": "XX-GP",
+    "timeseries": [
+      {
+        "date": "2020-04-13",
+        "confirmed": 13,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "deaths_new": 0,
+        "hasErrors": true
+      }
+    ],
+    "territory_code": "XX-GP"
+  },
   "YE": {
     "hasErrors": false,
     "Province.State": "",

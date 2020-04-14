@@ -1,4 +1,4 @@
-# J.Hopkins full dataset
+# World dataset
 *The build date: 2020-04-14.*
 
 *The latest date in dataset: 2020-04-13.*
@@ -268,8 +268,10 @@
 |VE     |                                 |Venezuela                        |https://insysbio.github.io/covid-19-data/hopkins/csv/VE.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/VE.json     |VE           |VEN           |               |
 |VG     |British Virgin Islands           |United Kingdom                   |https://insysbio.github.io/covid-19-data/hopkins/csv/VG.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/VG.json     |GB           |GBR           |VG             |
 |VN     |                                 |Vietnam                          |https://insysbio.github.io/covid-19-data/hopkins/csv/VN.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/VN.json     |VN           |VNM           |               |
+|XX-DP  |Diamond Princess                 |Canada                           |https://insysbio.github.io/covid-19-data/hopkins/csv/XX-DP.csv  |https://insysbio.github.io/covid-19-data/hopkins/json/XX-DP.json  |CA           |CAN           |XX-DP          |
+|XX-GP  |Grand Princess                   |Canada                           |https://insysbio.github.io/covid-19-data/hopkins/csv/XX-GP.csv  |https://insysbio.github.io/covid-19-data/hopkins/json/XX-GP.json  |CA           |CAN           |XX-GP          |
 |YE     |                                 |Yemen                            |https://insysbio.github.io/covid-19-data/hopkins/csv/YE.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/YE.json     |YE           |YEM           |               |
 |ZA     |                                 |South Africa                     |https://insysbio.github.io/covid-19-data/hopkins/csv/ZA.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/ZA.json     |ZA           |ZAF           |               |
 |ZM     |                                 |Zambia                           |https://insysbio.github.io/covid-19-data/hopkins/csv/ZM.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/ZM.json     |ZM           |ZMB           |               |
 |ZW     |                                 |Zimbabwe                         |https://insysbio.github.io/covid-19-data/hopkins/csv/ZW.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/ZW.json     |ZW           |ZWE           |               |
-|NA     |Diamond Princess                 |Canada                           |https://insysbio.github.io/covid-19-data/hopkins/csv/NA.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/NA.json     |CA           |CAN           |               |
+|NA     |Recovered                        |Canada                           |https://insysbio.github.io/covid-19-data/hopkins/csv/NA.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/NA.json     |CA           |CAN           |               |

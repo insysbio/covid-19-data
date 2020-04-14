@@ -97,12 +97,13 @@ All daily data follow the same structure which is similar to J.Hopkins' tables w
 - <https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv>
 - `https://insysbio.github.io/covid-19-data/<dataset>/csv/<territory-code>.csv`
 
-*See also [World dataset](./hopkins/dataset), [Russian dataset](./russian/dataset) description* 
+*See also [World dataset](./hopkins/dataset), [US dataset](./us/dataset), [Russian dataset](./russian/dataset) list* 
 
 Available fields:
 
 |||
 --|--
+**Admin2** | (if set) Place like city or town
 **Province.State** | Territory name from the original dataset
 **Country.Region** | Country name from the original dataset
 **Lat, Long** | Latitude and longitude from the original dataset
@@ -118,7 +119,7 @@ Available fields:
 **country_code3** | Three-letter country code based on ISO:3166 standard*
 **territory_code** | Territory code or two-leter country code based on ISO:3166 standard*
 **hasParent** | If TRUE the data refer to the region of some "parent" country
-**group** | unique id of group: if hasParent==TRUE, it is "territory_code", and "country_code" otherwise
+**group** | unique id of group: if hasParent==TRUE, it is "territory_code" or "Territory_code-City_name", and "country_code" otherwise
 
 \* *to read more about country code standard: <https://www.iso.org/iso-3166-country-codes.html>*
 
@@ -126,12 +127,13 @@ Available fields:
 - <https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json>
 - `https://insysbio.github.io/covid-19-data/<dataset>/json/<territory-code>.json`
 
-*See also [World dataset](./hopkins/dataset), [Russian dataset](./russian/dataset) description* 
+*See also [World dataset](./hopkins/dataset), [US dataset](./us/dataset), [Russian dataset](./russian/dataset) list* 
 
 Available fields:
 
 |||
 --|--
+**Admin2** | (if set) Place like city or town
 **Province.State** | Territory name from the original dataset
 **Country.Region** | Country name from the original dataset
 **Lat, Long** | Latitude and longitude from the original dataset
@@ -140,7 +142,7 @@ Available fields:
 **country_code3** | Three-letter country code based on ISO:3166 standard*
 **territory_code** | Territory code or two-leter country code based on ISO:3166 standard*
 **hasParent** | If TRUE the data refer to the region of some "parent" country
-**group** | unique id of group: if hasParent==TRUE, it is "territory_code", and "country_code" otherwise
+**group** | unique id of group: if hasParent==TRUE, it is "territory_code" or "Territory_code-City_name", and "country_code" otherwise
 **timeseries** | Array of time series data, see below
 
 \* *to read more about country code standard: <https://www.iso.org/iso-3166-country-codes.html>*
@@ -202,6 +204,10 @@ Time series fields:
 
 This is the most popular COVID-19 dataset supported the Johns Hopkins University Applied Physics Lab (JHU APL). The sources are located in [GitHub repository](https://github.com/CSSEGISandData/COVID-19) and updated daily.
 
+Currently data are separated by two datasets: **World** and **US**.
+
+### World data
+
 The current interface performs some transformation and shares data from files: 
 
 - *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv*
@@ -215,6 +221,20 @@ The original dataset includes the following data:
 - Death
 
 Full list of exported files can be found here: [World dataset](./hopkins/dataset).
+
+### US data
+
+The current interface performs some transformation and shares data from files: 
+
+- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv*
+- *csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv*
+
+The original dataset includes the following data:
+
+- Confirmed
+- Death
+
+Full list of exported files can be found here: [US dataset](./us/dataset).
 
 ### Untransformed files
 

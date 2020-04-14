@@ -1671,28 +1671,6 @@
     ],
     "territory_code": "RU-VOR"
   },
-  "RU-XXX": {
-    "hasErrors": false,
-    "Province.State": "Republic of Crimea",
-    "Country.Region": "Russia",
-    "Lat": 45,
-    "Long": 34,
-    "hasParent": true,
-    "country_code": "RU",
-    "country_code3": "RUS",
-    "group": "RU-XXX",
-    "timeseries": [
-      {
-        "date": "2020-04-13",
-        "confirmed": 32,
-        "deaths": 0,
-        "confirmed_new": 1,
-        "deaths_new": 0,
-        "hasErrors": false
-      }
-    ],
-    "territory_code": "RU-XXX"
-  },
   "RU-YAN": {
     "hasErrors": false,
     "Province.State": "Yamalo-Nenetskiy AO",
@@ -1802,5 +1780,27 @@
       }
     ],
     "territory_code": "UA-40"
+  },
+  "XX-CR": {
+    "hasErrors": false,
+    "Province.State": "Republic of Crimea",
+    "Country.Region": "Russia",
+    "Lat": 45,
+    "Long": 34,
+    "hasParent": true,
+    "country_code": "RU",
+    "country_code3": "RUS",
+    "group": "XX-CR",
+    "timeseries": [
+      {
+        "date": "2020-04-13",
+        "confirmed": 32,
+        "deaths": 0,
+        "confirmed_new": 1,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "XX-CR"
   }
 }
