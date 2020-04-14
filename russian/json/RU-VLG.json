@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "Vologda oblast",
   "Country.Region": "Russia",
-  "Lat": 60.139,
-  "Long": 44.0496,
+  "Lat": 59.5356,
+  "Long": 38.8178,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -662,6 +662,14 @@
       "confirmed": 42,
       "deaths": 0,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-13",
+      "confirmed": 43,
+      "deaths": 0,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }
