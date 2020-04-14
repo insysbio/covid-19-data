@@ -5,7 +5,7 @@
 
 The goal of the project is to provide a simple and unified HTTP interface to COVID-19 latest datasets. The shared dataset updates daily to have fresh data.
 
-Currenty the project includes only the data from J.Hopkins but may be extended in future. How this works: (1) download data from repos, (2) combine data tables and tidy them, (3) save in [different formats](./hopkins/dataset) on github pages.
+Currenty the project includes only the data from J.Hopkins but may be extended in future. How this works: (1) download data from repos, (2) combine data tables and tidy them, (3) save in [different formats](hopkins/dataset) on github pages.
 
 ## Table of contents
 
@@ -97,7 +97,7 @@ All daily data follow the same structure which is similar to J.Hopkins' tables w
 - <https://insysbio.github.io/covid-19-data/hopkins/csv/_combined.csv>
 - `https://insysbio.github.io/covid-19-data/<dataset>/csv/<territory-code>.csv`
 
-*See also [World dataset](./hopkins/dataset), [US dataset](./us/dataset), [Russian dataset](./russian/dataset) list* 
+*See also [World dataset](hopkins/dataset), [US dataset](us/dataset), [Russian dataset](russian/dataset) list* 
 
 Available fields:
 
@@ -127,7 +127,7 @@ Available fields:
 - <https://insysbio.github.io/covid-19-data/hopkins/json/_combined.json>
 - `https://insysbio.github.io/covid-19-data/<dataset>/json/<territory-code>.json`
 
-*See also [World dataset](./hopkins/dataset), [US dataset](./us/dataset), [Russian dataset](./russian/dataset) list* 
+*See also [World dataset](hopkins/dataset), [US dataset](us/dataset), [Russian dataset](russian/dataset) list* 
 
 Available fields:
 
@@ -220,7 +220,7 @@ The original dataset includes the following data:
 - Recovered
 - Death
 
-Full list of exported files can be found here: [World dataset](./hopkins/dataset).
+Full list of exported files can be found here: [World dataset](hopkins/dataset).
 
 ### US data
 
@@ -234,7 +234,7 @@ The original dataset includes the following data:
 - Confirmed
 - Death
 
-Full list of exported files can be found here: [US dataset](./us/dataset).
+Full list of exported files can be found here: [US dataset](us/dataset).
 
 ### Untransformed files
 
@@ -260,7 +260,7 @@ The original dataset includes the following data:
 - Confirmed
 - Death
 
-Full list of exported files can be found here: [Russian dataset](./russian/dataset).
+Full list of exported files can be found here: [Russian dataset](russian/dataset).
 
 ### Untransformed files
 

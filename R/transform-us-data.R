@@ -51,7 +51,8 @@ if (any(diff_confirmed_deaths)) {
 }
 
 # combining data
-
+territories <- subset(territories, subset = Code!='BG-12') # remove wrong montana
+territories <- subset(territories, subset = Code!='LR-MY') # remove wrong maryland
 territory_comparator <- function(territory){
   byName <- territories$Code[match(territory, territories$Name)]
   byVocabulary <- territory_vocabulary$Code[match(territory, territory_vocabulary$Name)]
