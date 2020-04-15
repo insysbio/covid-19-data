@@ -70,7 +70,7 @@ combined_data <- bind_rows(data_confirmed0, data_deaths0) %>%
   pivot_longer(date_confirmed_columns) %>%
   #pivot_wider(id_cols = c(Combined_Key, name, Admin2, Province_State, Country_Region), names_from = data_type, values_from = value) %>%
   pivot_wider(names_from = 'data_type', values_from = value) %>%
-  rename(Province.State = 'Province_State', Country.Region = 'Country_Region') %>%
+  rename(Long = 'Long_', Province.State = 'Province_State', Country.Region = 'Country_Region') %>%
   mutate(date = as.Date(name, "X%m.%d.%y")) %>%
   group_by(Combined_Key) %>%
   arrange(date, .by_group = TRUE) %>%
