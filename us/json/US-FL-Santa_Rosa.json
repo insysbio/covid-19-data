@@ -3,7 +3,7 @@
   "Admin2": "Santa Rosa",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 30.6934,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 113,
       "deaths": 4,
       "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 114,
+      "deaths": 4,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

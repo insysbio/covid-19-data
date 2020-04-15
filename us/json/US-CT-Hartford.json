@@ -3,7 +3,7 @@
   "Admin2": "Hartford",
   "Country.Region": "US",
   "Province.State": "Connecticut",
-  "Lat": {},
+  "Lat": 41.8028,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 133,
       "confirmed_new": 329,
       "deaths_new": 17,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 2370,
+      "deaths": 153,
+      "confirmed_new": 127,
+      "deaths_new": 20,
       "hasErrors": false
     }
   ],

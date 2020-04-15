@@ -3,7 +3,7 @@
   "Admin2": "Riverside",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 33.7431,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 41,
       "confirmed_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1961,
+      "deaths": 50,
+      "confirmed_new": 342,
+      "deaths_new": 9,
       "hasErrors": false
     }
   ],

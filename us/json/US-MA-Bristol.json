@@ -3,7 +3,7 @@
   "Admin2": "Bristol",
   "Country.Region": "US",
   "Province.State": "Massachusetts",
-  "Lat": {},
+  "Lat": 41.7923,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 1394,
       "deaths": 43,
       "confirmed_new": 67,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1435,
+      "deaths": 43,
+      "confirmed_new": 41,
       "deaths_new": 0,
       "hasErrors": false
     }

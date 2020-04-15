@@ -3,7 +3,7 @@
   "Admin2": "Clark",
   "Country.Region": "US",
   "Province.State": "Indiana",
-  "Lat": {},
+  "Lat": 38.4802,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 117,
       "deaths": 8,
       "confirmed_new": 5,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 132,
+      "deaths": 8,
+      "confirmed_new": 15,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Bergen",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.9601,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 482,
       "confirmed_new": 308,
       "deaths_new": 29,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 10426,
+      "deaths": 550,
+      "confirmed_new": 334,
+      "deaths_new": 68,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Charlotte",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 26.9013,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 119,
       "deaths": 5,
       "confirmed_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 123,
+      "deaths": 5,
+      "confirmed_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

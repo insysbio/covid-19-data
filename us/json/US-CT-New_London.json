@@ -3,7 +3,7 @@
   "Admin2": "New London",
   "Country.Region": "US",
   "Province.State": "Connecticut",
-  "Lat": {},
+  "Lat": 41.489,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 222,
       "deaths": 7,
       "confirmed_new": 32,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 227,
+      "deaths": 7,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Muskegon",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 43.2912,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 4,
       "confirmed_new": 9,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 85,
+      "deaths": 5,
+      "confirmed_new": 17,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

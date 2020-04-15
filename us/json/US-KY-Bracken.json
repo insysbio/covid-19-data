@@ -3,7 +3,7 @@
   "Admin2": "Bracken",
   "Country.Region": "US",
   "Province.State": "Kentucky",
-  "Lat": {},
+  "Lat": 38.6916,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 6,
       "deaths": 0,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 5,
+      "deaths": 0,
+      "confirmed_new": -1,
       "deaths_new": 0,
       "hasErrors": false
     }

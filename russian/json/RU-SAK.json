@@ -3,7 +3,7 @@
   "Province.State": "Sakhalin oblast",
   "Country.Region": "Russia",
   "Lat": 50.1509,
-  "Long": 142.7508,
+  "Long": 142.751,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -667,6 +667,14 @@
     },
     {
       "date": "2020-04-13",
+      "confirmed": 11,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
       "confirmed": 11,
       "deaths": 0,
       "confirmed_new": 0,

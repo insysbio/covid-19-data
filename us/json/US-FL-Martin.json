@@ -3,7 +3,7 @@
   "Admin2": "Martin",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 27.0772,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 129,
       "deaths": 3,
       "confirmed_new": 7,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 135,
+      "deaths": 3,
+      "confirmed_new": 6,
       "deaths_new": 0,
       "hasErrors": false
     }

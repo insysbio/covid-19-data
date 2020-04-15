@@ -3,7 +3,7 @@
   "Admin2": "Hillsborough",
   "Country.Region": "US",
   "Province.State": "New Hampshire",
-  "Lat": {},
+  "Lat": 42.9154,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 2,
       "confirmed_new": 18,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 271,
+      "deaths": 0,
+      "confirmed_new": -114,
+      "deaths_new": -2,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Blount",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 33.9821,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 14,
       "deaths": 0,
       "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 16,
+      "deaths": 0,
+      "confirmed_new": 2,
       "deaths_new": 0,
       "hasErrors": false
     }

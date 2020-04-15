@@ -3,7 +3,7 @@
   "Admin2": "Hidalgo",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 26.3942,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 190,
       "deaths": 1,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 198,
+      "deaths": 1,
+      "confirmed_new": 8,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Colleton",
   "Country.Region": "US",
   "Province.State": "South Carolina",
-  "Lat": {},
+  "Lat": 32.8758,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 17,
+      "deaths": 0,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 18,
       "deaths": 0,
       "confirmed_new": 1,
       "deaths_new": 0,

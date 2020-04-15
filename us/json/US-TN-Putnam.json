@@ -3,7 +3,7 @@
   "Admin2": "Putnam",
   "Country.Region": "US",
   "Province.State": "Tennessee",
-  "Lat": {},
+  "Lat": 36.1401,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 87,
       "deaths": 0,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 92,
+      "deaths": 0,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }

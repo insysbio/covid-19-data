@@ -3,7 +3,7 @@
   "Admin2": "Honolulu",
   "Country.Region": "US",
   "Province.State": "Hawaii",
-  "Lat": {},
+  "Lat": 21.458,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 352,
       "deaths": 6,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 358,
+      "deaths": 6,
+      "confirmed_new": 6,
       "deaths_new": 0,
       "hasErrors": false
     }

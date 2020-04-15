@@ -3,7 +3,7 @@
   "Admin2": "Tioga",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 41.7726,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 14,
       "deaths": 1,
       "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 13,
+      "deaths": 1,
+      "confirmed_new": -1,
       "deaths_new": 0,
       "hasErrors": false
     }

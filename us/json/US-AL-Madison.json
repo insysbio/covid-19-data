@@ -3,7 +3,7 @@
   "Admin2": "Madison",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 34.7633,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 187,
       "deaths": 3,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 191,
+      "deaths": 3,
+      "confirmed_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Knox",
   "Country.Region": "US",
   "Province.State": "Tennessee",
-  "Lat": {},
+  "Lat": 35.9951,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 4,
       "confirmed_new": 4,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 174,
+      "deaths": 4,
+      "confirmed_new": 1,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

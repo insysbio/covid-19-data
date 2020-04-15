@@ -3,7 +3,7 @@
   "Admin2": "Monterey",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 36.2186,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 87,
       "deaths": 3,
       "confirmed_new": 5,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 87,
+      "deaths": 3,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

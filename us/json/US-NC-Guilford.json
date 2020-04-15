@@ -3,7 +3,7 @@
   "Admin2": "Guilford",
   "Country.Region": "US",
   "Province.State": "North Carolina",
-  "Lat": {},
+  "Lat": 36.0796,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 10,
       "confirmed_new": 3,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 138,
+      "deaths": 10,
+      "confirmed_new": 0,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

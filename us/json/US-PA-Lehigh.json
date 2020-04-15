@@ -3,7 +3,7 @@
   "Admin2": "Lehigh",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 40.6155,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 19,
       "confirmed_new": 63,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1803,
+      "deaths": 23,
+      "confirmed_new": 56,
+      "deaths_new": 4,
       "hasErrors": false
     }
   ],

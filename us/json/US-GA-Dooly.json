@@ -3,7 +3,7 @@
   "Admin2": "Dooly",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 32.1563,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 2,
       "confirmed_new": 10,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 51,
+      "deaths": 2,
+      "confirmed_new": 1,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

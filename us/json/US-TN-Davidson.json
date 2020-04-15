@@ -3,7 +3,7 @@
   "Admin2": "Davidson",
   "Country.Region": "US",
   "Province.State": "Tennessee",
-  "Lat": {},
+  "Lat": 36.1701,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 16,
       "confirmed_new": -142,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1237,
+      "deaths": 18,
+      "confirmed_new": 30,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

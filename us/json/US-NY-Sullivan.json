@@ -3,7 +3,7 @@
   "Admin2": "Sullivan",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 41.7158,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 380,
       "deaths": 8,
       "confirmed_new": 22,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 415,
+      "deaths": 9,
+      "confirmed_new": 35,
       "deaths_new": 1,
       "hasErrors": false
     }

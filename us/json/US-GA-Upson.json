@@ -3,7 +3,7 @@
   "Admin2": "Upson",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 32.8792,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 2,
       "confirmed_new": 6,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 128,
+      "deaths": 5,
+      "confirmed_new": 67,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

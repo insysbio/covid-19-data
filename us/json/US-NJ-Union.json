@@ -3,7 +3,7 @@
   "Admin2": "Union",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.6584,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 217,
       "confirmed_new": 456,
       "deaths_new": 8,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 7265,
+      "deaths": 238,
+      "confirmed_new": 629,
+      "deaths_new": 21,
       "hasErrors": false
     }
   ],

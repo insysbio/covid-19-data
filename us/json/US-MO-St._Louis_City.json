@@ -3,7 +3,7 @@
   "Admin2": "St. Louis City",
   "Country.Region": "US",
   "Province.State": "Missouri",
-  "Lat": {},
+  "Lat": 38.6356,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 19,
       "confirmed_new": 53,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 706,
+      "deaths": 24,
+      "confirmed_new": 8,
+      "deaths_new": 5,
       "hasErrors": false
     }
   ],

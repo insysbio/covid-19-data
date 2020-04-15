@@ -3,7 +3,7 @@
   "Admin2": "Portage",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 41.1679,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 17,
       "confirmed_new": 7,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 146,
+      "deaths": 20,
+      "confirmed_new": 2,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

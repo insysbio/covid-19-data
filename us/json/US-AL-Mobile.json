@@ -3,7 +3,7 @@
   "Admin2": "Mobile",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 30.7847,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 17,
       "confirmed_new": 14,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 509,
+      "deaths": 17,
+      "confirmed_new": 41,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

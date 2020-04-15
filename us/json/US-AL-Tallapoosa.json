@@ -3,7 +3,7 @@
   "Admin2": "Tallapoosa",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 32.867,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 5,
       "confirmed_new": 3,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 123,
+      "deaths": 7,
+      "confirmed_new": 22,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Plymouth",
   "Country.Region": "US",
   "Province.State": "Massachusetts",
-  "Lat": {},
+  "Lat": 41.9407,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 2141,
       "deaths": 55,
       "confirmed_new": 117,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 2207,
+      "deaths": 55,
+      "confirmed_new": 66,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Hampden",
   "Country.Region": "US",
   "Province.State": "Massachusetts",
-  "Lat": {},
+  "Lat": 42.1344,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 1694,
       "deaths": 102,
       "confirmed_new": 47,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1798,
+      "deaths": 102,
+      "confirmed_new": 104,
       "deaths_new": 0,
       "hasErrors": false
     }

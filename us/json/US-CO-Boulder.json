@@ -3,7 +3,7 @@
   "Admin2": "Boulder",
   "Country.Region": "US",
   "Province.State": "Colorado",
-  "Lat": {},
+  "Lat": 40.0931,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 12,
       "confirmed_new": 20,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 293,
+      "deaths": 14,
+      "confirmed_new": 9,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

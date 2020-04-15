@@ -3,7 +3,7 @@
   "Admin2": "Lubbock",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 33.6101,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 16,
       "confirmed_new": 37,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 317,
+      "deaths": 21,
+      "confirmed_new": 10,
+      "deaths_new": 5,
       "hasErrors": false
     }
   ],

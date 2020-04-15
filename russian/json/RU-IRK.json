@@ -3,7 +3,7 @@
   "Province.State": "Irkutsk oblast",
   "Country.Region": "Russia",
   "Lat": 57.1003,
-  "Long": 106.3633,
+  "Long": 106.363,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -670,6 +670,14 @@
       "confirmed": 35,
       "deaths": 2,
       "confirmed_new": 7,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 39,
+      "deaths": 2,
+      "confirmed_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

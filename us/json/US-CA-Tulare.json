@@ -3,7 +3,7 @@
   "Admin2": "Tulare",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 36.2203,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 13,
       "confirmed_new": 37,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 296,
+      "deaths": 13,
+      "confirmed_new": 32,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

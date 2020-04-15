@@ -3,7 +3,7 @@
   "Admin2": "Palm Beach",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 26.6468,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 92,
       "confirmed_new": 58,
       "deaths_new": 11,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1740,
+      "deaths": 93,
+      "confirmed_new": 36,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

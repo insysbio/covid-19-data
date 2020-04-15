@@ -3,7 +3,7 @@
   "Admin2": "Bucks",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 40.3368,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 1229,
       "deaths": 38,
       "confirmed_new": 59,
+      "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1273,
+      "deaths": 41,
+      "confirmed_new": 44,
       "deaths_new": 3,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Holmes",
   "Country.Region": "US",
   "Province.State": "Mississippi",
-  "Lat": {},
+  "Lat": 33.1235,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 46,
       "deaths": 3,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 47,
+      "deaths": 3,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

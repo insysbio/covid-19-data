@@ -3,7 +3,7 @@
   "Admin2": "Steuben",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 42.2689,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 11,
       "confirmed_new": 0,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 147,
+      "deaths": 16,
+      "confirmed_new": 0,
+      "deaths_new": 5,
       "hasErrors": false
     }
   ],

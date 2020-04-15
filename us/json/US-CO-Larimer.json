@@ -3,7 +3,7 @@
   "Admin2": "Larimer",
   "Country.Region": "US",
   "Province.State": "Colorado",
-  "Lat": {},
+  "Lat": 40.6667,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 193,
       "deaths": 9,
       "confirmed_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 198,
+      "deaths": 9,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }

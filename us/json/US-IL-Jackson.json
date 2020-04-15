@@ -3,7 +3,7 @@
   "Admin2": "Jackson",
   "Country.Region": "US",
   "Province.State": "Illinois",
-  "Lat": {},
+  "Lat": 37.786,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 4,
       "confirmed_new": 5,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 36,
+      "deaths": 3,
+      "confirmed_new": 0,
+      "deaths_new": -1,
       "hasErrors": false
     }
   ],

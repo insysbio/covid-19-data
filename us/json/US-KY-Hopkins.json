@@ -3,7 +3,7 @@
   "Admin2": "Hopkins",
   "Country.Region": "US",
   "Province.State": "Kentucky",
-  "Lat": {},
+  "Lat": 37.3094,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 4,
       "confirmed_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 87,
+      "deaths": 8,
+      "confirmed_new": 0,
+      "deaths_new": 4,
       "hasErrors": false
     }
   ],

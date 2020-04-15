@@ -3,7 +3,7 @@
   "Admin2": "Harrison",
   "Country.Region": "US",
   "Province.State": "Mississippi",
-  "Lat": {},
+  "Lat": 30.5136,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 112,
       "deaths": 5,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 121,
+      "deaths": 5,
+      "confirmed_new": 9,
       "deaths_new": 0,
       "hasErrors": false
     }

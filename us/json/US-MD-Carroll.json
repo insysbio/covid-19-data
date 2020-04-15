@@ -3,7 +3,7 @@
   "Admin2": "Carroll",
   "Country.Region": "US",
   "Province.State": "Maryland",
-  "Lat": {},
+  "Lat": 39.5645,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 28,
       "confirmed_new": 14,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 259,
+      "deaths": 29,
+      "confirmed_new": 9,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

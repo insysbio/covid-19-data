@@ -3,7 +3,7 @@
   "Admin2": "Weld",
   "Country.Region": "US",
   "Province.State": "Colorado",
-  "Lat": {},
+  "Lat": 40.555,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 53,
       "confirmed_new": 70,
       "deaths_new": 5,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 858,
+      "deaths": 55,
+      "confirmed_new": 50,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

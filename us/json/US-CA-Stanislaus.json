@@ -3,7 +3,7 @@
   "Admin2": "Stanislaus",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 37.5586,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 131,
       "deaths": 2,
       "confirmed_new": 10,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 146,
+      "deaths": 2,
+      "confirmed_new": 15,
       "deaths_new": 0,
       "hasErrors": false
     }

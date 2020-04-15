@@ -3,7 +3,7 @@
   "Admin2": "Worcester",
   "Country.Region": "US",
   "Province.State": "Massachusetts",
-  "Lat": {},
+  "Lat": 42.3503,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 2128,
       "deaths": 49,
       "confirmed_new": 96,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 2246,
+      "deaths": 49,
+      "confirmed_new": 118,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Montgomery",
   "Country.Region": "US",
   "Province.State": "Maryland",
-  "Lat": {},
+  "Lat": 39.1368,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 1756,
       "deaths": 48,
       "confirmed_new": 125,
+      "deaths_new": 6,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1883,
+      "deaths": 54,
+      "confirmed_new": 127,
       "deaths_new": 6,
       "hasErrors": false
     }

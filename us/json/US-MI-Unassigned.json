@@ -3,7 +3,7 @@
   "Admin2": "Unassigned",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 0,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 4,
       "confirmed_new": -8,
       "deaths_new": -8,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 91,
+      "deaths": 4,
+      "confirmed_new": 13,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

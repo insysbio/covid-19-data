@@ -3,7 +3,7 @@
   "Admin2": "Shawnee",
   "Country.Region": "US",
   "Province.State": "Kansas",
-  "Lat": {},
+  "Lat": 39.041,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 78,
       "deaths": 4,
       "confirmed_new": 4,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 80,
+      "deaths": 5,
+      "confirmed_new": 2,
       "deaths_new": 1,
       "hasErrors": false
     }

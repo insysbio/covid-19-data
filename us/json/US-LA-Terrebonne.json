@@ -3,7 +3,7 @@
   "Admin2": "Terrebonne",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 29.3734,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 14,
       "confirmed_new": 5,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 265,
+      "deaths": 17,
+      "confirmed_new": 5,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

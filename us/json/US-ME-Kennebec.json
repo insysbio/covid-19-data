@@ -3,7 +3,7 @@
   "Admin2": "Kennebec",
   "Country.Region": "US",
   "Province.State": "Maine",
-  "Lat": {},
+  "Lat": 44.4076,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 78,
       "deaths": 1,
       "confirmed_new": 46,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 81,
+      "deaths": 1,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     }

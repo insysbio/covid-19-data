@@ -3,7 +3,7 @@
   "Admin2": "Calcasieu",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 30.2293,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 268,
       "deaths": 13,
       "confirmed_new": 9,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 273,
+      "deaths": 14,
+      "confirmed_new": 5,
       "deaths_new": 1,
       "hasErrors": false
     }

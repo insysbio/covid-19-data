@@ -3,7 +3,7 @@
   "Admin2": "New Haven",
   "Country.Region": "US",
   "Province.State": "Connecticut",
-  "Lat": {},
+  "Lat": 41.408,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 3358,
       "deaths": 135,
       "confirmed_new": 412,
+      "deaths_new": 16,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 3543,
+      "deaths": 151,
+      "confirmed_new": 185,
       "deaths_new": 16,
       "hasErrors": false
     }

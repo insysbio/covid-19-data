@@ -3,7 +3,7 @@
   "Admin2": "Johnson",
   "Country.Region": "US",
   "Province.State": "Iowa",
-  "Lat": {},
+  "Lat": 41.6717,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 2,
       "confirmed_new": 7,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 216,
+      "deaths": 2,
+      "confirmed_new": 6,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

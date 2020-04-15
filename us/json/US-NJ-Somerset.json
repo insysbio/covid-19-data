@@ -3,7 +3,7 @@
   "Admin2": "Somerset",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.5647,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 1809,
       "deaths": 85,
       "confirmed_new": 77,
+      "deaths_new": 6,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1911,
+      "deaths": 91,
+      "confirmed_new": 102,
       "deaths_new": 6,
       "hasErrors": false
     }

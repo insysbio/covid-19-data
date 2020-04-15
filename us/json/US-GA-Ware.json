@@ -3,7 +3,7 @@
   "Admin2": "Ware",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 31.0545,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 56,
       "deaths": 4,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 64,
+      "deaths": 4,
+      "confirmed_new": 8,
       "deaths_new": 0,
       "hasErrors": false
     }

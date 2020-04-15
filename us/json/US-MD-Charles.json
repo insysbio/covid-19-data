@@ -3,7 +3,7 @@
   "Admin2": "Charles",
   "Country.Region": "US",
   "Province.State": "Maryland",
-  "Lat": {},
+  "Lat": 38.5109,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 10,
       "confirmed_new": 21,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 292,
+      "deaths": 12,
+      "confirmed_new": 18,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

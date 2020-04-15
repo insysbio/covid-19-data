@@ -3,7 +3,7 @@
   "Admin2": "Unassigned",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 0,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 1,
       "confirmed_new": 1,
       "deaths_new": -3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 287,
+      "deaths": 7,
+      "confirmed_new": -932,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ],

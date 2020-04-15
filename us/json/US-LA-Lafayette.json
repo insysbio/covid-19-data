@@ -3,7 +3,7 @@
   "Admin2": "Lafayette",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 30.2049,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 360,
       "deaths": 14,
       "confirmed_new": 6,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 363,
+      "deaths": 15,
+      "confirmed_new": 3,
       "deaths_new": 1,
       "hasErrors": false
     }

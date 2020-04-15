@@ -3,7 +3,7 @@
   "Admin2": "Bartow",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 34.2373,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 216,
       "deaths": 16,
       "confirmed_new": 4,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 230,
+      "deaths": 17,
+      "confirmed_new": 14,
       "deaths_new": 1,
       "hasErrors": false
     }

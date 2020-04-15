@@ -3,7 +3,7 @@
   "Admin2": "St. Clair",
   "Country.Region": "US",
   "Province.State": "Illinois",
-  "Lat": {},
+  "Lat": 38.47,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 202,
       "deaths": 8,
       "confirmed_new": 13,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 220,
+      "deaths": 8,
+      "confirmed_new": 18,
       "deaths_new": 0,
       "hasErrors": false
     }

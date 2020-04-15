@@ -3,7 +3,7 @@
   "Admin2": "Columbia",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 42.2482,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 9,
       "confirmed_new": 6,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 93,
+      "deaths": 9,
+      "confirmed_new": 0,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

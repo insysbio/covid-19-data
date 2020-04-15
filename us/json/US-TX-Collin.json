@@ -3,7 +3,7 @@
   "Admin2": "Collin",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 33.1882,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 10,
       "confirmed_new": 19,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 472,
+      "deaths": 10,
+      "confirmed_new": 0,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

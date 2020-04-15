@@ -3,7 +3,7 @@
   "Admin2": "Duval",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 30.3323,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 691,
       "deaths": 13,
       "confirmed_new": 23,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 718,
+      "deaths": 13,
+      "confirmed_new": 27,
       "deaths_new": 0,
       "hasErrors": false
     }

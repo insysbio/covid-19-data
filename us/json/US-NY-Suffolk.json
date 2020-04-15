@@ -3,7 +3,7 @@
   "Admin2": "Suffolk",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 40.8832,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 568,
       "confirmed_new": 709,
       "deaths_new": 50,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 22691,
+      "deaths": 608,
+      "confirmed_new": 1048,
+      "deaths_new": 40,
       "hasErrors": false
     }
   ],

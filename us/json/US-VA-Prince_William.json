@@ -3,7 +3,7 @@
   "Admin2": "Prince William",
   "Country.Region": "US",
   "Province.State": "Virginia",
-  "Lat": {},
+  "Lat": 38.7092,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 434,
       "deaths": 1,
       "confirmed_new": 45,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 508,
+      "deaths": 1,
+      "confirmed_new": 74,
       "deaths_new": 0,
       "hasErrors": false
     }

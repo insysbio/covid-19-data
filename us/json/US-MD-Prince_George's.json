@@ -3,7 +3,7 @@
   "Admin2": "Prince George's",
   "Country.Region": "US",
   "Province.State": "Maryland",
-  "Lat": {},
+  "Lat": 38.8307,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 63,
       "confirmed_new": 170,
       "deaths_new": 8,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 2356,
+      "deaths": 72,
+      "confirmed_new": 151,
+      "deaths_new": 9,
       "hasErrors": false
     }
   ],

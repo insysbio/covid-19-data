@@ -3,7 +3,7 @@
   "Admin2": "Muscogee",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 32.5093,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 161,
       "deaths": 4,
       "confirmed_new": 15,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 175,
+      "deaths": 4,
+      "confirmed_new": 14,
       "deaths_new": 0,
       "hasErrors": false
     }

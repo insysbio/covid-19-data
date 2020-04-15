@@ -3,7 +3,7 @@
   "Admin2": "Sussex",
   "Country.Region": "US",
   "Province.State": "Delaware",
-  "Lat": {},
+  "Lat": 38.6614,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 15,
       "confirmed_new": 87,
       "deaths_new": 5,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 639,
+      "deaths": 16,
+      "confirmed_new": 88,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

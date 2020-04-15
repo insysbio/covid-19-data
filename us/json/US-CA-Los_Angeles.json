@@ -3,7 +3,7 @@
   "Admin2": "Los Angeles",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 34.3083,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 322,
       "confirmed_new": 539,
       "deaths_new": 53,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 10047,
+      "deaths": 360,
+      "confirmed_new": 614,
+      "deaths_new": 38,
       "hasErrors": false
     }
   ],

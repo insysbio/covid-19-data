@@ -3,7 +3,7 @@
   "Admin2": "Harris",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 29.8586,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 46,
       "confirmed_new": 115,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 3907,
+      "deaths": 52,
+      "confirmed_new": 163,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ],

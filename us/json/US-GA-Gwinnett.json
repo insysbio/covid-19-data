@@ -3,7 +3,7 @@
   "Admin2": "Gwinnett",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 33.9604,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 22,
       "confirmed_new": 49,
       "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 815,
+      "deaths": 29,
+      "confirmed_new": 76,
+      "deaths_new": 7,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Morris",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.861,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 162,
       "confirmed_new": 126,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 3424,
+      "deaths": 192,
+      "confirmed_new": 199,
+      "deaths_new": 30,
       "hasErrors": false
     }
   ],

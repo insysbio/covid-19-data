@@ -3,7 +3,7 @@
   "Admin2": "Tom Green",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 31.4046,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 39,
       "deaths": 1,
       "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 39,
+      "deaths": 1,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

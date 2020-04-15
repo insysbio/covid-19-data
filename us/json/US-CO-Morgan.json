@@ -3,7 +3,7 @@
   "Admin2": "Morgan",
   "Country.Region": "US",
   "Province.State": "Colorado",
-  "Lat": {},
+  "Lat": 40.2628,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 75,
       "deaths": 0,
       "confirmed_new": 16,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 89,
+      "deaths": 0,
+      "confirmed_new": 14,
       "deaths_new": 0,
       "hasErrors": false
     }

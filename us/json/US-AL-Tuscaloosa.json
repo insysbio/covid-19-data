@@ -3,7 +3,7 @@
   "Admin2": "Tuscaloosa",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 33.2873,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 121,
       "deaths": 0,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 122,
+      "deaths": 0,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

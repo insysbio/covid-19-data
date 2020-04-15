@@ -3,7 +3,7 @@
   "Admin2": "Middlesex",
   "Country.Region": "US",
   "Province.State": "Massachusetts",
-  "Lat": {},
+  "Lat": 42.4861,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 5983,
       "deaths": 149,
       "confirmed_new": 323,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 6254,
+      "deaths": 149,
+      "confirmed_new": 271,
       "deaths_new": 0,
       "hasErrors": false
     }

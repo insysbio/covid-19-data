@@ -3,7 +3,7 @@
   "Admin2": "Rensselaer",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 42.7135,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 6,
       "confirmed_new": 11,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 140,
+      "deaths": 6,
+      "confirmed_new": 27,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

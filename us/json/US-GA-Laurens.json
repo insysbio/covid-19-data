@@ -3,7 +3,7 @@
   "Admin2": "Laurens",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 32.4633,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 35,
       "deaths": 1,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 35,
+      "deaths": 1,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

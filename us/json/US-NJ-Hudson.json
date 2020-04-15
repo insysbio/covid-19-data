@@ -3,7 +3,7 @@
   "Admin2": "Hudson",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.7377,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 236,
       "confirmed_new": 410,
       "deaths_new": 10,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 8242,
+      "deaths": 277,
+      "confirmed_new": 363,
+      "deaths_new": 41,
       "hasErrors": false
     }
   ],

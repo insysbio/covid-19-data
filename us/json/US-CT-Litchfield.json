@@ -3,7 +3,7 @@
   "Admin2": "Litchfield",
   "Country.Region": "US",
   "Province.State": "Connecticut",
-  "Lat": {},
+  "Lat": 41.7938,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 24,
       "confirmed_new": 43,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 460,
+      "deaths": 29,
+      "confirmed_new": 14,
+      "deaths_new": 5,
       "hasErrors": false
     }
   ],

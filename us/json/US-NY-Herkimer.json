@@ -3,7 +3,7 @@
   "Admin2": "Herkimer",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 43.4203,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 38,
+      "deaths": 3,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 39,
       "deaths": 3,
       "confirmed_new": 1,
       "deaths_new": 0,

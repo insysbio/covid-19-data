@@ -3,7 +3,7 @@
   "Admin2": "Kern",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 35.3433,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 436,
       "deaths": 3,
       "confirmed_new": 40,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 462,
+      "deaths": 3,
+      "confirmed_new": 26,
       "deaths_new": 0,
       "hasErrors": false
     }

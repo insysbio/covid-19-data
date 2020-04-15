@@ -3,7 +3,7 @@
   "Admin2": "Guadalupe",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 29.5817,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 49,
       "deaths": 0,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 50,
+      "deaths": 0,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

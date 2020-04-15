@@ -3,7 +3,7 @@
   "Admin2": "Chatham",
   "Country.Region": "US",
   "Province.State": "North Carolina",
-  "Lat": {},
+  "Lat": 35.7039,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 69,
+      "deaths": 0,
+      "confirmed_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 75,
       "deaths": 0,
       "confirmed_new": 6,
       "deaths_new": 0,

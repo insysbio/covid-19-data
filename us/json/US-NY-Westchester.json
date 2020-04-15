@@ -3,7 +3,7 @@
   "Admin2": "Westchester",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 41.1628,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 557,
       "confirmed_new": 473,
       "deaths_new": 46,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 20191,
+      "deaths": 596,
+      "confirmed_new": 405,
+      "deaths_new": 39,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Pickens",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 34.4659,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 11,
       "deaths": 2,
       "confirmed_new": -1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 13,
+      "deaths": 2,
+      "confirmed_new": 2,
       "deaths_new": 0,
       "hasErrors": false
     }

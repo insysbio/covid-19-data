@@ -3,7 +3,7 @@
   "Admin2": "Greene",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 33.5769,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 29,
       "deaths": 1,
       "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 31,
+      "deaths": 1,
+      "confirmed_new": 2,
       "deaths_new": 0,
       "hasErrors": false
     }

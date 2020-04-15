@@ -3,7 +3,7 @@
   "Admin2": "Polk",
   "Country.Region": "US",
   "Province.State": "Oregon",
-  "Lat": {},
+  "Lat": 44.9032,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -668,6 +668,14 @@
     },
     {
       "date": "2020-04-13",
+      "confirmed": 30,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
       "confirmed": 30,
       "deaths": 1,
       "confirmed_new": 0,

@@ -3,7 +3,7 @@
   "Admin2": "Marion",
   "Country.Region": "US",
   "Province.State": "West Virginia",
-  "Lat": {},
+  "Lat": 39.5098,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 34,
       "deaths": 1,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 38,
+      "deaths": 1,
+      "confirmed_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

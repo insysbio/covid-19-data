@@ -3,7 +3,7 @@
   "Admin2": "Montgomery",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 39.7539,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 7,
       "confirmed_new": 3,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 205,
+      "deaths": 8,
+      "confirmed_new": 4,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

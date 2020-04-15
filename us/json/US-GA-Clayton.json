@@ -3,7 +3,7 @@
   "Admin2": "Clayton",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 33.5419,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 12,
       "confirmed_new": 29,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 435,
+      "deaths": 12,
+      "confirmed_new": 44,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

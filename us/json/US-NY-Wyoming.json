@@ -3,7 +3,7 @@
   "Admin2": "Wyoming",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 42.7015,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 31,
       "deaths": 1,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 32,
+      "deaths": 1,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

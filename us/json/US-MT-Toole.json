@@ -3,7 +3,7 @@
   "Admin2": "Toole",
   "Country.Region": "US",
   "Province.State": "Montana",
-  "Lat": {},
+  "Lat": 48.6558,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 26,
       "deaths": 3,
       "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 26,
+      "deaths": 3,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

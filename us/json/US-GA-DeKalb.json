@@ -3,7 +3,7 @@
   "Admin2": "DeKalb",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 33.7694,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 14,
       "confirmed_new": 111,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1144,
+      "deaths": 15,
+      "confirmed_new": 164,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

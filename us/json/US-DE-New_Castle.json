@@ -3,7 +3,7 @@
   "Admin2": "New Castle",
   "Country.Region": "US",
   "Province.State": "Delaware",
-  "Lat": {},
+  "Lat": 39.5799,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 20,
       "confirmed_new": 39,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 947,
+      "deaths": 20,
+      "confirmed_new": 28,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

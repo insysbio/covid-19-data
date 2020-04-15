@@ -3,7 +3,7 @@
   "Admin2": "Talladega",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 33.3782,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 1,
       "confirmed_new": 4,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 38,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

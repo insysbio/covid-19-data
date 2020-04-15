@@ -3,7 +3,7 @@
   "Admin2": "Essex",
   "Country.Region": "US",
   "Province.State": "Massachusetts",
-  "Lat": {},
+  "Lat": 42.6688,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 3413,
       "deaths": 101,
       "confirmed_new": 243,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 3594,
+      "deaths": 101,
+      "confirmed_new": 181,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Suffolk",
   "Country.Region": "US",
   "Province.State": "Massachusetts",
-  "Lat": {},
+  "Lat": 42.328,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 5579,
       "deaths": 86,
       "confirmed_new": 220,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 5872,
+      "deaths": 86,
+      "confirmed_new": 293,
       "deaths_new": 0,
       "hasErrors": false
     }

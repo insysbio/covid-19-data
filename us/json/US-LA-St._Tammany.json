@@ -3,7 +3,7 @@
   "Admin2": "St. Tammany",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 30.4094,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 48,
       "confirmed_new": 17,
       "deaths_new": 9,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 898,
+      "deaths": 55,
+      "confirmed_new": 17,
+      "deaths_new": 7,
       "hasErrors": false
     }
   ],

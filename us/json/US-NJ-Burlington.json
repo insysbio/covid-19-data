@@ -3,7 +3,7 @@
   "Admin2": "Burlington",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 39.8768,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 24,
       "confirmed_new": 60,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1207,
+      "deaths": 28,
+      "confirmed_new": 52,
+      "deaths_new": 4,
       "hasErrors": false
     }
   ],

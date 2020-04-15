@@ -3,7 +3,7 @@
   "Admin2": "Lee",
   "Country.Region": "US",
   "Province.State": "Mississippi",
-  "Lat": {},
+  "Lat": 34.2919,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 46,
       "deaths": 4,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 46,
+      "deaths": 4,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

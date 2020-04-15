@@ -11,10 +11,10 @@
     "group": "RU-AD",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 20,
+        "date": "2020-04-14",
+        "confirmed": 27,
         "deaths": 0,
-        "confirmed_new": 0,
+        "confirmed_new": 7,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -33,10 +33,10 @@
     "group": "RU-ALT",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 31,
+        "date": "2020-04-14",
+        "confirmed": 36,
         "deaths": 0,
-        "confirmed_new": 2,
+        "confirmed_new": 5,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -48,17 +48,17 @@
     "Province.State": "Amursk oblast",
     "Country.Region": "Russia",
     "Lat": 53.4133,
-    "Long": 127.7281,
+    "Long": 127.728,
     "hasParent": true,
     "country_code": "RU",
     "country_code3": "RUS",
     "group": "RU-AMU",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 6,
         "deaths": 0,
-        "confirmed_new": -11,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -77,10 +77,10 @@
     "group": "RU-ARK",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 31,
+        "date": "2020-04-14",
+        "confirmed": 32,
         "deaths": 0,
-        "confirmed_new": 7,
+        "confirmed_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -99,10 +99,10 @@
     "group": "RU-AST",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 30,
         "deaths": 0,
-        "confirmed_new": 1,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -121,11 +121,11 @@
     "group": "RU-BA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 107,
-        "deaths": 1,
-        "confirmed_new": 23,
-        "deaths_new": 0,
+        "date": "2020-04-14",
+        "confirmed": 129,
+        "deaths": 3,
+        "confirmed_new": 22,
+        "deaths_new": 2,
         "hasErrors": false
       }
     ],
@@ -143,10 +143,10 @@
     "group": "RU-BEL",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 31,
+        "date": "2020-04-14",
+        "confirmed": 41,
         "deaths": 0,
-        "confirmed_new": 0,
+        "confirmed_new": 10,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -165,10 +165,10 @@
     "group": "RU-BRY",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 142,
         "deaths": 0,
-        "confirmed_new": 1,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -180,17 +180,17 @@
     "Province.State": "Republic of Buriatia",
     "Country.Region": "Russia",
     "Lat": 54.54,
-    "Long": 112.3487,
+    "Long": 112.349,
     "hasParent": true,
     "country_code": "RU",
     "country_code3": "RUS",
     "group": "RU-BU",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 77,
+        "date": "2020-04-14",
+        "confirmed": 86,
         "deaths": 1,
-        "confirmed_new": 4,
+        "confirmed_new": 9,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -209,11 +209,11 @@
     "group": "RU-CE",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 49,
+        "date": "2020-04-14",
+        "confirmed": 64,
         "deaths": 5,
-        "confirmed_new": 2,
-        "deaths_new": 2,
+        "confirmed_new": 15,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ],
@@ -224,17 +224,17 @@
     "Province.State": "Cheliabinsk oblast",
     "Country.Region": "Russia",
     "Lat": 55.154,
-    "Long": 61.4291,
+    "Long": 61.4292,
     "hasParent": true,
     "country_code": "RU",
     "country_code3": "RUS",
     "group": "RU-CHE",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 43,
+        "date": "2020-04-14",
+        "confirmed": 48,
         "deaths": 0,
-        "confirmed_new": 3,
+        "confirmed_new": 5,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -253,10 +253,10 @@
     "group": "RU-CU",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 65,
         "deaths": 0,
-        "confirmed_new": 15,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -275,10 +275,10 @@
     "group": "RU-DA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 84,
+        "date": "2020-04-14",
+        "confirmed": 100,
         "deaths": 0,
-        "confirmed_new": 0,
+        "confirmed_new": 16,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -297,10 +297,10 @@
     "group": "RU-IN",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 34,
         "deaths": 1,
-        "confirmed_new": 5,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -312,17 +312,17 @@
     "Province.State": "Irkutsk oblast",
     "Country.Region": "Russia",
     "Lat": 57.1003,
-    "Long": 106.3633,
+    "Long": 106.363,
     "hasParent": true,
     "country_code": "RU",
     "country_code3": "RUS",
     "group": "RU-IRK",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 35,
+        "date": "2020-04-14",
+        "confirmed": 39,
         "deaths": 2,
-        "confirmed_new": 7,
+        "confirmed_new": 4,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -341,10 +341,10 @@
     "group": "RU-IVA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 86,
+        "date": "2020-04-14",
+        "confirmed": 96,
         "deaths": 0,
-        "confirmed_new": 6,
+        "confirmed_new": 10,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -363,7 +363,7 @@
     "group": "RU-KAM",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 10,
         "deaths": 0,
         "confirmed_new": 0,
@@ -385,10 +385,10 @@
     "group": "RU-KB",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 50,
         "deaths": 0,
-        "confirmed_new": 15,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -407,10 +407,10 @@
     "group": "RU-KC",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 13,
+        "date": "2020-04-14",
+        "confirmed": 16,
         "deaths": 0,
-        "confirmed_new": 2,
+        "confirmed_new": 3,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -429,10 +429,10 @@
     "group": "RU-KDA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 210,
+        "date": "2020-04-14",
+        "confirmed": 215,
         "deaths": 3,
-        "confirmed_new": 41,
+        "confirmed_new": 5,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -451,10 +451,10 @@
     "group": "RU-KEM",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 14,
         "deaths": 0,
-        "confirmed_new": 2,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -473,10 +473,10 @@
     "group": "RU-KGD",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 74,
+        "date": "2020-04-14",
+        "confirmed": 79,
         "deaths": 1,
-        "confirmed_new": 4,
+        "confirmed_new": 5,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -495,7 +495,7 @@
     "group": "RU-KGN",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 4,
         "deaths": 0,
         "confirmed_new": 0,
@@ -510,17 +510,17 @@
     "Province.State": "Habarovskiy kray",
     "Country.Region": "Russia",
     "Lat": 48.4827,
-    "Long": 135.0838,
+    "Long": 135.084,
     "hasParent": true,
     "country_code": "RU",
     "country_code3": "RUS",
     "group": "RU-KHA",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 54,
         "deaths": 2,
-        "confirmed_new": 25,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -539,10 +539,10 @@
     "group": "RU-KHM",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 41,
+        "date": "2020-04-14",
+        "confirmed": 56,
         "deaths": 0,
-        "confirmed_new": 0,
+        "confirmed_new": 15,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -561,10 +561,10 @@
     "group": "RU-KIR",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 51,
         "deaths": 0,
-        "confirmed_new": 15,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -583,10 +583,10 @@
     "group": "RU-KK",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 12,
+        "date": "2020-04-14",
+        "confirmed": 20,
         "deaths": 0,
-        "confirmed_new": 0,
+        "confirmed_new": 8,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -605,7 +605,7 @@
     "group": "RU-KL",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 32,
         "deaths": 0,
         "confirmed_new": 0,
@@ -627,10 +627,10 @@
     "group": "RU-KLU",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 34,
+        "date": "2020-04-14",
+        "confirmed": 49,
         "deaths": 0,
-        "confirmed_new": 10,
+        "confirmed_new": 15,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -649,10 +649,10 @@
     "group": "RU-KO",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 208,
+        "date": "2020-04-14",
+        "confirmed": 305,
         "deaths": 3,
-        "confirmed_new": 0,
+        "confirmed_new": 97,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -671,7 +671,7 @@
     "group": "RU-KOS",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 18,
         "deaths": 2,
         "confirmed_new": 0,
@@ -693,10 +693,10 @@
     "group": "RU-KR",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 3,
         "deaths": 0,
-        "confirmed_new": 1,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -715,10 +715,10 @@
     "group": "RU-KRS",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 58,
         "deaths": 0,
-        "confirmed_new": 15,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -737,10 +737,10 @@
     "group": "RU-KYA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 110,
+        "date": "2020-04-14",
+        "confirmed": 131,
         "deaths": 0,
-        "confirmed_new": 25,
+        "confirmed_new": 21,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -759,10 +759,10 @@
     "group": "RU-LEN",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 155,
+        "date": "2020-04-14",
+        "confirmed": 190,
         "deaths": 0,
-        "confirmed_new": 16,
+        "confirmed_new": 35,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -781,10 +781,10 @@
     "group": "RU-LIP",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 69,
+        "date": "2020-04-14",
+        "confirmed": 74,
         "deaths": 0,
-        "confirmed_new": 6,
+        "confirmed_new": 5,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -796,15 +796,15 @@
     "Province.State": "Magadan oblast",
     "Country.Region": "Russia",
     "Lat": 62.5758,
-    "Long": 154.0368,
+    "Long": 154.037,
     "hasParent": true,
     "country_code": "RU",
     "country_code3": "RUS",
     "group": "RU-MAG",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 2,
+        "date": "2020-04-14",
+        "confirmed": 3,
         "deaths": 0,
         "confirmed_new": 1,
         "deaths_new": 0,
@@ -825,10 +825,10 @@
     "group": "RU-ME",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 80,
+        "date": "2020-04-14",
+        "confirmed": 91,
         "deaths": 1,
-        "confirmed_new": 10,
+        "confirmed_new": 11,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -847,10 +847,10 @@
     "group": "RU-MO",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 58,
+        "date": "2020-04-14",
+        "confirmed": 71,
         "deaths": 0,
-        "confirmed_new": 16,
+        "confirmed_new": 13,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -869,11 +869,11 @@
     "group": "RU-MOS",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 1855,
-        "deaths": 19,
-        "confirmed_new": 495,
-        "deaths_new": 1,
+        "date": "2020-04-14",
+        "confirmed": 2315,
+        "deaths": 24,
+        "confirmed_new": 460,
+        "deaths_new": 5,
         "hasErrors": false
       }
     ],
@@ -891,11 +891,11 @@
     "group": "RU-MOW",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 11513,
-        "deaths": 82,
-        "confirmed_new": 1355,
-        "deaths_new": 10,
+        "date": "2020-04-14",
+        "confirmed": 13002,
+        "deaths": 95,
+        "confirmed_new": 1489,
+        "deaths_new": 13,
         "hasErrors": false
       }
     ],
@@ -913,11 +913,11 @@
     "group": "RU-MUR",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 128,
         "deaths": 1,
         "confirmed_new": 0,
-        "deaths_new": 1,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ],
@@ -935,10 +935,10 @@
     "group": "RU-NGR",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 26,
         "deaths": 0,
-        "confirmed_new": 8,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -957,11 +957,11 @@
     "group": "RU-NIZ",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 224,
+        "date": "2020-04-14",
+        "confirmed": 292,
         "deaths": 4,
-        "confirmed_new": 30,
-        "deaths_new": 3,
+        "confirmed_new": 68,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ],
@@ -979,10 +979,10 @@
     "group": "RU-NVS",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 36,
         "deaths": 0,
-        "confirmed_new": 8,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1001,10 +1001,10 @@
     "group": "RU-OMS",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 20,
         "deaths": 0,
-        "confirmed_new": 1,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1023,10 +1023,10 @@
     "group": "RU-ORE",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 45,
+        "date": "2020-04-14",
+        "confirmed": 53,
         "deaths": 1,
-        "confirmed_new": 20,
+        "confirmed_new": 8,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1045,10 +1045,10 @@
     "group": "RU-ORL",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 34,
+        "date": "2020-04-14",
+        "confirmed": 41,
         "deaths": 0,
-        "confirmed_new": 5,
+        "confirmed_new": 7,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1067,10 +1067,10 @@
     "group": "RU-PER",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 60,
+        "date": "2020-04-14",
+        "confirmed": 87,
         "deaths": 3,
-        "confirmed_new": 0,
+        "confirmed_new": 27,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1089,10 +1089,10 @@
     "group": "RU-PNZ",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 84,
         "deaths": 1,
-        "confirmed_new": 17,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1111,8 +1111,8 @@
     "group": "RU-PRI",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 28,
+        "date": "2020-04-14",
+        "confirmed": 32,
         "deaths": 2,
         "confirmed_new": 4,
         "deaths_new": 0,
@@ -1133,10 +1133,10 @@
     "group": "RU-PSK",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 21,
         "deaths": 2,
-        "confirmed_new": 5,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1147,7 +1147,7 @@
     "hasErrors": false,
     "Province.State": "Rostov oblast",
     "Country.Region": "Russia",
-    "Lat": 47.2313,
+    "Lat": 47.2314,
     "Long": 39.7233,
     "hasParent": true,
     "country_code": "RU",
@@ -1155,10 +1155,10 @@
     "group": "RU-ROS",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 78,
+        "date": "2020-04-14",
+        "confirmed": 98,
         "deaths": 0,
-        "confirmed_new": 26,
+        "confirmed_new": 20,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1177,10 +1177,10 @@
     "group": "RU-RYA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 89,
+        "date": "2020-04-14",
+        "confirmed": 116,
         "deaths": 0,
-        "confirmed_new": 18,
+        "confirmed_new": 27,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1199,10 +1199,10 @@
     "group": "RU-SA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 25,
+        "date": "2020-04-14",
+        "confirmed": 26,
         "deaths": 0,
-        "confirmed_new": 3,
+        "confirmed_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1214,14 +1214,14 @@
     "Province.State": "Sakhalin oblast",
     "Country.Region": "Russia",
     "Lat": 50.1509,
-    "Long": 142.7508,
+    "Long": 142.751,
     "hasParent": true,
     "country_code": "RU",
     "country_code3": "RUS",
     "group": "RU-SAK",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 11,
         "deaths": 0,
         "confirmed_new": 0,
@@ -1243,10 +1243,10 @@
     "group": "RU-SAM",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 29,
+        "date": "2020-04-14",
+        "confirmed": 40,
         "deaths": 0,
-        "confirmed_new": 5,
+        "confirmed_new": 11,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1265,10 +1265,10 @@
     "group": "RU-SAR",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 44,
+        "date": "2020-04-14",
+        "confirmed": 49,
         "deaths": 0,
-        "confirmed_new": 2,
+        "confirmed_new": 5,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1287,11 +1287,11 @@
     "group": "RU-SE",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 34,
+        "date": "2020-04-14",
+        "confirmed": 52,
         "deaths": 2,
-        "confirmed_new": 0,
-        "deaths_new": 1,
+        "confirmed_new": 18,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ],
@@ -1309,10 +1309,10 @@
     "group": "RU-SMO",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 21,
+        "date": "2020-04-14",
+        "confirmed": 55,
         "deaths": 1,
-        "confirmed_new": 4,
+        "confirmed_new": 34,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1331,8 +1331,8 @@
     "group": "RU-SPE",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 678,
+        "date": "2020-04-14",
+        "confirmed": 799,
         "deaths": 4,
         "confirmed_new": 121,
         "deaths_new": 0,
@@ -1353,10 +1353,10 @@
     "group": "RU-STA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 86,
+        "date": "2020-04-14",
+        "confirmed": 95,
         "deaths": 2,
-        "confirmed_new": 12,
+        "confirmed_new": 9,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1375,10 +1375,10 @@
     "group": "RU-SVE",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 85,
+        "date": "2020-04-14",
+        "confirmed": 93,
         "deaths": 0,
-        "confirmed_new": 7,
+        "confirmed_new": 8,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1397,10 +1397,10 @@
     "group": "RU-TA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 84,
+        "date": "2020-04-14",
+        "confirmed": 107,
         "deaths": 0,
-        "confirmed_new": 11,
+        "confirmed_new": 23,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1419,10 +1419,10 @@
     "group": "RU-TAM",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 48,
+        "date": "2020-04-14",
+        "confirmed": 83,
         "deaths": 0,
-        "confirmed_new": 0,
+        "confirmed_new": 35,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1441,10 +1441,10 @@
     "group": "RU-TOM",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 8,
+        "date": "2020-04-14",
+        "confirmed": 15,
         "deaths": 0,
-        "confirmed_new": 4,
+        "confirmed_new": 7,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1463,10 +1463,10 @@
     "group": "RU-TUL",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 85,
         "deaths": 0,
-        "confirmed_new": 11,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1485,10 +1485,10 @@
     "group": "RU-TVE",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 75,
         "deaths": 0,
-        "confirmed_new": 44,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1507,7 +1507,7 @@
     "group": "RU-TY",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 6,
         "deaths": 0,
         "confirmed_new": 0,
@@ -1529,8 +1529,8 @@
     "group": "RU-TYU",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 53,
+        "date": "2020-04-14",
+        "confirmed": 67,
         "deaths": 0,
         "confirmed_new": 14,
         "deaths_new": 0,
@@ -1551,10 +1551,10 @@
     "group": "RU-UD",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 13,
+        "date": "2020-04-14",
+        "confirmed": 19,
         "deaths": 0,
-        "confirmed_new": 0,
+        "confirmed_new": 6,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1573,10 +1573,10 @@
     "group": "RU-ULY",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 86,
         "deaths": 0,
-        "confirmed_new": 16,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1595,10 +1595,10 @@
     "group": "RU-VGG",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 44,
+        "date": "2020-04-14",
+        "confirmed": 46,
         "deaths": 0,
-        "confirmed_new": 6,
+        "confirmed_new": 2,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1617,11 +1617,11 @@
     "group": "RU-VLA",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 84,
-        "deaths": 1,
-        "confirmed_new": 13,
-        "deaths_new": 0,
+        "date": "2020-04-14",
+        "confirmed": 100,
+        "deaths": 2,
+        "confirmed_new": 16,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ],
@@ -1639,10 +1639,10 @@
     "group": "RU-VLG",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 43,
+        "date": "2020-04-14",
+        "confirmed": 50,
         "deaths": 0,
-        "confirmed_new": 1,
+        "confirmed_new": 7,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1661,11 +1661,11 @@
     "group": "RU-VOR",
     "timeseries": [
       {
-        "date": "2020-04-13",
-        "confirmed": 60,
-        "deaths": 0,
-        "confirmed_new": 11,
-        "deaths_new": 0,
+        "date": "2020-04-14",
+        "confirmed": 68,
+        "deaths": 1,
+        "confirmed_new": 8,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ],
@@ -1683,10 +1683,10 @@
     "group": "RU-YAN",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 66,
         "deaths": 1,
-        "confirmed_new": 4,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1705,7 +1705,7 @@
     "group": "RU-YAR",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 27,
         "deaths": 0,
         "confirmed_new": 0,
@@ -1720,17 +1720,17 @@
     "Province.State": "Jewish Autonomous oblast",
     "Country.Region": "Russia",
     "Lat": 48.5229,
-    "Long": 132.2576,
+    "Long": 132.258,
     "hasParent": true,
     "country_code": "RU",
     "country_code3": "RUS",
     "group": "RU-YEV",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 9,
         "deaths": 0,
-        "confirmed_new": 1,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1749,37 +1749,15 @@
     "group": "RU-ZAB",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 14,
-        "deaths": 0,
-        "confirmed_new": 6,
-        "deaths_new": 0,
-        "hasErrors": false
-      }
-    ],
-    "territory_code": "RU-ZAB"
-  },
-  "UA-40": {
-    "hasErrors": false,
-    "Province.State": "Sevastopol",
-    "Country.Region": "Russia",
-    "Lat": 44.6166,
-    "Long": 33.5254,
-    "hasParent": true,
-    "country_code": "RU",
-    "country_code3": "RUS",
-    "group": "UA-40",
-    "timeseries": [
-      {
-        "date": "2020-04-13",
-        "confirmed": 6,
         "deaths": 0,
         "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
     ],
-    "territory_code": "UA-40"
+    "territory_code": "RU-ZAB"
   },
   "XX-CR": {
     "hasErrors": false,
@@ -1793,14 +1771,36 @@
     "group": "XX-CR",
     "timeseries": [
       {
-        "date": "2020-04-13",
+        "date": "2020-04-14",
         "confirmed": 32,
+        "deaths": 0,
+        "confirmed_new": 0,
+        "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "XX-CR"
+  },
+  "XX-SV": {
+    "hasErrors": false,
+    "Province.State": "Sevastopol",
+    "Country.Region": "Russia",
+    "Lat": 44.6166,
+    "Long": 33.5254,
+    "hasParent": true,
+    "country_code": "RU",
+    "country_code3": "RUS",
+    "group": "XX-SV",
+    "timeseries": [
+      {
+        "date": "2020-04-14",
+        "confirmed": 7,
         "deaths": 0,
         "confirmed_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
     ],
-    "territory_code": "XX-CR"
+    "territory_code": "XX-SV"
   }
 }

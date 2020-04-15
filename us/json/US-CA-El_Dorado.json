@@ -3,7 +3,7 @@
   "Admin2": "El Dorado",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 38.7797,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 32,
       "deaths": 0,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 34,
+      "deaths": 0,
+      "confirmed_new": 2,
       "deaths_new": 0,
       "hasErrors": false
     }

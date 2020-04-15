@@ -3,7 +3,7 @@
   "Admin2": "Unassigned",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 0,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -589,25 +589,25 @@
     {
       "date": "2020-04-03",
       "confirmed": 0,
-      "deaths": 955,
+      "deaths": 623,
       "confirmed_new": 0,
-      "deaths_new": 280,
+      "deaths_new": -52,
       "hasErrors": false
     },
     {
       "date": "2020-04-04",
       "confirmed": 0,
-      "deaths": 1173,
+      "deaths": 427,
       "confirmed_new": 0,
-      "deaths_new": 218,
+      "deaths_new": -196,
       "hasErrors": false
     },
     {
       "date": "2020-04-05",
       "confirmed": 0,
-      "deaths": 1260,
+      "deaths": 338,
       "confirmed_new": 0,
-      "deaths_new": 87,
+      "deaths_new": -89,
       "hasErrors": false
     },
     {
@@ -615,7 +615,7 @@
       "confirmed": 0,
       "deaths": 309,
       "confirmed_new": 0,
-      "deaths_new": -951,
+      "deaths_new": -29,
       "hasErrors": false
     },
     {
@@ -672,6 +672,14 @@
       "deaths": 0,
       "confirmed_new": 0,
       "deaths_new": -40,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 0,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

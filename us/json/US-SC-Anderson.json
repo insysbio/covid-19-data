@@ -3,7 +3,7 @@
   "Admin2": "Anderson",
   "Country.Region": "US",
   "Province.State": "South Carolina",
-  "Lat": {},
+  "Lat": 34.5183,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 109,
       "deaths": 5,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 111,
+      "deaths": 5,
+      "confirmed_new": 2,
       "deaths_new": 0,
       "hasErrors": false
     }

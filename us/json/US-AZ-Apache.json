@@ -3,7 +3,7 @@
   "Admin2": "Apache",
   "Country.Region": "US",
   "Province.State": "Arizona",
-  "Lat": {},
+  "Lat": 35.3947,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 89,
       "deaths": 0,
       "confirmed_new": 17,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 97,
+      "deaths": 0,
+      "confirmed_new": 8,
       "deaths_new": 0,
       "hasErrors": false
     }

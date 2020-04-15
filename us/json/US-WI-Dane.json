@@ -3,7 +3,7 @@
   "Admin2": "Dane",
   "Country.Region": "US",
   "Province.State": "Wisconsin",
-  "Lat": {},
+  "Lat": 43.066,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 340,
       "deaths": 12,
       "confirmed_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 344,
+      "deaths": 12,
+      "confirmed_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

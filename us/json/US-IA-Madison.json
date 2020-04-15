@@ -3,7 +3,7 @@
   "Admin2": "Madison",
   "Country.Region": "US",
   "Province.State": "Iowa",
-  "Lat": {},
+  "Lat": 41.3308,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 1,
       "confirmed_new": 0,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 3,
+      "deaths": 1,
+      "confirmed_new": 1,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

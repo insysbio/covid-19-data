@@ -3,7 +3,7 @@
   "Admin2": "Rutland",
   "Country.Region": "US",
   "Province.State": "Vermont",
-  "Lat": {},
+  "Lat": 43.5772,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 39,
       "deaths": 0,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 8,
+      "deaths": 0,
+      "confirmed_new": -31,
       "deaths_new": 0,
       "hasErrors": false
     }

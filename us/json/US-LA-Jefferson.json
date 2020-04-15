@@ -3,7 +3,7 @@
   "Admin2": "Jefferson",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 29.7408,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 186,
       "confirmed_new": 98,
       "deaths_new": 13,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 5188,
+      "deaths": 210,
+      "confirmed_new": 100,
+      "deaths_new": 24,
       "hasErrors": false
     }
   ],

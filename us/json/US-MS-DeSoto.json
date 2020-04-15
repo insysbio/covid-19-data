@@ -3,7 +3,7 @@
   "Admin2": "DeSoto",
   "Country.Region": "US",
   "Province.State": "Mississippi",
-  "Lat": {},
+  "Lat": 34.8763,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 178,
       "deaths": 2,
       "confirmed_new": 7,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 188,
+      "deaths": 2,
+      "confirmed_new": 10,
       "deaths_new": 0,
       "hasErrors": false
     }

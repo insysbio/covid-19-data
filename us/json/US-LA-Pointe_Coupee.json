@@ -3,7 +3,7 @@
   "Admin2": "Pointe Coupee",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 30.7141,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 2,
       "confirmed_new": 4,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 49,
+      "deaths": 4,
+      "confirmed_new": 2,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

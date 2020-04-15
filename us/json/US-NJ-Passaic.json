@@ -3,7 +3,7 @@
   "Admin2": "Passaic",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 41.0324,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 136,
       "confirmed_new": 360,
       "deaths_new": 5,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 6438,
+      "deaths": 156,
+      "confirmed_new": 488,
+      "deaths_new": 20,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Marion",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 40.5861,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 91,
       "deaths": 0,
       "confirmed_new": 38,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 110,
+      "deaths": 0,
+      "confirmed_new": 19,
       "deaths_new": 0,
       "hasErrors": false
     }

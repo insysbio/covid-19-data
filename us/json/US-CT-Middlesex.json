@@ -3,7 +3,7 @@
   "Admin2": "Middlesex",
   "Country.Region": "US",
   "Province.State": "Connecticut",
-  "Lat": {},
+  "Lat": 41.4595,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 19,
       "confirmed_new": 40,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 355,
+      "deaths": 21,
+      "confirmed_new": 16,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Virginia Beach",
   "Country.Region": "US",
   "Province.State": "Virginia",
-  "Lat": {},
+  "Lat": 36.7329,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 251,
       "deaths": 1,
       "confirmed_new": 8,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 252,
+      "deaths": 1,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

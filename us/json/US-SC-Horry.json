@@ -3,7 +3,7 @@
   "Admin2": "Horry",
   "Country.Region": "US",
   "Province.State": "South Carolina",
-  "Lat": {},
+  "Lat": 33.9213,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 7,
       "confirmed_new": 13,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 151,
+      "deaths": 8,
+      "confirmed_new": 4,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Oakland",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 42.6609,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 347,
       "confirmed_new": 158,
       "deaths_new": 18,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 5364,
+      "deaths": 364,
+      "confirmed_new": 291,
+      "deaths_new": 17,
       "hasErrors": false
     }
   ],

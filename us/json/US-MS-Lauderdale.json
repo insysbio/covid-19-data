@@ -3,7 +3,7 @@
   "Admin2": "Lauderdale",
   "Country.Region": "US",
   "Province.State": "Mississippi",
-  "Lat": {},
+  "Lat": 32.4042,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 8,
       "confirmed_new": 15,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 156,
+      "deaths": 11,
+      "confirmed_new": 6,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

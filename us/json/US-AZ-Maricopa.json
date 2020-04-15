@@ -3,7 +3,7 @@
   "Admin2": "Maricopa",
   "Country.Region": "US",
   "Province.State": "Arizona",
-  "Lat": {},
+  "Lat": 33.3484,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 52,
       "confirmed_new": 60,
       "deaths_new": 5,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 2056,
+      "deaths": 54,
+      "confirmed_new": 36,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

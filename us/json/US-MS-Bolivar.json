@@ -3,7 +3,7 @@
   "Admin2": "Bolivar",
   "Country.Region": "US",
   "Province.State": "Mississippi",
-  "Lat": {},
+  "Lat": 33.797,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 3,
       "confirmed_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 69,
+      "deaths": 4,
+      "confirmed_new": 1,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

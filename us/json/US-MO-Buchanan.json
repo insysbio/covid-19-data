@@ -3,7 +3,7 @@
   "Admin2": "Buchanan",
   "Country.Region": "US",
   "Province.State": "Missouri",
-  "Lat": {},
+  "Lat": 39.6582,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 22,
       "deaths": 1,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 22,
+      "deaths": 1,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

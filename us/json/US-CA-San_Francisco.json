@@ -3,7 +3,7 @@
   "Admin2": "San Francisco",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 37.7522,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 15,
       "confirmed_new": 85,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 987,
+      "deaths": 15,
+      "confirmed_new": 30,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

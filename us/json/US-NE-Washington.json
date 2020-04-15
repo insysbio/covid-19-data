@@ -3,7 +3,7 @@
   "Admin2": "Washington",
   "Country.Region": "US",
   "Province.State": "Nebraska",
-  "Lat": {},
+  "Lat": 41.5282,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -668,6 +668,14 @@
     },
     {
       "date": "2020-04-13",
+      "confirmed": 20,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
       "confirmed": 20,
       "deaths": 0,
       "confirmed_new": 0,

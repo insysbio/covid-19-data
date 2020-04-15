@@ -3,7 +3,7 @@
   "Admin2": "Polk",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 27.9503,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 270,
       "deaths": 9,
       "confirmed_new": 16,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 279,
+      "deaths": 10,
+      "confirmed_new": 9,
       "deaths_new": 1,
       "hasErrors": false
     }

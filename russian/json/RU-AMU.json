@@ -3,7 +3,7 @@
   "Province.State": "Amursk oblast",
   "Country.Region": "Russia",
   "Lat": 53.4133,
-  "Long": 127.7281,
+  "Long": 127.728,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -670,6 +670,14 @@
       "confirmed": 6,
       "deaths": 0,
       "confirmed_new": -11,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 6,
+      "deaths": 0,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

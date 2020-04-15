@@ -3,7 +3,7 @@
   "Admin2": "Hinds",
   "Country.Region": "US",
   "Province.State": "Mississippi",
-  "Lat": {},
+  "Lat": 32.2656,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 259,
       "deaths": 2,
       "confirmed_new": 12,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 263,
+      "deaths": 2,
+      "confirmed_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "",
   "Country.Region": "US",
   "Province.State": "Puerto Rico",
-  "Lat": {},
+  "Lat": 18.2208,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 45,
       "confirmed_new": 6,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 923,
+      "deaths": 45,
+      "confirmed_new": 20,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

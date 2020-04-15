@@ -3,7 +3,7 @@
   "Admin2": "Allen",
   "Country.Region": "US",
   "Province.State": "Indiana",
-  "Lat": {},
+  "Lat": 41.0919,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 11,
       "confirmed_new": 9,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 167,
+      "deaths": 13,
+      "confirmed_new": 11,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

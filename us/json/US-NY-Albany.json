@@ -3,7 +3,7 @@
   "Admin2": "Albany",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 42.6006,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 499,
       "deaths": 14,
       "confirmed_new": 21,
+      "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 535,
+      "deaths": 16,
+      "confirmed_new": 36,
       "deaths_new": 2,
       "hasErrors": false
     }

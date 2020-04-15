@@ -3,7 +3,7 @@
   "Admin2": "Solano",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 38.2683,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 121,
       "deaths": 2,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 135,
+      "deaths": 2,
+      "confirmed_new": 14,
       "deaths_new": 0,
       "hasErrors": false
     }

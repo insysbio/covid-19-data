@@ -3,7 +3,7 @@
   "Admin2": "Sussex",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 41.1389,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 38,
       "confirmed_new": 25,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 535,
+      "deaths": 39,
+      "confirmed_new": 27,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

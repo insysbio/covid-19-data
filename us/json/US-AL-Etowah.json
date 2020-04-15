@@ -3,7 +3,7 @@
   "Admin2": "Etowah",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 34.0457,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 77,
       "deaths": 7,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 78,
+      "deaths": 7,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

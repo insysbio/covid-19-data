@@ -3,7 +3,7 @@
   "Admin2": "Decatur",
   "Country.Region": "US",
   "Province.State": "Indiana",
-  "Lat": {},
+  "Lat": 39.3071,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 129,
       "deaths": 10,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 153,
+      "deaths": 10,
+      "confirmed_new": 24,
       "deaths_new": 0,
       "hasErrors": false
     }

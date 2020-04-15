@@ -3,7 +3,7 @@
   "Admin2": "St. John the Baptist",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 30.126,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 40,
       "confirmed_new": 11,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 562,
+      "deaths": 48,
+      "confirmed_new": 6,
+      "deaths_new": 8,
       "hasErrors": false
     }
   ],

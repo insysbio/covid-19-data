@@ -3,7 +3,7 @@
   "Admin2": "Clark",
   "Country.Region": "US",
   "Province.State": "Washington",
-  "Lat": {},
+  "Lat": 45.7757,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 15,
       "confirmed_new": 19,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 250,
+      "deaths": 15,
+      "confirmed_new": 11,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

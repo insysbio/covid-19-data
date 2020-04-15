@@ -3,7 +3,7 @@
   "Admin2": "Delaware",
   "Country.Region": "US",
   "Province.State": "Oklahoma",
-  "Lat": {},
+  "Lat": 36.4082,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 63,
       "deaths": 0,
       "confirmed_new": 13,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 71,
+      "deaths": 0,
+      "confirmed_new": 8,
       "deaths_new": 0,
       "hasErrors": false
     }

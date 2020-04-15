@@ -3,7 +3,7 @@
   "Province.State": "Habarovskiy kray",
   "Country.Region": "Russia",
   "Lat": 48.4827,
-  "Long": 135.0838,
+  "Long": 135.084,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -670,6 +670,14 @@
       "confirmed": 54,
       "deaths": 2,
       "confirmed_new": 25,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 54,
+      "deaths": 2,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

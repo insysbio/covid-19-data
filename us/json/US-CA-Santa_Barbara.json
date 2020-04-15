@@ -3,7 +3,7 @@
   "Admin2": "Santa Barbara",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 34.6533,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 267,
       "deaths": 2,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 284,
+      "deaths": 2,
+      "confirmed_new": 17,
       "deaths_new": 0,
       "hasErrors": false
     }

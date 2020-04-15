@@ -3,7 +3,7 @@
   "Admin2": "Elmore",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 32.5979,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 35,
       "deaths": 0,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 43,
+      "deaths": 0,
+      "confirmed_new": 8,
       "deaths_new": 0,
       "hasErrors": false
     }

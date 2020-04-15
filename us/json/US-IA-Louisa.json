@@ -3,7 +3,7 @@
   "Admin2": "Louisa",
   "Country.Region": "US",
   "Province.State": "Iowa",
-  "Lat": {},
+  "Lat": 41.2184,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 79,
       "deaths": 0,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 149,
+      "deaths": 0,
+      "confirmed_new": 70,
       "deaths_new": 0,
       "hasErrors": false
     }

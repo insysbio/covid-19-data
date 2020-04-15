@@ -3,7 +3,7 @@
   "Admin2": "Pike",
   "Country.Region": "US",
   "Province.State": "Mississippi",
-  "Lat": {},
+  "Lat": 31.1751,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 59,
       "deaths": 1,
       "confirmed_new": 5,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 62,
+      "deaths": 1,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     }

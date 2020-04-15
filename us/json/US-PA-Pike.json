@@ -3,7 +3,7 @@
   "Admin2": "Pike",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 41.3316,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 221,
       "deaths": 6,
       "confirmed_new": 9,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 256,
+      "deaths": 6,
+      "confirmed_new": 35,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Mercer",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 40.5404,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -668,6 +668,14 @@
     },
     {
       "date": "2020-04-13",
+      "confirmed": 13,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
       "confirmed": 13,
       "deaths": 1,
       "confirmed_new": 0,

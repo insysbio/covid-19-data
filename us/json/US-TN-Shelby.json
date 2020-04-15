@@ -3,7 +3,7 @@
   "Admin2": "Shelby",
   "Country.Region": "US",
   "Province.State": "Tennessee",
-  "Lat": {},
+  "Lat": 35.1865,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 21,
       "confirmed_new": 116,
       "deaths_new": -5,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1359,
+      "deaths": 26,
+      "confirmed_new": 28,
+      "deaths_new": 5,
       "hasErrors": false
     }
   ],

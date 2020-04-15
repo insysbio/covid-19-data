@@ -3,7 +3,7 @@
   "Admin2": "Orange",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 28.5137,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 1024,
       "deaths": 13,
       "confirmed_new": 75,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1038,
+      "deaths": 13,
+      "confirmed_new": 14,
       "deaths_new": 0,
       "hasErrors": false
     }

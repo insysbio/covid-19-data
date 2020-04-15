@@ -3,7 +3,7 @@
   "Admin2": "Olmsted",
   "Country.Region": "US",
   "Province.State": "Minnesota",
-  "Lat": {},
+  "Lat": 44.0037,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 143,
       "deaths": 2,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 147,
+      "deaths": 2,
+      "confirmed_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

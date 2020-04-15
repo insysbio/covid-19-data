@@ -3,7 +3,7 @@
   "Admin2": "Wilcox",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 31.975,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 24,
       "deaths": 0,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 28,
+      "deaths": 0,
+      "confirmed_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Saratoga",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 43.109,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 201,
       "deaths": 4,
       "confirmed_new": 5,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 224,
+      "deaths": 4,
+      "confirmed_new": 23,
       "deaths_new": 0,
       "hasErrors": false
     }

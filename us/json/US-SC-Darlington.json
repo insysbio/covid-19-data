@@ -3,7 +3,7 @@
   "Admin2": "Darlington",
   "Country.Region": "US",
   "Province.State": "South Carolina",
-  "Lat": {},
+  "Lat": 34.3336,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 43,
       "deaths": 0,
       "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 44,
+      "deaths": 0,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

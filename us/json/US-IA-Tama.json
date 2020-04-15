@@ -3,7 +3,7 @@
   "Admin2": "Tama",
   "Country.Region": "US",
   "Province.State": "Iowa",
-  "Lat": {},
+  "Lat": 42.0799,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 101,
       "deaths": 2,
       "confirmed_new": 15,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 108,
+      "deaths": 2,
+      "confirmed_new": 7,
       "deaths_new": 0,
       "hasErrors": false
     }

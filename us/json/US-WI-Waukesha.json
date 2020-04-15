@@ -3,7 +3,7 @@
   "Admin2": "Waukesha",
   "Country.Region": "US",
   "Province.State": "Wisconsin",
-  "Lat": {},
+  "Lat": 43.0183,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 7,
       "confirmed_new": 9,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 224,
+      "deaths": 9,
+      "confirmed_new": 6,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

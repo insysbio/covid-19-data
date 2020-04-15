@@ -3,7 +3,7 @@
   "Admin2": "Sequatchie",
   "Country.Region": "US",
   "Province.State": "Tennessee",
-  "Lat": {},
+  "Lat": 35.3698,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 3,
       "deaths": 0,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 3,
+      "deaths": 0,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Mohave",
   "Country.Region": "US",
   "Province.State": "Arizona",
-  "Lat": {},
+  "Lat": 35.7047,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 40,
       "deaths": 0,
       "confirmed_new": 10,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 45,
+      "deaths": 0,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }

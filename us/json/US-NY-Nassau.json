@@ -3,7 +3,7 @@
   "Admin2": "Nassau",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 40.7407,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 910,
       "confirmed_new": 805,
       "deaths_new": 64,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 25250,
+      "deaths": 1001,
+      "confirmed_new": 892,
+      "deaths_new": 91,
       "hasErrors": false
     }
   ],

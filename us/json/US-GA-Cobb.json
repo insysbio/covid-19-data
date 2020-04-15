@@ -3,7 +3,7 @@
   "Admin2": "Cobb",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 33.9424,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 35,
       "confirmed_new": 68,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 895,
+      "deaths": 41,
+      "confirmed_new": 113,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ],

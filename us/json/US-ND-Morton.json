@@ -3,7 +3,7 @@
   "Admin2": "Morton",
   "Country.Region": "US",
   "Province.State": "North Dakota",
-  "Lat": {},
+  "Lat": 46.7168,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 20,
+      "deaths": 1,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 21,
       "deaths": 1,
       "confirmed_new": 1,
       "deaths_new": 0,

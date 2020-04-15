@@ -3,7 +3,7 @@
   "Province.State": "Cheliabinsk oblast",
   "Country.Region": "Russia",
   "Lat": 55.154,
-  "Long": 61.4291,
+  "Long": 61.4292,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -670,6 +670,14 @@
       "confirmed": 43,
       "deaths": 0,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 48,
+      "deaths": 0,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }

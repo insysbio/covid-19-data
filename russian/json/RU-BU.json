@@ -3,7 +3,7 @@
   "Province.State": "Republic of Buriatia",
   "Country.Region": "Russia",
   "Lat": 54.54,
-  "Long": 112.3487,
+  "Long": 112.349,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -670,6 +670,14 @@
       "confirmed": 77,
       "deaths": 1,
       "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 86,
+      "deaths": 1,
+      "confirmed_new": 9,
       "deaths_new": 0,
       "hasErrors": false
     }

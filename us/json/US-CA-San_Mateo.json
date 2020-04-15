@@ -3,7 +3,7 @@
   "Admin2": "San Mateo",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 37.4229,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 701,
       "deaths": 21,
       "confirmed_new": 49,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 721,
+      "deaths": 21,
+      "confirmed_new": 20,
       "deaths_new": 0,
       "hasErrors": false
     }

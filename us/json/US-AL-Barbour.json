@@ -3,7 +3,7 @@
   "Admin2": "Barbour",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 31.8683,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 10,
       "deaths": 0,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 11,
+      "deaths": 0,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

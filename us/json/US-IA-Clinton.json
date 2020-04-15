@@ -3,7 +3,7 @@
   "Admin2": "Clinton",
   "Country.Region": "US",
   "Province.State": "Iowa",
-  "Lat": {},
+  "Lat": 41.8998,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 33,
       "deaths": 0,
       "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 36,
+      "deaths": 0,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     }

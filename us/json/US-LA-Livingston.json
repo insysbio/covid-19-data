@@ -3,7 +3,7 @@
   "Admin2": "Livingston",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 30.4414,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 3,
       "confirmed_new": 2,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 129,
+      "deaths": 4,
+      "confirmed_new": 7,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

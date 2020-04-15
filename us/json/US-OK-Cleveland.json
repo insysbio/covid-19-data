@@ -3,7 +3,7 @@
   "Admin2": "Cleveland",
   "Country.Region": "US",
   "Province.State": "Oklahoma",
-  "Lat": {},
+  "Lat": 35.2041,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 267,
       "deaths": 17,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 277,
+      "deaths": 17,
+      "confirmed_new": 10,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Arlington",
   "Country.Region": "US",
   "Province.State": "Virginia",
-  "Lat": {},
+  "Lat": 38.8768,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 390,
       "deaths": 2,
       "confirmed_new": 24,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 401,
+      "deaths": 2,
+      "confirmed_new": 11,
       "deaths_new": 0,
       "hasErrors": false
     }

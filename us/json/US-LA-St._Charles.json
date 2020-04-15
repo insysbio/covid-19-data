@@ -3,7 +3,7 @@
   "Admin2": "St. Charles",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 29.9071,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 23,
       "confirmed_new": 6,
       "deaths_new": -2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 460,
+      "deaths": 24,
+      "confirmed_new": 50,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

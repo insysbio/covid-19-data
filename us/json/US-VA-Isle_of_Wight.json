@@ -3,7 +3,7 @@
   "Admin2": "Isle of Wight",
   "Country.Region": "US",
   "Province.State": "Virginia",
-  "Lat": {},
+  "Lat": 36.9058,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 33,
       "deaths": 0,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 60,
+      "deaths": 0,
+      "confirmed_new": 27,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Orange",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 33.7015,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 1283,
       "deaths": 19,
       "confirmed_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1299,
+      "deaths": 19,
+      "confirmed_new": 16,
       "deaths_new": 0,
       "hasErrors": false
     }

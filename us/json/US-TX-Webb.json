@@ -3,7 +3,7 @@
   "Admin2": "Webb",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 27.761,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 8,
       "confirmed_new": 5,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 206,
+      "deaths": 8,
+      "confirmed_new": 10,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

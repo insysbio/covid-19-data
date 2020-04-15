@@ -3,7 +3,7 @@
   "Admin2": "Rockland",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 41.1503,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 241,
       "confirmed_new": 244,
       "deaths_new": 41,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 8335,
+      "deaths": 263,
+      "confirmed_new": 370,
+      "deaths_new": 22,
       "hasErrors": false
     }
   ],

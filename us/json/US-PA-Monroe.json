@@ -3,7 +3,7 @@
   "Admin2": "Monroe",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 41.0593,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 24,
       "confirmed_new": 21,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 847,
+      "deaths": 27,
+      "confirmed_new": 31,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

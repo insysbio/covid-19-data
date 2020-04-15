@@ -3,7 +3,7 @@
   "Admin2": "Richland",
   "Country.Region": "US",
   "Province.State": "South Carolina",
-  "Lat": {},
+  "Lat": 34.0179,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 10,
       "confirmed_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 535,
+      "deaths": 11,
+      "confirmed_new": 41,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

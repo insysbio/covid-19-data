@@ -3,7 +3,7 @@
   "Admin2": "Saginaw",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 43.3343,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 293,
       "deaths": 13,
       "confirmed_new": 19,
+      "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 302,
+      "deaths": 17,
+      "confirmed_new": 9,
       "deaths_new": 4,
       "hasErrors": false
     }

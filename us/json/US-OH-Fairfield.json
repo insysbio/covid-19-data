@@ -3,7 +3,7 @@
   "Admin2": "Fairfield",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 39.7511,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 1,
       "confirmed_new": 3,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 90,
+      "deaths": 1,
+      "confirmed_new": 6,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

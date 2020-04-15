@@ -3,7 +3,7 @@
   "Admin2": "Douglas",
   "Country.Region": "US",
   "Province.State": "Colorado",
-  "Lat": {},
+  "Lat": 39.3313,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 304,
       "deaths": 11,
       "confirmed_new": 6,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 311,
+      "deaths": 12,
+      "confirmed_new": 7,
       "deaths_new": 1,
       "hasErrors": false
     }

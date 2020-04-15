@@ -3,7 +3,7 @@
   "Admin2": "Calhoun",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 42.2463,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 83,
       "deaths": 2,
       "confirmed_new": 9,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 90,
+      "deaths": 3,
+      "confirmed_new": 7,
       "deaths_new": 1,
       "hasErrors": false
     }

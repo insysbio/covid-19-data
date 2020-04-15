@@ -3,7 +3,7 @@
   "Admin2": "Middlesex",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.4363,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 204,
       "confirmed_new": 294,
       "deaths_new": 11,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 6313,
+      "deaths": 216,
+      "confirmed_new": 326,
+      "deaths_new": 12,
       "hasErrors": false
     }
   ],

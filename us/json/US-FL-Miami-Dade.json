@@ -3,7 +3,7 @@
   "Admin2": "Miami-Dade",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 25.6112,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 109,
       "confirmed_new": 401,
       "deaths_new": 12,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 7712,
+      "deaths": 125,
+      "confirmed_new": 253,
+      "deaths_new": 16,
       "hasErrors": false
     }
   ],

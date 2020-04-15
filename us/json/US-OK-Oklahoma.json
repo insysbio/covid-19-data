@@ -3,7 +3,7 @@
   "Admin2": "Oklahoma",
   "Country.Region": "US",
   "Province.State": "Oklahoma",
-  "Lat": {},
+  "Lat": 35.5514,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 455,
       "deaths": 19,
       "confirmed_new": 20,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 474,
+      "deaths": 19,
+      "confirmed_new": 19,
       "deaths_new": 0,
       "hasErrors": false
     }

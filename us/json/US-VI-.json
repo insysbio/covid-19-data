@@ -3,7 +3,7 @@
   "Admin2": "",
   "Country.Region": "US",
   "Province.State": "Virgin Islands",
-  "Lat": {},
+  "Lat": 18.3358,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -668,6 +668,14 @@
     },
     {
       "date": "2020-04-13",
+      "confirmed": 51,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
       "confirmed": 51,
       "deaths": 1,
       "confirmed_new": 0,

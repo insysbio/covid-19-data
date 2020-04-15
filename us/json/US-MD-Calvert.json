@@ -3,7 +3,7 @@
   "Admin2": "Calvert",
   "Country.Region": "US",
   "Province.State": "Maryland",
-  "Lat": {},
+  "Lat": 38.5396,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 94,
       "deaths": 1,
       "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 99,
+      "deaths": 1,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Brown",
   "Country.Region": "US",
   "Province.State": "Wisconsin",
-  "Lat": {},
+  "Lat": 44.4527,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 77,
       "deaths": 1,
       "confirmed_new": 9,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 97,
+      "deaths": 1,
+      "confirmed_new": 20,
       "deaths_new": 0,
       "hasErrors": false
     }

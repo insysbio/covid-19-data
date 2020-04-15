@@ -3,7 +3,7 @@
   "Admin2": "Weber",
   "Country.Region": "US",
   "Province.State": "Utah",
-  "Lat": {},
+  "Lat": 41.2712,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 103,
       "deaths": 1,
       "confirmed_new": 7,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 105,
+      "deaths": 1,
+      "confirmed_new": 2,
       "deaths_new": 0,
       "hasErrors": false
     }

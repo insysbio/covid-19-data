@@ -3,7 +3,7 @@
   "Admin2": "Warren",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 39.4258,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 1,
       "confirmed_new": 1,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 78,
+      "deaths": 3,
+      "confirmed_new": 2,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

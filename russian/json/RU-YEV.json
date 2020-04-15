@@ -3,7 +3,7 @@
   "Province.State": "Jewish Autonomous oblast",
   "Country.Region": "Russia",
   "Lat": 48.5229,
-  "Long": 132.2576,
+  "Long": 132.258,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -670,6 +670,14 @@
       "confirmed": 9,
       "deaths": 0,
       "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 9,
+      "deaths": 0,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

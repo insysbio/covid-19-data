@@ -3,7 +3,7 @@
   "Admin2": "Howard",
   "Country.Region": "US",
   "Province.State": "Maryland",
-  "Lat": {},
+  "Lat": 39.2531,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 8,
       "confirmed_new": 15,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 403,
+      "deaths": 9,
+      "confirmed_new": 17,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

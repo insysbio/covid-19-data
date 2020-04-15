@@ -3,7 +3,7 @@
   "Admin2": "Clackamas",
   "Country.Region": "US",
   "Province.State": "Oregon",
-  "Lat": {},
+  "Lat": 45.1879,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 132,
       "deaths": 3,
       "confirmed_new": 7,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 135,
+      "deaths": 3,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     }

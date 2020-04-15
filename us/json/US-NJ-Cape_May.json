@@ -3,7 +3,7 @@
   "Admin2": "Cape May",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 39.1501,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 9,
       "confirmed_new": 19,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 169,
+      "deaths": 10,
+      "confirmed_new": 5,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

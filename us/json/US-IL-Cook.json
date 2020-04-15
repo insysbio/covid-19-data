@@ -3,7 +3,7 @@
   "Admin2": "Cook",
   "Country.Region": "US",
   "Province.State": "Illinois",
-  "Lat": {},
+  "Lat": 41.8414,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 543,
       "confirmed_new": 889,
       "deaths_new": 58,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 16323,
+      "deaths": 577,
+      "confirmed_new": 849,
+      "deaths_new": 34,
       "hasErrors": false
     }
   ],

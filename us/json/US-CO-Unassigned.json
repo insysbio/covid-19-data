@@ -3,7 +3,7 @@
   "Admin2": "Unassigned",
   "Country.Region": "US",
   "Province.State": "Colorado",
-  "Lat": {},
+  "Lat": 0,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 145,
       "deaths": 0,
       "confirmed_new": -11,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 119,
+      "deaths": 0,
+      "confirmed_new": -26,
       "deaths_new": 0,
       "hasErrors": false
     }

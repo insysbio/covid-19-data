@@ -3,7 +3,7 @@
   "Admin2": "Dougherty",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 31.5333,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 77,
       "confirmed_new": 63,
       "deaths_new": 5,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1297,
+      "deaths": 78,
+      "confirmed_new": 80,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

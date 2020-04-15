@@ -3,7 +3,7 @@
   "Admin2": "Hood",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 32.4299,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 13,
       "deaths": 1,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 15,
+      "deaths": 1,
+      "confirmed_new": 2,
       "deaths_new": 0,
       "hasErrors": false
     }

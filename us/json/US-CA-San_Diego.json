@@ -3,7 +3,7 @@
   "Admin2": "San Diego",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 33.0348,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 45,
       "confirmed_new": 43,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1847,
+      "deaths": 47,
+      "confirmed_new": 43,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

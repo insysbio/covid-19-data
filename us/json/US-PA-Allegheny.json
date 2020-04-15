@@ -3,7 +3,7 @@
   "Admin2": "Allegheny",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 40.4681,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 21,
       "confirmed_new": 19,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 893,
+      "deaths": 24,
+      "confirmed_new": 17,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

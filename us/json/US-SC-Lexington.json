@@ -3,7 +3,7 @@
   "Admin2": "Lexington",
   "Country.Region": "US",
   "Province.State": "South Carolina",
-  "Lat": {},
+  "Lat": 33.8967,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 6,
       "confirmed_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 208,
+      "deaths": 8,
+      "confirmed_new": -4,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

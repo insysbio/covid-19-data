@@ -2,7 +2,7 @@
   "hasErrors": false,
   "Province.State": "Rostov oblast",
   "Country.Region": "Russia",
-  "Lat": 47.2313,
+  "Lat": 47.2314,
   "Long": 39.7233,
   "hasParent": true,
   "country_code": "RU",
@@ -670,6 +670,14 @@
       "confirmed": 78,
       "deaths": 0,
       "confirmed_new": 26,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 98,
+      "deaths": 0,
+      "confirmed_new": 20,
       "deaths_new": 0,
       "hasErrors": false
     }

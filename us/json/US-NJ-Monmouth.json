@@ -3,7 +3,7 @@
   "Admin2": "Monmouth",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.2655,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 127,
       "confirmed_new": 90,
       "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 4003,
+      "deaths": 145,
+      "confirmed_new": 128,
+      "deaths_new": 18,
       "hasErrors": false
     }
   ],

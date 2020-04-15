@@ -3,7 +3,7 @@
   "Admin2": "Pike",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 31.804,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 21,
+      "deaths": 0,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 22,
       "deaths": 0,
       "confirmed_new": 1,
       "deaths_new": 0,

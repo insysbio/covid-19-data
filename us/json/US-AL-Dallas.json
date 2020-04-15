@@ -3,7 +3,7 @@
   "Admin2": "Dallas",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 32.3269,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 14,
       "deaths": 0,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 17,
+      "deaths": 0,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     }

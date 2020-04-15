@@ -3,7 +3,7 @@
   "Admin2": "Washington",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 32.9671,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 23,
       "deaths": 0,
       "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 22,
+      "deaths": 0,
+      "confirmed_new": -1,
       "deaths_new": 0,
       "hasErrors": false
     }

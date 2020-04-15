@@ -3,7 +3,7 @@
   "Admin2": "Ulster",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 41.8903,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 11,
       "confirmed_new": 61,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 716,
+      "deaths": 13,
+      "confirmed_new": 0,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

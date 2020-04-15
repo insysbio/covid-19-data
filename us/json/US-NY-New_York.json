@@ -3,7 +3,7 @@
   "Admin2": "New York",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 40.7673,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 7349,
       "confirmed_new": 3555,
       "deaths_new": 451,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 110465,
+      "deaths": 7905,
+      "confirmed_new": 3702,
+      "deaths_new": 556,
       "hasErrors": false
     }
   ],

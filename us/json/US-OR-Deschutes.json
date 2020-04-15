@@ -3,7 +3,7 @@
   "Admin2": "Deschutes",
   "Country.Region": "US",
   "Province.State": "Oregon",
-  "Lat": {},
+  "Lat": 43.9157,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 54,
       "deaths": 0,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 55,
+      "deaths": 0,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

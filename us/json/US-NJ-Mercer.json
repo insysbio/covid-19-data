@@ -3,7 +3,7 @@
   "Admin2": "Mercer",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.2805,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 53,
       "confirmed_new": 79,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1731,
+      "deaths": 71,
+      "confirmed_new": 85,
+      "deaths_new": 18,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Marion",
   "Country.Region": "US",
   "Province.State": "Oregon",
-  "Lat": {},
+  "Lat": 44.9029,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 280,
       "deaths": 9,
       "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 289,
+      "deaths": 9,
+      "confirmed_new": 9,
       "deaths_new": 0,
       "hasErrors": false
     }

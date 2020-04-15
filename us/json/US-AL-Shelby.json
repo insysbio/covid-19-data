@@ -3,7 +3,7 @@
   "Admin2": "Shelby",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 33.2688,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 5,
       "confirmed_new": 18,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 235,
+      "deaths": 7,
+      "confirmed_new": 5,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Unassigned",
   "Country.Region": "US",
   "Province.State": "Connecticut",
-  "Lat": {},
+  "Lat": 0,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 491,
       "deaths": 4,
       "confirmed_new": -10,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 533,
+      "deaths": 4,
+      "confirmed_new": 42,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Clay",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 29.9832,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 9,
       "confirmed_new": 2,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 168,
+      "deaths": 9,
+      "confirmed_new": 3,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Kent",
   "Country.Region": "US",
   "Province.State": "Delaware",
-  "Lat": {},
+  "Lat": 39.0865,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 6,
       "confirmed_new": 7,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 329,
+      "deaths": 7,
+      "confirmed_new": 41,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

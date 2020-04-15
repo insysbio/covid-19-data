@@ -3,7 +3,7 @@
   "Admin2": "Hamilton",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 39.1967,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 21,
       "confirmed_new": 23,
       "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 576,
+      "deaths": 24,
+      "confirmed_new": 18,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

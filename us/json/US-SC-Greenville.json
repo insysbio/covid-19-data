@@ -3,7 +3,7 @@
   "Admin2": "Greenville",
   "Country.Region": "US",
   "Province.State": "South Carolina",
-  "Lat": {},
+  "Lat": 34.895,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 8,
       "confirmed_new": 7,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 373,
+      "deaths": 10,
+      "confirmed_new": 27,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

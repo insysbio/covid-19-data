@@ -3,7 +3,7 @@
   "Admin2": "Douglas",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 33.7029,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 5,
       "confirmed_new": 14,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 189,
+      "deaths": 6,
+      "confirmed_new": 22,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

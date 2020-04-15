@@ -3,7 +3,7 @@
   "Admin2": "Osceola",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 28.0631,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 333,
       "deaths": 5,
       "confirmed_new": 10,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 349,
+      "deaths": 5,
+      "confirmed_new": 16,
       "deaths_new": 0,
       "hasErrors": false
     }

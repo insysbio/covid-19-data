@@ -3,7 +3,7 @@
   "Admin2": "Dutchess",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 41.7649,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 13,
       "confirmed_new": 43,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1934,
+      "deaths": 17,
+      "confirmed_new": 53,
+      "deaths_new": 4,
       "hasErrors": false
     }
   ],

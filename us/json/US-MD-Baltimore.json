@@ -3,7 +3,7 @@
   "Admin2": "Baltimore",
   "Country.Region": "US",
   "Province.State": "Maryland",
-  "Lat": {},
+  "Lat": 39.4578,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 31,
       "confirmed_new": 104,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1377,
+      "deaths": 41,
+      "confirmed_new": 16,
+      "deaths_new": 10,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Sarasota",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 27.1855,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 14,
       "confirmed_new": 4,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 241,
+      "deaths": 14,
+      "confirmed_new": 11,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

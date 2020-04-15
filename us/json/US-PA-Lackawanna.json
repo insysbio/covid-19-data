@@ -3,7 +3,7 @@
   "Admin2": "Lackawanna",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 41.4356,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 21,
       "confirmed_new": 32,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 501,
+      "deaths": 24,
+      "confirmed_new": 42,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Fairfax",
   "Country.Region": "US",
   "Province.State": "Virginia",
-  "Lat": {},
+  "Lat": 38.8368,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 1164,
       "deaths": 20,
       "confirmed_new": 156,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1207,
+      "deaths": 20,
+      "confirmed_new": 43,
       "deaths_new": 0,
       "hasErrors": false
     }

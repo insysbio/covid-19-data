@@ -3,7 +3,7 @@
   "Admin2": "Montgomery",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 40.2105,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 65,
       "confirmed_new": 121,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 2354,
+      "deaths": 76,
+      "confirmed_new": 69,
+      "deaths_new": 11,
       "hasErrors": false
     }
   ],

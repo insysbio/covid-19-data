@@ -3,7 +3,7 @@
   "Admin2": "Monroe",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 43.1464,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 50,
       "confirmed_new": 25,
       "deaths_new": 10,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 850,
+      "deaths": 56,
+      "confirmed_new": 27,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ],

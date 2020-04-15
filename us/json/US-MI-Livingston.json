@@ -3,7 +3,7 @@
   "Admin2": "Livingston",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 42.603,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 225,
       "deaths": 5,
       "confirmed_new": 16,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 238,
+      "deaths": 6,
+      "confirmed_new": 13,
       "deaths_new": 1,
       "hasErrors": false
     }

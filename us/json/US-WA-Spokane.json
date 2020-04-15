@@ -3,7 +3,7 @@
   "Admin2": "Spokane",
   "Country.Region": "US",
   "Province.State": "Washington",
-  "Lat": {},
+  "Lat": 47.6211,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 15,
       "confirmed_new": 2,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 276,
+      "deaths": 15,
+      "confirmed_new": 0,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

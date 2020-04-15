@@ -3,7 +3,7 @@
   "Admin2": "Genesee",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 43.0224,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 988,
       "deaths": 77,
       "confirmed_new": 33,
+      "deaths_new": 9,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1030,
+      "deaths": 86,
+      "confirmed_new": 42,
       "deaths_new": 9,
       "hasErrors": false
     }

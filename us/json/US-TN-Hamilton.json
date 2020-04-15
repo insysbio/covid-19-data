@@ -3,7 +3,7 @@
   "Admin2": "Hamilton",
   "Country.Region": "US",
   "Province.State": "Tennessee",
-  "Lat": {},
+  "Lat": 35.1767,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 10,
       "confirmed_new": 2,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 110,
+      "deaths": 11,
+      "confirmed_new": 1,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

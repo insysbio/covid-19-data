@@ -3,7 +3,7 @@
   "Admin2": "Laramie",
   "Country.Region": "US",
   "Province.State": "Wyoming",
-  "Lat": {},
+  "Lat": 41.307,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 60,
+      "deaths": 0,
+      "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 62,
       "deaths": 0,
       "confirmed_new": 2,
       "deaths_new": 0,

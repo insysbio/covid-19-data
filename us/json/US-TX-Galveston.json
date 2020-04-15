@@ -3,7 +3,7 @@
   "Admin2": "Galveston",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 29.4017,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 8,
       "confirmed_new": 0,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 377,
+      "deaths": 9,
+      "confirmed_new": 22,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

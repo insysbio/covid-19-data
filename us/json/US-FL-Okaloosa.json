@@ -3,7 +3,7 @@
   "Admin2": "Okaloosa",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 30.6914,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 103,
       "deaths": 1,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 104,
+      "deaths": 1,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

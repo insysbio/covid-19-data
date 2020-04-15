@@ -3,7 +3,7 @@
   "Admin2": "Transylvania",
   "Country.Region": "US",
   "Province.State": "North Carolina",
-  "Lat": {},
+  "Lat": 35.2038,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -668,6 +668,14 @@
     },
     {
       "date": "2020-04-13",
+      "confirmed": 6,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
       "confirmed": 6,
       "deaths": 0,
       "confirmed_new": 0,

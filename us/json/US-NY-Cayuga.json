@@ -3,7 +3,7 @@
   "Admin2": "Cayuga",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 42.9126,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 31,
       "deaths": 1,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 33,
+      "deaths": 1,
+      "confirmed_new": 2,
       "deaths_new": 0,
       "hasErrors": false
     }

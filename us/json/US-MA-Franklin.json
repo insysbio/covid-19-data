@@ -3,7 +3,7 @@
   "Admin2": "Franklin",
   "Country.Region": "US",
   "Province.State": "Massachusetts",
-  "Lat": {},
+  "Lat": 42.5812,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 148,
       "deaths": 25,
       "confirmed_new": 5,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 155,
+      "deaths": 25,
+      "confirmed_new": 7,
       "deaths_new": 0,
       "hasErrors": false
     }

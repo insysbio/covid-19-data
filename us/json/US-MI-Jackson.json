@@ -3,7 +3,7 @@
   "Admin2": "Jackson",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 42.2481,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 6,
       "confirmed_new": 1,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 183,
+      "deaths": 7,
+      "confirmed_new": 11,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

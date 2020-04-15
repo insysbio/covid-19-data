@@ -3,7 +3,7 @@
   "Admin2": "DuPage",
   "Country.Region": "US",
   "Province.State": "Illinois",
-  "Lat": {},
+  "Lat": 41.8512,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 56,
       "confirmed_new": 61,
       "deaths_new": 6,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1312,
+      "deaths": 61,
+      "confirmed_new": 89,
+      "deaths_new": 5,
       "hasErrors": false
     }
   ],

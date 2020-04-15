@@ -3,7 +3,7 @@
   "Admin2": "El Paso",
   "Country.Region": "US",
   "Province.State": "Colorado",
-  "Lat": {},
+  "Lat": 38.8324,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 641,
       "deaths": 39,
       "confirmed_new": 28,
+      "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 652,
+      "deaths": 41,
+      "confirmed_new": 11,
       "deaths_new": 2,
       "hasErrors": false
     }

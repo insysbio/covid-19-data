@@ -3,7 +3,7 @@
   "Admin2": "Whitley",
   "Country.Region": "US",
   "Province.State": "Indiana",
-  "Lat": {},
+  "Lat": 41.1386,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 13,
+      "deaths": 1,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 14,
       "deaths": 1,
       "confirmed_new": 1,
       "deaths_new": 0,

@@ -3,7 +3,7 @@
   "Admin2": "Coconino",
   "Country.Region": "US",
   "Province.State": "Arizona",
-  "Lat": {},
+  "Lat": 35.8388,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 21,
       "confirmed_new": 10,
       "deaths_new": 6,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 270,
+      "deaths": 22,
+      "confirmed_new": 17,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

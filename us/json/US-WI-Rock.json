@@ -3,7 +3,7 @@
   "Admin2": "Rock",
   "Country.Region": "US",
   "Province.State": "Wisconsin",
-  "Lat": {},
+  "Lat": 42.6715,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 3,
       "confirmed_new": 4,
       "deaths_new": -1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 59,
+      "deaths": 4,
+      "confirmed_new": -1,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

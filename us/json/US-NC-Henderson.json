@@ -3,7 +3,7 @@
   "Admin2": "Henderson",
   "Country.Region": "US",
   "Province.State": "North Carolina",
-  "Lat": {},
+  "Lat": 35.3379,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 5,
       "confirmed_new": 21,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 99,
+      "deaths": 6,
+      "confirmed_new": 2,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

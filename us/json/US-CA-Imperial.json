@@ -3,7 +3,7 @@
   "Admin2": "Imperial",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 33.0393,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 87,
       "deaths": 3,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 100,
+      "deaths": 3,
+      "confirmed_new": 13,
       "deaths_new": 0,
       "hasErrors": false
     }

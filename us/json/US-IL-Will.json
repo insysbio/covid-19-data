@@ -3,7 +3,7 @@
   "Admin2": "Will",
   "Country.Region": "US",
   "Province.State": "Illinois",
-  "Lat": {},
+  "Lat": 41.4462,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 63,
       "confirmed_new": 55,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1350,
+      "deaths": 77,
+      "confirmed_new": 67,
+      "deaths_new": 14,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Indian River",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 27.6931,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 77,
       "deaths": 1,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 77,
+      "deaths": 1,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

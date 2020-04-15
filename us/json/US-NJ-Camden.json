@@ -3,7 +3,7 @@
   "Admin2": "Camden",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 39.8034,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 35,
       "confirmed_new": 131,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1477,
+      "deaths": 41,
+      "confirmed_new": 76,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ],

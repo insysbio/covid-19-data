@@ -3,7 +3,7 @@
   "Admin2": "Delta",
   "Country.Region": "US",
   "Province.State": "Colorado",
-  "Lat": {},
+  "Lat": 38.8625,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 7,
       "deaths": 1,
       "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 12,
+      "deaths": 1,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }

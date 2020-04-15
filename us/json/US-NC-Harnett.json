@@ -3,7 +3,7 @@
   "Admin2": "Harnett",
   "Country.Region": "US",
   "Province.State": "North Carolina",
-  "Lat": {},
+  "Lat": 35.3673,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 45,
+      "deaths": 2,
+      "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 49,
       "deaths": 2,
       "confirmed_new": 4,
       "deaths_new": 0,

@@ -3,7 +3,7 @@
   "Admin2": "Marshall",
   "Country.Region": "US",
   "Province.State": "Iowa",
-  "Lat": {},
+  "Lat": 42.0359,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 37,
       "deaths": 0,
       "confirmed_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 42,
+      "deaths": 0,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }

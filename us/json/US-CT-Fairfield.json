@@ -3,7 +3,7 @@
   "Admin2": "Fairfield",
   "Country.Region": "US",
   "Province.State": "Connecticut",
-  "Lat": {},
+  "Lat": 41.2681,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 262,
       "confirmed_new": 470,
       "deaths_new": 14,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 6213,
+      "deaths": 287,
+      "confirmed_new": 209,
+      "deaths_new": 25,
       "hasErrors": false
     }
   ],

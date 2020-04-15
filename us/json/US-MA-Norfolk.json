@@ -3,7 +3,7 @@
   "Admin2": "Norfolk",
   "Country.Region": "US",
   "Province.State": "Massachusetts",
-  "Lat": {},
+  "Lat": 42.1607,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 2838,
       "deaths": 91,
       "confirmed_new": 189,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 2969,
+      "deaths": 91,
+      "confirmed_new": 131,
       "deaths_new": 0,
       "hasErrors": false
     }

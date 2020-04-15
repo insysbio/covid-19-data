@@ -3,7 +3,7 @@
   "Admin2": "Essex",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.7868,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 433,
       "confirmed_new": 224,
       "deaths_new": 5,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 8212,
+      "deaths": 535,
+      "confirmed_new": 578,
+      "deaths_new": 102,
       "hasErrors": false
     }
   ],

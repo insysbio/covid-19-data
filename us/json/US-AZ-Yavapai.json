@@ -3,7 +3,7 @@
   "Admin2": "Yavapai",
   "Country.Region": "US",
   "Province.State": "Arizona",
-  "Lat": {},
+  "Lat": 34.5993,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 65,
       "deaths": 1,
       "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 70,
+      "deaths": 1,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Scott",
   "Country.Region": "US",
   "Province.State": "Iowa",
-  "Lat": {},
+  "Lat": 41.6394,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 118,
       "deaths": 1,
       "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 124,
+      "deaths": 1,
+      "confirmed_new": 6,
       "deaths_new": 0,
       "hasErrors": false
     }

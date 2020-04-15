@@ -3,7 +3,7 @@
   "Admin2": "Ingham",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 42.5972,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 4,
       "confirmed_new": 4,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 263,
+      "deaths": 4,
+      "confirmed_new": 9,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

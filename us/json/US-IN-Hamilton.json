@@ -3,7 +3,7 @@
   "Admin2": "Hamilton",
   "Country.Region": "US",
   "Province.State": "Indiana",
-  "Lat": {},
+  "Lat": 40.0731,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 24,
       "confirmed_new": 12,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 499,
+      "deaths": 27,
+      "confirmed_new": 9,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

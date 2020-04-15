@@ -3,7 +3,7 @@
   "Admin2": "Utah",
   "Country.Region": "US",
   "Province.State": "Utah",
-  "Lat": {},
+  "Lat": 40.1167,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 322,
       "deaths": 2,
       "confirmed_new": 9,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 335,
+      "deaths": 2,
+      "confirmed_new": 13,
       "deaths_new": 0,
       "hasErrors": false
     }

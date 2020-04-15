@@ -3,7 +3,7 @@
   "Admin2": "Tangipahoa",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 30.6289,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 11,
       "confirmed_new": 8,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 391,
+      "deaths": 11,
+      "confirmed_new": 39,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

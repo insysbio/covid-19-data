@@ -3,7 +3,7 @@
   "Admin2": "Chambers",
   "Country.Region": "US",
   "Province.State": "Alabama",
-  "Lat": {},
+  "Lat": 32.9136,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 8,
       "confirmed_new": 14,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 216,
+      "deaths": 10,
+      "confirmed_new": 4,
+      "deaths_new": 2,
       "hasErrors": false
     }
   ],

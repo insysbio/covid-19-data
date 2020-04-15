@@ -3,7 +3,7 @@
   "Admin2": "Washington",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 30.8529,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 156,
       "deaths": 8,
       "confirmed_new": 9,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 162,
+      "deaths": 9,
+      "confirmed_new": 6,
       "deaths_new": 1,
       "hasErrors": false
     }

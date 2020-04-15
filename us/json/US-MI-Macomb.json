@@ -3,7 +3,7 @@
   "Admin2": "Macomb",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 42.6916,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 240,
       "confirmed_new": 164,
       "deaths_new": 23,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 3620,
+      "deaths": 293,
+      "confirmed_new": 202,
+      "deaths_new": 53,
       "hasErrors": false
     }
   ],

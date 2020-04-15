@@ -3,7 +3,7 @@
   "Admin2": "St. Lawrence",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 44.4976,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 89,
       "deaths": 0,
       "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 92,
+      "deaths": 0,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     }

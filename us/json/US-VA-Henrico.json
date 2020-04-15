@@ -3,7 +3,7 @@
   "Admin2": "Henrico",
   "Country.Region": "US",
   "Province.State": "Virginia",
-  "Lat": {},
+  "Lat": 37.5346,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 397,
       "deaths": 42,
       "confirmed_new": 18,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 432,
+      "deaths": 42,
+      "confirmed_new": 35,
       "deaths_new": 0,
       "hasErrors": false
     }

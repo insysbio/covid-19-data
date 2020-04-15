@@ -3,7 +3,7 @@
   "Admin2": "Franklin",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 39.97,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 15,
       "confirmed_new": 69,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1053,
+      "deaths": 18,
+      "confirmed_new": 41,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

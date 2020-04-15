@@ -3,7 +3,7 @@
   "Admin2": "Jefferson",
   "Country.Region": "US",
   "Province.State": "Arkansas",
-  "Lat": {},
+  "Lat": 34.2677,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -670,6 +670,14 @@
       "date": "2020-04-13",
       "confirmed": 100,
       "deaths": 4,
+      "confirmed_new": 5,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 105,
+      "deaths": 5,
       "confirmed_new": 5,
       "deaths_new": 1,
       "hasErrors": false

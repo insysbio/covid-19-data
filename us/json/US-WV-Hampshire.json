@@ -3,7 +3,7 @@
   "Admin2": "Hampshire",
   "Country.Region": "US",
   "Province.State": "West Virginia",
-  "Lat": {},
+  "Lat": 39.321,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 4,
       "deaths": 0,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 5,
+      "deaths": 0,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

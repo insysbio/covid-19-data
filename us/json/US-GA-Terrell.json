@@ -3,7 +3,7 @@
   "Admin2": "Terrell",
   "Country.Region": "US",
   "Province.State": "Georgia",
-  "Lat": {},
+  "Lat": 31.7753,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 10,
       "confirmed_new": 7,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 134,
+      "deaths": 11,
+      "confirmed_new": 20,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],

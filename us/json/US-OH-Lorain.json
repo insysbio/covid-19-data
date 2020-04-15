@@ -3,7 +3,7 @@
   "Admin2": "Lorain",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 41.2955,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 184,
       "deaths": 6,
       "confirmed_new": 8,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 191,
+      "deaths": 7,
+      "confirmed_new": 7,
       "deaths_new": 1,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Milwaukee",
   "Country.Region": "US",
   "Province.State": "Wisconsin",
-  "Lat": {},
+  "Lat": 43.0049,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 94,
       "confirmed_new": 33,
       "deaths_new": 6,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1795,
+      "deaths": 101,
+      "confirmed_new": 52,
+      "deaths_new": 7,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Hale",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 34.0704,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 5,
       "confirmed_new": 0,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 11,
+      "deaths": 2,
+      "confirmed_new": 0,
+      "deaths_new": -3,
       "hasErrors": false
     }
   ],

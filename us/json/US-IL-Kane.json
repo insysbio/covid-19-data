@@ -3,7 +3,7 @@
   "Admin2": "Kane",
   "Country.Region": "US",
   "Province.State": "Illinois",
-  "Lat": {},
+  "Lat": 41.9384,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 24,
       "confirmed_new": 18,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 448,
+      "deaths": 24,
+      "confirmed_new": 27,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

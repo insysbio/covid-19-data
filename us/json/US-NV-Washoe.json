@@ -3,7 +3,7 @@
   "Admin2": "Washoe",
   "Country.Region": "US",
   "Province.State": "Nevada",
-  "Lat": {},
+  "Lat": 40.6656,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 12,
       "confirmed_new": 46,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 532,
+      "deaths": 12,
+      "confirmed_new": 71,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

@@ -3,7 +3,7 @@
   "Admin2": "Fresno",
   "Country.Region": "US",
   "Province.State": "California",
-  "Lat": {},
+  "Lat": 36.7573,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 201,
       "deaths": 5,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 222,
+      "deaths": 5,
+      "confirmed_new": 21,
       "deaths_new": 0,
       "hasErrors": false
     }

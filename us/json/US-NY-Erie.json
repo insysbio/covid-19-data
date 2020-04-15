@@ -3,7 +3,7 @@
   "Admin2": "Erie",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 42.7625,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 66,
       "confirmed_new": 90,
       "deaths_new": 9,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1730,
+      "deaths": 73,
+      "confirmed_new": 69,
+      "deaths_new": 7,
       "hasErrors": false
     }
   ],

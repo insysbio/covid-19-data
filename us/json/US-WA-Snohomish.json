@@ -3,7 +3,7 @@
   "Admin2": "Snohomish",
   "Country.Region": "US",
   "Province.State": "Washington",
-  "Lat": {},
+  "Lat": 48.0462,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 1907,
       "deaths": 73,
       "confirmed_new": 40,
+      "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1950,
+      "deaths": 77,
+      "confirmed_new": 43,
       "deaths_new": 4,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Northampton",
   "Country.Region": "US",
   "Province.State": "North Carolina",
-  "Lat": {},
+  "Lat": 36.4174,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 62,
       "deaths": 1,
       "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 65,
+      "deaths": 1,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     }

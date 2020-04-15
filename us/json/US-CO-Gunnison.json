@@ -3,7 +3,7 @@
   "Admin2": "Gunnison",
   "Country.Region": "US",
   "Province.State": "Colorado",
-  "Lat": {},
+  "Lat": 38.6661,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 99,
       "deaths": 3,
       "confirmed_new": -2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 99,
+      "deaths": 3,
+      "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     }

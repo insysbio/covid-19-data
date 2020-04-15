@@ -3,7 +3,7 @@
   "Admin2": "Assumption",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 29.8995,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 120,
       "deaths": 1,
       "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 123,
+      "deaths": 1,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     }

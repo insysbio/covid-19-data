@@ -3,7 +3,7 @@
   "Admin2": "Broward",
   "Country.Region": "US",
   "Province.State": "Florida",
-  "Lat": {},
+  "Lat": 26.1518,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 3177,
       "deaths": 77,
       "confirmed_new": 232,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 3261,
+      "deaths": 78,
+      "confirmed_new": 84,
       "deaths_new": 1,
       "hasErrors": false
     }

@@ -3,7 +3,7 @@
   "Admin2": "Morrow",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 40.5236,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 9,
+      "deaths": 0,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 10,
       "deaths": 0,
       "confirmed_new": 1,
       "deaths_new": 0,

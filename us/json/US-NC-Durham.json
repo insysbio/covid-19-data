@@ -3,7 +3,7 @@
   "Admin2": "Durham",
   "Country.Region": "US",
   "Province.State": "North Carolina",
-  "Lat": {},
+  "Lat": 36.0364,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 290,
       "deaths": 1,
       "confirmed_new": 12,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 324,
+      "deaths": 1,
+      "confirmed_new": 34,
       "deaths_new": 0,
       "hasErrors": false
     }

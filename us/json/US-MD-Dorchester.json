@@ -3,7 +3,7 @@
   "Admin2": "Dorchester",
   "Country.Region": "US",
   "Province.State": "Maryland",
-  "Lat": {},
+  "Lat": 38.4541,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 1,
       "confirmed_new": 3,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 14,
+      "deaths": 1,
+      "confirmed_new": 2,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

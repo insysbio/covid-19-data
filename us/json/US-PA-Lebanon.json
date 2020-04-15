@@ -3,7 +3,7 @@
   "Admin2": "Lebanon",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 40.3668,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 2,
       "confirmed_new": 14,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 328,
+      "deaths": 2,
+      "confirmed_new": 44,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ],

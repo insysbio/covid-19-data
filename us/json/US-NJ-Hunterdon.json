@@ -3,7 +3,7 @@
   "Admin2": "Hunterdon",
   "Country.Region": "US",
   "Province.State": "New Jersey",
-  "Lat": {},
+  "Lat": 40.5634,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 325,
       "deaths": 11,
       "confirmed_new": 11,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 349,
+      "deaths": 11,
+      "confirmed_new": 24,
       "deaths_new": 0,
       "hasErrors": false
     }

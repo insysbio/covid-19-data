@@ -3,7 +3,7 @@
   "Admin2": "Blaine",
   "Country.Region": "US",
   "Province.State": "Idaho",
-  "Lat": {},
+  "Lat": 43.4086,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 454,
       "deaths": 5,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 458,
+      "deaths": 5,
+      "confirmed_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

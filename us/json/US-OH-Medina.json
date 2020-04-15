@@ -3,7 +3,7 @@
   "Admin2": "Medina",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 41.1177,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 112,
       "deaths": 8,
       "confirmed_new": 2,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 116,
+      "deaths": 9,
+      "confirmed_new": 4,
       "deaths_new": 1,
       "hasErrors": false
     }

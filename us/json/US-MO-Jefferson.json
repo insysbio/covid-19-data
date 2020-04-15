@@ -3,7 +3,7 @@
   "Admin2": "Jefferson",
   "Country.Region": "US",
   "Province.State": "Missouri",
-  "Lat": {},
+  "Lat": 38.2593,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 129,
       "deaths": 3,
       "confirmed_new": 5,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 139,
+      "deaths": 3,
+      "confirmed_new": 10,
       "deaths_new": 0,
       "hasErrors": false
     }

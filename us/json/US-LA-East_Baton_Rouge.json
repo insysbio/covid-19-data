@@ -3,7 +3,7 @@
   "Admin2": "East Baton Rouge",
   "Country.Region": "US",
   "Province.State": "Louisiana",
-  "Lat": {},
+  "Lat": 30.5384,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 52,
       "confirmed_new": 50,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1295,
+      "deaths": 58,
+      "confirmed_new": 22,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ],

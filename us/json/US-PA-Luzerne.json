@@ -3,7 +3,7 @@
   "Admin2": "Luzerne",
   "Country.Region": "US",
   "Province.State": "Pennsylvania",
-  "Lat": {},
+  "Lat": 41.1782,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 21,
       "confirmed_new": 35,
       "deaths_new": 4,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 1523,
+      "deaths": 26,
+      "confirmed_new": 77,
+      "deaths_new": 5,
       "hasErrors": false
     }
   ],

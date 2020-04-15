@@ -3,7 +3,7 @@
   "Admin2": "Lenawee",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 41.8948,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -669,6 +669,14 @@
     {
       "date": "2020-04-13",
       "confirmed": 50,
+      "deaths": 0,
+      "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 53,
       "deaths": 0,
       "confirmed_new": 3,
       "deaths_new": 0,

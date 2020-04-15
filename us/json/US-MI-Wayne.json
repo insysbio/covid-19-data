@@ -3,7 +3,7 @@
   "Admin2": "Wayne",
   "Country.Region": "US",
   "Province.State": "Michigan",
-  "Lat": {},
+  "Lat": 42.281,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 760,
       "confirmed_new": 484,
       "deaths_new": 56,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 12209,
+      "deaths": 820,
+      "confirmed_new": 561,
+      "deaths_new": 60,
       "hasErrors": false
     }
   ],

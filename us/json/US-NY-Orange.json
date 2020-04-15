@@ -3,7 +3,7 @@
   "Admin2": "Orange",
   "Country.Region": "US",
   "Province.State": "New York",
-  "Lat": {},
+  "Lat": 41.4034,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 171,
       "confirmed_new": 571,
       "deaths_new": 26,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 5830,
+      "deaths": 178,
+      "confirmed_new": 232,
+      "deaths_new": 7,
       "hasErrors": false
     }
   ],

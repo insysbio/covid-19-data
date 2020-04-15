@@ -3,7 +3,7 @@
   "Admin2": "Lucas",
   "Country.Region": "US",
   "Province.State": "Ohio",
-  "Lat": {},
+  "Lat": 41.621,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -672,6 +672,14 @@
       "deaths": 21,
       "confirmed_new": 11,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 540,
+      "deaths": 25,
+      "confirmed_new": 26,
+      "deaths_new": 4,
       "hasErrors": false
     }
   ],

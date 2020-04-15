@@ -3,7 +3,7 @@
   "Admin2": "Smith",
   "Country.Region": "US",
   "Province.State": "Texas",
-  "Lat": {},
+  "Lat": 32.3747,
   "Long": {},
   "hasParent": true,
   "country_code": "US",
@@ -671,6 +671,14 @@
       "confirmed": 96,
       "deaths": 2,
       "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-14",
+      "confirmed": 101,
+      "deaths": 2,
+      "confirmed_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }
