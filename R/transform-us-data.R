@@ -17,7 +17,7 @@ pages_url <- 'https://insysbio.github.io/covid-19-data/us/'
 report = '# US dataset'
 
 # country/territory
-territories <- ISO_3166_2
+territories <- ISOcodes::ISO_3166_2
 territory_vocabulary <- read.csv('./R/territory_vocabulary.csv', stringsAsFactors = FALSE)
 
 # UNIQUE KEY
@@ -25,7 +25,7 @@ key <- 'Combined_Key'
 
 # confirmed cases
 filename_confirmed <- file.path(data.repos, 'csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv')
-data_confirmed0 <- read.csv(filename_confirmed, stringsAsFactors = FALSE)
+data_confirmed0 <- read.csv(filename_confirmed, stringsAsFactors = FALSE) %>% mutate(Lat = signif(Lat, 6)) %>% mutate(Long_ = signif(Long_, 6))
 date_confirmed_columns <- names(data_confirmed0)[-(1:11)]
 data_confirmed0$data_type <- 'confirmed'
 # check dupicates
@@ -36,7 +36,7 @@ if(any(date_confirmed_dupl)){
 
 # deaths cases
 filename_deaths <- file.path(data.repos, 'csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv')
-data_deaths0 <- read.csv(filename_deaths, stringsAsFactors = FALSE) %>% select(-Population)
+data_deaths0 <- read.csv(filename_deaths, stringsAsFactors = FALSE) %>% select(-Population) %>% mutate(Lat = signif(Lat, 6)) %>% mutate(Long_ = signif(Long_, 6))
 date_deaths_columns <- names(data_deaths0)[-(1:11)]
 data_deaths0$data_type <- 'deaths'
 date_deaths_dupl <- duplicated(data_deaths0[key])
@@ -51,13 +51,11 @@ if (any(diff_confirmed_deaths)) {
 }
 
 # combining data
-territories <- subset(territories, subset = Code!='BG-12') # remove wrong montana
-territories <- subset(territories, subset = Code!='LR-MY') # remove wrong maryland
 territory_comparator <- function(territory){
-  byName <- territories$Code[match(territory, territories$Name)]
   byVocabulary <- territory_vocabulary$Code[match(territory, territory_vocabulary$Name)]
+  byName <- territories$Code[match(territory, territories$Name)]
   
-  step1 <- ifelse(!is.na(byName), byName, byVocabulary)
+  step1 <- ifelse(!is.na(byVocabulary), byVocabulary, byName)
   
   err <- is.na(step1)
   if (any(err)) {
@@ -70,7 +68,8 @@ territory_comparator <- function(territory){
 
 combined_data <- bind_rows(data_confirmed0, data_deaths0) %>% 
   pivot_longer(date_confirmed_columns) %>%
-  pivot_wider(id_cols = c(Combined_Key, name, Admin2, Province_State, Country_Region), names_from = data_type, values_from = value) %>%
+  #pivot_wider(id_cols = c(Combined_Key, name, Admin2, Province_State, Country_Region), names_from = data_type, values_from = value) %>%
+  pivot_wider(names_from = 'data_type', values_from = value) %>%
   rename(Province.State = 'Province_State', Country.Region = 'Country_Region') %>%
   mutate(date = as.Date(name, "X%m.%d.%y")) %>%
   group_by(Combined_Key) %>%

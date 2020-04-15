@@ -24,13 +24,13 @@ territory_vocabulary <- read.csv('./R/territory_vocabulary.csv', stringsAsFactor
 
 # confirmed cases
 filename_confirmed <- file.path(data.repos, 'csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_RU.csv')
-data_confirmed0 <- read.csv(filename_confirmed, stringsAsFactors = FALSE)
+data_confirmed0 <- read.csv(filename_confirmed, stringsAsFactors = FALSE) %>% mutate(Lat = signif(Lat, 6)) %>% mutate(Long_ = signif(Long_, 6))
 date_confirmed_columns <- names(data_confirmed0)[-(1:11)]
 data_confirmed0$data_type <- 'confirmed'
 
 # deaths cases
 filename_deaths <- file.path(data.repos, 'csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_RU.csv')
-data_deaths0 <- read.csv(filename_deaths, stringsAsFactors = FALSE)
+data_deaths0 <- read.csv(filename_deaths, stringsAsFactors = FALSE) %>% mutate(Lat = signif(Lat, 6)) %>% mutate(Long_ = signif(Long_, 6))
 date_deaths_columns <- names(data_deaths0)[-(1:11)]
 data_deaths0$data_type <- 'deaths'
 
@@ -43,14 +43,14 @@ if (any(diff_confirmed_deaths)) {
 # combining data
 
 country_comparator <- function(country){
+  byVocabulary <- country_vocabulary$Alpha_2[match(country, country_vocabulary$Name)]
   byName <- countries$Alpha_2[match(country, countries$Name)]
   byOfficialName <- countries$Alpha_2[match(country, countries$Official_name)]
   byCommonName <- countries$Alpha_2[match(country, countries$Common_name)]
-  byVocabulary <- country_vocabulary$Alpha_2[match(country, country_vocabulary$Name)]
   
-  step1 <- ifelse(!is.na(byName), byName, byOfficialName)
-  step2 <- ifelse(!is.na(step1), step1, byCommonName)
-  step3 <- ifelse(!is.na(step2), step2, byVocabulary)
+  step1 <- ifelse(!is.na(byVocabulary), byVocabulary, byName)
+  step2 <- ifelse(!is.na(step1), step1, byOfficialName)
+  step3 <- ifelse(!is.na(step2), step2, byCommonName)
   
   err <- is.na(step3)
   if (any(err)) {
@@ -62,10 +62,10 @@ country_comparator <- function(country){
 }
 
 territory_comparator <- function(territory){
-  byName <- territories$Code[match(territory, territories$Name)]
   byVocabulary <- territory_vocabulary$Code[match(territory, territory_vocabulary$Name)]
+  byName <- territories$Code[match(territory, territories$Name)]
   
-  step1 <- ifelse(!is.na(byName), byName, byVocabulary)
+  step1 <- ifelse(!is.na(byVocabulary), byVocabulary, byName)
   
   err <- is.na(step1)
   if (any(err)) {
