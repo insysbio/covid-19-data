@@ -29945,6 +29945,27 @@
     ],
     "territory_code": "US-MI"
   },
+  "US-MI-Federal_Correctional_Institution_(FCI)": {
+    "hasErrors": false,
+    "Admin2": "Federal Correctional Institution (FCI)",
+    "Country.Region": "US",
+    "Province.State": "Michigan",
+    "Lat": 0,
+    "Long": 0,
+    "hasParent": true,
+    "country_code": "US",
+    "country_code3": "USA",
+    "group": "US-MI-Federal_Correctional_Institution_(FCI)",
+    "timeseries": [
+      {
+        "date": "2020-04-14",
+        "confirmed": 23,
+        "confirmed_new": 2,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "US-MI"
+  },
   "US-MI-Genesee": {
     "hasErrors": false,
     "Admin2": "Genesee",
@@ -30653,6 +30674,27 @@
         "deaths": 0,
         "confirmed_new": 0,
         "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "US-MI"
+  },
+  "US-MI-Michigan_Department_of_Corrections_(MDOC)": {
+    "hasErrors": false,
+    "Admin2": "Michigan Department of Corrections (MDOC)",
+    "Country.Region": "US",
+    "Province.State": "Michigan",
+    "Lat": 0,
+    "Long": 0,
+    "hasParent": true,
+    "country_code": "US",
+    "country_code3": "USA",
+    "group": "US-MI-Michigan_Department_of_Corrections_(MDOC)",
+    "timeseries": [
+      {
+        "date": "2020-04-14",
+        "confirmed": 429,
+        "confirmed_new": 59,
         "hasErrors": false
       }
     ],
@@ -36127,6 +36169,27 @@
         "deaths": 1,
         "confirmed_new": 0,
         "deaths_new": 0,
+        "hasErrors": false
+      }
+    ],
+    "territory_code": "US-MP"
+  },
+  "US-MP-Unassigned": {
+    "hasErrors": false,
+    "Admin2": "Unassigned",
+    "Country.Region": "US",
+    "Province.State": "Northern Mariana Islands",
+    "Lat": 0,
+    "Long": 0,
+    "hasParent": true,
+    "country_code": "US",
+    "country_code3": "USA",
+    "group": "US-MP-Unassigned",
+    "timeseries": [
+      {
+        "date": "2020-04-14",
+        "confirmed": 5,
+        "confirmed_new": 0,
         "hasErrors": false
       }
     ],
