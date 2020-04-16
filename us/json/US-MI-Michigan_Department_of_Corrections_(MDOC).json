@@ -661,23 +661,33 @@
     {
       "date": "2020-04-12",
       "confirmed": 0,
-      "deaths": 8,
+      "deaths": 0,
       "confirmed_new": 0,
-      "deaths_new": 8,
+      "deaths_new": 0,
       "hasErrors": false
     },
     {
       "date": "2020-04-13",
       "confirmed": 370,
-      "deaths": 9,
+      "deaths": 8,
       "confirmed_new": 370,
-      "deaths_new": 1,
+      "deaths_new": 8,
       "hasErrors": false
     },
     {
       "date": "2020-04-14",
       "confirmed": 429,
+      "deaths": 9,
       "confirmed_new": 59,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-15",
+      "confirmed": 472,
+      "deaths": 12,
+      "confirmed_new": 43,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],
