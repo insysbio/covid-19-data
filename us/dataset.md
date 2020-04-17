@@ -1,7 +1,7 @@
 # US dataset
-*The build date: 2020-04-16.*
+*The build date: 2020-04-17.*
 
-*The latest date in dataset: 2020-04-15.*
+*The latest date in dataset: 2020-04-16.*
 
 ## Full dataset
 
@@ -1590,7 +1590,6 @@
 |US-MO-Worth                                     |Worth                                     |Missouri                 |US             |https://insysbio.github.io/covid-19-data/us/csv/US-MO-Worth.csv                                     |https://insysbio.github.io/covid-19-data/us/json/US-MO-Worth.json                                     |US           |USA           |US-MO          |
 |US-MO-Wright                                    |Wright                                    |Missouri                 |US             |https://insysbio.github.io/covid-19-data/us/csv/US-MO-Wright.csv                                    |https://insysbio.github.io/covid-19-data/us/json/US-MO-Wright.json                                    |US           |USA           |US-MO          |
 |US-MP-                                          |                                          |Northern Mariana Islands |US             |https://insysbio.github.io/covid-19-data/us/csv/US-MP-.csv                                          |https://insysbio.github.io/covid-19-data/us/json/US-MP-.json                                          |US           |USA           |US-MP          |
-|US-MP-Unassigned                                |Unassigned                                |Northern Mariana Islands |US             |https://insysbio.github.io/covid-19-data/us/csv/US-MP-Unassigned.csv                                |https://insysbio.github.io/covid-19-data/us/json/US-MP-Unassigned.json                                |US           |USA           |US-MP          |
 |US-MS-Adams                                     |Adams                                     |Mississippi              |US             |https://insysbio.github.io/covid-19-data/us/csv/US-MS-Adams.csv                                     |https://insysbio.github.io/covid-19-data/us/json/US-MS-Adams.json                                     |US           |USA           |US-MS          |
 |US-MS-Alcorn                                    |Alcorn                                    |Mississippi              |US             |https://insysbio.github.io/covid-19-data/us/csv/US-MS-Alcorn.csv                                    |https://insysbio.github.io/covid-19-data/us/json/US-MS-Alcorn.json                                    |US           |USA           |US-MS          |
 |US-MS-Amite                                     |Amite                                     |Mississippi              |US             |https://insysbio.github.io/covid-19-data/us/csv/US-MS-Amite.csv                                     |https://insysbio.github.io/covid-19-data/us/json/US-MS-Amite.json                                     |US           |USA           |US-MS          |
