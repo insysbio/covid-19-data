@@ -1,7 +1,7 @@
 # Russian dataset
-*The build date: 2020-04-17.*
+*The build date: 2020-04-18.*
 
-*The latest date in dataset: 2020-04-16.*
+*The latest date in dataset: 2020-04-17.*
 
 ## Full dataset
 
@@ -99,4 +99,4 @@
 |RU-ZAB |Zabaykalskiy kray                 |Russia         |https://insysbio.github.io/covid-19-data/russian/csv/RU-ZAB.csv |https://insysbio.github.io/covid-19-data/russian/json/RU-ZAB.json |RU           |RUS           |RU-ZAB         |
 |XX-CR  |Republic of Crimea                |Russia         |https://insysbio.github.io/covid-19-data/russian/csv/XX-CR.csv  |https://insysbio.github.io/covid-19-data/russian/json/XX-CR.json  |RU           |RUS           |XX-CR          |
 |XX-SV  |Sevastopol                        |Russia         |https://insysbio.github.io/covid-19-data/russian/csv/XX-SV.csv  |https://insysbio.github.io/covid-19-data/russian/json/XX-SV.json  |RU           |RUS           |XX-SV          |
-|NA     |Chukotskiy autonomous oblast      |Russia         |https://insysbio.github.io/covid-19-data/russian/csv/NA.csv     |https://insysbio.github.io/covid-19-data/russian/json/NA.json     |RU           |RUS           |               |
+|NA     |Altay republic                    |Russia         |https://insysbio.github.io/covid-19-data/russian/csv/NA.csv     |https://insysbio.github.io/covid-19-data/russian/json/NA.json     |RU           |RUS           |               |
