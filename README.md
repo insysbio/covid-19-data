@@ -282,6 +282,6 @@ The original files can be downloaded from this repository:
 
 ## License
 
-This repository is distributed under [MIT license](LICENSE).
+This repository is distributed under  [MIT license](LICENSE).
 
 &copy; InSysBio LLC, 2020
