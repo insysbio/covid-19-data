@@ -713,6 +713,22 @@
       "confirmed_new": 3,
       "deaths_new": 1,
       "hasErrors": false
+    },
+    {
+      "date": "2020-04-19",
+      "confirmed": 121,
+      "deaths": 4,
+      "confirmed_new": 2,
+      "deaths_new": -1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-20",
+      "confirmed": 128,
+      "deaths": 8,
+      "confirmed_new": 7,
+      "deaths_new": 4,
+      "hasErrors": false
     }
   ],
   "territory_code": "US-GA"

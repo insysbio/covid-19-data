@@ -713,6 +713,22 @@
       "confirmed_new": 32,
       "deaths_new": 8,
       "hasErrors": false
+    },
+    {
+      "date": "2020-04-19",
+      "confirmed": 591,
+      "deaths": 30,
+      "confirmed_new": 34,
+      "deaths_new": -1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-20",
+      "confirmed": 616,
+      "deaths": 30,
+      "confirmed_new": 25,
+      "deaths_new": 0,
+      "hasErrors": false
     }
   ],
   "territory_code": "US-MD"

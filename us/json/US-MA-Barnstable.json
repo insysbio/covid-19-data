@@ -713,6 +713,22 @@
       "confirmed_new": 17,
       "deaths_new": 2,
       "hasErrors": false
+    },
+    {
+      "date": "2020-04-19",
+      "confirmed": 632,
+      "deaths": 21,
+      "confirmed_new": 42,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-20",
+      "confirmed": 632,
+      "deaths": 21,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
     }
   ],
   "territory_code": "US-MA"

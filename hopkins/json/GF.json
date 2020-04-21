@@ -888,6 +888,26 @@
       "recovered_new": 3,
       "deaths_new": 0,
       "hasErrors": false
+    },
+    {
+      "date": "2020-04-19",
+      "confirmed": 96,
+      "recovered": 64,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-20",
+      "confirmed": 97,
+      "recovered": 69,
+      "deaths": 1,
+      "confirmed_new": 1,
+      "recovered_new": 5,
+      "deaths_new": 1,
+      "hasErrors": false
     }
   ],
   "territory_code": "GF"

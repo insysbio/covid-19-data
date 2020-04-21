@@ -713,6 +713,22 @@
       "confirmed_new": 30,
       "deaths_new": 3,
       "hasErrors": false
+    },
+    {
+      "date": "2020-04-19",
+      "confirmed": 503,
+      "deaths": 25,
+      "confirmed_new": 43,
+      "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-20",
+      "confirmed": 550,
+      "deaths": 24,
+      "confirmed_new": 47,
+      "deaths_new": -1,
+      "hasErrors": false
     }
   ],
   "territory_code": "US-MI"

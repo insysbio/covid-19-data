@@ -888,6 +888,26 @@
       "recovered_new": 0,
       "deaths_new": 60,
       "hasErrors": false
+    },
+    {
+      "date": "2020-04-19",
+      "confirmed": 7497,
+      "recovered": 2627,
+      "deaths": 650,
+      "confirmed_new": 622,
+      "recovered_new": 502,
+      "deaths_new": 104,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-20",
+      "confirmed": 8261,
+      "recovered": 2627,
+      "deaths": 686,
+      "confirmed_new": 764,
+      "recovered_new": 0,
+      "deaths_new": 36,
+      "hasErrors": false
     }
   ]
 }
