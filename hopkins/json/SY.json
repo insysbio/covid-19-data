@@ -1000,6 +1000,17 @@
       "date": "2020-04-20",
       "recovered": 5,
       "hasErrors": true
+    },
+    {
+      "date": "2020-04-21",
+      "confirmed": 42,
+      "deaths": 3,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-04-21",
+      "recovered": 6,
+      "hasErrors": true
     }
   ]
 }
