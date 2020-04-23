@@ -1011,6 +1011,17 @@
       "date": "2020-04-21",
       "recovered": 6,
       "hasErrors": true
+    },
+    {
+      "date": "2020-04-22",
+      "confirmed": 42,
+      "deaths": 3,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-04-22",
+      "recovered": 6,
+      "hasErrors": true
     }
   ]
 }

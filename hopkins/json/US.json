@@ -911,12 +911,22 @@
     },
     {
       "date": "2020-04-21",
-      "confirmed": 823786,
+      "confirmed": 811865,
       "recovered": 75204,
-      "deaths": 44845,
-      "confirmed_new": 39460,
+      "deaths": 44444,
+      "confirmed_new": 27539,
       "recovered_new": 2875,
-      "deaths_new": 2751,
+      "deaths_new": 2350,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-22",
+      "confirmed": 840351,
+      "recovered": 77366,
+      "deaths": 46622,
+      "confirmed_new": 28486,
+      "recovered_new": 2162,
+      "deaths_new": 2178,
       "hasErrors": false
     }
   ]
