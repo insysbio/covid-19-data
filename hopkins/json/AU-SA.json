@@ -911,17 +911,27 @@
     },
     {
       "date": "2020-04-21",
-      "confirmed": 435,
+      "confirmed": 437,
       "recovered": 331,
       "deaths": 4,
-      "confirmed_new": 0,
+      "confirmed_new": 2,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     },
     {
       "date": "2020-04-22",
-      "confirmed": 435,
+      "confirmed": 438,
+      "recovered": 331,
+      "deaths": 4,
+      "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-23",
+      "confirmed": 438,
       "recovered": 331,
       "deaths": 4,
       "confirmed_new": 0,

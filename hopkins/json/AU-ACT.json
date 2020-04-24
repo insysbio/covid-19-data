@@ -901,17 +901,17 @@
     },
     {
       "date": "2020-04-20",
-      "confirmed": 103,
+      "confirmed": 104,
       "recovered": 88,
       "deaths": 3,
-      "confirmed_new": 0,
+      "confirmed_new": 1,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     },
     {
       "date": "2020-04-21",
-      "confirmed": 103,
+      "confirmed": 104,
       "recovered": 88,
       "deaths": 3,
       "confirmed_new": 0,
@@ -921,7 +921,17 @@
     },
     {
       "date": "2020-04-22",
-      "confirmed": 103,
+      "confirmed": 104,
+      "recovered": 88,
+      "deaths": 3,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-23",
+      "confirmed": 104,
       "recovered": 88,
       "deaths": 3,
       "confirmed_new": 0,
