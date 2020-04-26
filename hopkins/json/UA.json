@@ -941,12 +941,22 @@
     },
     {
       "date": "2020-04-24",
+      "confirmed": 7647,
+      "recovered": 782,
+      "deaths": 201,
+      "confirmed_new": 477,
+      "recovered_new": 278,
+      "deaths_new": 14,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-04-25",
       "confirmed": 8125,
       "recovered": 782,
       "deaths": 201,
-      "confirmed_new": 955,
-      "recovered_new": 278,
-      "deaths_new": 14,
+      "confirmed_new": 478,
+      "recovered_new": 0,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ]
