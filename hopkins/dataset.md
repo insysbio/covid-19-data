@@ -1,7 +1,7 @@
 # World dataset
-*The build date: 2020-04-26.*
+*The build date: 2020-04-27.*
 
-*The latest date in dataset: 2020-04-25.*
+*The latest date in dataset: 2020-04-26.*
 
 ## Full dataset
 
