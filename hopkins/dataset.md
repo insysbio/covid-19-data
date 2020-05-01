@@ -1,7 +1,7 @@
 # World dataset
-*The build date: 2020-04-30.*
+*The build date: 2020-05-01.*
 
-*The latest date in dataset: 2020-04-29.*
+*The latest date in dataset: 2020-04-30.*
 
 ## Full dataset
 
@@ -170,6 +170,7 @@
 |KE     |                                 |Kenya                            |https://insysbio.github.io/covid-19-data/hopkins/csv/KE.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/KE.json     |KE           |KEN           |               |
 |KG     |                                 |Kyrgyzstan                       |https://insysbio.github.io/covid-19-data/hopkins/csv/KG.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/KG.json     |KG           |KGZ           |               |
 |KH     |                                 |Cambodia                         |https://insysbio.github.io/covid-19-data/hopkins/csv/KH.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/KH.json     |KH           |KHM           |               |
+|KM     |                                 |Comoros                          |https://insysbio.github.io/covid-19-data/hopkins/csv/KM.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/KM.json     |KM           |COM           |               |
 |KN     |                                 |Saint Kitts and Nevis            |https://insysbio.github.io/covid-19-data/hopkins/csv/KN.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/KN.json     |KN           |KNA           |               |
 |KR     |                                 |Korea, South                     |https://insysbio.github.io/covid-19-data/hopkins/csv/KR.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/KR.json     |KR           |KOR           |               |
 |KW     |                                 |Kuwait                           |https://insysbio.github.io/covid-19-data/hopkins/csv/KW.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/KW.json     |KW           |KWT           |               |
@@ -252,6 +253,7 @@
 |TD     |                                 |Chad                             |https://insysbio.github.io/covid-19-data/hopkins/csv/TD.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/TD.json     |TD           |TCD           |               |
 |TG     |                                 |Togo                             |https://insysbio.github.io/covid-19-data/hopkins/csv/TG.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/TG.json     |TG           |TGO           |               |
 |TH     |                                 |Thailand                         |https://insysbio.github.io/covid-19-data/hopkins/csv/TH.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/TH.json     |TH           |THA           |               |
+|TJ     |                                 |Tajikistan                       |https://insysbio.github.io/covid-19-data/hopkins/csv/TJ.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/TJ.json     |TJ           |TJK           |               |
 |TL     |                                 |Timor-Leste                      |https://insysbio.github.io/covid-19-data/hopkins/csv/TL.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/TL.json     |TL           |TLS           |               |
 |TN     |                                 |Tunisia                          |https://insysbio.github.io/covid-19-data/hopkins/csv/TN.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/TN.json     |TN           |TUN           |               |
 |TR     |                                 |Turkey                           |https://insysbio.github.io/covid-19-data/hopkins/csv/TR.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/TR.json     |TR           |TUR           |               |
