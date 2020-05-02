@@ -1008,6 +1008,16 @@
       "recovered_new": 1,
       "deaths_new": 2,
       "hasErrors": false
+    },
+    {
+      "date": "2020-05-01",
+      "confirmed": 123,
+      "recovered": 66,
+      "deaths": 9,
+      "confirmed_new": 7,
+      "recovered_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
     }
   ]
 }

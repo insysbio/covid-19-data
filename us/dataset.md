@@ -1,7 +1,7 @@
 # US dataset
-*The build date: 2020-05-01.*
+*The build date: 2020-05-02.*
 
-*The latest date in dataset: 2020-04-30.*
+*The latest date in dataset: 2020-05-01.*
 
 ## Full dataset
 
@@ -2915,7 +2915,6 @@
 |US-UT-Sanpete                                   |Sanpete                                   |Utah                     |US             |https://insysbio.github.io/covid-19-data/us/csv/US-UT-Sanpete.csv                                   |https://insysbio.github.io/covid-19-data/us/json/US-UT-Sanpete.json                                   |US           |USA           |US-UT          |
 |US-UT-Sevier                                    |Sevier                                    |Utah                     |US             |https://insysbio.github.io/covid-19-data/us/csv/US-UT-Sevier.csv                                    |https://insysbio.github.io/covid-19-data/us/json/US-UT-Sevier.json                                    |US           |USA           |US-UT          |
 |US-UT-Southeast_Utah                            |Southeast Utah                            |Utah                     |US             |https://insysbio.github.io/covid-19-data/us/csv/US-UT-Southeast_Utah.csv                            |https://insysbio.github.io/covid-19-data/us/json/US-UT-Southeast_Utah.json                            |US           |USA           |US-UT          |
-|US-UT-Southwest                                 |Southwest                                 |Utah                     |US             |https://insysbio.github.io/covid-19-data/us/csv/US-UT-Southwest.csv                                 |https://insysbio.github.io/covid-19-data/us/json/US-UT-Southwest.json                                 |US           |USA           |US-UT          |
 |US-UT-Southwest_Utah                            |Southwest Utah                            |Utah                     |US             |https://insysbio.github.io/covid-19-data/us/csv/US-UT-Southwest_Utah.csv                            |https://insysbio.github.io/covid-19-data/us/json/US-UT-Southwest_Utah.json                            |US           |USA           |US-UT          |
 |US-UT-Summit                                    |Summit                                    |Utah                     |US             |https://insysbio.github.io/covid-19-data/us/csv/US-UT-Summit.csv                                    |https://insysbio.github.io/covid-19-data/us/json/US-UT-Summit.json                                    |US           |USA           |US-UT          |
 |US-UT-Tooele                                    |Tooele                                    |Utah                     |US             |https://insysbio.github.io/covid-19-data/us/csv/US-UT-Tooele.csv                                    |https://insysbio.github.io/covid-19-data/us/json/US-UT-Tooele.json                                    |US           |USA           |US-UT          |
