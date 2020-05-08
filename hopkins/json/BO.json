@@ -981,12 +981,12 @@
     },
     {
       "date": "2020-04-28",
-      "confirmed": 1014,
-      "recovered": 98,
-      "deaths": 53,
-      "confirmed_new": 0,
-      "recovered_new": 0,
-      "deaths_new": 0,
+      "confirmed": 1053,
+      "recovered": 110,
+      "deaths": 55,
+      "confirmed_new": 39,
+      "recovered_new": 12,
+      "deaths_new": 2,
       "hasErrors": false
     },
     {
@@ -994,19 +994,19 @@
       "confirmed": 1110,
       "recovered": 117,
       "deaths": 59,
-      "confirmed_new": 96,
-      "recovered_new": 19,
-      "deaths_new": 6,
+      "confirmed_new": 57,
+      "recovered_new": 7,
+      "deaths_new": 4,
       "hasErrors": false
     },
     {
       "date": "2020-04-30",
-      "confirmed": 1110,
-      "recovered": 117,
-      "deaths": 59,
-      "confirmed_new": 0,
-      "recovered_new": 0,
-      "deaths_new": 0,
+      "confirmed": 1167,
+      "recovered": 132,
+      "deaths": 62,
+      "confirmed_new": 57,
+      "recovered_new": 15,
+      "deaths_new": 3,
       "hasErrors": false
     },
     {
@@ -1014,19 +1014,19 @@
       "confirmed": 1229,
       "recovered": 134,
       "deaths": 66,
-      "confirmed_new": 119,
-      "recovered_new": 17,
-      "deaths_new": 7,
+      "confirmed_new": 62,
+      "recovered_new": 2,
+      "deaths_new": 4,
       "hasErrors": false
     },
     {
       "date": "2020-05-02",
-      "confirmed": 1229,
-      "recovered": 134,
-      "deaths": 66,
-      "confirmed_new": 0,
-      "recovered_new": 0,
-      "deaths_new": 0,
+      "confirmed": 1470,
+      "recovered": 159,
+      "deaths": 71,
+      "confirmed_new": 241,
+      "recovered_new": 25,
+      "deaths_new": 5,
       "hasErrors": false
     },
     {
@@ -1034,9 +1034,9 @@
       "confirmed": 1594,
       "recovered": 166,
       "deaths": 76,
-      "confirmed_new": 365,
-      "recovered_new": 32,
-      "deaths_new": 10,
+      "confirmed_new": 124,
+      "recovered_new": 7,
+      "deaths_new": 5,
       "hasErrors": false
     },
     {
@@ -1067,6 +1067,16 @@
       "confirmed_new": 84,
       "recovered_new": 11,
       "deaths_new": 5,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-05-07",
+      "confirmed": 2081,
+      "recovered": 219,
+      "deaths": 102,
+      "confirmed_new": 195,
+      "recovered_new": 21,
+      "deaths_new": 11,
       "hasErrors": false
     }
   ]
