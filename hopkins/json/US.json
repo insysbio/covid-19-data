@@ -1061,12 +1061,12 @@
     },
     {
       "date": "2020-05-06",
-      "confirmed": 1228603,
+      "confirmed": 1229331,
       "recovered": 189910,
-      "deaths": 73431,
-      "confirmed_new": 24252,
+      "deaths": 73455,
+      "confirmed_new": 24980,
       "recovered_new": 119,
-      "deaths_new": 2367,
+      "deaths_new": 2391,
       "hasErrors": false
     },
     {
@@ -1074,9 +1074,9 @@
       "confirmed": 1257023,
       "recovered": 195036,
       "deaths": 75662,
-      "confirmed_new": 28420,
+      "confirmed_new": 27692,
       "recovered_new": 5126,
-      "deaths_new": 2231,
+      "deaths_new": 2207,
       "hasErrors": false
     },
     {
@@ -1087,6 +1087,16 @@
       "confirmed_new": 26906,
       "recovered_new": 3957,
       "deaths_new": 1518,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-05-09",
+      "confirmed": 1309550,
+      "recovered": 212534,
+      "deaths": 78795,
+      "confirmed_new": 25621,
+      "recovered_new": 13541,
+      "deaths_new": 1615,
       "hasErrors": false
     }
   ]
