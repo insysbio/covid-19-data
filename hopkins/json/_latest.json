@@ -11,13 +11,13 @@
     "group": "AD",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 754,
-        "recovered": 545,
+        "date": "2020-05-10",
+        "confirmed": 755,
+        "recovered": 550,
         "deaths": 48,
-        "confirmed_new": 2,
-        "recovered_new": 8,
-        "deaths_new": 1,
+        "confirmed_new": 1,
+        "recovered_new": 5,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -34,13 +34,13 @@
     "group": "AE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 17417,
-        "recovered": 4295,
-        "deaths": 185,
-        "confirmed_new": 624,
-        "recovered_new": 458,
-        "deaths_new": 11,
+        "date": "2020-05-10",
+        "confirmed": 18198,
+        "recovered": 4804,
+        "deaths": 198,
+        "confirmed_new": 781,
+        "recovered_new": 509,
+        "deaths_new": 13,
         "hasErrors": false
       }
     ]
@@ -57,13 +57,13 @@
     "group": "AF",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 4033,
-        "recovered": 502,
-        "deaths": 115,
-        "confirmed_new": 255,
-        "recovered_new": 30,
-        "deaths_new": 6,
+        "date": "2020-05-10",
+        "confirmed": 4402,
+        "recovered": 558,
+        "deaths": 120,
+        "confirmed_new": 369,
+        "recovered_new": 56,
+        "deaths_new": 5,
         "hasErrors": false
       }
     ]
@@ -80,12 +80,12 @@
     "group": "AG",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 25,
         "recovered": 19,
         "deaths": 3,
         "confirmed_new": 0,
-        "recovered_new": 3,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -103,7 +103,7 @@
     "group": "AI",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 3,
         "recovered": 3,
         "deaths": 0,
@@ -127,12 +127,12 @@
     "group": "AL",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 856,
-        "recovered": 627,
+        "date": "2020-05-10",
+        "confirmed": 868,
+        "recovered": 650,
         "deaths": 31,
-        "confirmed_new": 6,
-        "recovered_new": 7,
+        "confirmed_new": 12,
+        "recovered_new": 23,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -150,12 +150,12 @@
     "group": "AM",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 3175,
-        "recovered": 1267,
-        "deaths": 44,
-        "confirmed_new": 146,
-        "recovered_new": 49,
+        "date": "2020-05-10",
+        "confirmed": 3313,
+        "recovered": 1325,
+        "deaths": 45,
+        "confirmed_new": 138,
+        "recovered_new": 58,
         "deaths_new": 1,
         "hasErrors": false
       }
@@ -173,12 +173,12 @@
     "group": "AO",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 43,
+        "date": "2020-05-10",
+        "confirmed": 45,
         "recovered": 13,
         "deaths": 2,
-        "confirmed_new": 0,
-        "recovered_new": 2,
+        "confirmed_new": 2,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -196,13 +196,13 @@
     "group": "AR",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 5776,
-        "recovered": 1728,
-        "deaths": 300,
-        "confirmed_new": 165,
-        "recovered_new": 69,
-        "deaths_new": 7,
+        "date": "2020-05-10",
+        "confirmed": 6034,
+        "recovered": 1757,
+        "deaths": 305,
+        "confirmed_new": 258,
+        "recovered_new": 29,
+        "deaths_new": 5,
         "hasErrors": false
       }
     ]
@@ -219,13 +219,13 @@
     "group": "AT",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 15833,
-        "recovered": 13928,
-        "deaths": 615,
-        "confirmed_new": 59,
-        "recovered_new": 92,
-        "deaths_new": 1,
+        "date": "2020-05-10",
+        "confirmed": 15871,
+        "recovered": 13991,
+        "deaths": 618,
+        "confirmed_new": 38,
+        "recovered_new": 63,
+        "deaths_new": 3,
         "hasErrors": false
       }
     ]
@@ -242,12 +242,12 @@
     "group": "AU-ACT",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 107,
         "recovered": 104,
         "deaths": 3,
         "confirmed_new": 0,
-        "recovered_new": 1,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -266,12 +266,12 @@
     "group": "AU-NSW",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 3053,
-        "recovered": 2504,
+        "recovered": 2517,
         "deaths": 44,
-        "confirmed_new": 2,
-        "recovered_new": 0,
+        "confirmed_new": 0,
+        "recovered_new": 13,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -290,7 +290,7 @@
     "group": "AU-NT",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 29,
         "recovered": 27,
         "deaths": 0,
@@ -314,12 +314,12 @@
     "group": "AU-QLD",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 1045,
-        "recovered": 1019,
+        "recovered": 1021,
         "deaths": 6,
         "confirmed_new": 0,
-        "recovered_new": 0,
+        "recovered_new": 2,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -338,12 +338,12 @@
     "group": "AU-SA",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 439,
-        "recovered": 433,
+        "recovered": 434,
         "deaths": 4,
         "confirmed_new": 0,
-        "recovered_new": 0,
+        "recovered_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -362,12 +362,12 @@
     "group": "AU-TAS",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 227,
         "recovered": 182,
         "deaths": 13,
         "confirmed_new": 0,
-        "recovered_new": 7,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -386,12 +386,12 @@
     "group": "AU-VIC",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1487,
-        "recovered": 1336,
+        "date": "2020-05-10",
+        "confirmed": 1496,
+        "recovered": 1346,
         "deaths": 18,
-        "confirmed_new": 19,
-        "recovered_new": 9,
+        "confirmed_new": 9,
+        "recovered_new": 10,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -410,12 +410,12 @@
     "group": "AU-WA",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 552,
         "recovered": 536,
         "deaths": 9,
         "confirmed_new": 0,
-        "recovered_new": 2,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -434,13 +434,13 @@
     "group": "AZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 2422,
-        "recovered": 1620,
-        "deaths": 31,
-        "confirmed_new": 143,
-        "recovered_new": 44,
-        "deaths_new": 3,
+        "date": "2020-05-10",
+        "confirmed": 2519,
+        "recovered": 1650,
+        "deaths": 32,
+        "confirmed_new": 97,
+        "recovered_new": 30,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -457,13 +457,13 @@
     "group": "BA",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 2090,
-        "recovered": 1059,
-        "deaths": 102,
-        "confirmed_new": 20,
-        "recovered_new": 99,
-        "deaths_new": 4,
+        "date": "2020-05-10",
+        "confirmed": 2117,
+        "recovered": 1106,
+        "deaths": 107,
+        "confirmed_new": 27,
+        "recovered_new": 47,
+        "deaths_new": 5,
         "hasErrors": false
       }
     ]
@@ -480,12 +480,12 @@
     "group": "BB",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 84,
         "recovered": 57,
         "deaths": 7,
-        "confirmed_new": 1,
-        "recovered_new": 4,
+        "confirmed_new": 0,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -503,13 +503,13 @@
     "group": "BD",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 13770,
-        "recovered": 2414,
-        "deaths": 214,
-        "confirmed_new": 636,
-        "recovered_new": 313,
-        "deaths_new": 8,
+        "date": "2020-05-10",
+        "confirmed": 14657,
+        "recovered": 2650,
+        "deaths": 228,
+        "confirmed_new": 887,
+        "recovered_new": 236,
+        "deaths_new": 14,
         "hasErrors": false
       }
     ]
@@ -526,13 +526,13 @@
     "group": "BE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 52596,
-        "recovered": 13411,
-        "deaths": 8581,
-        "confirmed_new": 585,
-        "recovered_new": 210,
-        "deaths_new": 60,
+        "date": "2020-05-10",
+        "confirmed": 53081,
+        "recovered": 13642,
+        "deaths": 8656,
+        "confirmed_new": 485,
+        "recovered_new": 231,
+        "deaths_new": 75,
         "hasErrors": false
       }
     ]
@@ -549,13 +549,13 @@
     "group": "BF",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 748,
-        "recovered": 569,
-        "deaths": 48,
-        "confirmed_new": 4,
-        "recovered_new": 3,
-        "deaths_new": 0,
+        "date": "2020-05-10",
+        "confirmed": 751,
+        "recovered": 577,
+        "deaths": 49,
+        "confirmed_new": 3,
+        "recovered_new": 8,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -572,13 +572,13 @@
     "group": "BG",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1921,
-        "recovered": 422,
-        "deaths": 90,
-        "confirmed_new": 49,
-        "recovered_new": 21,
-        "deaths_new": 4,
+        "date": "2020-05-10",
+        "confirmed": 1965,
+        "recovered": 444,
+        "deaths": 91,
+        "confirmed_new": 44,
+        "recovered_new": 22,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -595,12 +595,12 @@
     "group": "BH",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 4774,
-        "recovered": 2055,
+        "date": "2020-05-10",
+        "confirmed": 4941,
+        "recovered": 2070,
         "deaths": 8,
-        "confirmed_new": 330,
-        "recovered_new": 27,
+        "confirmed_new": 167,
+        "recovered_new": 15,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -618,7 +618,7 @@
     "group": "BI",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 15,
         "recovered": 7,
         "deaths": 1,
@@ -641,11 +641,11 @@
     "group": "BJ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 284,
+        "date": "2020-05-10",
+        "confirmed": 319,
         "recovered": 62,
         "deaths": 2,
-        "confirmed_new": 42,
+        "confirmed_new": 35,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -664,7 +664,7 @@
     "group": "BL",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 6,
         "recovered": 6,
         "deaths": 0,
@@ -688,12 +688,12 @@
     "group": "BM",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 118,
         "recovered": 64,
         "deaths": 7,
         "confirmed_new": 0,
-        "recovered_new": 3,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -712,12 +712,12 @@
     "group": "BN",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 141,
-        "recovered": 132,
+        "recovered": 134,
         "deaths": 1,
         "confirmed_new": 0,
-        "recovered_new": 0,
+        "recovered_new": 2,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -735,13 +735,13 @@
     "group": "BO",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 2437,
-        "recovered": 258,
-        "deaths": 114,
-        "confirmed_new": 171,
-        "recovered_new": 21,
-        "deaths_new": 8,
+        "date": "2020-05-10",
+        "confirmed": 2556,
+        "recovered": 273,
+        "deaths": 118,
+        "confirmed_new": 119,
+        "recovered_new": 15,
+        "deaths_new": 4,
         "hasErrors": false
       }
     ]
@@ -758,7 +758,7 @@
     "group": "BQ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 6,
         "recovered": 0,
         "deaths": 0,
@@ -782,13 +782,13 @@
     "group": "BR",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 156061,
-        "recovered": 61685,
-        "deaths": 10656,
-        "confirmed_new": 9167,
-        "recovered_new": 2388,
-        "deaths_new": 639,
+        "date": "2020-05-10",
+        "confirmed": 162699,
+        "recovered": 64957,
+        "deaths": 11123,
+        "confirmed_new": 6638,
+        "recovered_new": 3272,
+        "deaths_new": 467,
         "hasErrors": false
       }
     ]
@@ -805,12 +805,12 @@
     "group": "BS",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 92,
         "recovered": 37,
         "deaths": 11,
         "confirmed_new": 0,
-        "recovered_new": 6,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -828,7 +828,7 @@
     "group": "BT",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 7,
         "recovered": 5,
         "deaths": 0,
@@ -851,12 +851,12 @@
     "group": "BU",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 178,
-        "recovered": 68,
+        "date": "2020-05-10",
+        "confirmed": 180,
+        "recovered": 72,
         "deaths": 6,
-        "confirmed_new": 1,
-        "recovered_new": 1,
+        "confirmed_new": 2,
+        "recovered_new": 4,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -874,12 +874,12 @@
     "group": "BW",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 23,
         "recovered": 12,
         "deaths": 1,
         "confirmed_new": 0,
-        "recovered_new": 3,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -897,12 +897,12 @@
     "group": "BY",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 22052,
-        "recovered": 6050,
-        "deaths": 126,
-        "confirmed_new": 951,
-        "recovered_new": 566,
+        "date": "2020-05-10",
+        "confirmed": 22973,
+        "recovered": 6406,
+        "deaths": 131,
+        "confirmed_new": 921,
+        "recovered_new": 356,
         "deaths_new": 5,
         "hasErrors": false
       }
@@ -920,7 +920,7 @@
     "group": "BZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 18,
         "recovered": 16,
         "deaths": 2,
@@ -943,9 +943,9 @@
     "group": "CA",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "recovered": 31262,
-        "recovered_new": 1023,
+        "date": "2020-05-10",
+        "recovered": 32109,
+        "recovered_new": 847,
         "hasErrors": true
       }
     ]
@@ -962,10 +962,10 @@
     "group": "CA-AB",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 6157,
-        "deaths": 116,
-        "confirmed_new": 59,
+        "date": "2020-05-10",
+        "confirmed": 6253,
+        "deaths": 117,
+        "confirmed_new": 96,
         "deaths_new": 1,
         "hasErrors": true
       }
@@ -984,11 +984,11 @@
     "group": "CA-BC",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 2330,
         "deaths": 129,
-        "confirmed_new": 15,
-        "deaths_new": 2,
+        "confirmed_new": 0,
+        "deaths_new": 0,
         "hasErrors": true
       }
     ],
@@ -1006,10 +1006,10 @@
     "group": "CA-MB",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 284,
+        "date": "2020-05-10",
+        "confirmed": 287,
         "deaths": 7,
-        "confirmed_new": 0,
+        "confirmed_new": 3,
         "deaths_new": 0,
         "hasErrors": true
       }
@@ -1028,7 +1028,7 @@
     "group": "CA-NB",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 120,
         "deaths": 0,
         "confirmed_new": 0,
@@ -1050,7 +1050,7 @@
     "group": "CA-NL",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 261,
         "deaths": 3,
         "confirmed_new": 0,
@@ -1072,11 +1072,11 @@
     "group": "CA-NS",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1011,
+        "date": "2020-05-10",
+        "confirmed": 1018,
         "deaths": 47,
-        "confirmed_new": 3,
-        "deaths_new": 1,
+        "confirmed_new": 7,
+        "deaths_new": 0,
         "hasErrors": true
       }
     ],
@@ -1094,7 +1094,7 @@
     "group": "CA-NT",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 5,
         "deaths": 0,
         "confirmed_new": 0,
@@ -1116,11 +1116,11 @@
     "group": "CA-ON",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 21148,
-        "deaths": 1726,
-        "confirmed_new": 322,
-        "deaths_new": 61,
+        "date": "2020-05-10",
+        "confirmed": 21469,
+        "deaths": 1751,
+        "confirmed_new": 321,
+        "deaths_new": 25,
         "hasErrors": true
       }
     ],
@@ -1138,7 +1138,7 @@
     "group": "CA-PE",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 27,
         "deaths": 0,
         "confirmed_new": 0,
@@ -1160,11 +1160,11 @@
     "group": "CA-QC",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 36997,
-        "deaths": 2787,
-        "confirmed_new": 836,
-        "deaths_new": 61,
+        "date": "2020-05-10",
+        "confirmed": 37732,
+        "deaths": 2929,
+        "confirmed_new": 735,
+        "deaths_new": 142,
         "hasErrors": true
       }
     ],
@@ -1182,10 +1182,10 @@
     "group": "CA-SK",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 553,
+        "date": "2020-05-10",
+        "confirmed": 564,
         "deaths": 7,
-        "confirmed_new": 9,
+        "confirmed_new": 11,
         "deaths_new": 0,
         "hasErrors": true
       }
@@ -1204,7 +1204,7 @@
     "group": "CA-YT",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 11,
         "deaths": 0,
         "confirmed_new": 0,
@@ -1226,13 +1226,13 @@
     "group": "CD",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 937,
-        "recovered": 130,
-        "deaths": 39,
-        "confirmed_new": 0,
-        "recovered_new": 0,
-        "deaths_new": 0,
+        "date": "2020-05-10",
+        "confirmed": 991,
+        "recovered": 136,
+        "deaths": 41,
+        "confirmed_new": 54,
+        "recovered_new": 6,
+        "deaths_new": 2,
         "hasErrors": false
       }
     ]
@@ -1249,7 +1249,7 @@
     "group": "CF",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 143,
         "recovered": 10,
         "deaths": 0,
@@ -1272,7 +1272,7 @@
     "group": "CG",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 274,
         "recovered": 33,
         "deaths": 10,
@@ -1295,13 +1295,13 @@
     "group": "CH",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 30251,
-        "recovered": 26400,
-        "deaths": 1830,
-        "confirmed_new": 44,
-        "recovered_new": 300,
-        "deaths_new": 7,
+        "date": "2020-05-10",
+        "confirmed": 30305,
+        "recovered": 26600,
+        "deaths": 1833,
+        "confirmed_new": 54,
+        "recovered_new": 200,
+        "deaths_new": 3,
         "hasErrors": false
       }
     ]
@@ -1318,13 +1318,13 @@
     "group": "CI",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1667,
-        "recovered": 769,
+        "date": "2020-05-10",
+        "confirmed": 1700,
+        "recovered": 794,
         "deaths": 21,
-        "confirmed_new": 65,
-        "recovered_new": 15,
-        "deaths_new": 1,
+        "confirmed_new": 33,
+        "recovered_new": 25,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -1341,13 +1341,13 @@
     "group": "CL",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 27219,
-        "recovered": 12667,
-        "deaths": 304,
-        "confirmed_new": 1247,
-        "recovered_new": 507,
-        "deaths_new": 10,
+        "date": "2020-05-10",
+        "confirmed": 28866,
+        "recovered": 13112,
+        "deaths": 312,
+        "confirmed_new": 1647,
+        "recovered_new": 445,
+        "deaths_new": 8,
         "hasErrors": false
       }
     ]
@@ -1364,13 +1364,13 @@
     "group": "CM",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 2274,
-        "recovered": 1232,
-        "deaths": 108,
-        "confirmed_new": 7,
-        "recovered_new": 230,
-        "deaths_new": 0,
+        "date": "2020-05-10",
+        "confirmed": 2579,
+        "recovered": 1465,
+        "deaths": 114,
+        "confirmed_new": 305,
+        "recovered_new": 233,
+        "deaths_new": 6,
         "hasErrors": false
       }
     ]
@@ -1387,7 +1387,7 @@
     "group": "CN-AH",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 991,
         "recovered": 985,
         "deaths": 6,
@@ -1411,12 +1411,12 @@
     "group": "CN-BJ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 593,
-        "recovered": 565,
+        "recovered": 568,
         "deaths": 9,
         "confirmed_new": 0,
-        "recovered_new": 5,
+        "recovered_new": 3,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1435,7 +1435,7 @@
     "group": "CN-CQ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 579,
         "recovered": 573,
         "deaths": 6,
@@ -1459,7 +1459,7 @@
     "group": "CN-FJ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 356,
         "recovered": 354,
         "deaths": 1,
@@ -1483,9 +1483,9 @@
     "group": "CN-GD",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 1589,
-        "recovered": 1576,
+        "recovered": 1577,
         "deaths": 8,
         "confirmed_new": 0,
         "recovered_new": 1,
@@ -1507,7 +1507,7 @@
     "group": "CN-GS",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 139,
         "recovered": 137,
         "deaths": 2,
@@ -1531,7 +1531,7 @@
     "group": "CN-GX",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 254,
         "recovered": 252,
         "deaths": 2,
@@ -1555,7 +1555,7 @@
     "group": "CN-GZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 147,
         "recovered": 145,
         "deaths": 2,
@@ -1579,7 +1579,7 @@
     "group": "CN-HA",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 1276,
         "recovered": 1254,
         "deaths": 22,
@@ -1603,11 +1603,11 @@
     "group": "CN-HB",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 68129,
+        "date": "2020-05-10",
+        "confirmed": 68134,
         "recovered": 63616,
         "deaths": 4512,
-        "confirmed_new": 1,
+        "confirmed_new": 5,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -1627,12 +1627,12 @@
     "group": "CN-HE",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 328,
         "recovered": 321,
         "deaths": 6,
         "confirmed_new": 0,
-        "recovered_new": 1,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1651,7 +1651,7 @@
     "group": "CN-HI",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 168,
         "recovered": 162,
         "deaths": 6,
@@ -1675,12 +1675,12 @@
     "group": "CN-HK",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1044,
-        "recovered": 967,
+        "date": "2020-05-10",
+        "confirmed": 1047,
+        "recovered": 982,
         "deaths": 4,
-        "confirmed_new": 0,
-        "recovered_new": 7,
+        "confirmed_new": 3,
+        "recovered_new": 15,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1699,12 +1699,12 @@
     "group": "CN-HL",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 944,
-        "recovered": 891,
+        "date": "2020-05-10",
+        "confirmed": 945,
+        "recovered": 904,
         "deaths": 13,
-        "confirmed_new": 0,
-        "recovered_new": 76,
+        "confirmed_new": 1,
+        "recovered_new": 13,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1723,7 +1723,7 @@
     "group": "CN-HN",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 1019,
         "recovered": 1015,
         "deaths": 4,
@@ -1747,12 +1747,12 @@
     "group": "CN-JL",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 124,
+        "date": "2020-05-10",
+        "confirmed": 127,
         "recovered": 105,
         "deaths": 1,
-        "confirmed_new": 11,
-        "recovered_new": 1,
+        "confirmed_new": 3,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1771,12 +1771,12 @@
     "group": "CN-JS",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 653,
-        "recovered": 652,
+        "recovered": 653,
         "deaths": 0,
         "confirmed_new": 0,
-        "recovered_new": 0,
+        "recovered_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1795,7 +1795,7 @@
     "group": "CN-JX",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 937,
         "recovered": 936,
         "deaths": 1,
@@ -1819,11 +1819,11 @@
     "group": "CN-LN",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 146,
+        "date": "2020-05-10",
+        "confirmed": 147,
         "recovered": 144,
         "deaths": 2,
-        "confirmed_new": 0,
+        "confirmed_new": 1,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -1843,12 +1843,12 @@
     "group": "CN-MO",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 45,
-        "recovered": 40,
+        "recovered": 41,
         "deaths": 0,
         "confirmed_new": 0,
-        "recovered_new": 0,
+        "recovered_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1867,12 +1867,12 @@
     "group": "CN-NM",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 201,
-        "recovered": 184,
+        "date": "2020-05-10",
+        "confirmed": 208,
+        "recovered": 187,
         "deaths": 1,
-        "confirmed_new": 0,
-        "recovered_new": 12,
+        "confirmed_new": 7,
+        "recovered_new": 3,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1891,7 +1891,7 @@
     "group": "CN-NX",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 75,
         "recovered": 75,
         "deaths": 0,
@@ -1915,7 +1915,7 @@
     "group": "CN-QH",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 18,
         "recovered": 18,
         "deaths": 0,
@@ -1939,7 +1939,7 @@
     "group": "CN-SC",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 561,
         "recovered": 558,
         "deaths": 3,
@@ -1963,12 +1963,12 @@
     "group": "CN-SD",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 788,
-        "recovered": 776,
+        "recovered": 777,
         "deaths": 7,
         "confirmed_new": 0,
-        "recovered_new": 0,
+        "recovered_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -1987,12 +1987,12 @@
     "group": "CN-SH",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 659,
-        "recovered": 626,
+        "recovered": 627,
         "deaths": 7,
-        "confirmed_new": 2,
-        "recovered_new": 3,
+        "confirmed_new": 0,
+        "recovered_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2011,12 +2011,12 @@
     "group": "CN-SN",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 308,
-        "recovered": 293,
+        "recovered": 294,
         "deaths": 3,
         "confirmed_new": 0,
-        "recovered_new": 25,
+        "recovered_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2035,12 +2035,12 @@
     "group": "CN-SX",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 198,
         "recovered": 197,
         "deaths": 0,
         "confirmed_new": 0,
-        "recovered_new": 2,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2059,7 +2059,7 @@
     "group": "CN-TJ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 191,
         "recovered": 186,
         "deaths": 3,
@@ -2083,7 +2083,7 @@
     "group": "CN-XJ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 76,
         "recovered": 73,
         "deaths": 3,
@@ -2107,12 +2107,12 @@
     "group": "CN-YN",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 185,
         "recovered": 183,
         "deaths": 2,
         "confirmed_new": 0,
-        "recovered_new": 1,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2131,7 +2131,7 @@
     "group": "CN-ZJ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 1268,
         "recovered": 1267,
         "deaths": 1,
@@ -2155,13 +2155,13 @@
     "group": "CO",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 10495,
-        "recovered": 2569,
-        "deaths": 445,
-        "confirmed_new": 444,
-        "recovered_new": 145,
-        "deaths_new": 17,
+        "date": "2020-05-10",
+        "confirmed": 11063,
+        "recovered": 2705,
+        "deaths": 463,
+        "confirmed_new": 568,
+        "recovered_new": 136,
+        "deaths_new": 18,
         "hasErrors": false
       }
     ]
@@ -2178,13 +2178,13 @@
     "group": "CR",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 780,
-        "recovered": 480,
-        "deaths": 6,
-        "confirmed_new": 7,
-        "recovered_new": 19,
-        "deaths_new": 0,
+        "date": "2020-05-10",
+        "confirmed": 792,
+        "recovered": 501,
+        "deaths": 7,
+        "confirmed_new": 12,
+        "recovered_new": 21,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -2201,13 +2201,13 @@
     "group": "CU",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1754,
-        "recovered": 1140,
-        "deaths": 74,
-        "confirmed_new": 13,
-        "recovered_new": 62,
-        "deaths_new": 0,
+        "date": "2020-05-10",
+        "confirmed": 1766,
+        "recovered": 1193,
+        "deaths": 77,
+        "confirmed_new": 12,
+        "recovered_new": 53,
+        "deaths_new": 3,
         "hasErrors": false
       }
     ]
@@ -2224,12 +2224,12 @@
     "group": "CV",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 236,
+        "date": "2020-05-10",
+        "confirmed": 246,
         "recovered": 56,
         "deaths": 2,
-        "confirmed_new": 6,
-        "recovered_new": 12,
+        "confirmed_new": 10,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2247,7 +2247,7 @@
     "group": "CW",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 16,
         "recovered": 14,
         "deaths": 1,
@@ -2271,13 +2271,13 @@
     "group": "CY",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 892,
+        "date": "2020-05-10",
+        "confirmed": 898,
         "recovered": 401,
-        "deaths": 15,
-        "confirmed_new": 1,
-        "recovered_new": 1,
-        "deaths_new": 0,
+        "deaths": 16,
+        "confirmed_new": 6,
+        "recovered_new": 0,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -2294,13 +2294,13 @@
     "group": "CZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 8095,
-        "recovered": 4447,
-        "deaths": 276,
-        "confirmed_new": 18,
-        "recovered_new": 34,
-        "deaths_new": 3,
+        "date": "2020-05-10",
+        "confirmed": 8123,
+        "recovered": 4474,
+        "deaths": 280,
+        "confirmed_new": 28,
+        "recovered_new": 27,
+        "deaths_new": 4,
         "hasErrors": false
       }
     ]
@@ -2317,13 +2317,13 @@
     "group": "DE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 171324,
-        "recovered": 143300,
-        "deaths": 7549,
-        "confirmed_new": 736,
-        "recovered_new": 1600,
-        "deaths_new": 39,
+        "date": "2020-05-10",
+        "confirmed": 171879,
+        "recovered": 144400,
+        "deaths": 7569,
+        "confirmed_new": 555,
+        "recovered_new": 1100,
+        "deaths_new": 20,
         "hasErrors": false
       }
     ]
@@ -2340,12 +2340,12 @@
     "group": "DJ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1189,
-        "recovered": 834,
+        "date": "2020-05-10",
+        "confirmed": 1210,
+        "recovered": 847,
         "deaths": 3,
-        "confirmed_new": 54,
-        "recovered_new": 10,
+        "confirmed_new": 21,
+        "recovered_new": 13,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2363,13 +2363,13 @@
     "group": "DK",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 10319,
-        "recovered": 8093,
-        "deaths": 526,
-        "confirmed_new": 101,
-        "recovered_new": 166,
-        "deaths_new": 4,
+        "date": "2020-05-10",
+        "confirmed": 10429,
+        "recovered": 8217,
+        "deaths": 529,
+        "confirmed_new": 110,
+        "recovered_new": 124,
+        "deaths_new": 3,
         "hasErrors": false
       }
     ]
@@ -2386,12 +2386,12 @@
     "group": "DM",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 16,
-        "recovered": 14,
+        "recovered": 15,
         "deaths": 0,
         "confirmed_new": 0,
-        "recovered_new": 0,
+        "recovered_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2409,13 +2409,13 @@
     "group": "DO",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 9882,
-        "recovered": 2584,
-        "deaths": 385,
-        "confirmed_new": 506,
-        "recovered_new": 298,
-        "deaths_new": 5,
+        "date": "2020-05-10",
+        "confirmed": 10347,
+        "recovered": 2763,
+        "deaths": 388,
+        "confirmed_new": 465,
+        "recovered_new": 179,
+        "deaths_new": 3,
         "hasErrors": false
       }
     ]
@@ -2432,13 +2432,13 @@
     "group": "DZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 5558,
-        "recovered": 2546,
-        "deaths": 494,
-        "confirmed_new": 189,
-        "recovered_new": 79,
-        "deaths_new": 6,
+        "date": "2020-05-10",
+        "confirmed": 5723,
+        "recovered": 2678,
+        "deaths": 502,
+        "confirmed_new": 165,
+        "recovered_new": 132,
+        "deaths_new": 8,
         "hasErrors": false
       }
     ]
@@ -2455,13 +2455,13 @@
     "group": "EC",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 29071,
+        "date": "2020-05-10",
+        "confirmed": 29559,
         "recovered": 3433,
-        "deaths": 1717,
-        "confirmed_new": 253,
+        "deaths": 2127,
+        "confirmed_new": 488,
         "recovered_new": 0,
-        "deaths_new": 13,
+        "deaths_new": 410,
         "hasErrors": false
       }
     ]
@@ -2478,13 +2478,13 @@
     "group": "EE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1733,
-        "recovered": 747,
+        "date": "2020-05-10",
+        "confirmed": 1739,
+        "recovered": 750,
         "deaths": 60,
-        "confirmed_new": 8,
-        "recovered_new": 43,
-        "deaths_new": 4,
+        "confirmed_new": 6,
+        "recovered_new": 3,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -2501,12 +2501,12 @@
     "group": "EG",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 8964,
-        "recovered": 2002,
-        "deaths": 514,
-        "confirmed_new": 488,
-        "recovered_new": 57,
+        "date": "2020-05-10",
+        "confirmed": 9400,
+        "recovered": 2075,
+        "deaths": 525,
+        "confirmed_new": 436,
+        "recovered_new": 73,
         "deaths_new": 11,
         "hasErrors": false
       }
@@ -2524,7 +2524,7 @@
     "group": "EH",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 6,
         "recovered": 5,
         "deaths": 0,
@@ -2547,7 +2547,7 @@
     "group": "ER",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 39,
         "recovered": 37,
         "deaths": 0,
@@ -2570,13 +2570,13 @@
     "group": "ES",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 223578,
-        "recovered": 133952,
-        "deaths": 26478,
-        "confirmed_new": 721,
-        "recovered_new": 2804,
-        "deaths_new": 179,
+        "date": "2020-05-10",
+        "confirmed": 224350,
+        "recovered": 136166,
+        "deaths": 26621,
+        "confirmed_new": 772,
+        "recovered_new": 2214,
+        "deaths_new": 143,
         "hasErrors": false
       }
     ]
@@ -2593,13 +2593,13 @@
     "group": "ET",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 210,
-        "recovered": 97,
+        "date": "2020-05-10",
+        "confirmed": 239,
+        "recovered": 99,
         "deaths": 5,
-        "confirmed_new": 16,
+        "confirmed_new": 29,
         "recovered_new": 2,
-        "deaths_new": 1,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -2616,13 +2616,13 @@
     "group": "FI",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 5880,
+        "date": "2020-05-10",
+        "confirmed": 5962,
         "recovered": 4000,
-        "deaths": 265,
-        "confirmed_new": 142,
+        "deaths": 267,
+        "confirmed_new": 82,
         "recovered_new": 0,
-        "deaths_new": 5,
+        "deaths_new": 2,
         "hasErrors": false
       }
     ]
@@ -2639,7 +2639,7 @@
     "group": "FJ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 18,
         "recovered": 14,
         "deaths": 0,
@@ -2662,7 +2662,7 @@
     "group": "FO",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 187,
         "recovered": 187,
         "deaths": 0,
@@ -2686,13 +2686,13 @@
     "group": "FR",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 174758,
-        "recovered": 54886,
-        "deaths": 26271,
-        "confirmed_new": 440,
-        "recovered_new": 116,
-        "deaths_new": 79,
+        "date": "2020-05-10",
+        "confirmed": 175027,
+        "recovered": 55062,
+        "deaths": 26341,
+        "confirmed_new": 269,
+        "recovered_new": 176,
+        "deaths_new": 70,
         "hasErrors": false
       }
     ]
@@ -2709,7 +2709,7 @@
     "group": "FR-GP",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 154,
         "recovered": 104,
         "deaths": 13,
@@ -2733,13 +2733,13 @@
     "group": "FR-MAY",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 988,
+        "date": "2020-05-10",
+        "confirmed": 1023,
         "recovered": 492,
         "deaths": 11,
-        "confirmed_new": 134,
-        "recovered_new": 140,
-        "deaths_new": 1,
+        "confirmed_new": 35,
+        "recovered_new": 0,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ],
@@ -2757,7 +2757,7 @@
     "group": "FR-MQ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 186,
         "recovered": 83,
         "deaths": 14,
@@ -2781,11 +2781,11 @@
     "group": "GA",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 661,
         "recovered": 110,
         "deaths": 8,
-        "confirmed_new": 41,
+        "confirmed_new": 0,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -2804,13 +2804,13 @@
     "group": "GB",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 215260,
+        "date": "2020-05-10",
+        "confirmed": 219183,
         "recovered": 0,
-        "deaths": 31587,
-        "confirmed_new": 3896,
+        "deaths": 31855,
+        "confirmed_new": 3923,
         "recovered_new": 0,
-        "deaths_new": 346,
+        "deaths_new": 268,
         "hasErrors": false
       }
     ]
@@ -2827,7 +2827,7 @@
     "group": "GD",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 21,
         "recovered": 13,
         "deaths": 0,
@@ -2850,12 +2850,12 @@
     "group": "GE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 626,
-        "recovered": 297,
+        "date": "2020-05-10",
+        "confirmed": 635,
+        "recovered": 309,
         "deaths": 10,
-        "confirmed_new": 3,
-        "recovered_new": 9,
+        "confirmed_new": 9,
+        "recovered_new": 12,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2873,12 +2873,12 @@
     "group": "GF",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 141,
-        "recovered": 119,
+        "date": "2020-05-10",
+        "confirmed": 144,
+        "recovered": 122,
         "deaths": 1,
-        "confirmed_new": 0,
-        "recovered_new": 0,
+        "confirmed_new": 3,
+        "recovered_new": 3,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2897,13 +2897,13 @@
     "group": "GH",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 4263,
         "recovered": 378,
         "deaths": 22,
-        "confirmed_new": 251,
-        "recovered_new": 55,
-        "deaths_new": 4,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -2920,12 +2920,12 @@
     "group": "GI",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 146,
-        "recovered": 142,
+        "recovered": 143,
         "deaths": 0,
         "confirmed_new": 0,
-        "recovered_new": 0,
+        "recovered_new": 1,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -2944,7 +2944,7 @@
     "group": "GL",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 11,
         "recovered": 11,
         "deaths": 0,
@@ -2968,7 +2968,7 @@
     "group": "GM",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 20,
         "recovered": 9,
         "deaths": 1,
@@ -2991,12 +2991,12 @@
     "group": "GN",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 2042,
-        "recovered": 698,
+        "date": "2020-05-10",
+        "confirmed": 2146,
+        "recovered": 714,
         "deaths": 11,
-        "confirmed_new": 33,
-        "recovered_new": 35,
+        "confirmed_new": 104,
+        "recovered_new": 16,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3014,7 +3014,7 @@
     "group": "GQ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 439,
         "recovered": 13,
         "deaths": 4,
@@ -3037,13 +3037,13 @@
     "group": "GR",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 2710,
+        "date": "2020-05-10",
+        "confirmed": 2716,
         "recovered": 1374,
         "deaths": 151,
-        "confirmed_new": 19,
+        "confirmed_new": 6,
         "recovered_new": 0,
-        "deaths_new": 1,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -3060,13 +3060,13 @@
     "group": "GT",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 967,
-        "recovered": 104,
-        "deaths": 24,
-        "confirmed_new": 67,
-        "recovered_new": 3,
-        "deaths_new": 0,
+        "date": "2020-05-10",
+        "confirmed": 1052,
+        "recovered": 110,
+        "deaths": 26,
+        "confirmed_new": 85,
+        "recovered_new": 6,
+        "deaths_new": 2,
         "hasErrors": false
       }
     ]
@@ -3083,13 +3083,13 @@
     "group": "GW",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 641,
-        "recovered": 25,
+        "date": "2020-05-10",
+        "confirmed": 726,
+        "recovered": 26,
         "deaths": 3,
-        "confirmed_new": 47,
-        "recovered_new": 0,
-        "deaths_new": 1,
+        "confirmed_new": 85,
+        "recovered_new": 1,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -3106,11 +3106,11 @@
     "group": "GY",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 94,
+        "date": "2020-05-10",
+        "confirmed": 104,
         "recovered": 35,
         "deaths": 10,
-        "confirmed_new": 0,
+        "confirmed_new": 10,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -3129,13 +3129,13 @@
     "group": "HN",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1830,
-        "recovered": 195,
+        "date": "2020-05-10",
+        "confirmed": 1972,
+        "recovered": 203,
         "deaths": 108,
-        "confirmed_new": 59,
-        "recovered_new": 3,
-        "deaths_new": 1,
+        "confirmed_new": 142,
+        "recovered_new": 8,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -3152,13 +3152,13 @@
     "group": "HR",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 2176,
-        "recovered": 1726,
-        "deaths": 87,
-        "confirmed_new": 15,
-        "recovered_new": 37,
-        "deaths_new": 1,
+        "date": "2020-05-10",
+        "confirmed": 2187,
+        "recovered": 1764,
+        "deaths": 90,
+        "confirmed_new": 11,
+        "recovered_new": 38,
+        "deaths_new": 3,
         "hasErrors": false
       }
     ]
@@ -3175,13 +3175,13 @@
     "group": "HT",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 151,
+        "date": "2020-05-10",
+        "confirmed": 182,
         "recovered": 17,
-        "deaths": 12,
-        "confirmed_new": 5,
+        "deaths": 15,
+        "confirmed_new": 31,
         "recovered_new": 0,
-        "deaths_new": 0,
+        "deaths_new": 3,
         "hasErrors": false
       }
     ]
@@ -3198,13 +3198,13 @@
     "group": "HU",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 3213,
-        "recovered": 904,
-        "deaths": 405,
-        "confirmed_new": 35,
-        "recovered_new": 39,
-        "deaths_new": 13,
+        "date": "2020-05-10",
+        "confirmed": 3263,
+        "recovered": 933,
+        "deaths": 413,
+        "confirmed_new": 50,
+        "recovered_new": 29,
+        "deaths_new": 8,
         "hasErrors": false
       }
     ]
@@ -3221,13 +3221,13 @@
     "group": "ID",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 13645,
-        "recovered": 2607,
-        "deaths": 959,
-        "confirmed_new": 533,
-        "recovered_new": 113,
-        "deaths_new": 16,
+        "date": "2020-05-10",
+        "confirmed": 14032,
+        "recovered": 2698,
+        "deaths": 973,
+        "confirmed_new": 387,
+        "recovered_new": 91,
+        "deaths_new": 14,
         "hasErrors": false
       }
     ]
@@ -3244,13 +3244,13 @@
     "group": "IE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 22760,
+        "date": "2020-05-10",
+        "confirmed": 22996,
         "recovered": 17110,
-        "deaths": 1446,
-        "confirmed_new": 219,
+        "deaths": 1458,
+        "confirmed_new": 236,
         "recovered_new": 0,
-        "deaths_new": 17,
+        "deaths_new": 12,
         "hasErrors": false
       }
     ]
@@ -3267,13 +3267,13 @@
     "group": "IL",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 16454,
-        "recovered": 11376,
-        "deaths": 247,
-        "confirmed_new": 18,
-        "recovered_new": 147,
-        "deaths_new": 2,
+        "date": "2020-05-10",
+        "confirmed": 16477,
+        "recovered": 11430,
+        "deaths": 252,
+        "confirmed_new": 23,
+        "recovered_new": 54,
+        "deaths_new": 5,
         "hasErrors": false
       }
     ]
@@ -3290,11 +3290,11 @@
     "group": "IM",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 329,
+        "date": "2020-05-10",
+        "confirmed": 330,
         "recovered": 271,
         "deaths": 23,
-        "confirmed_new": 0,
+        "confirmed_new": 1,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -3314,13 +3314,13 @@
     "group": "IN",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 62808,
-        "recovered": 19301,
-        "deaths": 2101,
-        "confirmed_new": 3113,
-        "recovered_new": 1414,
-        "deaths_new": 116,
+        "date": "2020-05-10",
+        "confirmed": 67161,
+        "recovered": 20969,
+        "deaths": 2212,
+        "confirmed_new": 4353,
+        "recovered_new": 1668,
+        "deaths_new": 111,
         "hasErrors": false
       }
     ]
@@ -3337,13 +3337,13 @@
     "group": "IQ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 2679,
-        "recovered": 1702,
-        "deaths": 107,
-        "confirmed_new": 76,
-        "recovered_new": 41,
-        "deaths_new": 3,
+        "date": "2020-05-10",
+        "confirmed": 2767,
+        "recovered": 1734,
+        "deaths": 109,
+        "confirmed_new": 88,
+        "recovered_new": 32,
+        "deaths_new": 2,
         "hasErrors": false
       }
     ]
@@ -3360,13 +3360,13 @@
     "group": "IR",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 106220,
-        "recovered": 85064,
-        "deaths": 6589,
-        "confirmed_new": 1529,
-        "recovered_new": 1227,
-        "deaths_new": 48,
+        "date": "2020-05-10",
+        "confirmed": 107603,
+        "recovered": 86143,
+        "deaths": 6640,
+        "confirmed_new": 1383,
+        "recovered_new": 1079,
+        "deaths_new": 51,
         "hasErrors": false
       }
     ]
@@ -3383,12 +3383,12 @@
     "group": "IS",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 1801,
         "recovered": 1773,
         "deaths": 10,
         "confirmed_new": 0,
-        "recovered_new": 8,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3406,13 +3406,13 @@
     "group": "IT",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 218268,
-        "recovered": 103031,
-        "deaths": 30395,
-        "confirmed_new": 1083,
-        "recovered_new": 4008,
-        "deaths_new": 194,
+        "date": "2020-05-10",
+        "confirmed": 219070,
+        "recovered": 105186,
+        "deaths": 30560,
+        "confirmed_new": 802,
+        "recovered_new": 2155,
+        "deaths_new": 165,
         "hasErrors": false
       }
     ]
@@ -3429,12 +3429,12 @@
     "group": "JM",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 490,
-        "recovered": 62,
+        "date": "2020-05-10",
+        "confirmed": 502,
+        "recovered": 90,
         "deaths": 9,
-        "confirmed_new": 0,
-        "recovered_new": 0,
+        "confirmed_new": 12,
+        "recovered_new": 28,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3452,11 +3452,11 @@
     "group": "JO",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 522,
-        "recovered": 387,
+        "date": "2020-05-10",
+        "confirmed": 540,
+        "recovered": 389,
         "deaths": 9,
-        "confirmed_new": 14,
+        "confirmed_new": 18,
         "recovered_new": 2,
         "deaths_new": 0,
         "hasErrors": false
@@ -3475,12 +3475,12 @@
     "group": "JP",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 15663,
-        "recovered": 5906,
-        "deaths": 607,
-        "confirmed_new": 88,
-        "recovered_new": 760,
+        "date": "2020-05-10",
+        "confirmed": 15777,
+        "recovered": 8127,
+        "deaths": 624,
+        "confirmed_new": 114,
+        "recovered_new": 2221,
         "deaths_new": 17,
         "hasErrors": false
       }
@@ -3498,13 +3498,13 @@
     "group": "KE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 649,
-        "recovered": 207,
-        "deaths": 30,
-        "confirmed_new": 28,
-        "recovered_new": 5,
-        "deaths_new": 1,
+        "date": "2020-05-10",
+        "confirmed": 672,
+        "recovered": 239,
+        "deaths": 32,
+        "confirmed_new": 23,
+        "recovered_new": 32,
+        "deaths_new": 2,
         "hasErrors": false
       }
     ]
@@ -3521,12 +3521,12 @@
     "group": "KG",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 931,
-        "recovered": 658,
+        "date": "2020-05-10",
+        "confirmed": 1002,
+        "recovered": 675,
         "deaths": 12,
-        "confirmed_new": 25,
-        "recovered_new": 8,
+        "confirmed_new": 71,
+        "recovered_new": 17,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3544,7 +3544,7 @@
     "group": "KH",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 122,
         "recovered": 120,
         "deaths": 0,
@@ -3567,11 +3567,11 @@
     "group": "KM",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 11,
         "recovered": 0,
         "deaths": 1,
-        "confirmed_new": 3,
+        "confirmed_new": 0,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -3590,12 +3590,12 @@
     "group": "KN",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 15,
         "recovered": 14,
         "deaths": 0,
         "confirmed_new": 0,
-        "recovered_new": 1,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3613,12 +3613,12 @@
     "group": "KR",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 10874,
-        "recovered": 9610,
+        "date": "2020-05-10",
+        "confirmed": 10909,
+        "recovered": 9632,
         "deaths": 256,
-        "confirmed_new": 34,
-        "recovered_new": 42,
+        "confirmed_new": 35,
+        "recovered_new": 22,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3636,13 +3636,13 @@
     "group": "KW",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 7623,
-        "recovered": 2622,
-        "deaths": 49,
-        "confirmed_new": 415,
-        "recovered_new": 156,
-        "deaths_new": 2,
+        "date": "2020-05-10",
+        "confirmed": 8688,
+        "recovered": 2729,
+        "deaths": 58,
+        "confirmed_new": 1065,
+        "recovered_new": 107,
+        "deaths_new": 9,
         "hasErrors": false
       }
     ]
@@ -3659,7 +3659,7 @@
     "group": "KY",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 81,
         "recovered": 41,
         "deaths": 1,
@@ -3683,12 +3683,12 @@
     "group": "KZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 4975,
-        "recovered": 1776,
+        "date": "2020-05-10",
+        "confirmed": 5090,
+        "recovered": 1941,
         "deaths": 31,
-        "confirmed_new": 141,
-        "recovered_new": 145,
+        "confirmed_new": 115,
+        "recovered_new": 165,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3706,12 +3706,12 @@
     "group": "LA",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 19,
         "recovered": 13,
         "deaths": 0,
         "confirmed_new": 0,
-        "recovered_new": 4,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3729,12 +3729,12 @@
     "group": "LB",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 809,
+        "date": "2020-05-10",
+        "confirmed": 845,
         "recovered": 234,
         "deaths": 26,
-        "confirmed_new": 13,
-        "recovered_new": 11,
+        "confirmed_new": 36,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3752,7 +3752,7 @@
     "group": "LC",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 18,
         "recovered": 17,
         "deaths": 0,
@@ -3775,7 +3775,7 @@
     "group": "LI",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 82,
         "recovered": 55,
         "deaths": 1,
@@ -3798,12 +3798,12 @@
     "group": "LK",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 847,
-        "recovered": 260,
+        "date": "2020-05-10",
+        "confirmed": 863,
+        "recovered": 321,
         "deaths": 9,
-        "confirmed_new": 12,
-        "recovered_new": 20,
+        "confirmed_new": 16,
+        "recovered_new": 61,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -3821,7 +3821,7 @@
     "group": "LR",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 199,
         "recovered": 79,
         "deaths": 20,
@@ -3844,13 +3844,13 @@
     "group": "LT",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1444,
+        "date": "2020-05-10",
+        "confirmed": 1479,
         "recovered": 828,
-        "deaths": 49,
-        "confirmed_new": 8,
-        "recovered_new": 63,
-        "deaths_new": 0,
+        "deaths": 50,
+        "confirmed_new": 35,
+        "recovered_new": 0,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -3867,13 +3867,13 @@
     "group": "LU",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 3877,
-        "recovered": 3550,
+        "date": "2020-05-10",
+        "confirmed": 3886,
+        "recovered": 3586,
         "deaths": 101,
-        "confirmed_new": 6,
-        "recovered_new": 24,
-        "deaths_new": 1,
+        "confirmed_new": 9,
+        "recovered_new": 36,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -3890,11 +3890,11 @@
     "group": "LV",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 930,
+        "date": "2020-05-10",
+        "confirmed": 939,
         "recovered": 464,
         "deaths": 18,
-        "confirmed_new": 2,
+        "confirmed_new": 9,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -3913,7 +3913,7 @@
     "group": "LY",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 64,
         "recovered": 24,
         "deaths": 3,
@@ -3936,13 +3936,13 @@
     "group": "MA",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 5910,
-        "recovered": 2461,
-        "deaths": 186,
-        "confirmed_new": 199,
-        "recovered_new": 137,
-        "deaths_new": 0,
+        "date": "2020-05-10",
+        "confirmed": 6063,
+        "recovered": 2554,
+        "deaths": 188,
+        "confirmed_new": 153,
+        "recovered_new": 93,
+        "deaths_new": 2,
         "hasErrors": false
       }
     ]
@@ -3959,11 +3959,11 @@
     "group": "MC",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 96,
         "recovered": 82,
         "deaths": 4,
-        "confirmed_new": 1,
+        "confirmed_new": 0,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -3982,13 +3982,13 @@
     "group": "MD",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 4867,
-        "recovered": 1925,
-        "deaths": 161,
-        "confirmed_new": 139,
-        "recovered_new": 99,
-        "deaths_new": 11,
+        "date": "2020-05-10",
+        "confirmed": 4927,
+        "recovered": 1958,
+        "deaths": 169,
+        "confirmed_new": 60,
+        "recovered_new": 33,
+        "deaths_new": 8,
         "hasErrors": false
       }
     ]
@@ -4005,13 +4005,13 @@
     "group": "ME",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 324,
-        "recovered": 274,
-        "deaths": 8,
+        "recovered": 290,
+        "deaths": 9,
         "confirmed_new": 0,
-        "recovered_new": 7,
-        "deaths_new": 0,
+        "recovered_new": 16,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -4028,11 +4028,11 @@
     "group": "MF",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 39,
         "recovered": 30,
         "deaths": 3,
-        "confirmed_new": 1,
+        "confirmed_new": 0,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -4052,7 +4052,7 @@
     "group": "MG",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 193,
         "recovered": 101,
         "deaths": 0,
@@ -4075,13 +4075,13 @@
     "group": "MK",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1622,
-        "recovered": 1112,
+        "date": "2020-05-10",
+        "confirmed": 1642,
+        "recovered": 1136,
         "deaths": 91,
-        "confirmed_new": 36,
-        "recovered_new": 13,
-        "deaths_new": 1,
+        "confirmed_new": 20,
+        "recovered_new": 24,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -4098,13 +4098,13 @@
     "group": "ML",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 692,
-        "recovered": 298,
-        "deaths": 37,
-        "confirmed_new": 24,
-        "recovered_new": 13,
-        "deaths_new": 2,
+        "date": "2020-05-10",
+        "confirmed": 704,
+        "recovered": 351,
+        "deaths": 38,
+        "confirmed_new": 12,
+        "recovered_new": 53,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -4121,12 +4121,12 @@
     "group": "MN",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 42,
         "recovered": 14,
         "deaths": 0,
         "confirmed_new": 0,
-        "recovered_new": 1,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -4144,7 +4144,7 @@
     "group": "MR",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 8,
         "recovered": 6,
         "deaths": 1,
@@ -4167,7 +4167,7 @@
     "group": "MS",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 11,
         "recovered": 8,
         "deaths": 1,
@@ -4191,12 +4191,12 @@
     "group": "MT",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 490,
-        "recovered": 427,
+        "date": "2020-05-10",
+        "confirmed": 496,
+        "recovered": 433,
         "deaths": 5,
-        "confirmed_new": 1,
-        "recovered_new": 8,
+        "confirmed_new": 6,
+        "recovered_new": 6,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -4214,7 +4214,7 @@
     "group": "MU",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 332,
         "recovered": 320,
         "deaths": 10,
@@ -4237,12 +4237,12 @@
     "group": "MV",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 790,
+        "date": "2020-05-10",
+        "confirmed": 835,
         "recovered": 29,
         "deaths": 3,
-        "confirmed_new": 46,
-        "recovered_new": 9,
+        "confirmed_new": 45,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -4260,11 +4260,11 @@
     "group": "MW",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 56,
         "recovered": 14,
         "deaths": 3,
-        "confirmed_new": 13,
+        "confirmed_new": 0,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -4283,13 +4283,13 @@
     "group": "MX",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 33460,
+        "date": "2020-05-10",
+        "confirmed": 35022,
         "recovered": 21824,
-        "deaths": 3353,
-        "confirmed_new": 1938,
-        "recovered_new": 1510,
-        "deaths_new": 193,
+        "deaths": 3465,
+        "confirmed_new": 1562,
+        "recovered_new": 0,
+        "deaths_new": 112,
         "hasErrors": false
       }
     ]
@@ -4306,13 +4306,13 @@
     "group": "MY",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 6589,
-        "recovered": 4929,
+        "date": "2020-05-10",
+        "confirmed": 6656,
+        "recovered": 5025,
         "deaths": 108,
-        "confirmed_new": 54,
-        "recovered_new": 65,
-        "deaths_new": 1,
+        "confirmed_new": 67,
+        "recovered_new": 96,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -4329,13 +4329,13 @@
     "group": "MZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 87,
+        "date": "2020-05-10",
+        "confirmed": 91,
         "deaths": 0,
         "hasErrors": true
       },
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "recovered": 34,
         "hasErrors": true
       }
@@ -4353,9 +4353,9 @@
     "group": "NA",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 16,
-        "recovered": 10,
+        "recovered": 11,
         "deaths": 0,
         "confirmed_new": 0,
         "recovered_new": 1,
@@ -4376,7 +4376,7 @@
     "group": "NC",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 18,
         "recovered": 18,
         "deaths": 0,
@@ -4400,12 +4400,12 @@
     "group": "NE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 815,
-        "recovered": 617,
-        "deaths": 45,
-        "confirmed_new": 20,
-        "recovered_new": 17,
+        "date": "2020-05-10",
+        "confirmed": 821,
+        "recovered": 624,
+        "deaths": 46,
+        "confirmed_new": 6,
+        "recovered_new": 7,
         "deaths_new": 1,
         "hasErrors": false
       }
@@ -4423,13 +4423,13 @@
     "group": "NG",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 4151,
-        "recovered": 745,
-        "deaths": 128,
-        "confirmed_new": 239,
-        "recovered_new": 66,
-        "deaths_new": 11,
+        "date": "2020-05-10",
+        "confirmed": 4399,
+        "recovered": 778,
+        "deaths": 143,
+        "confirmed_new": 248,
+        "recovered_new": 33,
+        "deaths_new": 15,
         "hasErrors": false
       }
     ]
@@ -4446,7 +4446,7 @@
     "group": "NI",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 16,
         "recovered": 7,
         "deaths": 5,
@@ -4469,13 +4469,13 @@
     "group": "NL",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 42382,
+        "date": "2020-05-10",
+        "confirmed": 42627,
         "recovered": 0,
-        "deaths": 5422,
-        "confirmed_new": 289,
+        "deaths": 5440,
+        "confirmed_new": 245,
         "recovered_new": 0,
-        "deaths_new": 63,
+        "deaths_new": 18,
         "hasErrors": false
       }
     ]
@@ -4492,7 +4492,7 @@
     "group": "NL-AW",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 101,
         "recovered": 89,
         "deaths": 3,
@@ -4516,13 +4516,13 @@
     "group": "NL-SX",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 76,
         "recovered": 46,
         "deaths": 15,
         "confirmed_new": 0,
-        "recovered_new": 2,
-        "deaths_new": 1,
+        "recovered_new": 0,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ],
@@ -4540,13 +4540,13 @@
     "group": "NO",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 8099,
+        "date": "2020-05-10",
+        "confirmed": 8105,
         "recovered": 32,
         "deaths": 219,
-        "confirmed_new": 29,
+        "confirmed_new": 6,
         "recovered_new": 0,
-        "deaths_new": 1,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -4563,11 +4563,11 @@
     "group": "NP",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 110,
         "recovered": 31,
         "deaths": 0,
-        "confirmed_new": 8,
+        "confirmed_new": 0,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -4586,12 +4586,12 @@
     "group": "NZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1494,
-        "recovered": 1371,
+        "date": "2020-05-10",
+        "confirmed": 1497,
+        "recovered": 1386,
         "deaths": 21,
-        "confirmed_new": 2,
-        "recovered_new": 3,
+        "confirmed_new": 3,
+        "recovered_new": 15,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -4609,13 +4609,13 @@
     "group": "OM",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 3224,
-        "recovered": 1068,
+        "date": "2020-05-10",
+        "confirmed": 3399,
+        "recovered": 1117,
         "deaths": 17,
-        "confirmed_new": 112,
-        "recovered_new": 43,
-        "deaths_new": 1,
+        "confirmed_new": 175,
+        "recovered_new": 49,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -4632,13 +4632,13 @@
     "group": "PA",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 8282,
-        "recovered": 4501,
-        "deaths": 237,
-        "confirmed_new": 212,
-        "recovered_new": 3615,
-        "deaths_new": 6,
+        "date": "2020-05-10",
+        "confirmed": 8448,
+        "recovered": 4687,
+        "deaths": 244,
+        "confirmed_new": 166,
+        "recovered_new": 186,
+        "deaths_new": 7,
         "hasErrors": false
       }
     ]
@@ -4655,13 +4655,13 @@
     "group": "PE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 65015,
-        "recovered": 20246,
-        "deaths": 1814,
-        "confirmed_new": 3168,
-        "recovered_new": 1234,
-        "deaths_new": 100,
+        "date": "2020-05-10",
+        "confirmed": 67307,
+        "recovered": 21349,
+        "deaths": 1889,
+        "confirmed_new": 2292,
+        "recovered_new": 1103,
+        "deaths_new": 75,
         "hasErrors": false
       }
     ]
@@ -4678,7 +4678,7 @@
     "group": "PF",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 60,
         "recovered": 56,
         "deaths": 0,
@@ -4702,7 +4702,7 @@
     "group": "PG",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 8,
         "recovered": 8,
         "deaths": 0,
@@ -4725,13 +4725,13 @@
     "group": "PH",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 10610,
-        "recovered": 1842,
-        "deaths": 704,
-        "confirmed_new": 147,
-        "recovered_new": 108,
-        "deaths_new": 8,
+        "date": "2020-05-10",
+        "confirmed": 10794,
+        "recovered": 1924,
+        "deaths": 719,
+        "confirmed_new": 184,
+        "recovered_new": 82,
+        "deaths_new": 15,
         "hasErrors": false
       }
     ]
@@ -4748,13 +4748,13 @@
     "group": "PK",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 28736,
-        "recovered": 7809,
-        "deaths": 636,
-        "confirmed_new": 2301,
-        "recovered_new": 279,
-        "deaths_new": 37,
+        "date": "2020-05-10",
+        "confirmed": 30334,
+        "recovered": 8063,
+        "deaths": 659,
+        "confirmed_new": 1598,
+        "recovered_new": 254,
+        "deaths_new": 23,
         "hasErrors": false
       }
     ]
@@ -4771,13 +4771,13 @@
     "group": "PL",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 15651,
-        "recovered": 5437,
-        "deaths": 785,
-        "confirmed_new": 285,
-        "recovered_new": 253,
-        "deaths_new": 9,
+        "date": "2020-05-10",
+        "confirmed": 15996,
+        "recovered": 5698,
+        "deaths": 800,
+        "confirmed_new": 345,
+        "recovered_new": 261,
+        "deaths_new": 15,
         "hasErrors": false
       }
     ]
@@ -4794,7 +4794,7 @@
     "group": "PM",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 1,
         "recovered": 0,
         "deaths": 0,
@@ -4818,13 +4818,13 @@
     "group": "PT",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 27406,
-        "recovered": 2499,
-        "deaths": 1126,
-        "confirmed_new": 138,
-        "recovered_new": 77,
-        "deaths_new": 12,
+        "date": "2020-05-10",
+        "confirmed": 27581,
+        "recovered": 2549,
+        "deaths": 1135,
+        "confirmed_new": 175,
+        "recovered_new": 50,
+        "deaths_new": 9,
         "hasErrors": false
       }
     ]
@@ -4841,12 +4841,12 @@
     "group": "PY",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 689,
-        "recovered": 155,
+        "date": "2020-05-10",
+        "confirmed": 713,
+        "recovered": 165,
         "deaths": 10,
-        "confirmed_new": 126,
-        "recovered_new": 3,
+        "confirmed_new": 24,
+        "recovered_new": 10,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -4864,12 +4864,12 @@
     "group": "QA",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 21331,
-        "recovered": 2449,
-        "deaths": 13,
-        "confirmed_new": 1130,
-        "recovered_new": 79,
+        "date": "2020-05-10",
+        "confirmed": 22520,
+        "recovered": 2753,
+        "deaths": 14,
+        "confirmed_new": 1189,
+        "recovered_new": 304,
         "deaths_new": 1,
         "hasErrors": false
       }
@@ -4887,8 +4887,8 @@
     "group": "RE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 431,
+        "date": "2020-05-10",
+        "confirmed": 436,
         "recovered": 354,
         "deaths": 0,
         "confirmed_new": 5,
@@ -4911,13 +4911,13 @@
     "group": "RO",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 15131,
-        "recovered": 6912,
-        "deaths": 939,
-        "confirmed_new": 320,
-        "recovered_new": 489,
-        "deaths_new": 16,
+        "date": "2020-05-10",
+        "confirmed": 15362,
+        "recovered": 7051,
+        "deaths": 961,
+        "confirmed_new": 231,
+        "recovered_new": 139,
+        "deaths_new": 22,
         "hasErrors": false
       }
     ]
@@ -4934,13 +4934,13 @@
     "group": "RS",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 10032,
         "recovered": 2732,
         "deaths": 215,
-        "confirmed_new": 89,
-        "recovered_new": 279,
-        "deaths_new": 6,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -4957,13 +4957,13 @@
     "group": "RU",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 198676,
-        "recovered": 31916,
-        "deaths": 1827,
-        "confirmed_new": 10817,
-        "recovered_new": 5308,
-        "deaths_new": 104,
+        "date": "2020-05-10",
+        "confirmed": 209688,
+        "recovered": 34306,
+        "deaths": 1915,
+        "confirmed_new": 11012,
+        "recovered_new": 2390,
+        "deaths_new": 88,
         "hasErrors": false
       }
     ]
@@ -4980,12 +4980,12 @@
     "group": "RW",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 280,
+        "date": "2020-05-10",
+        "confirmed": 284,
         "recovered": 140,
         "deaths": 0,
-        "confirmed_new": 7,
-        "recovered_new": 4,
+        "confirmed_new": 4,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5003,13 +5003,13 @@
     "group": "SA",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 37136,
-        "recovered": 10144,
-        "deaths": 239,
-        "confirmed_new": 1704,
-        "recovered_new": 1024,
-        "deaths_new": 10,
+        "date": "2020-05-10",
+        "confirmed": 39048,
+        "recovered": 11457,
+        "deaths": 246,
+        "confirmed_new": 1912,
+        "recovered_new": 1313,
+        "deaths_new": 7,
         "hasErrors": false
       }
     ]
@@ -5026,12 +5026,12 @@
     "group": "SC",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 11,
-        "recovered": 8,
+        "recovered": 10,
         "deaths": 0,
         "confirmed_new": 0,
-        "recovered_new": 0,
+        "recovered_new": 2,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5049,13 +5049,13 @@
     "group": "SD",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1164,
-        "recovered": 119,
-        "deaths": 64,
-        "confirmed_new": 53,
-        "recovered_new": 17,
-        "deaths_new": 5,
+        "date": "2020-05-10",
+        "confirmed": 1365,
+        "recovered": 149,
+        "deaths": 70,
+        "confirmed_new": 201,
+        "recovered_new": 30,
+        "deaths_new": 6,
         "hasErrors": false
       }
     ]
@@ -5072,13 +5072,13 @@
     "group": "SE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 25921,
+        "date": "2020-05-10",
+        "confirmed": 26322,
         "recovered": 4971,
-        "deaths": 3220,
-        "confirmed_new": 656,
+        "deaths": 3225,
+        "confirmed_new": 401,
         "recovered_new": 0,
-        "deaths_new": 45,
+        "deaths_new": 5,
         "hasErrors": false
       }
     ]
@@ -5095,12 +5095,12 @@
     "group": "SG",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 22460,
-        "recovered": 2296,
+        "date": "2020-05-10",
+        "confirmed": 23336,
+        "recovered": 2721,
         "deaths": 20,
-        "confirmed_new": 753,
-        "recovered_new": 256,
+        "confirmed_new": 876,
+        "recovered_new": 425,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5118,12 +5118,12 @@
     "group": "SI",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1454,
-        "recovered": 255,
-        "deaths": 101,
-        "confirmed_new": 4,
-        "recovered_new": 3,
+        "date": "2020-05-10",
+        "confirmed": 1457,
+        "recovered": 256,
+        "deaths": 102,
+        "confirmed_new": 3,
+        "recovered_new": 1,
         "deaths_new": 1,
         "hasErrors": false
       }
@@ -5141,12 +5141,12 @@
     "group": "SK",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1455,
-        "recovered": 919,
+        "date": "2020-05-10",
+        "confirmed": 1457,
+        "recovered": 941,
         "deaths": 26,
-        "confirmed_new": 0,
-        "recovered_new": 14,
+        "confirmed_new": 2,
+        "recovered_new": 22,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5164,13 +5164,13 @@
     "group": "SL",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 291,
-        "recovered": 58,
+        "date": "2020-05-10",
+        "confirmed": 307,
+        "recovered": 67,
         "deaths": 18,
-        "confirmed_new": 34,
-        "recovered_new": 4,
-        "deaths_new": 1,
+        "confirmed_new": 16,
+        "recovered_new": 9,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -5187,12 +5187,12 @@
     "group": "SM",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 637,
+        "date": "2020-05-10",
+        "confirmed": 628,
         "recovered": 126,
         "deaths": 41,
-        "confirmed_new": 14,
-        "recovered_new": 12,
+        "confirmed_new": -9,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5210,13 +5210,13 @@
     "group": "SN",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1634,
-        "recovered": 643,
-        "deaths": 17,
-        "confirmed_new": 83,
-        "recovered_new": 32,
-        "deaths_new": 4,
+        "date": "2020-05-10",
+        "confirmed": 1709,
+        "recovered": 650,
+        "deaths": 19,
+        "confirmed_new": 75,
+        "recovered_new": 7,
+        "deaths_new": 2,
         "hasErrors": false
       }
     ]
@@ -5233,13 +5233,13 @@
     "group": "SO",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 997,
-        "recovered": 110,
-        "deaths": 48,
-        "confirmed_new": 69,
-        "recovered_new": 4,
-        "deaths_new": 4,
+        "date": "2020-05-10",
+        "confirmed": 1054,
+        "recovered": 118,
+        "deaths": 51,
+        "confirmed_new": 57,
+        "recovered_new": 8,
+        "deaths_new": 3,
         "hasErrors": false
       }
     ]
@@ -5256,7 +5256,7 @@
     "group": "SR",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 10,
         "recovered": 9,
         "deaths": 1,
@@ -5279,7 +5279,7 @@
     "group": "SS",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 120,
         "recovered": 2,
         "deaths": 0,
@@ -5302,7 +5302,7 @@
     "group": "ST",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 208,
         "recovered": 4,
         "deaths": 5,
@@ -5325,13 +5325,13 @@
     "group": "SV",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 784,
-        "recovered": 276,
+        "date": "2020-05-10",
+        "confirmed": 889,
+        "recovered": 293,
         "deaths": 17,
-        "confirmed_new": 42,
-        "recovered_new": 19,
-        "deaths_new": 1,
+        "confirmed_new": 105,
+        "recovered_new": 17,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -5348,13 +5348,13 @@
     "group": "SY",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 47,
         "deaths": 3,
         "hasErrors": true
       },
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "recovered": 29,
         "hasErrors": true
       }
@@ -5372,12 +5372,12 @@
     "group": "SZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 163,
-        "recovered": 14,
+        "date": "2020-05-10",
+        "confirmed": 172,
+        "recovered": 27,
         "deaths": 2,
-        "confirmed_new": 4,
-        "recovered_new": 2,
+        "confirmed_new": 9,
+        "recovered_new": 13,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5395,7 +5395,7 @@
     "group": "TC",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 12,
         "recovered": 8,
         "deaths": 1,
@@ -5419,13 +5419,13 @@
     "group": "TD",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 322,
         "recovered": 53,
         "deaths": 31,
-        "confirmed_new": 62,
-        "recovered_new": 3,
-        "deaths_new": 3,
+        "confirmed_new": 0,
+        "recovered_new": 0,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -5442,13 +5442,13 @@
     "group": "TG",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 153,
-        "recovered": 87,
-        "deaths": 10,
-        "confirmed_new": 8,
+        "date": "2020-05-10",
+        "confirmed": 174,
+        "recovered": 89,
+        "deaths": 11,
+        "confirmed_new": 21,
         "recovered_new": 2,
-        "deaths_new": 0,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -5465,13 +5465,13 @@
     "group": "TH",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 3004,
-        "recovered": 2787,
+        "date": "2020-05-10",
+        "confirmed": 3009,
+        "recovered": 2794,
         "deaths": 56,
-        "confirmed_new": 4,
-        "recovered_new": 3,
-        "deaths_new": 1,
+        "confirmed_new": 5,
+        "recovered_new": 7,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -5488,13 +5488,13 @@
     "group": "TJ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 612,
         "recovered": 0,
         "deaths": 20,
-        "confirmed_new": 90,
+        "confirmed_new": 0,
         "recovered_new": 0,
-        "deaths_new": 8,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -5511,13 +5511,13 @@
     "group": "TL",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 24,
         "deaths": 0,
         "hasErrors": true
       },
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "recovered": 21,
         "hasErrors": true
       }
@@ -5535,12 +5535,12 @@
     "group": "TN",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 1032,
-        "recovered": 660,
+        "recovered": 700,
         "deaths": 45,
-        "confirmed_new": 2,
-        "recovered_new": 22,
+        "confirmed_new": 0,
+        "recovered_new": 40,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5558,13 +5558,13 @@
     "group": "TR",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 137115,
-        "recovered": 89480,
-        "deaths": 3739,
-        "confirmed_new": 1546,
-        "recovered_new": 3084,
-        "deaths_new": 50,
+        "date": "2020-05-10",
+        "confirmed": 138657,
+        "recovered": 92691,
+        "deaths": 3786,
+        "confirmed_new": 1542,
+        "recovered_new": 3211,
+        "deaths_new": 47,
         "hasErrors": false
       }
     ]
@@ -5581,12 +5581,12 @@
     "group": "TT",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 116,
-        "recovered": 104,
+        "recovered": 107,
         "deaths": 8,
         "confirmed_new": 0,
-        "recovered_new": 1,
+        "recovered_new": 3,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5604,12 +5604,12 @@
     "group": "TW",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 440,
-        "recovered": 361,
+        "recovered": 366,
         "deaths": 6,
         "confirmed_new": 0,
-        "recovered_new": 6,
+        "recovered_new": 5,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5627,7 +5627,7 @@
     "group": "TZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 509,
         "recovered": 183,
         "deaths": 21,
@@ -5650,12 +5650,12 @@
     "group": "UA",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 14710,
-        "recovered": 2909,
-        "deaths": 376,
-        "confirmed_new": 515,
-        "recovered_new": 203,
+        "date": "2020-05-10",
+        "confirmed": 15232,
+        "recovered": 3060,
+        "deaths": 391,
+        "confirmed_new": 522,
+        "recovered_new": 151,
         "deaths_new": 15,
         "hasErrors": false
       }
@@ -5673,11 +5673,11 @@
     "group": "UG",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 116,
+        "date": "2020-05-10",
+        "confirmed": 121,
         "recovered": 55,
         "deaths": 0,
-        "confirmed_new": 15,
+        "confirmed_new": 5,
         "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
@@ -5696,13 +5696,13 @@
     "group": "US",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 1309550,
-        "recovered": 212534,
-        "deaths": 78795,
-        "confirmed_new": 25621,
-        "recovered_new": 13541,
-        "deaths_new": 1615,
+        "date": "2020-05-10",
+        "confirmed": 1329260,
+        "recovered": 216169,
+        "deaths": 79526,
+        "confirmed_new": 19710,
+        "recovered_new": 3635,
+        "deaths_new": 731,
         "hasErrors": false
       }
     ]
@@ -5719,13 +5719,13 @@
     "group": "UY",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 702,
-        "recovered": 513,
-        "deaths": 18,
-        "confirmed_new": 8,
-        "recovered_new": 7,
-        "deaths_new": 0,
+        "date": "2020-05-10",
+        "confirmed": 707,
+        "recovered": 517,
+        "deaths": 19,
+        "confirmed_new": 5,
+        "recovered_new": 4,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -5742,12 +5742,12 @@
     "group": "UZ",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 2349,
-        "recovered": 1846,
+        "date": "2020-05-10",
+        "confirmed": 2418,
+        "recovered": 1881,
         "deaths": 10,
-        "confirmed_new": 24,
-        "recovered_new": 71,
+        "confirmed_new": 69,
+        "recovered_new": 35,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5765,7 +5765,7 @@
     "group": "VA",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 12,
         "recovered": 2,
         "deaths": 0,
@@ -5788,7 +5788,7 @@
     "group": "VC",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 17,
         "recovered": 9,
         "deaths": 0,
@@ -5811,12 +5811,12 @@
     "group": "VE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 402,
-        "recovered": 190,
+        "date": "2020-05-10",
+        "confirmed": 414,
+        "recovered": 193,
         "deaths": 10,
-        "confirmed_new": 14,
-        "recovered_new": 0,
+        "confirmed_new": 12,
+        "recovered_new": 3,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5834,12 +5834,12 @@
     "group": "VG",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 7,
         "recovered": 4,
         "deaths": 1,
         "confirmed_new": 0,
-        "recovered_new": 1,
+        "recovered_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -5858,7 +5858,7 @@
     "group": "VN",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 288,
         "recovered": 241,
         "deaths": 0,
@@ -5881,7 +5881,7 @@
     "group": "XX-DP",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 1,
         "deaths": 1,
         "confirmed_new": 0,
@@ -5903,7 +5903,7 @@
     "group": "XX-GP",
     "timeseries": [
       {
-        "date": "2020-05-09",
+        "date": "2020-05-10",
         "confirmed": 13,
         "deaths": 0,
         "confirmed_new": 0,
@@ -5925,13 +5925,13 @@
     "group": "YE",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 34,
+        "date": "2020-05-10",
+        "confirmed": 51,
         "recovered": 1,
-        "deaths": 7,
-        "confirmed_new": 0,
+        "deaths": 8,
+        "confirmed_new": 17,
         "recovered_new": 0,
-        "deaths_new": 0,
+        "deaths_new": 1,
         "hasErrors": false
       }
     ]
@@ -5948,12 +5948,12 @@
     "group": "ZA",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 9420,
-        "recovered": 3983,
-        "deaths": 186,
-        "confirmed_new": 525,
-        "recovered_new": 830,
+        "date": "2020-05-10",
+        "confirmed": 10015,
+        "recovered": 4173,
+        "deaths": 194,
+        "confirmed_new": 595,
+        "recovered_new": 190,
         "deaths_new": 8,
         "hasErrors": false
       }
@@ -5971,13 +5971,13 @@
     "group": "ZM",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 252,
-        "recovered": 112,
+        "date": "2020-05-10",
+        "confirmed": 267,
+        "recovered": 117,
         "deaths": 7,
-        "confirmed_new": 85,
-        "recovered_new": 1,
-        "deaths_new": 3,
+        "confirmed_new": 15,
+        "recovered_new": 5,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ]
@@ -5994,8 +5994,8 @@
     "group": "ZW",
     "timeseries": [
       {
-        "date": "2020-05-09",
-        "confirmed": 35,
+        "date": "2020-05-10",
+        "confirmed": 36,
         "recovered": 9,
         "deaths": 4,
         "confirmed_new": 1,

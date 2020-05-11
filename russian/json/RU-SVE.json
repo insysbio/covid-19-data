@@ -859,9 +859,9 @@
     },
     {
       "date": "2020-05-07",
-      "confirmed": 1584,
+      "confirmed": 1429,
       "deaths": 3,
-      "confirmed_new": 231,
+      "confirmed_new": 76,
       "deaths_new": 0,
       "hasErrors": false
     },
@@ -869,7 +869,7 @@
       "date": "2020-05-08",
       "confirmed": 1584,
       "deaths": 3,
-      "confirmed_new": 0,
+      "confirmed_new": 155,
       "deaths_new": 0,
       "hasErrors": false
     },
@@ -878,6 +878,14 @@
       "confirmed": 1705,
       "deaths": 3,
       "confirmed_new": 121,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-05-10",
+      "confirmed": 1844,
+      "deaths": 3,
+      "confirmed_new": 139,
       "deaths_new": 0,
       "hasErrors": false
     }
