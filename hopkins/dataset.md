@@ -1,7 +1,7 @@
 # World dataset
-*The build date: 2020-05-13.*
+*The build date: 2020-05-14.*
 
-*The latest date in dataset: 2020-05-12.*
+*The latest date in dataset: 2020-05-13.*
 
 ## Full dataset
 
@@ -182,6 +182,7 @@
 |LI     |                                 |Liechtenstein                    |https://insysbio.github.io/covid-19-data/hopkins/csv/LI.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/LI.json     |LI           |LIE           |               |
 |LK     |                                 |Sri Lanka                        |https://insysbio.github.io/covid-19-data/hopkins/csv/LK.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/LK.json     |LK           |LKA           |               |
 |LR     |                                 |Liberia                          |https://insysbio.github.io/covid-19-data/hopkins/csv/LR.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/LR.json     |LR           |LBR           |               |
+|LS     |                                 |Lesotho                          |https://insysbio.github.io/covid-19-data/hopkins/csv/LS.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/LS.json     |LS           |LSO           |               |
 |LT     |                                 |Lithuania                        |https://insysbio.github.io/covid-19-data/hopkins/csv/LT.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/LT.json     |LT           |LTU           |               |
 |LU     |                                 |Luxembourg                       |https://insysbio.github.io/covid-19-data/hopkins/csv/LU.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/LU.json     |LU           |LUX           |               |
 |LV     |                                 |Latvia                           |https://insysbio.github.io/covid-19-data/hopkins/csv/LV.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/LV.json     |LV           |LVA           |               |
@@ -276,4 +277,4 @@
 |ZA     |                                 |South Africa                     |https://insysbio.github.io/covid-19-data/hopkins/csv/ZA.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/ZA.json     |ZA           |ZAF           |               |
 |ZM     |                                 |Zambia                           |https://insysbio.github.io/covid-19-data/hopkins/csv/ZM.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/ZM.json     |ZM           |ZMB           |               |
 |ZW     |                                 |Zimbabwe                         |https://insysbio.github.io/covid-19-data/hopkins/csv/ZW.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/ZW.json     |ZW           |ZWE           |               |
-|NA     |Recovered                        |Canada                           |https://insysbio.github.io/covid-19-data/hopkins/csv/NA.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/NA.json     |CA           |CAN           |               |
+|NA     |Tibet                            |China                            |https://insysbio.github.io/covid-19-data/hopkins/csv/NA.csv     |https://insysbio.github.io/covid-19-data/hopkins/json/NA.json     |CN           |CHN           |               |
