@@ -1040,6 +1040,22 @@
       "confirmed_new": 70,
       "deaths_new": 0,
       "hasErrors": false
+    },
+    {
+      "date": "2020-05-30",
+      "confirmed": 2048,
+      "deaths": 5,
+      "confirmed_new": 72,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-05-31",
+      "confirmed": 2123,
+      "deaths": 6,
+      "confirmed_new": 75,
+      "deaths_new": 1,
+      "hasErrors": false
     }
   ],
   "territory_code": "RU-LIP"
