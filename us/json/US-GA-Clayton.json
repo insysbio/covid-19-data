@@ -1057,6 +1057,14 @@
       "confirmed_new": 5,
       "deaths_new": 4,
       "hasErrors": false
+    },
+    {
+      "date": "2020-06-01",
+      "confirmed": 1234,
+      "deaths": 50,
+      "confirmed_new": 13,
+      "deaths_new": 1,
+      "hasErrors": false
     }
   ],
   "territory_code": "US-GA"

@@ -1451,6 +1451,17 @@
       "date": "2020-05-31",
       "recovered": 46,
       "hasErrors": true
+    },
+    {
+      "date": "2020-06-01",
+      "confirmed": 123,
+      "deaths": 5,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-06-01",
+      "recovered": 46,
+      "hasErrors": true
     }
   ]
 }
