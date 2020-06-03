@@ -1462,6 +1462,17 @@
       "date": "2020-06-01",
       "recovered": 46,
       "hasErrors": true
+    },
+    {
+      "date": "2020-06-02",
+      "confirmed": 123,
+      "deaths": 6,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-06-02",
+      "recovered": 50,
+      "hasErrors": true
     }
   ]
 }
