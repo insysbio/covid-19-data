@@ -1332,21 +1332,31 @@
     {
       "date": "2020-06-02",
       "confirmed": 108686,
-      "recovered": 21325,
+      "recovered": 86173,
       "deaths": 1188,
       "confirmed_new": 3528,
-      "recovered_new": -23621,
+      "recovered_new": 41227,
       "deaths_new": 75,
       "hasErrors": false
     },
     {
       "date": "2020-06-03",
       "confirmed": 113628,
-      "recovered": 21605,
+      "recovered": 90748,
       "deaths": 1275,
       "confirmed_new": 4942,
-      "recovered_new": 280,
+      "recovered_new": 4575,
       "deaths_new": 87,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-04",
+      "confirmed": 118292,
+      "recovered": 95631,
+      "deaths": 1356,
+      "confirmed_new": 4664,
+      "recovered_new": 4883,
+      "deaths_new": 81,
       "hasErrors": false
     }
   ]
