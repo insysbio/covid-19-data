@@ -1108,15 +1108,23 @@
     },
     {
       "date": "2020-06-07",
-      "confirmed": 18,
+      "confirmed": 19,
+      "deaths": 1,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-08",
+      "confirmed": 19,
       "deaths": 1,
       "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     },
     {
-      "date": "2020-06-08",
-      "confirmed": 18,
+      "date": "2020-06-09",
+      "confirmed": 19,
       "deaths": 1,
       "confirmed_new": 0,
       "deaths_new": 0,

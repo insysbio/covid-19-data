@@ -1092,34 +1092,42 @@
     },
     {
       "date": "2020-06-05",
-      "confirmed": 453,
-      "deaths": 43,
-      "confirmed_new": 0,
-      "deaths_new": 0,
+      "confirmed": 515,
+      "deaths": 44,
+      "confirmed_new": 62,
+      "deaths_new": 1,
       "hasErrors": false
     },
     {
       "date": "2020-06-06",
-      "confirmed": 453,
-      "deaths": 43,
+      "confirmed": 515,
+      "deaths": 44,
       "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     },
     {
       "date": "2020-06-07",
-      "confirmed": 453,
-      "deaths": 43,
+      "confirmed": 515,
+      "deaths": 44,
       "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
     },
     {
       "date": "2020-06-08",
-      "confirmed": 453,
-      "deaths": 43,
-      "confirmed_new": 0,
+      "confirmed": 516,
+      "deaths": 44,
+      "confirmed_new": 1,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-09",
+      "confirmed": 511,
+      "deaths": 45,
+      "confirmed_new": -5,
+      "deaths_new": 1,
       "hasErrors": false
     }
   ],
