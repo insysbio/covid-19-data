@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "Sevastopol",
   "Country.Region": "Russia",
-  "Lat": 44.6166,
-  "Long": 33.5254,
+  "Lat": 44.6054,
+  "Long": 33.522,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -1052,6 +1052,86 @@
     {
       "date": "2020-05-31",
       "confirmed": 161,
+      "deaths": 3,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-01",
+      "confirmed": 165,
+      "deaths": 3,
+      "confirmed_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-02",
+      "confirmed": 168,
+      "deaths": 3,
+      "confirmed_new": 3,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-03",
+      "confirmed": 170,
+      "deaths": 3,
+      "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-04",
+      "confirmed": 171,
+      "deaths": 3,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-05",
+      "confirmed": 173,
+      "deaths": 3,
+      "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-06",
+      "confirmed": 174,
+      "deaths": 3,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-07",
+      "confirmed": 176,
+      "deaths": 3,
+      "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-08",
+      "confirmed": 177,
+      "deaths": 3,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-09",
+      "confirmed": 177,
+      "deaths": 3,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-10",
+      "confirmed": 177,
       "deaths": 3,
       "confirmed_new": 0,
       "deaths_new": 0,

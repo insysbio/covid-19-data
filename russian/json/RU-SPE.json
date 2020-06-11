@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "Saint Petersburg",
   "Country.Region": "Russia",
-  "Lat": 59.9386,
-  "Long": 30.3141,
+  "Lat": 59.9607,
+  "Long": 30.1587,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -1055,6 +1055,86 @@
       "deaths": 204,
       "confirmed_new": 369,
       "deaths_new": 13,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-01",
+      "confirmed": 16313,
+      "deaths": 213,
+      "confirmed_new": 364,
+      "deaths_new": 9,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-02",
+      "confirmed": 16689,
+      "deaths": 223,
+      "confirmed_new": 376,
+      "deaths_new": 10,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-03",
+      "confirmed": 17069,
+      "deaths": 240,
+      "confirmed_new": 380,
+      "deaths_new": 17,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-04",
+      "confirmed": 17444,
+      "deaths": 264,
+      "confirmed_new": 375,
+      "deaths_new": 24,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-05",
+      "confirmed": 17822,
+      "deaths": 291,
+      "confirmed_new": 378,
+      "deaths_new": 27,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-06",
+      "confirmed": 18169,
+      "deaths": 346,
+      "confirmed_new": 347,
+      "deaths_new": 55,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-07",
+      "confirmed": 18509,
+      "deaths": 377,
+      "confirmed_new": 340,
+      "deaths_new": 31,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-08",
+      "confirmed": 18835,
+      "deaths": 392,
+      "confirmed_new": 326,
+      "deaths_new": 15,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-09",
+      "confirmed": 19153,
+      "deaths": 433,
+      "confirmed_new": 318,
+      "deaths_new": 41,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-10",
+      "confirmed": 19466,
+      "deaths": 482,
+      "confirmed_new": 313,
+      "deaths_new": 49,
       "hasErrors": false
     }
   ],

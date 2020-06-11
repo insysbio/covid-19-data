@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "Republic of Crimea",
   "Country.Region": "Russia",
-  "Lat": 45,
-  "Long": 34,
+  "Lat": 45.2835,
+  "Long": 34.2008,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -1054,6 +1054,86 @@
       "confirmed": 375,
       "deaths": 3,
       "confirmed_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-01",
+      "confirmed": 385,
+      "deaths": 3,
+      "confirmed_new": 10,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-02",
+      "confirmed": 387,
+      "deaths": 3,
+      "confirmed_new": 2,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-03",
+      "confirmed": 392,
+      "deaths": 4,
+      "confirmed_new": 5,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-04",
+      "confirmed": 399,
+      "deaths": 5,
+      "confirmed_new": 7,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-05",
+      "confirmed": 405,
+      "deaths": 5,
+      "confirmed_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-06",
+      "confirmed": 413,
+      "deaths": 5,
+      "confirmed_new": 8,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-07",
+      "confirmed": 424,
+      "deaths": 5,
+      "confirmed_new": 11,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-08",
+      "confirmed": 438,
+      "deaths": 5,
+      "confirmed_new": 14,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-09",
+      "confirmed": 446,
+      "deaths": 5,
+      "confirmed_new": 8,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-10",
+      "confirmed": 457,
+      "deaths": 5,
+      "confirmed_new": 11,
       "deaths_new": 0,
       "hasErrors": false
     }

@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "Moscow",
   "Country.Region": "Russia",
-  "Lat": 55.7522,
-  "Long": 37.6156,
+  "Lat": 55.7504,
+  "Long": 37.6175,
   "hasParent": true,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -1055,6 +1055,86 @@
       "deaths": 2477,
       "confirmed_new": 2595,
       "deaths_new": 69,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-01",
+      "confirmed": 183088,
+      "deaths": 2553,
+      "confirmed_new": 2297,
+      "deaths_new": 76,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-02",
+      "confirmed": 185374,
+      "deaths": 2624,
+      "confirmed_new": 2286,
+      "deaths_new": 71,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-03",
+      "confirmed": 187216,
+      "deaths": 2685,
+      "confirmed_new": 1842,
+      "deaths_new": 61,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-04",
+      "confirmed": 189214,
+      "deaths": 2749,
+      "confirmed_new": 1998,
+      "deaths_new": 64,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-05",
+      "confirmed": 191069,
+      "deaths": 2806,
+      "confirmed_new": 1855,
+      "deaths_new": 57,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-06",
+      "confirmed": 193061,
+      "deaths": 2864,
+      "confirmed_new": 1992,
+      "deaths_new": 58,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-07",
+      "confirmed": 195017,
+      "deaths": 2919,
+      "confirmed_new": 1956,
+      "deaths_new": 55,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-08",
+      "confirmed": 197018,
+      "deaths": 2970,
+      "confirmed_new": 2001,
+      "deaths_new": 51,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-09",
+      "confirmed": 198590,
+      "deaths": 3029,
+      "confirmed_new": 1572,
+      "deaths_new": 59,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-10",
+      "confirmed": 199785,
+      "deaths": 3085,
+      "confirmed_new": 1195,
+      "deaths_new": 56,
       "hasErrors": false
     }
   ],

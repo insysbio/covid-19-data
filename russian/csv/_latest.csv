@@ -1,86 +1,86 @@
 "Province.State","Country.Region","Lat","Long","confirmed","deaths","date","confirmed_new","deaths_new","hasErrors","hasParent","country_code","country_code3","territory_code","group"
-"Altay republic","Russia",50.7362,87.0155,122,0,2020-05-31,6,0,FALSE,TRUE,"RU","RUS",,
-"Altayskiy kray","Russia",52.1297,82.53,1848,12,2020-05-31,69,0,FALSE,TRUE,"RU","RUS","RU-ALT","RU-ALT"
-"Amursk oblast","Russia",53.4133,127.728,506,5,2020-05-31,20,0,FALSE,TRUE,"RU","RUS","RU-AMU","RU-AMU"
-"Arkhangelsk oblast","Russia",64,44,1933,5,2020-05-31,137,0,FALSE,TRUE,"RU","RUS","RU-ARK","RU-ARK"
-"Astrahan oblast","Russia",46.8515,47.4662,1752,15,2020-05-31,59,0,FALSE,TRUE,"RU","RUS","RU-AST","RU-AST"
-"Belgorod oblast","Russia",50.6107,36.5802,2310,19,2020-05-31,87,1,FALSE,TRUE,"RU","RUS","RU-BEL","RU-BEL"
-"Briansk oblast","Russia",53.2521,34.3717,3685,31,2020-05-31,107,0,FALSE,TRUE,"RU","RUS","RU-BRY","RU-BRY"
-"Chechen republic","Russia",43.2,45.7889,1227,13,2020-05-31,18,0,FALSE,TRUE,"RU","RUS","RU-CE","RU-CE"
-"Cheliabinsk oblast","Russia",55.154,61.4292,2795,16,2020-05-31,136,0,FALSE,TRUE,"RU","RUS","RU-CHE","RU-CHE"
-"Chukotskiy autonomous oblast","Russia",65.9826,174.432,80,1,2020-05-31,2,0,FALSE,TRUE,"RU","RUS",,
-"Habarovskiy kray","Russia",48.4827,135.084,2081,11,2020-05-31,63,0,FALSE,TRUE,"RU","RUS","RU-KHA","RU-KHA"
-"Hanty-Mansiyskiy AO","Russia",61.0042,69.0019,2436,18,2020-05-31,136,0,FALSE,TRUE,"RU","RUS","RU-KHM","RU-KHM"
-"Ingushetia republic","Russia",43.1036,45.0546,2083,50,2020-05-31,39,0,FALSE,TRUE,"RU","RUS","RU-IN","RU-IN"
-"Irkutsk oblast","Russia",57.1003,106.363,1750,11,2020-05-31,90,0,FALSE,TRUE,"RU","RUS","RU-IRK","RU-IRK"
-"Ivanovo oblast","Russia",56.9972,40.9714,1977,18,2020-05-31,77,0,FALSE,TRUE,"RU","RUS","RU-IVA","RU-IVA"
-"Jewish Autonomous oblast","Russia",48.5229,132.258,309,3,2020-05-31,10,0,FALSE,TRUE,"RU","RUS","RU-YEV","RU-YEV"
-"Kaliningrad oblast","Russia",54.7065,20.511,1508,24,2020-05-31,48,0,FALSE,TRUE,"RU","RUS","RU-KGD","RU-KGD"
-"Kaluga oblast","Russia",54.5293,36.2754,3923,31,2020-05-31,89,0,FALSE,TRUE,"RU","RUS","RU-KLU","RU-KLU"
-"Kamchatskiy kray","Russia",61.3502,169.783,849,8,2020-05-31,44,0,FALSE,TRUE,"RU","RUS","RU-KAM","RU-KAM"
-"Kemerovo oblast","Russia",55.3333,86.0833,520,7,2020-05-31,25,0,FALSE,TRUE,"RU","RUS","RU-KEM","RU-KEM"
-"Kirov oblast","Russia",58.5966,49.6601,1683,17,2020-05-31,54,2,FALSE,TRUE,"RU","RUS","RU-KIR","RU-KIR"
-"Komi republic","Russia",64,54,1322,24,2020-05-31,29,1,FALSE,TRUE,"RU","RUS","RU-KO","RU-KO"
-"Kostroma oblast","Russia",58.456,43.7885,758,10,2020-05-31,39,0,FALSE,TRUE,"RU","RUS","RU-KOS","RU-KOS"
-"Krasnodarskiy kray","Russia",44.9881,38.9768,3824,32,2020-05-31,80,1,FALSE,TRUE,"RU","RUS","RU-KDA","RU-KDA"
-"Krasnoyarskiy kray","Russia",58,93,4249,39,2020-05-31,128,0,FALSE,TRUE,"RU","RUS","RU-KYA","RU-KYA"
-"Kurgan oblast","Russia",55.45,65.3333,231,0,2020-05-31,13,0,FALSE,TRUE,"RU","RUS","RU-KGN","RU-KGN"
-"Kursk oblast","Russia",51.535,36.1213,3000,13,2020-05-31,78,3,FALSE,TRUE,"RU","RUS","RU-KRS","RU-KRS"
-"Leningradskaya oblast","Russia",60,32,2822,11,2020-05-31,54,0,FALSE,TRUE,"RU","RUS","RU-LEN","RU-LEN"
-"Lipetsk oblast","Russia",52.6031,39.5708,2123,6,2020-05-31,75,1,FALSE,TRUE,"RU","RUS","RU-LIP","RU-LIP"
-"Magadan oblast","Russia",62.5758,154.037,243,3,2020-05-31,5,0,FALSE,TRUE,"RU","RUS","RU-MAG","RU-MAG"
-"Moscow","Russia",55.7522,37.6156,180791,2477,2020-05-31,2595,69,FALSE,TRUE,"RU","RUS","RU-MOW","RU-MOW"
-"Moscow oblast","Russia",55.8136,36.7163,38995,449,2020-05-31,757,25,FALSE,TRUE,"RU","RUS","RU-MOS","RU-MOS"
-"Murmansk oblast","Russia",68.9792,33.0925,3222,7,2020-05-31,41,0,FALSE,TRUE,"RU","RUS","RU-MUR","RU-MUR"
-"Nenetskiy autonomous oblast","Russia",67.7142,54.3651,72,0,2020-05-31,1,0,FALSE,TRUE,"RU","RUS",,
-"Nizhegorodskaya oblast","Russia",56.3287,44.002,9834,98,2020-05-31,301,5,FALSE,TRUE,"RU","RUS","RU-NIZ","RU-NIZ"
-"Novgorod oblast","Russia",56.3287,44.002,1281,8,2020-05-31,51,0,FALSE,TRUE,"RU","RUS","RU-NGR","RU-NGR"
-"Novosibirsk oblast","Russia",55.0415,82.9346,2809,32,2020-05-31,104,0,FALSE,TRUE,"RU","RUS","RU-NVS","RU-NVS"
-"Omsk oblast","Russia",56.1035,73.3444,1387,18,2020-05-31,69,0,FALSE,TRUE,"RU","RUS","RU-OMS","RU-OMS"
-"Orel oblast","Russia",52.9651,36.0785,2300,25,2020-05-31,75,1,FALSE,TRUE,"RU","RUS","RU-ORL","RU-ORL"
-"Orenburg oblast","Russia",51.7727,55.0988,1925,6,2020-05-31,54,0,FALSE,TRUE,"RU","RUS","RU-ORE","RU-ORE"
-"Pensa oblast","Russia",53.2007,45.0046,2332,19,2020-05-31,87,0,FALSE,TRUE,"RU","RUS","RU-PNZ","RU-PNZ"
-"Perm oblast","Russia",58.0105,56.2502,1713,20,2020-05-31,57,0,FALSE,TRUE,"RU","RUS","RU-PER","RU-PER"
-"Primorskiy kray","Russia",45,135,1995,19,2020-05-31,52,0,FALSE,TRUE,"RU","RUS","RU-PRI","RU-PRI"
-"Pskov oblast","Russia",57.8136,28.3496,824,10,2020-05-31,59,0,FALSE,TRUE,"RU","RUS","RU-PSK","RU-PSK"
-"Republic of Adygeia","Russia",44.4299,40.253,854,9,2020-05-31,41,0,FALSE,TRUE,"RU","RUS","RU-AD","RU-AD"
-"Republic of Bashkortostan","Russia",54,56,3260,18,2020-05-31,75,0,FALSE,TRUE,"RU","RUS","RU-BA","RU-BA"
-"Republic of Buriatia","Russia",54.54,112.349,1467,10,2020-05-31,29,0,FALSE,TRUE,"RU","RUS","RU-BU","RU-BU"
-"Republic of Chuvashia","Russia",56.1322,47.2519,2885,14,2020-05-31,87,0,FALSE,TRUE,"RU","RUS","RU-CU","RU-CU"
-"Republic of Crimea","Russia",45,34,375,3,2020-05-31,6,0,FALSE,TRUE,"RU","RUS","XX-CR","XX-CR"
-"Republic of Dagestan","Russia",42.26,47.0957,4955,235,2020-05-31,125,9,FALSE,TRUE,"RU","RUS","RU-DA","RU-DA"
-"Republic of Hakassia","Russia",53.7156,91.4292,964,10,2020-05-31,24,0,FALSE,TRUE,"RU","RUS","RU-KK","RU-KK"
-"Republic of Kabardino-Balkaria","Russia",43.355,42.4392,2827,17,2020-05-31,77,1,FALSE,TRUE,"RU","RUS","RU-KB","RU-KB"
-"Republic of Kalmykia","Russia",46.414,45.3257,1054,15,2020-05-31,35,1,FALSE,TRUE,"RU","RUS","RU-KL","RU-KL"
-"Republic of Karachaevo-Cherkessia","Russia",43.7709,41.7539,1067,5,2020-05-31,62,0,FALSE,TRUE,"RU","RUS","RU-KC","RU-KC"
-"Republic of Karelia","Russia",63.6213,33.2326,430,1,2020-05-31,23,0,FALSE,TRUE,"RU","RUS","RU-KR","RU-KR"
-"Republic of Mariy El","Russia",56.4857,48.1979,1774,13,2020-05-31,41,0,FALSE,TRUE,"RU","RUS","RU-ME","RU-ME"
-"Republic of Mordovia","Russia",54.2,44.3197,1895,12,2020-05-31,35,0,FALSE,TRUE,"RU","RUS","RU-MO","RU-MO"
-"Republic of North Osetia - Alania","Russia",43.0927,44.262,2957,46,2020-05-31,50,0,FALSE,TRUE,"RU","RUS","RU-SE","RU-SE"
-"Republic of Tatarstan","Russia",55.3333,51,3194,10,2020-05-31,52,0,FALSE,TRUE,"RU","RUS","RU-TA","RU-TA"
-"Republic of Tyva","Russia",51.5843,94.7931,1055,2,2020-05-31,58,0,FALSE,TRUE,"RU","RUS","RU-TY","RU-TY"
-"Republic of Udmurtia","Russia",57,53,652,12,2020-05-31,23,0,FALSE,TRUE,"RU","RUS","RU-UD","RU-UD"
-"Rostov oblast","Russia",47.2314,39.7233,4758,38,2020-05-31,178,0,FALSE,TRUE,"RU","RUS","RU-ROS","RU-ROS"
-"Ryazan oblast","Russia",54.6269,39.6916,3508,7,2020-05-31,76,0,FALSE,TRUE,"RU","RUS","RU-RYA","RU-RYA"
-"Saha republic","Russia",62.3016,32.6854,1930,8,2020-05-31,111,0,FALSE,TRUE,"RU","RUS","RU-SA","RU-SA"
-"Saint Petersburg","Russia",59.9386,30.3141,15949,204,2020-05-31,369,13,FALSE,TRUE,"RU","RUS","RU-SPE","RU-SPE"
-"Sakhalin oblast","Russia",50.1509,142.751,115,0,2020-05-31,14,0,FALSE,TRUE,"RU","RUS","RU-SAK","RU-SAK"
-"Samara oblast","Russia",53.2001,50.15,2612,20,2020-05-31,85,0,FALSE,TRUE,"RU","RUS","RU-SAM","RU-SAM"
-"Saratov oblast","Russia",51.5406,46.0086,3078,34,2020-05-31,142,0,FALSE,TRUE,"RU","RUS","RU-SAR","RU-SAR"
-"Sevastopol","Russia",44.6166,33.5254,161,3,2020-05-31,0,0,FALSE,TRUE,"RU","RUS","XX-SV","XX-SV"
-"Smolensk oblast","Russia",54.9562,32.9985,2207,36,2020-05-31,88,2,FALSE,TRUE,"RU","RUS","RU-SMO","RU-SMO"
-"Stavropolskiy kray","Russia",45,44,2485,46,2020-05-31,81,0,FALSE,TRUE,"RU","RUS","RU-STA","RU-STA"
-"Sverdlov oblast","Russia",43.25,71.75,5449,27,2020-05-31,265,1,FALSE,TRUE,"RU","RUS","RU-SVE","RU-SVE"
-"Tambov oblast","Russia",52.7317,41.4433,2983,7,2020-05-31,67,0,FALSE,TRUE,"RU","RUS","RU-TAM","RU-TAM"
-"Tomsk oblast","Russia",56.4977,84.9744,688,11,2020-05-31,21,0,FALSE,TRUE,"RU","RUS","RU-TOM","RU-TOM"
-"Tula oblast","Russia",54.1961,37.6182,3855,36,2020-05-31,104,0,FALSE,TRUE,"RU","RUS","RU-TUL","RU-TUL"
-"Tumen oblast","Russia",57.1522,65.5272,1638,8,2020-05-31,30,0,FALSE,TRUE,"RU","RUS","RU-TYU","RU-TYU"
-"Tver oblast","Russia",56.8584,35.9006,1604,22,2020-05-31,44,0,FALSE,TRUE,"RU","RUS","RU-TVE","RU-TVE"
-"Ulianovsk oblast","Russia",54.3282,48.3866,2466,8,2020-05-31,97,0,FALSE,TRUE,"RU","RUS","RU-ULY","RU-ULY"
-"Vladimir oblast","Russia",55.9042,40.8989,2676,21,2020-05-31,59,0,FALSE,TRUE,"RU","RUS","RU-VLA","RU-VLA"
-"Volgograd oblast","Russia",48.7194,44.5018,3026,19,2020-05-31,158,1,FALSE,TRUE,"RU","RUS","RU-VGG","RU-VGG"
-"Vologda oblast","Russia",59.5356,38.8178,929,7,2020-05-31,47,0,FALSE,TRUE,"RU","RUS","RU-VLG","RU-VLG"
-"Voronezh oblast","Russia",51.672,39.1843,2028,15,2020-05-31,82,0,FALSE,TRUE,"RU","RUS","RU-VOR","RU-VOR"
-"Yamalo-Nenetskiy AO","Russia",66.0864,80.0054,2375,9,2020-05-31,65,0,FALSE,TRUE,"RU","RUS","RU-YAN","RU-YAN"
-"Yaroslavl oblast","Russia",57.6299,39.8737,3132,14,2020-05-31,77,0,FALSE,TRUE,"RU","RUS","RU-YAR","RU-YAR"
-"Zabaykalskiy kray","Russia",52,117,1097,20,2020-05-31,45,1,FALSE,TRUE,"RU","RUS","RU-ZAB","RU-ZAB"
+"Adygea Republic","Russia",44.6939,40.152,1158,12,2020-06-10,43,2,FALSE,TRUE,"RU","RUS",,
+"Altai Krai","Russia",52.6932,82.6931,2524,16,2020-06-10,66,1,FALSE,TRUE,"RU","RUS",,
+"Altai Republic","Russia",50.7114,86.8572,204,0,2020-06-10,14,0,FALSE,TRUE,"RU","RUS",,
+"Amur Oblast","Russia",52.8032,128.437,835,5,2020-06-10,39,0,FALSE,TRUE,"RU","RUS",,
+"Arkhangelsk Oblast","Russia",63.559,43.1222,3217,13,2020-06-10,132,3,FALSE,TRUE,"RU","RUS",,
+"Astrakhan Oblast","Russia",47.1878,47.6089,2501,23,2020-06-10,81,1,FALSE,TRUE,"RU","RUS",,
+"Bashkortostan Republic","Russia",54.8574,57.144,4194,18,2020-06-10,81,0,FALSE,TRUE,"RU","RUS",,
+"Belgorod Oblast","Russia",50.708,37.5838,3061,32,2020-06-10,73,4,FALSE,TRUE,"RU","RUS",,
+"Bryansk Oblast","Russia",52.8873,33.4159,4641,31,2020-06-10,90,0,FALSE,TRUE,"RU","RUS",,
+"Buryatia Republic","Russia",52.7182,109.492,1956,11,2020-06-10,79,0,FALSE,TRUE,"RU","RUS",,
+"Chechen Republic","Russia",43.3976,45.6985,1400,16,2020-06-10,16,0,FALSE,TRUE,"RU","RUS",,
+"Chelyabinsk Oblast","Russia",54.4224,61.1866,4015,37,2020-06-10,135,4,FALSE,TRUE,"RU","RUS",,
+"Chukotka Autonomous Okrug","Russia",66.0006,169.49,112,1,2020-06-10,2,0,FALSE,TRUE,"RU","RUS",,
+"Chuvashia Republic","Russia",55.426,47.0849,3725,18,2020-06-10,79,0,FALSE,TRUE,"RU","RUS",,
+"Dagestan Republic","Russia",43.0575,47.1332,6175,309,2020-06-10,98,0,FALSE,TRUE,"RU","RUS",,
+"Ingushetia Republic","Russia",43.1154,45.0171,2438,62,2020-06-10,39,0,FALSE,TRUE,"RU","RUS",,
+"Irkutsk Oblast","Russia",56.637,104.719,3265,20,2020-06-10,182,2,FALSE,TRUE,"RU","RUS",,
+"Ivanovo Oblast","Russia",56.9167,41.4352,3031,25,2020-06-10,101,0,FALSE,TRUE,"RU","RUS",,
+"Jewish Autonomous Okrug","Russia",48.5753,132.663,356,4,2020-06-10,6,0,FALSE,TRUE,"RU","RUS",,
+"Kabardino-Balkarian Republic","Russia",43.4806,43.5979,3576,34,2020-06-10,77,1,FALSE,TRUE,"RU","RUS",,
+"Kaliningrad Oblast","Russia",54.7293,21.1489,1904,29,2020-06-10,46,4,FALSE,TRUE,"RU","RUS",,
+"Kalmykia Republic","Russia",46.2313,45.3276,1203,16,2020-06-10,23,0,FALSE,TRUE,"RU","RUS",,
+"Kaluga Oblast","Russia",54.4383,35.5273,4761,36,2020-06-10,70,0,FALSE,TRUE,"RU","RUS",,
+"Kamchatka Krai","Russia",57.1915,160.038,1255,10,2020-06-10,41,0,FALSE,TRUE,"RU","RUS",,
+"Karachay-Cherkess Republic","Russia",43.7368,41.7268,1807,9,2020-06-10,78,0,FALSE,TRUE,"RU","RUS",,
+"Karelia Republic","Russia",62.6194,33.492,676,2,2020-06-10,20,0,FALSE,TRUE,"RU","RUS",,
+"Kemerovo Oblast","Russia",54.5336,87.3429,834,7,2020-06-10,48,0,FALSE,TRUE,"RU","RUS",,
+"Khabarovsk Krai","Russia",51.6313,136.122,2733,18,2020-06-10,72,0,FALSE,TRUE,"RU","RUS",,
+"Khakassia Republic","Russia",53.7226,91.4429,1191,10,2020-06-10,26,0,FALSE,TRUE,"RU","RUS",,
+"Khanty-Mansi Autonomous Okrug","Russia",61.0259,69.0983,3821,23,2020-06-10,197,2,FALSE,TRUE,"RU","RUS",,
+"Kirov Oblast","Russia",57.9666,49.4075,2360,22,2020-06-10,60,2,FALSE,TRUE,"RU","RUS",,
+"Komi Republic","Russia",63.9881,54.3326,1693,27,2020-06-10,67,0,FALSE,TRUE,"RU","RUS",,
+"Kostroma Oblast","Russia",58.4248,44.2533,977,12,2020-06-10,24,0,FALSE,TRUE,"RU","RUS",,
+"Krasnodar Krai","Russia",45.7684,39.0261,4655,47,2020-06-10,81,1,FALSE,TRUE,"RU","RUS",,
+"Krasnoyarsk Krai","Russia",63.3234,97.098,5791,53,2020-06-10,174,3,FALSE,TRUE,"RU","RUS",,
+"Kurgan Oblast","Russia",55.7655,64.5633,330,0,2020-06-10,16,0,FALSE,TRUE,"RU","RUS",,
+"Kursk Oblast","Russia",51.6568,36.4853,3690,19,2020-06-10,71,2,FALSE,TRUE,"RU","RUS",,
+"Leningrad Oblast","Russia",60.1853,32.3925,3342,23,2020-06-10,55,4,FALSE,TRUE,"RU","RUS",,
+"Lipetsk Oblast","Russia",52.6935,39.1123,2758,8,2020-06-10,61,0,FALSE,TRUE,"RU","RUS",,
+"Magadan Oblast","Russia",62.4886,153.99,359,4,2020-06-10,11,0,FALSE,TRUE,"RU","RUS",,
+"Mari El Republic","Russia",56.5768,47.8818,2193,16,2020-06-10,42,0,FALSE,TRUE,"RU","RUS",,
+"Mordovia Republic","Russia",54.442,44.4661,2360,18,2020-06-10,64,0,FALSE,TRUE,"RU","RUS",,
+"Moscow","Russia",55.7504,37.6175,199785,3085,2020-06-10,1195,56,FALSE,TRUE,"RU","RUS","RU-MOW","RU-MOW"
+"Moscow Oblast","Russia",55.5043,38.0354,46457,622,2020-06-10,735,32,FALSE,TRUE,"RU","RUS",,
+"Murmansk Oblast","Russia",68,33.9999,3700,7,2020-06-10,26,0,FALSE,TRUE,"RU","RUS",,
+"Nenets Autonomous Okrug","Russia",68.2756,57.1686,80,0,2020-06-10,0,0,FALSE,TRUE,"RU","RUS",,
+"Nizhny Novgorod Oblast","Russia",55.4718,44.0912,13038,150,2020-06-10,304,5,FALSE,TRUE,"RU","RUS",,
+"North Ossetia - Alania Republic","Russia",42.7934,44.6324,3403,57,2020-06-10,39,0,FALSE,TRUE,"RU","RUS",,
+"Novgorod Oblast","Russia",58.2844,32.517,1823,11,2020-06-10,44,0,FALSE,TRUE,"RU","RUS",,
+"Novosibirsk Oblast","Russia",54.972,79.4814,3858,46,2020-06-10,106,2,FALSE,TRUE,"RU","RUS",,
+"Omsk Oblast","Russia",56.0935,73.51,1930,18,2020-06-10,79,0,FALSE,TRUE,"RU","RUS",,
+"Orel Oblast","Russia",52.9685,36.0692,3181,35,2020-06-10,89,3,FALSE,TRUE,"RU","RUS",,
+"Orenburg Oblast","Russia",52.0269,54.7277,2521,10,2020-06-10,60,2,FALSE,TRUE,"RU","RUS",,
+"Penza Oblast","Russia",53.1655,44.7879,3317,28,2020-06-10,126,0,FALSE,TRUE,"RU","RUS",,
+"Perm Krai","Russia",58.5952,56.316,2360,30,2020-06-10,93,2,FALSE,TRUE,"RU","RUS",,
+"Primorsky Krai","Russia",45.0819,134.727,2552,25,2020-06-10,52,1,FALSE,TRUE,"RU","RUS",,
+"Pskov Oblast","Russia",57.5359,28.8587,1366,12,2020-06-10,60,0,FALSE,TRUE,"RU","RUS",,
+"Republic of Crimea","Russia",45.2835,34.2008,457,5,2020-06-10,11,0,FALSE,TRUE,"RU","RUS","XX-CR","XX-CR"
+"Rostov Oblast","Russia",47.6222,40.7958,6734,54,2020-06-10,192,3,FALSE,TRUE,"RU","RUS",,
+"Ryazan Oblast","Russia",54.4227,40.5705,4228,10,2020-06-10,64,0,FALSE,TRUE,"RU","RUS",,
+"Saint Petersburg","Russia",59.9607,30.1587,19466,482,2020-06-10,313,49,FALSE,TRUE,"RU","RUS","RU-SPE","RU-SPE"
+"Sakha (Yakutiya) Republic","Russia",66.9416,129.642,2753,19,2020-06-10,67,4,FALSE,TRUE,"RU","RUS",,
+"Sakhalin Oblast","Russia",49.722,143.449,250,0,2020-06-10,34,0,FALSE,TRUE,"RU","RUS",,
+"Samara Oblast","Russia",53.2129,50.8915,3359,34,2020-06-10,113,2,FALSE,TRUE,"RU","RUS",,
+"Saratov Oblast","Russia",51.6521,46.8632,4132,37,2020-06-10,117,0,FALSE,TRUE,"RU","RUS",,
+"Sevastopol","Russia",44.6054,33.522,177,3,2020-06-10,0,0,FALSE,TRUE,"RU","RUS","XX-SV","XX-SV"
+"Smolensk Oblast","Russia",55.0343,33.0192,3432,44,2020-06-10,132,0,FALSE,TRUE,"RU","RUS",,
+"Stavropol Krai","Russia",44.8633,43.4407,3338,65,2020-06-10,85,2,FALSE,TRUE,"RU","RUS",,
+"Sverdlovsk Oblast","Russia",58.6415,61.8022,8194,48,2020-06-10,284,2,FALSE,TRUE,"RU","RUS",,
+"Tambov Oblast","Russia",52.902,41.3579,3636,8,2020-06-10,67,0,FALSE,TRUE,"RU","RUS",,
+"Tatarstan Republic","Russia",55.7649,52.431,3720,10,2020-06-10,55,0,FALSE,TRUE,"RU","RUS",,
+"Tomsk Oblast","Russia",58.6124,82.0475,1066,11,2020-06-10,48,0,FALSE,TRUE,"RU","RUS",,
+"Tula Oblast","Russia",53.9571,37.3691,4946,51,2020-06-10,103,0,FALSE,TRUE,"RU","RUS",,
+"Tver Oblast","Russia",57.1134,35.1744,2314,49,2020-06-10,83,5,FALSE,TRUE,"RU","RUS",,
+"Tyumen Oblast","Russia",58.8206,70.3659,2013,12,2020-06-10,32,0,FALSE,TRUE,"RU","RUS",,
+"Tyva Republic","Russia",51.4017,93.8583,1914,2,2020-06-10,79,0,FALSE,TRUE,"RU","RUS",,
+"Udmurt Republic","Russia",57.1961,52.696,1011,12,2020-06-10,24,0,FALSE,TRUE,"RU","RUS",,
+"Ulyanovsk Oblast","Russia",54.1463,47.2325,3450,18,2020-06-10,91,2,FALSE,TRUE,"RU","RUS",,
+"Vladimir Oblast","Russia",56.0503,40.6562,3260,38,2020-06-10,55,4,FALSE,TRUE,"RU","RUS",,
+"Volgograd Oblast","Russia",49.6048,44.2904,4238,24,2020-06-10,116,0,FALSE,TRUE,"RU","RUS",,
+"Vologda Oblast","Russia",60.0391,43.1215,1159,13,2020-06-10,22,2,FALSE,TRUE,"RU","RUS",,
+"Voronezh Oblast","Russia",50.98,40.1507,3527,17,2020-06-10,242,1,FALSE,TRUE,"RU","RUS",,
+"Yamalo-Nenets Autonomous Okrug","Russia",67.1472,74.3415,2887,13,2020-06-10,54,0,FALSE,TRUE,"RU","RUS",,
+"Yaroslavl Oblast","Russia",57.7782,39.0021,3844,15,2020-06-10,63,0,FALSE,TRUE,"RU","RUS",,
+"Zabaykalsky Krai","Russia",52.2485,115.956,1704,32,2020-06-10,70,1,FALSE,TRUE,"RU","RUS",,
