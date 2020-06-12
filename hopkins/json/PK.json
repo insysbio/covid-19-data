@@ -1411,12 +1411,22 @@
     },
     {
       "date": "2020-06-10",
-      "confirmed": 113702,
+      "confirmed": 119536,
       "recovered": 36308,
-      "deaths": 2255,
-      "confirmed_new": 0,
+      "deaths": 2356,
+      "confirmed_new": 5834,
       "recovered_new": 0,
-      "deaths_new": 0,
+      "deaths_new": 101,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-11",
+      "confirmed": 125933,
+      "recovered": 40247,
+      "deaths": 2463,
+      "confirmed_new": 6397,
+      "recovered_new": 3939,
+      "deaths_new": 107,
       "hasErrors": false
     }
   ]
