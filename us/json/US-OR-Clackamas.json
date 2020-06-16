@@ -1164,10 +1164,18 @@
     },
     {
       "date": "2020-06-14",
-      "confirmed": 455,
+      "confirmed": 482,
       "deaths": 14,
-      "confirmed_new": 0,
+      "confirmed_new": 27,
       "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-15",
+      "confirmed": 488,
+      "deaths": 18,
+      "confirmed_new": 6,
+      "deaths_new": 4,
       "hasErrors": false
     }
   ],
