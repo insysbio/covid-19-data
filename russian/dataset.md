@@ -1,7 +1,7 @@
 # Russian dataset
-*The build date: 2020-06-18.*
+*The build date: 2020-06-19.*
 
-*The latest date in dataset: 2020-06-17.*
+*The latest date in dataset: 2020-06-18.*
 
 ## Full dataset
 
