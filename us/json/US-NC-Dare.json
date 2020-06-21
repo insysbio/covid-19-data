@@ -1197,15 +1197,23 @@
     {
       "date": "2020-06-18",
       "confirmed": 27,
-      "deaths": 3,
+      "deaths": 1,
       "confirmed_new": 0,
-      "deaths_new": 2,
+      "deaths_new": 0,
       "hasErrors": false
     },
     {
       "date": "2020-06-19",
       "confirmed": 27,
-      "deaths": 3,
+      "deaths": 1,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-20",
+      "confirmed": 27,
+      "deaths": 1,
       "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
