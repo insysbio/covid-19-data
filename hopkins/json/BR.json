@@ -1511,10 +1511,10 @@
     },
     {
       "date": "2020-06-20",
-      "confirmed": 1032913,
+      "confirmed": 1067579,
       "recovered": 576779,
       "deaths": 49976,
-      "confirmed_new": 0,
+      "confirmed_new": 34666,
       "recovered_new": 25148,
       "deaths_new": 1022,
       "hasErrors": false
@@ -1524,9 +1524,19 @@
       "confirmed": 1083341,
       "recovered": 588118,
       "deaths": 50591,
-      "confirmed_new": 50428,
+      "confirmed_new": 15762,
       "recovered_new": 11339,
       "deaths_new": 615,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-22",
+      "confirmed": 1106470,
+      "recovered": 601736,
+      "deaths": 51271,
+      "confirmed_new": 23129,
+      "recovered_new": 13618,
+      "deaths_new": 680,
       "hasErrors": false
     }
   ]
