@@ -1212,17 +1212,17 @@
     },
     {
       "date": "2020-06-20",
-      "confirmed": 85,
+      "confirmed": 87,
       "deaths": 0,
-      "confirmed_new": 0,
+      "confirmed_new": 2,
       "deaths_new": 0,
       "hasErrors": false
     },
     {
       "date": "2020-06-21",
-      "confirmed": 85,
+      "confirmed": 90,
       "deaths": 0,
-      "confirmed_new": 0,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     },
@@ -1230,7 +1230,15 @@
       "date": "2020-06-22",
       "confirmed": 91,
       "deaths": 0,
-      "confirmed_new": 6,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-06-23",
+      "confirmed": 92,
+      "deaths": 0,
+      "confirmed_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }
