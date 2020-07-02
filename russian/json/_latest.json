@@ -11,11 +11,11 @@
     "group": "RU-MOW",
     "timeseries": [
       {
-        "date": "2020-06-29",
-        "confirmed": 220853,
-        "deaths": 3761,
-        "confirmed_new": 782,
-        "deaths_new": 23,
+        "date": "2020-06-30",
+        "confirmed": 221598,
+        "deaths": 3796,
+        "confirmed_new": 745,
+        "deaths_new": 35,
         "hasErrors": false
       }
     ],
@@ -33,11 +33,11 @@
     "group": "RU-SPE",
     "timeseries": [
       {
-        "date": "2020-06-29",
-        "confirmed": 23954,
-        "deaths": 1105,
-        "confirmed_new": 219,
-        "deaths_new": 19,
+        "date": "2020-06-30",
+        "confirmed": 24207,
+        "deaths": 1136,
+        "confirmed_new": 253,
+        "deaths_new": 31,
         "hasErrors": false
       }
     ],
@@ -55,11 +55,11 @@
     "group": "XX-CR",
     "timeseries": [
       {
-        "date": "2020-06-29",
-        "confirmed": 681,
+        "date": "2020-06-30",
+        "confirmed": 685,
         "deaths": 10,
-        "confirmed_new": 35,
-        "deaths_new": 1,
+        "confirmed_new": 4,
+        "deaths_new": 0,
         "hasErrors": false
       }
     ],
@@ -77,10 +77,10 @@
     "group": "XX-SV",
     "timeseries": [
       {
-        "date": "2020-06-29",
-        "confirmed": 229,
+        "date": "2020-06-30",
+        "confirmed": 235,
         "deaths": 4,
-        "confirmed_new": 1,
+        "confirmed_new": 6,
         "deaths_new": 0,
         "hasErrors": false
       }

@@ -1781,6 +1781,17 @@
       "date": "2020-06-30",
       "deaths": 2,
       "hasErrors": true
+    },
+    {
+      "date": "2020-07-01",
+      "confirmed": 42,
+      "recovered": 11,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-07-01",
+      "deaths": 2,
+      "hasErrors": true
     }
   ],
   "territory_code": "TC"

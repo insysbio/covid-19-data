@@ -1276,25 +1276,33 @@
     },
     {
       "date": "2020-06-28",
-      "confirmed": 348,
+      "confirmed": 351,
       "deaths": 2,
-      "confirmed_new": 0,
+      "confirmed_new": 3,
       "deaths_new": 0,
       "hasErrors": false
     },
     {
       "date": "2020-06-29",
-      "confirmed": 348,
+      "confirmed": 368,
       "deaths": 2,
-      "confirmed_new": 0,
+      "confirmed_new": 17,
       "deaths_new": 0,
       "hasErrors": false
     },
     {
       "date": "2020-06-30",
-      "confirmed": 348,
+      "confirmed": 398,
       "deaths": 2,
-      "confirmed_new": 0,
+      "confirmed_new": 30,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-01",
+      "confirmed": 427,
+      "deaths": 2,
+      "confirmed_new": 29,
       "deaths_new": 0,
       "hasErrors": false
     }

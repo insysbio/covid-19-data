@@ -1292,7 +1292,15 @@
     },
     {
       "date": "2020-06-30",
-      "confirmed": 57,
+      "confirmed": 58,
+      "deaths": 9,
+      "confirmed_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-01",
+      "confirmed": 58,
       "deaths": 9,
       "confirmed_new": 0,
       "deaths_new": 0,
