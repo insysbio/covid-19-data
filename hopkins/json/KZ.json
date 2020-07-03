@@ -1621,11 +1621,21 @@
     },
     {
       "date": "2020-07-01",
-      "confirmed": 42574,
-      "recovered": 25319,
+      "confirmed": 41065,
+      "recovered": 14059,
       "deaths": 188,
-      "confirmed_new": 20266,
-      "recovered_new": 11761,
+      "confirmed_new": 18757,
+      "recovered_new": 501,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-02",
+      "confirmed": 42574,
+      "recovered": 14777,
+      "deaths": 188,
+      "confirmed_new": 1509,
+      "recovered_new": 718,
       "deaths_new": 0,
       "hasErrors": false
     }
