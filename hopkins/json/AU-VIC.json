@@ -1638,6 +1638,26 @@
       "recovered_new": 38,
       "deaths_new": 0,
       "hasErrors": false
+    },
+    {
+      "date": "2020-07-03",
+      "confirmed": 2368,
+      "recovered": 1904,
+      "deaths": 20,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-04",
+      "confirmed": 2536,
+      "recovered": 1971,
+      "deaths": 20,
+      "confirmed_new": 168,
+      "recovered_new": 67,
+      "deaths_new": 0,
+      "hasErrors": false
     }
   ],
   "territory_code": "AU-VIC"

@@ -1638,6 +1638,26 @@
       "recovered_new": 16,
       "deaths_new": 1,
       "hasErrors": false
+    },
+    {
+      "date": "2020-07-03",
+      "confirmed": 1082,
+      "recovered": 963,
+      "deaths": 68,
+      "confirmed_new": 1,
+      "recovered_new": 4,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-04",
+      "confirmed": 1082,
+      "recovered": 963,
+      "deaths": 68,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
     }
   ]
 }

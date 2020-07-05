@@ -1313,6 +1313,22 @@
       "confirmed_new": 14,
       "deaths_new": 1,
       "hasErrors": false
+    },
+    {
+      "date": "2020-07-03",
+      "confirmed": 2248,
+      "deaths": 30,
+      "confirmed_new": 21,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-04",
+      "confirmed": 2262,
+      "deaths": 29,
+      "confirmed_new": 14,
+      "deaths_new": -1,
+      "hasErrors": false
     }
   ],
   "territory_code": "US-VA"

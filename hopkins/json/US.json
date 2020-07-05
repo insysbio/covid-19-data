@@ -1631,12 +1631,32 @@
     },
     {
       "date": "2020-07-02",
-      "confirmed": 2741180,
+      "confirmed": 2742049,
       "recovered": 781970,
-      "deaths": 128740,
-      "confirmed_new": 53592,
+      "deaths": 128803,
+      "confirmed_new": 54461,
       "recovered_new": 51976,
-      "deaths_new": 635,
+      "deaths_new": 698,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-03",
+      "confirmed": 2794153,
+      "recovered": 790404,
+      "deaths": 129434,
+      "confirmed_new": 52104,
+      "recovered_new": 8434,
+      "deaths_new": 631,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-04",
+      "confirmed": 2839436,
+      "recovered": 894325,
+      "deaths": 129676,
+      "confirmed_new": 45283,
+      "recovered_new": 103921,
+      "deaths_new": 242,
       "hasErrors": false
     }
   ]

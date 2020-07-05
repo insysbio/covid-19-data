@@ -1638,6 +1638,26 @@
       "recovered_new": 2,
       "deaths_new": 0,
       "hasErrors": false
+    },
+    {
+      "date": "2020-07-03",
+      "confirmed": 3405,
+      "recovered": 2977,
+      "deaths": 49,
+      "confirmed_new": 194,
+      "recovered_new": 188,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-04",
+      "confirmed": 3419,
+      "recovered": 2988,
+      "deaths": 49,
+      "confirmed_new": 14,
+      "recovered_new": 11,
+      "deaths_new": 0,
+      "hasErrors": false
     }
   ],
   "territory_code": "AU-NSW"

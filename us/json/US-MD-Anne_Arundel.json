@@ -1313,6 +1313,22 @@
       "confirmed_new": 45,
       "deaths_new": 1,
       "hasErrors": false
+    },
+    {
+      "date": "2020-07-03",
+      "confirmed": 5200,
+      "deaths": 209,
+      "confirmed_new": 21,
+      "deaths_new": -1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-04",
+      "confirmed": 5239,
+      "deaths": 209,
+      "confirmed_new": 39,
+      "deaths_new": 0,
+      "hasErrors": false
     }
   ],
   "territory_code": "US-MD"
