@@ -1641,32 +1641,42 @@
     },
     {
       "date": "2020-07-03",
-      "confirmed": 2794153,
+      "confirmed": 2795361,
       "recovered": 790404,
-      "deaths": 129434,
-      "confirmed_new": 52104,
+      "deaths": 129442,
+      "confirmed_new": 53312,
       "recovered_new": 8434,
-      "deaths_new": 631,
+      "deaths_new": 639,
       "hasErrors": false
     },
     {
       "date": "2020-07-04",
-      "confirmed": 2839436,
+      "confirmed": 2841241,
       "recovered": 894325,
-      "deaths": 129676,
-      "confirmed_new": 45283,
+      "deaths": 129689,
+      "confirmed_new": 45880,
       "recovered_new": 103921,
-      "deaths_new": 242,
+      "deaths_new": 247,
       "hasErrors": false
     },
     {
       "date": "2020-07-05",
-      "confirmed": 2888635,
+      "confirmed": 2891124,
       "recovered": 906763,
-      "deaths": 129947,
-      "confirmed_new": 49199,
+      "deaths": 129960,
+      "confirmed_new": 49883,
       "recovered_new": 12438,
       "deaths_new": 271,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-06",
+      "confirmed": 2936077,
+      "recovered": 924148,
+      "deaths": 130285,
+      "confirmed_new": 44953,
+      "recovered_new": 17385,
+      "deaths_new": 325,
       "hasErrors": false
     }
   ]
