@@ -11,10 +11,10 @@
     "group": "RU-MOW",
     "timeseries": [
       {
-        "date": "2020-07-05",
-        "confirmed": 224860,
-        "deaths": 3953,
-        "confirmed_new": 650,
+        "date": "2020-07-07",
+        "confirmed": 226174,
+        "deaths": 3999,
+        "confirmed_new": 629,
         "deaths_new": 24,
         "hasErrors": false
       }
@@ -33,11 +33,11 @@
     "group": "RU-SPE",
     "timeseries": [
       {
-        "date": "2020-07-05",
-        "confirmed": 25536,
-        "deaths": 1345,
-        "confirmed_new": 275,
-        "deaths_new": 42,
+        "date": "2020-07-07",
+        "confirmed": 26094,
+        "deaths": 1437,
+        "confirmed_new": 278,
+        "deaths_new": 48,
         "hasErrors": false
       }
     ],
@@ -55,10 +55,10 @@
     "group": "XX-CR",
     "timeseries": [
       {
-        "date": "2020-07-05",
-        "confirmed": 723,
+        "date": "2020-07-07",
+        "confirmed": 761,
         "deaths": 11,
-        "confirmed_new": 11,
+        "confirmed_new": 0,
         "deaths_new": 0,
         "hasErrors": false
       }
@@ -77,10 +77,10 @@
     "group": "XX-SV",
     "timeseries": [
       {
-        "date": "2020-07-05",
-        "confirmed": 245,
+        "date": "2020-07-07",
+        "confirmed": 254,
         "deaths": 5,
-        "confirmed_new": 6,
+        "confirmed_new": 5,
         "deaths_new": 0,
         "hasErrors": false
       }
