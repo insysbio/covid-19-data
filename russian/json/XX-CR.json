@@ -1352,6 +1352,38 @@
       "confirmed_new": 0,
       "deaths_new": 0,
       "hasErrors": false
+    },
+    {
+      "date": "2020-07-08",
+      "confirmed": 789,
+      "deaths": 12,
+      "confirmed_new": 28,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-09",
+      "confirmed": 804,
+      "deaths": 12,
+      "confirmed_new": 15,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-10",
+      "confirmed": 815,
+      "deaths": 12,
+      "confirmed_new": 11,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-11",
+      "confirmed": 831,
+      "deaths": 12,
+      "confirmed_new": 16,
+      "deaths_new": 0,
+      "hasErrors": false
     }
   ],
   "territory_code": "XX-CR"
