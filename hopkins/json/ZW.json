@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Zimbabwe",
-  "Lat": -20,
-  "Long": 30,
+  "Lat": -19.0154,
+  "Long": 29.1549,
   "hasParent": false,
   "country_code": "ZW",
   "country_code3": "ZWE",
@@ -1746,6 +1746,16 @@
       "deaths": 19,
       "confirmed_new": 49,
       "recovered_new": 15,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 1064,
+      "recovered": 343,
+      "deaths": 20,
+      "confirmed_new": 30,
+      "recovered_new": 0,
       "deaths_new": 1,
       "hasErrors": false
     }

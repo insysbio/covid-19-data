@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "Guadeloupe",
   "Country.Region": "France",
-  "Lat": 16.25,
-  "Long": -61.5833,
+  "Lat": 16.265,
+  "Long": -61.551,
   "hasParent": true,
   "country_code": "FR",
   "country_code3": "FRA",
@@ -1741,6 +1741,16 @@
     },
     {
       "date": "2020-07-13",
+      "confirmed": 190,
+      "recovered": 157,
+      "deaths": 14,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
       "confirmed": 190,
       "recovered": 157,
       "deaths": 14,

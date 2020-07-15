@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Saudi Arabia",
-  "Lat": 24,
-  "Long": 45,
+  "Lat": 23.8859,
+  "Long": 45.0792,
   "hasParent": false,
   "country_code": "SA",
   "country_code3": "SAU",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 2852,
       "recovered_new": 2704,
       "deaths_new": 20,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 237803,
+      "recovered": 177560,
+      "deaths": 2283,
+      "confirmed_new": 2692,
+      "recovered_new": 7718,
+      "deaths_new": 40,
       "hasErrors": false
     }
   ]

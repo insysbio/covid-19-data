@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Iran",
-  "Lat": 32,
-  "Long": 53,
+  "Lat": 32.4279,
+  "Long": 53.688,
   "hasParent": false,
   "country_code": "IR",
   "country_code3": "IRN",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 2349,
       "recovered_new": 2546,
       "deaths_new": 203,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 262173,
+      "recovered": 225270,
+      "deaths": 13211,
+      "confirmed_new": 2521,
+      "recovered_new": 2731,
+      "deaths_new": 179,
       "hasErrors": false
     }
   ]

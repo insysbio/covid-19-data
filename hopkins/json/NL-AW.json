@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "Aruba",
   "Country.Region": "Netherlands",
-  "Lat": 12.5186,
-  "Long": -70.0358,
+  "Lat": 12.5211,
+  "Long": -69.9683,
   "hasParent": true,
   "country_code": "NL",
   "country_code3": "NLD",
@@ -1745,6 +1745,16 @@
       "recovered": 99,
       "deaths": 3,
       "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 106,
+      "recovered": 99,
+      "deaths": 3,
+      "confirmed_new": 1,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

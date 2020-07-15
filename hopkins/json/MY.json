@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Malaysia",
-  "Lat": 2.5,
-  "Long": 112.5,
+  "Lat": 4.2105,
+  "Long": 101.9758,
   "hasParent": false,
   "country_code": "MY",
   "country_code3": "MYS",
@@ -1746,6 +1746,16 @@
       "deaths": 122,
       "confirmed_new": 7,
       "recovered_new": 1,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 8729,
+      "recovered": 8524,
+      "deaths": 122,
+      "confirmed_new": 4,
+      "recovered_new": 4,
       "deaths_new": 0,
       "hasErrors": false
     }

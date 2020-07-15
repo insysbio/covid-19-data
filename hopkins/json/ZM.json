@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Zambia",
-  "Lat": -15.4167,
-  "Long": 28.2833,
+  "Lat": -13.1339,
+  "Long": 27.8493,
   "hasParent": false,
   "country_code": "ZM",
   "country_code3": "ZMB",
@@ -1741,6 +1741,16 @@
     },
     {
       "date": "2020-07-13",
+      "confirmed": 1895,
+      "recovered": 1412,
+      "deaths": 42,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
       "confirmed": 1895,
       "recovered": 1412,
       "deaths": 42,

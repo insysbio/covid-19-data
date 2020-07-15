@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Belize",
-  "Lat": 13.1939,
-  "Long": -59.5432,
+  "Lat": 17.1899,
+  "Long": -88.4976,
   "hasParent": false,
   "country_code": "BZ",
   "country_code3": "BLZ",
@@ -1746,6 +1746,16 @@
       "deaths": 2,
       "confirmed_new": 0,
       "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 39,
+      "recovered": 21,
+      "deaths": 2,
+      "confirmed_new": 2,
+      "recovered_new": 1,
       "deaths_new": 0,
       "hasErrors": false
     }

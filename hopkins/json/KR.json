@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Korea, South",
-  "Lat": 36,
-  "Long": 128,
+  "Lat": 35.9078,
+  "Long": 127.7669,
   "hasParent": false,
   "country_code": "KR",
   "country_code3": "KOR",
@@ -1746,6 +1746,16 @@
       "deaths": 289,
       "confirmed_new": 33,
       "recovered_new": 78,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 13551,
+      "recovered": 12348,
+      "deaths": 289,
+      "confirmed_new": 39,
+      "recovered_new": 66,
       "deaths_new": 0,
       "hasErrors": false
     }

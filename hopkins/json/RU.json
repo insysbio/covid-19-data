@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Russia",
-  "Lat": 60,
-  "Long": 90,
+  "Lat": 61.524,
+  "Long": 105.3188,
   "hasParent": false,
   "country_code": "RU",
   "country_code3": "RUS",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 6511,
       "recovered_new": 2960,
       "deaths_new": 104,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 738787,
+      "recovered": 511958,
+      "deaths": 11597,
+      "confirmed_new": 6240,
+      "recovered_new": 8790,
+      "deaths_new": 175,
       "hasErrors": false
     }
   ]

@@ -3,7 +3,7 @@
   "Province.State": "",
   "Country.Region": "Mauritania",
   "Lat": 21.0079,
-  "Long": 10.9408,
+  "Long": -10.9408,
   "hasParent": false,
   "country_code": "MR",
   "country_code3": "MRT",
@@ -1746,6 +1746,16 @@
       "deaths": 147,
       "confirmed_new": 91,
       "recovered_new": 138,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 5518,
+      "recovered": 2664,
+      "deaths": 147,
+      "confirmed_new": 72,
+      "recovered_new": 163,
       "deaths_new": 0,
       "hasErrors": false
     }

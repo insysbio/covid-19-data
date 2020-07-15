@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Kuwait",
-  "Lat": 29.5,
-  "Long": 47.75,
+  "Lat": 29.3117,
+  "Long": 47.4818,
   "hasParent": false,
   "country_code": "KW",
   "country_code3": "KWT",
@@ -1746,6 +1746,16 @@
       "deaths": 393,
       "confirmed_new": 614,
       "recovered_new": 746,
+      "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 56174,
+      "recovered": 46161,
+      "deaths": 396,
+      "confirmed_new": 666,
+      "recovered_new": 805,
       "deaths_new": 3,
       "hasErrors": false
     }

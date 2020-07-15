@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Philippines",
-  "Lat": 13,
-  "Long": 122,
+  "Lat": 12.8797,
+  "Long": 121.774,
   "hasParent": false,
   "country_code": "PH",
   "country_code3": "PHL",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 747,
       "recovered_new": 4325,
       "deaths_new": 65,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 57545,
+      "recovered": 20459,
+      "deaths": 1603,
+      "confirmed_new": 539,
+      "recovered_new": 88,
+      "deaths_new": 4,
       "hasErrors": false
     }
   ]

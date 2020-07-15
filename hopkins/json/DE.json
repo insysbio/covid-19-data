@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Germany",
-  "Lat": 51,
-  "Long": 9,
+  "Lat": 51.1657,
+  "Long": 10.4515,
   "hasParent": false,
   "country_code": "DE",
   "country_code3": "DEU",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 261,
       "recovered_new": 686,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 200456,
+      "recovered": 185100,
+      "deaths": 9078,
+      "confirmed_new": 276,
+      "recovered_new": 0,
+      "deaths_new": 4,
       "hasErrors": false
     }
   ]

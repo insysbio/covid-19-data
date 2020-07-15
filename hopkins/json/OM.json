@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Oman",
-  "Lat": 21,
-  "Long": 57,
+  "Lat": 21.5126,
+  "Long": 55.9233,
   "hasParent": false,
   "country_code": "OM",
   "country_code3": "OMN",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 2164,
       "recovered_new": 1159,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 59568,
+      "recovered": 37987,
+      "deaths": 273,
+      "confirmed_new": 1389,
+      "recovered_new": 730,
+      "deaths_new": 14,
       "hasErrors": false
     }
   ]

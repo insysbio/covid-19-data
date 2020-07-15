@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Mauritius",
-  "Lat": -20.2,
-  "Long": 57.5,
+  "Lat": -20.3484,
+  "Long": 57.5522,
   "hasParent": false,
   "country_code": "MU",
   "country_code3": "MUS",
@@ -1741,6 +1741,16 @@
     },
     {
       "date": "2020-07-13",
+      "confirmed": 342,
+      "recovered": 330,
+      "deaths": 10,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
       "confirmed": 342,
       "recovered": 330,
       "deaths": 10,

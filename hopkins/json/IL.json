@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Israel",
-  "Lat": 31,
-  "Long": 35,
+  "Lat": 31.0461,
+  "Long": 34.8516,
   "hasParent": false,
   "country_code": "IL",
   "country_code3": "ISR",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 1962,
       "recovered_new": 387,
       "deaths_new": 3,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 42360,
+      "recovered": 19665,
+      "deaths": 371,
+      "confirmed_new": 1728,
+      "recovered_new": 270,
+      "deaths_new": 6,
       "hasErrors": false
     }
   ]

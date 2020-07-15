@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Sweden",
-  "Lat": 63,
-  "Long": 16,
+  "Lat": 60.1282,
+  "Long": 18.6435,
   "hasParent": false,
   "country_code": "SE",
   "country_code3": "SWE",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 928,
       "recovered_new": 0,
       "deaths_new": 10,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 76001,
+      "recovered": 0,
+      "deaths": 5545,
+      "confirmed_new": 175,
+      "recovered_new": 0,
+      "deaths_new": 9,
       "hasErrors": false
     }
   ]

@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "India",
-  "Lat": 21,
-  "Long": 78,
+  "Lat": 20.5937,
+  "Long": 78.9629,
   "hasParent": false,
   "country_code": "IN",
   "country_code3": "IND",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 28498,
       "recovered_new": 17989,
       "deaths_new": 553,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 936181,
+      "recovered": 592032,
+      "deaths": 24309,
+      "confirmed_new": 29429,
+      "recovered_new": 20572,
+      "deaths_new": 582,
       "hasErrors": false
     }
   ]

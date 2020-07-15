@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Italy",
-  "Lat": 43,
-  "Long": 12,
+  "Lat": 41.8719,
+  "Long": 12.5674,
   "hasParent": false,
   "country_code": "IT",
   "country_code3": "ITA",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 169,
       "recovered_new": 178,
       "deaths_new": 13,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 243344,
+      "recovered": 195441,
+      "deaths": 34984,
+      "confirmed_new": 114,
+      "recovered_new": 335,
+      "deaths_new": 17,
       "hasErrors": false
     }
   ]

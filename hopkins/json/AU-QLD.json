@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "Queensland",
   "Country.Region": "Australia",
-  "Lat": -28.0167,
-  "Long": 153.4,
+  "Lat": -27.4698,
+  "Long": 153.0251,
   "hasParent": true,
   "country_code": "AU",
   "country_code3": "AUS",
@@ -1741,6 +1741,16 @@
     },
     {
       "date": "2020-07-13",
+      "confirmed": 1071,
+      "recovered": 1058,
+      "deaths": 6,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
       "confirmed": 1071,
       "recovered": 1058,
       "deaths": 6,

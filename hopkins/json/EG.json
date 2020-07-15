@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Egypt",
-  "Lat": 26,
-  "Long": 30,
+  "Lat": 26.8206,
+  "Long": 30.8025,
   "hasParent": false,
   "country_code": "EG",
   "country_code3": "EGY",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 931,
       "recovered_new": 556,
       "deaths_new": 77,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 83930,
+      "recovered": 25544,
+      "deaths": 4008,
+      "confirmed_new": 929,
+      "recovered_new": 569,
+      "deaths_new": 73,
       "hasErrors": false
     }
   ]

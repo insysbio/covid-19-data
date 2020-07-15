@@ -2,8 +2,8 @@
   "hasErrors": true,
   "Province.State": "Henan",
   "Country.Region": "China",
-  "Lat": 33.882,
-  "Long": 113.614,
+  "Lat": 37.8957,
+  "Long": 114.9042,
   "hasParent": true,
   "country_code": "CN",
   "country_code3": "CHN",
@@ -1922,6 +1922,17 @@
     },
     {
       "date": "2020-07-13",
+      "recovered": 1254,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 1276,
+      "deaths": 22,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-07-14",
       "recovered": 1254,
       "hasErrors": true
     }

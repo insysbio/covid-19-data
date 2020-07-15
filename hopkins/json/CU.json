@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Cuba",
-  "Lat": 22,
-  "Long": -80,
+  "Lat": 21.5218,
+  "Long": -77.7812,
   "hasParent": false,
   "country_code": "CU",
   "country_code3": "CUB",
@@ -1746,6 +1746,16 @@
       "deaths": 87,
       "confirmed_new": 2,
       "recovered_new": 10,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 2432,
+      "recovered": 2275,
+      "deaths": 87,
+      "confirmed_new": 4,
+      "recovered_new": 7,
       "deaths_new": 0,
       "hasErrors": false
     }

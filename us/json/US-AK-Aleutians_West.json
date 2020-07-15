@@ -3,8 +3,8 @@
   "Admin2": "Aleutians West",
   "Country.Region": "US",
   "Province.State": "Alaska",
-  "Lat": 52.7254,
-  "Long": -110.409,
+  "Lat": 52.3233,
+  "Long": -174.16,
   "hasParent": true,
   "country_code": "US",
   "country_code3": "USA",
@@ -1396,6 +1396,14 @@
     },
     {
       "date": "2020-07-13",
+      "confirmed": 1,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
       "confirmed": 1,
       "deaths": 0,
       "confirmed_new": 0,

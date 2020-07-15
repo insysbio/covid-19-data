@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "Reunion",
   "Country.Region": "France",
-  "Lat": -21.1351,
-  "Long": 55.2471,
+  "Lat": -21.1151,
+  "Long": 55.5364,
   "hasParent": true,
   "country_code": "FR",
   "country_code3": "FRA",
@@ -1742,6 +1742,16 @@
     {
       "date": "2020-07-13",
       "confirmed": 596,
+      "recovered": 472,
+      "deaths": 3,
+      "confirmed_new": 3,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 599,
       "recovered": 472,
       "deaths": 3,
       "confirmed_new": 3,

@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Iraq",
-  "Lat": 33,
-  "Long": 44,
+  "Lat": 33.2232,
+  "Long": 43.6793,
   "hasParent": false,
   "country_code": "IQ",
   "country_code3": "IRQ",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 2229,
       "recovered_new": 2274,
       "deaths_new": 100,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 81757,
+      "recovered": 50782,
+      "deaths": 3345,
+      "confirmed_new": 2022,
+      "recovered_new": 3784,
+      "deaths_new": 95,
       "hasErrors": false
     }
   ]

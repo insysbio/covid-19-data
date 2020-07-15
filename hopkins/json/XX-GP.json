@@ -2,8 +2,8 @@
   "hasErrors": true,
   "Province.State": "Grand Princess",
   "Country.Region": "Canada",
-  "Lat": 37.6489,
-  "Long": -122.6655,
+  "Lat": 0,
+  "Long": 0,
   "hasParent": true,
   "country_code": "CA",
   "country_code3": "CAN",
@@ -1395,6 +1395,14 @@
     },
     {
       "date": "2020-07-13",
+      "confirmed": 13,
+      "deaths": 0,
+      "confirmed_new": 0,
+      "deaths_new": 0,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-07-14",
       "confirmed": 13,
       "deaths": 0,
       "confirmed_new": 0,

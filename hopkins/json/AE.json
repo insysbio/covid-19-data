@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "United Arab Emirates",
-  "Lat": 24,
-  "Long": 54,
+  "Lat": 23.4241,
+  "Long": 53.8478,
   "hasParent": false,
   "country_code": "AE",
   "country_code3": "ARE",
@@ -1746,6 +1746,16 @@
       "deaths": 334,
       "confirmed_new": 344,
       "recovered_new": 373,
+      "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 55573,
+      "recovered": 46025,
+      "deaths": 335,
+      "confirmed_new": 375,
+      "recovered_new": 512,
       "deaths_new": 1,
       "hasErrors": false
     }

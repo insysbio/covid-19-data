@@ -1396,10 +1396,18 @@
     },
     {
       "date": "2020-07-13",
-      "confirmed": 8122,
-      "deaths": 190,
-      "confirmed_new": 0,
-      "deaths_new": 0,
+      "confirmed": 8325,
+      "deaths": 180,
+      "confirmed_new": 203,
+      "deaths_new": -10,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 8357,
+      "deaths": 183,
+      "confirmed_new": 32,
+      "deaths_new": 3,
       "hasErrors": false
     }
   ],

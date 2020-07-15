@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Japan",
-  "Lat": 36,
-  "Long": 138,
+  "Lat": 36.2048,
+  "Long": 138.2529,
   "hasParent": false,
   "country_code": "JP",
   "country_code3": "JPN",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 284,
       "recovered_new": 213,
       "deaths_new": 1,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 22437,
+      "recovered": 18126,
+      "deaths": 984,
+      "confirmed_new": 312,
+      "recovered_new": 68,
+      "deaths_new": 0,
       "hasErrors": false
     }
   ]

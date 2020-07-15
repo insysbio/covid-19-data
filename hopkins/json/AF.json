@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Afghanistan",
-  "Lat": 33,
-  "Long": 65,
+  "Lat": 33.9391,
+  "Long": 67.71,
   "hasParent": false,
   "country_code": "AF",
   "country_code3": "AFG",
@@ -1747,6 +1747,16 @@
       "confirmed_new": 4,
       "recovered_new": 38,
       "deaths_new": 2,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 34740,
+      "recovered": 21454,
+      "deaths": 1048,
+      "confirmed_new": 285,
+      "recovered_new": 200,
+      "deaths_new": 36,
       "hasErrors": false
     }
   ]

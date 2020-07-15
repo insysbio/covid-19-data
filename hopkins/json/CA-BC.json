@@ -2,8 +2,8 @@
   "hasErrors": true,
   "Province.State": "British Columbia",
   "Country.Region": "Canada",
-  "Lat": 49.2827,
-  "Long": -123.1207,
+  "Lat": 53.7267,
+  "Long": -127.6476,
   "hasParent": true,
   "country_code": "CA",
   "country_code3": "CAN",
@@ -1399,6 +1399,14 @@
       "deaths": 189,
       "confirmed_new": 0,
       "deaths_new": 2,
+      "hasErrors": true
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 3128,
+      "deaths": 189,
+      "confirmed_new": 75,
+      "deaths_new": 0,
       "hasErrors": true
     }
   ],

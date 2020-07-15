@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Finland",
-  "Lat": 64,
-  "Long": 26,
+  "Lat": 61.9241,
+  "Long": 25.7482,
   "hasParent": false,
   "country_code": "FI",
   "country_code3": "FIN",
@@ -1745,6 +1745,16 @@
       "recovered": 6800,
       "deaths": 329,
       "confirmed_new": 1,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 7301,
+      "recovered": 6800,
+      "deaths": 329,
+      "confirmed_new": 6,
       "recovered_new": 0,
       "deaths_new": 0,
       "hasErrors": false

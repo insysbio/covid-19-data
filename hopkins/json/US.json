@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "US",
-  "Lat": 37.0902,
-  "Long": -95.7129,
+  "Lat": 40,
+  "Long": -100,
   "hasParent": false,
   "country_code": "US",
   "country_code3": "USA",
@@ -1741,12 +1741,22 @@
     },
     {
       "date": "2020-07-13",
-      "confirmed": 3363056,
+      "confirmed": 3364157,
       "recovered": 1031939,
-      "deaths": 135605,
-      "confirmed_new": 58114,
+      "deaths": 135566,
+      "confirmed_new": 59215,
       "recovered_new": 25613,
-      "deaths_new": 400,
+      "deaths_new": 361,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 3431574,
+      "recovered": 1049098,
+      "deaths": 136466,
+      "confirmed_new": 67417,
+      "recovered_new": 17159,
+      "deaths_new": 900,
       "hasErrors": false
     }
   ]

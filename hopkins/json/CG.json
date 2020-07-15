@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Congo (Brazzaville)",
-  "Lat": -4.0383,
-  "Long": 21.7587,
+  "Lat": -0.228,
+  "Long": 15.8277,
   "hasParent": false,
   "country_code": "CG",
   "country_code3": "COG",
@@ -1741,6 +1741,16 @@
     },
     {
       "date": "2020-07-13",
+      "confirmed": 2028,
+      "recovered": 589,
+      "deaths": 47,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
       "confirmed": 2028,
       "recovered": 589,
       "deaths": 47,

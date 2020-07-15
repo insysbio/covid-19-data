@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Equatorial Guinea",
-  "Lat": 1.5,
-  "Long": 10,
+  "Lat": 1.6508,
+  "Long": 10.2679,
   "hasParent": false,
   "country_code": "GQ",
   "country_code3": "GNQ",
@@ -1741,6 +1741,16 @@
     },
     {
       "date": "2020-07-13",
+      "confirmed": 3071,
+      "recovered": 842,
+      "deaths": 51,
+      "confirmed_new": 0,
+      "recovered_new": 0,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
       "confirmed": 3071,
       "recovered": 842,
       "deaths": 51,

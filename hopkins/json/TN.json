@@ -2,8 +2,8 @@
   "hasErrors": false,
   "Province.State": "",
   "Country.Region": "Tunisia",
-  "Lat": 34,
-  "Long": 9,
+  "Lat": 33.8869,
+  "Long": 9.5375,
   "hasParent": false,
   "country_code": "TN",
   "country_code3": "TUN",
@@ -1746,6 +1746,16 @@
       "deaths": 50,
       "confirmed_new": 39,
       "recovered_new": 6,
+      "deaths_new": 0,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-14",
+      "confirmed": 1306,
+      "recovered": 1087,
+      "deaths": 50,
+      "confirmed_new": 4,
+      "recovered_new": 5,
       "deaths_new": 0,
       "hasErrors": false
     }
