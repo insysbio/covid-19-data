@@ -1751,12 +1751,22 @@
     },
     {
       "date": "2020-07-14",
-      "confirmed": 28579,
-      "recovered": 3123,
-      "deaths": 789,
-      "confirmed_new": 0,
-      "recovered_new": 0,
-      "deaths_new": 0,
+      "confirmed": 29106,
+      "recovered": 3287,
+      "deaths": 807,
+      "confirmed_new": 527,
+      "recovered_new": 164,
+      "deaths_new": 18,
+      "hasErrors": false
+    },
+    {
+      "date": "2020-07-15",
+      "confirmed": 30036,
+      "recovered": 3379,
+      "deaths": 825,
+      "confirmed_new": 930,
+      "recovered_new": 92,
+      "deaths_new": 18,
       "hasErrors": false
     }
   ]
