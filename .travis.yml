@@ -4,20 +4,32 @@ r_packages:
   - tidyr
   - dplyr
   - jsonlite
+  - ISOcodes
+  - knitr
+  - highr
 before_install:
   - Rscript --version
+  - d=`date +%Y-%m-%d`
 install:
   - echo "Cloning hopkins repos..."
   - mkdir -p input
   - git clone https://github.com/CSSEGISandData/COVID-19.git input/hopkins
   - ls input/hopkins
+  - echo "Cloning plus_Russia repos..."
+  - git clone https://github.com/grwlf/COVID-19_plus_Russia.git input/russian
+  - ls input/russian
 script:
   - echo "Cloning gh-pages branch..."
   - git clone -b gh-pages --single-branch https://github.com/insysbio/covid-19-data output
   - cp -f README.md output/README.md
-  - echo "Starting hopkins data transformation..."
+  - cp -f LICENSE output/LICENSE.md
+  - echo "Starting data transformation..."
   - mkdir -p r_libs
-  - Rscript ./R/start.R
+  - Rscript ./R/start.R ${d}
+  - mkdir -p 'output/hopkins/source'
+  - cp -f input/hopkins/csse_covid_19_data/csse_covid_19_time_series/*.csv 'output/hopkins/source/'
+  - mkdir -p 'output/russian/source'
+  - cp -f input/russian/csse_covid_19_data/csse_covid_19_time_series/*_RU.csv 'output/russian/source/'
 after_success:
   - echo "Sending files to gh-pages branch..."
   - cd output
